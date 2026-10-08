@@ -2,11 +2,17 @@
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
-## Latest completed research — Pass 17 (2026-10-08)
+## Latest completed research — Pass 18 (2026-10-08)
+
+**261** curated papers across **30** tracks; **115** ALife notes; **45** E2 reviews across AI-Research; **42** ALife method receipts; **219** claims. Two E1→E2 promotions and one new E2 source; no independent scientific reproduction.
+
+[Current handoff](99-pass18-research-handoff.md) · [Relational continuity and reconstruction](98-pass18-relational-continuity-and-reconstruction.md) · [Evidence and reporting discrepancies](../../data/alife/pass18-relational-continuity-evidence.json). Next: primary evidence of transmission, dispersal and reconstruction in descendants. All seven existing EERC manifests remain unchanged.
+
+## Historical completed research — Pass 17 (2026-10-08)
 
 **260** curated papers across **30** tracks; **114** ALife notes; **42** E2 reviews across AI-Research; **39** ALife method receipts; **210** claims. Earlier dated sections below retain historical counts.
 
-[Current handoff](93-pass17-research-handoff.md) · [EERC-C untested proposal](92-pass17-eerc-ecological-constraint-redistribution.md) · [Recovery source and causal audit](94-pass17-recovery-causal-audit.md). Recovered saved work rather than duplicating it; source reviews are not independent experimental reproduction. Next: partner-loss, material rescue and descendant reconstruction evidence.
+[Pass 17 handoff](93-pass17-research-handoff.md) · [EERC-C untested proposal](92-pass17-eerc-ecological-constraint-redistribution.md) · [Recovery source and causal audit](94-pass17-recovery-causal-audit.md). Recovered saved work rather than duplicating it; source reviews are not independent experimental reproduction. Next: partner-loss, material rescue and descendant reconstruction evidence.
 
 ## Central question
 **Can computational processes develop and sustain organizational properties associated with living systems, rather than merely producing lifelike-looking behavior or serving human-defined tasks?**
@@ -252,3 +258,13 @@ Representative sources: [Avida](https://doi.org/10.1162/106454604773563612), [Le
 [Organization and origins](01-life-and-organization.md) → [Historical successes/failures](02-historical-systems.md) → [Architecture comparison](03-architecture-comparison.md) → [Neutral and ablation controls](05-evaluation-framework.md) → [Smallest useful experiments](07-experimental-roadmap.md).
 
 The proposed separate experimental project requires a **new explicit authorization** after research review.
+
+## Pass 18 reading map
+
+| Review | Main distinction |
+|---|---|
+| [Pauli 2022](95-pass18-pauli-2022-dependence-and-evolvability-full-review.md) | Conditional partner benefits, nested replication and weakest-link counterevidence |
+| [Melero-Jiménez 2025](96-pass18-melero-2025-survivor-versus-partnership-full-review.md) | Population survival versus partnership survival; denominator discrepancies |
+| [Turner 2023](97-pass18-turner-2023-constructed-opportunity-full-review.md) | Actor-generated opportunity versus collective reproduction |
+| [Synthesis](98-pass18-relational-continuity-and-reconstruction.md) | Compositional ancestry and functional reconstruction |
+| [Handoff](99-pass18-research-handoff.md) | Verified records, boundaries and next reading |

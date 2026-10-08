@@ -231,3 +231,12 @@ New [recovery audit](../docs/artificial-life/94-pass17-recovery-causal-audit.md)
 Catalog: **260 papers / 30 tracks; 114 ALife notes; 42 E2 reviews; 39 ALife method receipts; 210 claims**. Recovered branch: syntax/schema and **66/66 offline tests passed**. Final publication CI must be checked at the actual published commit. No source experiments independently replicated and no scientific runtime changed. Earlier E2 reading receipts retained; this recovery performed selected primary checks with access limitations documented.
 
 Next: Pass 18 should distinguish partner-dependent persistence, specific material rescue and independently reconstructed descendant relationships, starting with unresolved existing Pass 11 sources. Research only; no changes to Ora/AgentTest/Ora2.0.
+
+
+## 2026-10-08 — Pass 18: ecological opportunity and relational reconstruction
+
+Started from main `46311a3f4b68bed225b76d0e1e8eb843ee725b46` after checking for concurrent work. Read complete original Pauli 2022 and Melero-Jiménez 2025 Nature Communications main articles and Turner 2023 Microbiology main article via PMC. Promoted two existing E1 sources, added one new E2 source, three complete-primary method receipts and C211–C219. Corrected the catalog spelling Yael Sorkin to Yael Sorokin. Historical E1 claims remain unchanged.
+
+New checks preserve Pauli's 16×5 nested history and non-support for a general weakest-link explanation, Melero's distinction between 37/48 and 41/48 stated survivors versus Methods/figure counts of 46, and Turner's conflict between prose and Figure 6 symbol labels. The discrepancies remain unresolved in a dedicated ledger; no denominator or plotted data silently repaired. Supplements, raw data, source repositories and original scientific experiments were not independently analyzed or executed.
+
+Added reviews 95–97, synthesis 98, handoff 99 and `data/alife/pass18-relational-continuity-evidence.json`. Current counts: 261 papers, 30 tracks, 115 ALife notes, 45 E2 complete-primary readings, 42 method receipts, 219 claims. EERC v1–v7, 15 canonical hypotheses, 11 future-only designs, 10 operational criteria, 12 failure cases, five source inventory entries and the Ora2.0 crosswalk remain unchanged. Next: actual parent-to-descendant transmission/reconstruction evidence and targeted deposited-data reconciliation. Repository checks are verification of curation, not scientific replication.

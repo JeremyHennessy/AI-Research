@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 17 — 2026-10-08:** 260 curated research records across 30 tracks, with 42 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 18 — 2026-10-08:** 261 curated research records across 30 tracks, with 45 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -538,3 +538,15 @@ New distinct catalog sources (3 E2 primary full-paper reviews, 7 E1 abstract/sel
 | 2016 | [Functional Trade-Offs in Promiscuous Enzymes Cannot Be Explained by Intrinsic Mutational Robustness of the Native Activity](https://doi.org/10.1371/journal.pgen.1006305) | E1 | Native-function mutational robustness hypothesis contradicted; source E1 |
 
 [Lind 2015 full review](artificial-life/88-pass17-lind-2015-hidden-evolutionary-routes-full-review.md) · [Taylor 2016 full review](artificial-life/89-pass17-taylor-2016-cryptic-yeast-genetic-architecture-full-review.md) · [Johnson 2022 full review](artificial-life/90-pass17-johnson-2022-mutational-robustness-landscape-full-review.md) · [E1 counterevidence](artificial-life/91-pass17-cryptic-variation-and-enzyme-substate-counterevidence.md) · [EERC-C original research](artificial-life/92-pass17-eerc-ecological-constraint-redistribution.md) · [Pass 17 handoff](artificial-life/93-pass17-research-handoff.md).
+
+## Pass 18 — opportunity generation and relational inheritance
+
+Current E2 promotions below supersede older E1 source-depth entries; historical E1 claims remain unchanged. One new publication is added.
+
+| Year | Publication | Evidence | Experiment |
+|---:|---|---|---|
+| 2022 | [Obligate mutualistic cooperation limits evolvability](https://doi.org/10.1038/s41467-021-27630-9) | E2 | AL11 |
+| 2025 | [Mutualism breakdown underpins evolutionary rescue in an obligate cross-feeding bacterial consortium](https://doi.org/10.1038/s41467-025-58742-1) | E2 | AL11 |
+| 2023 | [Evolution of a cross-feeding interaction following a key innovation in a long-term evolution experiment with Escherichia coli](https://doi.org/10.1099/mic.0.001390) | E2 | AL11 |
+
+[Complete reviews and unresolved source discrepancies](artificial-life/99-pass18-research-handoff.md). No source experiment independently reproduced.

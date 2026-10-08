@@ -1,0 +1,99 @@
+{
+  "pass_number": 18,
+  "reviewed_at": "2026-10-08",
+  "status": "research_only_not_independently_reproduced",
+  "baseline_commit": "46311a3f4b68bed225b76d0e1e8eb843ee725b46",
+  "eerc_versions_preserved": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "studies": [
+    {
+      "paper_id": "doi:10.1038/s41467-021-27630-9",
+      "full_text_url": "https://www.nature.com/articles/s41467-021-27630-9",
+      "review_document": "docs/artificial-life/95-pass18-pauli-2022-dependence-and-evolvability-full-review.md",
+      "evidence_level": "E2",
+      "new_publication_record": false,
+      "previous_level": "E1",
+      "author_reported_summary": "Dependent bacterial pairs generally adapted less than supplemented monocultures, with treatment-specific exceptions and escape to autonomy; coevolution benefits changed with supplementation.",
+      "limits": "Main comparison changes dependence, supplementation and community context together; 80 samples derive from 16 cultures split five ways. The authors do not support a universal weakest-link account and do not establish descendant collective reproduction.",
+      "source_code_executed": false,
+      "independently_reproduced": false
+    },
+    {
+      "paper_id": "doi:10.1038/s41467-025-58742-1",
+      "full_text_url": "https://www.nature.com/articles/s41467-025-58742-1",
+      "review_document": "docs/artificial-life/96-pass18-melero-2025-survivor-versus-partnership-full-review.md",
+      "evidence_level": "E2",
+      "new_publication_record": false,
+      "previous_level": "E1",
+      "author_reported_summary": "The Results report 37/48 and 41/48 surviving populations under two stresses, with rescue accompanied by loss of one detected partner and evolved autonomy; Methods and Figure 2c denominators remain unresolved.",
+      "limits": "Results, Methods and Figure 2c report non-reconciled sample counts. Population survival is not partnership preservation; proposed biochemical flux routes were not all directly measured, and no collective reproductive assay was performed.",
+      "source_code_executed": false,
+      "independently_reproduced": false
+    },
+    {
+      "paper_id": "doi:10.1099/mic.0.001390",
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10482366/",
+      "review_document": "docs/artificial-life/97-pass18-turner-2023-constructed-opportunity-full-review.md",
+      "evidence_level": "E2",
+      "new_publication_record": true,
+      "previous_level": null,
+      "author_reported_summary": "An evolved resource-use innovation in one historical LTEE population generated cross-feeding opportunities; producer presence reversed the relative fitness benefit of an evolved consumer phenotype.",
+      "limits": "One historical Ara−3 lineage; chemical time courses use one culture per clone and Figure 6 symbol labels conflict with the Results. Cross-feeding is not necessarily reciprocal mutualism, and no daughter collective reconstruction is demonstrated.",
+      "source_code_executed": false,
+      "independently_reproduced": false
+    }
+  ],
+  "unresolved_source_discrepancies": [
+    {
+      "paper_id": "doi:10.1038/s41467-025-58742-1",
+      "locations": {
+        "Results": "37/48 salinity and 41/48 PNP survivors",
+        "Methods": "46 replicates",
+        "Figure 2c caption": "n=37 salinity and n=46 PNP recovery-rate observations"
+      },
+      "status": "unresolved; distinct analysis subsets or reporting errors not established",
+      "quantitative_pooling_performed": false
+    },
+    {
+      "paper_id": "doi:10.1099/mic.0.001390",
+      "locations": {
+        "Results for Figure 6": "presence open; absence filled",
+        "Figure 6 caption": "presence filled; absence open"
+      },
+      "status": "unresolved; use explicit adjacent-time Results numbers with caveat",
+      "raw_data_reanalysis_performed": false
+    }
+  ],
+  "event_classification": [
+    {
+      "event": "abundance returns after partner loss",
+      "classification": "component rescue; original relation lost"
+    },
+    {
+      "event": "same partners persist in same culture",
+      "classification": "co-presence; reconstruction not tested"
+    },
+    {
+      "event": "producer removal harms and material supply rescues",
+      "classification": "material mediation supported subject to matched physiology"
+    },
+    {
+      "event": "new partners or route restore function",
+      "classification": "functional reconstitution with compositional change"
+    },
+    {
+      "event": "separated descendants rebuild exchange without partner-specific assistance",
+      "classification": "candidate relational inheritance; repeated independent lineage evidence still needed"
+    }
+  ],
+  "next_question": "Can descendant lineages reconstruct causal exchange after dispersal without investigator pairing, sorting or repair?",
+  "future_only": true,
+  "organism_implemented": false
+}

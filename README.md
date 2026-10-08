@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Seventeenth ALife research pass (2026-10-08) — **260** curated source records across **30** tracks, **114** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **42** full-paper/theory reviews (E2), **210** evidence-qualified claims, **39** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Eighteenth ALife research pass (2026-10-08) — **261** curated source records across **30** tracks, **115** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **45** full-paper/theory reviews (E2), **219** evidence-qualified claims, **42** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -43,6 +43,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 17 recovery audit:** [Source independence and causal rescue interpretation](docs/artificial-life/94-pass17-recovery-causal-audit.md). Concurrent continuation commits and the canonical handoff are preserved.
 
+**Pass 18 — ecological opportunity and relational inheritance:** [Pauli 2022 complete review](docs/artificial-life/95-pass18-pauli-2022-dependence-and-evolvability-full-review.md) · [Melero-Jiménez 2025 complete review and denominator audit](docs/artificial-life/96-pass18-melero-2025-survivor-versus-partnership-full-review.md) · [Turner 2023 complete review](docs/artificial-life/97-pass18-turner-2023-constructed-opportunity-full-review.md) · [Relational continuity synthesis](docs/artificial-life/98-pass18-relational-continuity-and-reconstruction.md) · [Evidence and unresolved discrepancies](data/alife/pass18-relational-continuity-evidence.json) · [Current handoff](docs/artificial-life/99-pass18-research-handoff.md). Two existing E1 sources promoted and one new publication added; EERC v1–v7 preserved. Component rescue and ecological opportunity do not establish descendant reconstruction.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -51,7 +53,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 260 source records](docs/19-paper-index.md)
+- [Browse 261 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

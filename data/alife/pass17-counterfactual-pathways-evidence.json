@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-08",
+  "scope": "six distinct publications, author-reported evidence and independence, no scientific reproduction",
+  "studies": [
+    {
+      "paper_id": "doi:10.7554/eLife.07074",
+      "level": "E2",
+      "study": "Lind et al 2015 experimental Pseudomonas alternative phenotype routes",
+      "unit": "200 independent founder microcosms after engineered 3-route knockout; 91 endpoint morphologies",
+      "findings": "10 alternate single-step paths and 3 multi-step, 109 negative populations at 6-day window",
+      "independence": "Different experimental cohort from Rainey group Beaumont 2009 and Gallie 2015, but same model species and shared cellular machinery",
+      "caveat": "exogenous deletion and selection for old phenotype; not self-built ecological constraint or new organism"
+    },
+    {
+      "paper_id": "doi:10.1038/ncomms11669",
+      "level": "E2",
+      "study": "Taylor et al 2016 yeast cross genotype-phenotype epistasis",
+      "unit": "106 independently initiated parent crosses, >100000 progeny tested, 17 independently selected rough segregants",
+      "findings": "8 novel mutation interactions, 9 standing variant recombinations; common pathway components",
+      "independence": "New yeast species/genetic-cross study, distinct laboratory from Pseudomonas route studies",
+      "caveat": "morphology proxy, unknown ecological utility, shared parent lines"
+    },
+    {
+      "paper_id": "doi:10.7554/eLife.76491",
+      "level": "E2",
+      "study": "Johnson and Desai 2022 mutational neighborhood changes",
+      "unit": "12 long-term evolved populations from earlier historical experiment, 144 nested sampled clones, 91 introduced gene disruption perturbations",
+      "findings": "mean mutational effects decreased in one evolving environment, not detectably in the second",
+      "independence": "reuses older original yeast evolution population data with new mutation-effect assays; not new independent long-term evolution origins",
+      "caveat": "fitness robustness not same as new function discovery or within-life learning"
+    },
+    {
+      "paper_id": "doi:10.1093/evolut/qpaf019",
+      "level": "E1",
+      "study": "Routh et al 2025 stable-environment yeast evolution then stress",
+      "unit": "three ancestor-related evolved lines after ~1000 generations",
+      "findings": "fitness in novel stress often reduced, adaptation mainly from de novo mutations not prior cryptic pool",
+      "independence": "separate research cohort from Taylor and Johnson yeast experiments",
+      "caveat": "source-level abstract/selected-method reading only; full raw stress replicates not audited"
+    },
+    {
+      "paper_id": "doi:10.1038/s41467-026-72534-1",
+      "level": "E1",
+      "study": "Sakuma et al 2026 enzyme single-molecule functional substates",
+      "unit": "one wild-type and 18 previously evolved selected variants; new single-molecule tests, not 18 evolutionary cohorts",
+      "findings": "native and alternate catalytic-state distributions shift over previously selected trajectory",
+      "independence": "trajectories pre-existed in earlier directed-evolution literature, independence from Kaltenbach's studied enzyme families not exhaustively reconciled",
+      "caveat": "metal/cofactor heterogeneity alters peaks; simulation model does not prove selection of ecological benefit"
+    },
+    {
+      "paper_id": "doi:10.1371/journal.pgen.1006305",
+      "level": "E1",
+      "study": "Kaltenbach et al 2016 enzyme promiscuity and tradeoff",
+      "unit": "measured mutation effects in two previously evolved enzyme function transitions",
+      "findings": "native function not always more robust to mutation than promiscuous one, contradicts simplistic universal explanation",
+      "independence": "original assays on older lab-evolved functional trajectories; not independent new evolution of whole organisms",
+      "caveat": "selection bias, highly specific prepared molecular assays, not ecological-reproductive proof"
+    }
+  ],
+  "negative_cases": [
+    "Lind: 109/200 populations no target morphology during 6-day test, despite route deletion",
+    "Taylor: only 17 positive unusual phenotype isolates from >100000 progeny; cryptic combinations not independently selected ecological capabilities",
+    "Johnson: one of two experimental conditions did not show change in mean disruptive-mutation effects",
+    "Routh: stable selection often reduced new-stress adaptation, cryptic variants not significant route",
+    "Sakuma: metal/cofactor preparation can produce substate heterogeneity; evolved enzymes not new organisms",
+    "Kaltenbach: rejects robust-native/mutable-promiscuous simple theory"
+  ],
+  "independent_reproduction_by_AI_Research": false,
+  "experiments_executed": 0
+}

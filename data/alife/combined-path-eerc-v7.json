@@ -1,0 +1,120 @@
+{
+  "schema_version": "0.7",
+  "id": "EERC-07",
+  "name": "Endogenous Ecological Constraint Redistribution",
+  "created_at": "2026-10-08",
+  "status": "original_unverified_scientific_hypothesis",
+  "research_only": true,
+  "implementation_authorized": false,
+  "systems_created": 0,
+  "experiments_executed": 0,
+  "independent_reproduction": false,
+  "consciousness_claim": false,
+  "conscience_claim": false,
+  "extends": [
+    {
+      "id": "EERC-01",
+      "path": "data/alife/combined-path-eerc-v1.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-02",
+      "path": "data/alife/combined-path-eerc-v2.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-03",
+      "path": "data/alife/combined-path-eerc-v3.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-04",
+      "path": "data/alife/combined-path-eerc-v4.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-05",
+      "path": "data/alife/combined-path-eerc-v5.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-06",
+      "path": "data/alife/combined-path-eerc-v6.json",
+      "must_preserve_blob": true
+    }
+  ],
+  "hypothesis": "An inhabitant-produced ecological constraint within fixed resource-accounted physics may change which latent evolutionary pathways become reachable and selectively useful; any new function must be demonstrably inherited in independently viable descendants without novelty rewards or automatic collective copying.",
+  "original_contribution": "Prospective causal comparison of exogenous dominant-route knockouts, endogenous ecological route constraint, matching generic external nutrient flux, and function- versus morphology-based success. It is a new research comparison, not a published general law.",
+  "independent_measurements": [
+    {
+      "axis": "P",
+      "name": "physical possibility",
+      "falsifier": "candidate transition only exists when investigator adds a new primitive"
+    },
+    {
+      "axis": "A",
+      "name": "reachability",
+      "falsifier": "alternative pathway appears at the same rate and cost with or without proposed ecological constructor"
+    },
+    {
+      "axis": "E",
+      "name": "ecological cause",
+      "falsifier": "external matched material predicts the same outcomes as particular producer"
+    },
+    {
+      "axis": "F",
+      "name": "blind function and cost",
+      "falsifier": "visual novelty is present but survival/reproductive advantage absent after full costs"
+    },
+    {
+      "axis": "H",
+      "name": "functional descendant reproduction",
+      "falsifier": "daughter offspring requires special engine copy or researcher partner repair"
+    },
+    {
+      "axis": "R",
+      "name": "generalization under change",
+      "falsifier": "benefit disappears after sealed resource/partner reversal"
+    }
+  ],
+  "prospective_competitors": [
+    "unmodified ancestral ecology",
+    "inhabitant-created resource/constraint",
+    "externally matched nutrient/product",
+    "inert false environmental mark",
+    "researcher dominant-path knockout as shortcut control",
+    "explicit novelty reward as false-positive control",
+    "altered lineage history under fixed primitive physics",
+    "shuffled lineages and matched mutation supply",
+    "restored original easy route",
+    "blind new ecology and independent descendants"
+  ],
+  "counterevidence": [
+    "200/200 success cannot be assumed: Lind 2015 observed 91/200 with alternatives under its selection window",
+    "Taylor 2016 same colony morphology can arise without new mutations and does not measure novel fitness",
+    "Johnson 2022 robustness does not consistently expand across environments",
+    "Routh 2025 stable specialization can reduce later adaptability and new mutations rather than hidden variants dominate",
+    "Sakuma 2026 functional substate redistribution is in vitro single-molecule measurement along preselected trajectories; not organismal ecology",
+    "Kaltenbach 2016 refuted simple native-activity robustness explanation of apparent enzyme trade-offs"
+  ],
+  "reject_if": [
+    "benefit disappears under producer knockout and matched exogenous rescue shows only extra calories",
+    "equivalent benefit occurs under random mutations and fixed feedback without altered ecology",
+    "candidate requires explicit path-reward or researcher-created group copy",
+    "only morphological labels change, not causal net survival",
+    "statistical independence treats clones or sequenced molecules as independently evolved whole populations",
+    "only surviving/photogenic lineages used in denominators"
+  ],
+  "sources": [
+    "doi:10.7554/eLife.07074",
+    "doi:10.1038/ncomms11669",
+    "doi:10.7554/eLife.76491",
+    "doi:10.1093/evolut/qpaf019",
+    "doi:10.1038/s41467-026-72534-1",
+    "doi:10.1371/journal.pgen.1006305"
+  ],
+  "canonical_research": "docs/artificial-life/92-pass17-eerc-ecological-constraint-redistribution.md",
+  "future_authorization_required": true,
+  "prior_EERC_immutable": true,
+  "Ora_and_AgentTest_separate": true
+}

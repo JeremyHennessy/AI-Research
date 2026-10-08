@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 195 curated research records across 30 research tracks. Thirteen detailed public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
+**Pass 4 — 2026-10-08.** 197 curated research records across 30 research tracks. Fifteen detailed public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -382,9 +382,18 @@ This index adds **8** distinct publication leads plus full-method review of an *
 
 | Year | Source | Level | Research mechanism |
 |---:|---|---|---|
-| 2016 | [Defining and Simulating Open-Ended Novelty: Requirements, Guidelines, and Challenges](https://doi.org/10.1007/s12064-016-0229-7) | E1 | Novelty models and meta-models |
-| 2021 | [Nothing in evolution makes sense except in the light of parasitism: evolution of complex replication strategies](https://doi.org/10.1098/rsos.210441) | E1 | Spatial parasites and defensive evolution |
+| 2016 | [Defining and Simulating Open-Ended Novelty: Requirements, Guidelines, and Challenges](https://doi.org/10.1007/s12064-016-0229-7) | E2 | Novelty models and meta-models |
+| 2021 | [Nothing in evolution makes sense except in the light of parasitism: evolution of complex replication strategies](https://doi.org/10.1098/rsos.210441) | E2 | Spatial parasites and defensive evolution |
 
 [Complete 2020 Stringmol paper analysis](artificial-life/30-stringmol-2020-novelty-full-review.md) · [2026 Physis source limits](artificial-life/31-physis-2026-source-boundaries.md) · [failure and counterexample map](artificial-life/32-why-evolvable-computation-fails.md) · [three independently competing prospective mechanisms](artificial-life/33-three-pathway-critical-experiments.md).
+
+## ALife seventh pass — two full papers, two research comparators
+
+Original [2021 spatial Stringmol full audit](artificial-life/35-stringmol-spatial-parasitism-2021-full-review.md) and [2016 Banzhaf theory full audit](artificial-life/36-banzhaf-2016-open-ended-novelty-full-review.md) promoted to E2; journal/preprint manifestations deduplicated. Cross-system [synthesis](artificial-life/37-parasite-and-shortcut-synthesis.md).
+
+| Year | New primary source | Review | Mechanism |
+|---:|---|---|---|
+| 2024 | [On the Open-Endedness of Detecting Open-Endedness](https://doi.org/10.1162/artl_a_00399) | E1 | Metric limits and novelty analysis |
+| 2020 | [Emergence and diversification of a host-parasite RNA ecosystem through Darwinian evolution](https://doi.org/10.7554/eLife.56038) | E1 | Wet-lab parasite coevolution |
 
 E1: public primary abstract or official release checked, not full-paper replication. E2: documented whole-paper methods/evaluation review; E3: demands independent reproduction. None E3 here.

@@ -52,10 +52,12 @@ class FailureResearchLedgerTests(unittest.TestCase):
         doc = (ROOT / "docs/artificial-life/31-physis-2026-source-boundaries.md").read_text(encoding="utf-8")
         self.assertIn("complete three-page contribution was NOT inspected", doc)
 
-    def test_2021_ecological_study_not_promoted_without_full_read(self):
+    def test_2021_ecological_study_full_paper_review_is_not_reproduction(self):
         paper = self.papers["doi:10.1098/rsos.210441"]
-        self.assertEqual(paper["evidence_level"], "E1")
-        self.assertFalse(paper["full_text_reviewed"])
+        self.assertEqual(paper["evidence_level"], "E2")
+        self.assertTrue(paper["full_text_reviewed"])
+        self.assertFalse(paper["independently_reproduced"])
+        self.assertTrue((ROOT / paper["source_review_path"]).is_file())
 
     def test_evidence_not_running_organism(self):
         experiments = read_jsonl("data/alife/experiment-designs.jsonl")

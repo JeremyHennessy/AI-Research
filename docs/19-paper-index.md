@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 16 — 2026-10-08:** 254 curated research records across 30 tracks, with 39 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 17 — 2026-10-08:** 260 curated research records across 30 tracks, with 42 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -523,3 +523,18 @@ New distinct catalog sources (3 E2 primary full-paper reviews, 7 E1 abstract/sel
 **E1→E2 existing publication promotion:** [Stochastic switching as a survival strategy in fluctuating environments](https://doi.org/10.1038/ng.110) — [Full 2008 engineered switch experiment](artificial-life/80-pass16-acar-2008-engineered-switch-full-review.md). This promotion changes paper/method metadata but **does not alter historical E1 claims**.
 
 [Hayden 2011 molecular/partnership full study](artificial-life/81-pass16-hayden-2011-cryptic-rna-variation-full-review.md) · [Karve 2022 environmental-selection full study](artificial-life/82-pass16-karve-2022-complex-environments-novelty-full-review.md) · [RNA neutral-network 2022 full study](artificial-life/83-pass16-rotrattanadumrong-2022-ribozyme-neutral-network-full-review.md) · [Independent Neurospora 2014 full study](artificial-life/84-pass16-graham-2014-neurospora-dormancy-fitness-full-review.md) · [Counterevidence E1](artificial-life/85-pass16-hidden-variation-and-latent-activity-counterevidence.md) · [EERC-06 theory](artificial-life/86-pass16-eerc-selectable-reachability-ecological-gating.md) · [Pass 16 handoff](artificial-life/87-pass16-research-handoff.md).
+
+## Pass 17 — counterfactual evolutionary pathways, epistasis and hidden-state limits
+
+**Six unique publication records:** three newly E2 full-main-primary audits and three E1 abstract/selected-method reports. The same visually similar phenotype is not automatically useful, and an existing catalytic side activity is not an independently viable new organism. Neither source readback nor schema validation reproduces science.
+
+| Year | Publication | Depth | Key outcome or caveat |
+|---:|---|---|---|
+| 2015 | [Experimental evolution reveals hidden diversity in evolutionary pathways](https://doi.org/10.7554/eLife.07074) | E2 | 91/200 alternate-path outcomes; experimenter route knockout |
+| 2016 | [Diverse genetic architectures lead to the same cryptic phenotype in a yeast cross](https://doi.org/10.1038/ncomms11669) | E2 | 17 unusual yeast cases: 8 with new mutations, 9 without; morphology not fitness |
+| 2022 | [Mutational robustness changes during long-term adaptation in laboratory budding yeast populations](https://doi.org/10.7554/eLife.76491) | E2 | 91 mutation effects shift in one environment, not the other |
+| 2025 | [Metabolic remodeling and de novo mutations transcend cryptic variation as drivers of adaptation in yeast](https://doi.org/10.1093/evolut/qpaf019) | E1 | Hidden variation often not main source of stress adaptation; source E1 |
+| 2026 | [Single-molecule kinetic exploration of functional sub-states in an evolving phosphotriesterase](https://doi.org/10.1038/s41467-026-72534-1) | E1 | 18 existing enzyme variants, new single-molecule assays; not organism fitness |
+| 2016 | [Functional Trade-Offs in Promiscuous Enzymes Cannot Be Explained by Intrinsic Mutational Robustness of the Native Activity](https://doi.org/10.1371/journal.pgen.1006305) | E1 | Native-function mutational robustness hypothesis contradicted; source E1 |
+
+[Lind 2015 full review](artificial-life/88-pass17-lind-2015-hidden-evolutionary-routes-full-review.md) · [Taylor 2016 full review](artificial-life/89-pass17-taylor-2016-cryptic-yeast-genetic-architecture-full-review.md) · [Johnson 2022 full review](artificial-life/90-pass17-johnson-2022-mutational-robustness-landscape-full-review.md) · [E1 counterevidence](artificial-life/91-pass17-cryptic-variation-and-enzyme-substate-counterevidence.md) · [EERC-C original research](artificial-life/92-pass17-eerc-ecological-constraint-redistribution.md) · [Pass 17 handoff](artificial-life/93-pass17-research-handoff.md).

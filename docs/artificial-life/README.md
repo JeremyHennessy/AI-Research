@@ -50,12 +50,30 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [37 — Ecology and shortcut synthesis](37-parasite-and-shortcut-synthesis.md) | Can selection favor new functionality inside fixed physics? | Comparative mechanism tests and false-positive controls |
 | [38 — Seventh-pass research handoff](38-pass7-research-handoff.md) | Which scientific papers and verification gaps are next? | Latest source/CI receipts and ranked literature priorities |
 
+| [39 — Eighth-pass source reconnaissance](39-pass8-source-reconnaissance.md) | What sources share experiments? | RNA and Stringmol evidence boundaries |
+| [40 — Peer-review and independent-tests rubric](40-pass8-peer-review-and-test-rubric.md) | Where do review criticisms and metrics diverge? | E1/E2 caveats, proposed eight-axis rubric |
+| [41 — AlChemy complete main manuscript](41-pass9-alchemy-organization-barriers-full-review.md) | Why does higher organization stall? | E2 methods, generator sensitivity and failed coexistence |
+| [42 — Life, learning and consciousness distinctions](42-pass9-pathways-to-life-mind-and-consciousness.md) | How can progress diverge from ordinary AI? | Competing falsifiable research paths |
+| [43 — Ecological opportunity and evolution](43-pass9-ecological-path-dependence-evidence.md) | When are new resources constructed rather than used? | Primary LTEE interpretation and dependence controls |
+| [44 — Ninth-pass scientific handoff](44-pass9-research-handoff.md) | What was last read and untested? | Preserved limits and future priorities |
+| [45 — Pseudomonas separated/mixed propagules](45-pass10-pseudomonas-life-cycle-2020-full-review.md) | How do group vs cell fitness diverge? | E2 full biological study, non-independent 2014 data warning |
+| [46 — Chlamydomonas genetic ancestry](46-pass10-chlamydomonas-ancestry-2025-full-review.md) | When does multicellularity persist? | E2 4/12 vs 0/12 results and transient failures |
+| [47 — Major-transition causal synthesis](47-pass10-major-transition-mechanism-synthesis.md) | What makes a reproducing new individual? | Critical counterexamples, prospective blinded null tests |
+| [48 — Tenth-pass research handoff](48-pass10-research-handoff.md) | Where are we and what is next? | Counts, audit boundaries and priorities |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Tenth scholarly pass — biological reproductive individuality and negative controls (2026-10-08)
+**Verified machine-readable inventory:** **206** curated papers, **60** ALife sources, **18** full-paper E2 reviews across AI-Research, **15** ALife E2 method receipts, **97** caveated source-linked claims and **12** preserved ALife failure mechanisms. Earlier 15 research hypotheses, 11 future-only experiments, and 10 operational tests remain unchanged. **Zero experiments independently reproduced and zero digital organisms built.**
+
+**New E2 primary reviews:** [2020 Rose bacterial propagule mixing](45-pass10-pseudomonas-life-cycle-2020-full-review.md) and [2025 Chen algal ancestry](46-pass10-chlamydomonas-ancestry-2025-full-review.md). The earlier [2024 AlChemy full manuscript](41-pass9-alchemy-organization-barriers-full-review.md) is now also integrated as E2 in the source catalog. [Nine study-arm independence records](../../data/alife/individuality-transition-evidence.json) distinguish reused 2014/2020 populations, model runs, transient clusters and genuine independent biological evolution cohorts. [Mechanism synthesis](47-pass10-major-transition-mechanism-synthesis.md) · [Pass 10 handoff](48-pass10-research-handoff.md).
+
+**Key caution:** externally supplied bottlenecks, population transfers, group boundaries and fitness selection are not evidence that a new digital individual self-produced its own reproduction, cognition, or consciousness.
 
 ## Seventh scholarly pass — spatial ecology, defensive function, and simulator shortcuts (2026-10-08)
 **Latest library:** 51 ALife sources, **197 total research records**, **15 E2 detailed paper/theory reviews**, **87 caveated source claims**, **12 failure-mode records**, and **12 ALife source-method receipts**. The [2021 spatial Stringmol paper](35-stringmol-spatial-parasitism-2021-full-review.md) has been fully reviewed (20 trials, 12 extinct, eight active at finite cutoff); the [2016 Banzhaf 31-page novelty theory](36-banzhaf-2016-open-ended-novelty-full-review.md) is also E2. New [2024 novelty-metric](https://doi.org/10.1162/artl_a_00399) and [2020 wet RNA evolution](https://doi.org/10.7554/eLife.56038) comparisons remain **E1** pending full method reviews. [Seventh-pass technical synthesis](37-parasite-and-shortcut-synthesis.md), [continuation handoff](38-pass7-research-handoff.md).

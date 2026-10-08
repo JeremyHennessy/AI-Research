@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 14 — 2026-10-08:** 242 curated research records across 30 tracks, with 30 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 15 — 2026-10-08:** 248 curated research records across 30 tracks, with 33 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -487,3 +487,20 @@ New distinct catalog sources (3 E2 primary full-paper reviews, 7 E1 abstract/sel
 | 2026 | [An improved Stentor coeruleus genome and time-resolved transcriptomics link cyclic nucleotide-dependent kinase signaling to single-cell habituation](https://doi.org/10.64898/2026.07.23.740246) | E1 | Abstract/selected study; not full methods, no reproduction |
 
 [Lambert 2014 E2](artificial-life/66-pass14-lambert-kussell-2014-timescale-memory-full-review.md) · [Abreu 2024 E2](artificial-life/67-pass14-abreu-2024-environmental-fitness-reversal-full-review.md) · [Wolf 2008 E2](artificial-life/68-pass14-wolf-2008-microbial-information-memory-full-review.md) · [Yi 2000 E2](artificial-life/69-pass14-chemotaxis-integral-feedback-2000-full-review.md) · [Counterevidence](artificial-life/70-pass14-costly-memory-bethedging-and-countermodels.md) · [Original EERC-R](artificial-life/71-pass14-eerc-temporal-reliability-selection.md) · [Pass 14 handoff](artificial-life/72-pass14-research-handoff.md).
+
+## Pass 15 — evolution of latent switches, readiness and within-lifetime adaptation
+
+**Six distinct publications added** (two newly reviewed E2 and four E1), plus the already-cataloged 2026 Kratz paper promoted from E1 to E2 on complete primary-text review (not a duplicate publication). Research-only evidence: zero independently reproduced experiments, trained models or living digital organisms.
+
+| Year | Primary source | Evidence | Why it matters |
+|---:|---|---|---|
+| 2015 | [Bistability in a Metabolic Network Underpins the De Novo Evolution of Colony Switching in Pseudomonas fluorescens](https://doi.org/10.1371/journal.pbio.1002109) | E2 | Full biochemical follow-up, overlaps 2009 switching lineage |
+| 2020 | [A universal trade-off between growth and lag in fluctuating environments](https://doi.org/10.1038/s41586-020-2505-4) | E2 | Direct resource-allocation and measured growth/lag interventions |
+| 2009 | [Experimental evolution of bet hedging](https://doi.org/10.1038/nature08504) | E1 | New stochastic switch in 2/12 evolving populations |
+| 2014 | [Optimization of lag time underlies antibiotic tolerance in evolved bacterial populations](https://doi.org/10.1038/nature13469) | E1 | Evolved delayed regrowth under specialized stress, not cognitive learning |
+| 2016 | [Frequency of antibiotic application drives rapid evolutionary adaptation of Escherichia coli persistence](https://doi.org/10.1038/nmicrobiol.2016.20) | E1 | Population-level persistence changes can reverse slowly |
+| 2010 | [The Frequency of Persisters in Escherichia coli Reflects the Kinetics of Awakening from Dormancy](https://doi.org/10.1128/jb.00056-10) | E1 | Measurement medium changes apparent awakening/persistence fraction |
+
+**Existing work promoted to E2 (not an additional record):** [Multi-Timescale Adaptation and Emergent Learning in Single Bacterial Cells](https://doi.org/10.1103/5zbg-8vll), with [complete primary full-method audit](artificial-life/74-pass15-kratz-2026-multiscale-bacterial-memory-full-review.md); author-fitted fractional kernel and ribosomal memory remain unproven causal mechanisms. 
+
+[Metabolic trade-off E2](artificial-life/73-pass15-basan-2020-growth-lag-metabolic-tradeoff-full-review.md) · [Gallie latent bistability E2](artificial-life/75-pass15-gallie-2015-latent-bistability-and-evolution-full-review.md) · [Independent cohort boundaries](artificial-life/76-pass15-stochastic-hedging-and-antibiotic-history-comparators.md) · [EERC-L original theory](artificial-life/77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md) · [Pass 15 handoff](artificial-life/78-pass15-research-handoff.md).

@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 13 — 2026-10-08:** 233 curated research records across 30 tracks, with 26 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 14 — 2026-10-08:** 242 curated research records across 30 tracks, with 30 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -469,3 +469,21 @@ New distinct catalog sources (3 E2 primary full-paper reviews, 7 E1 abstract/sel
 | 2026 | [Engineering Basal Cognition: Minimal Genetic Circuits for Habituation, Sensitization, and Massed–Spaced Learning](https://doi.org/10.1021/acssynbio.5c00766) | E1 | Human-engineered simulated learning-like circuits |
 
 [Three full primary reviews](artificial-life/60-pass13-externalized-navigation-memory-2012-full-review.md) · [Yeast gating E2](artificial-life/61-pass13-whi3-memory-barrier-2022-full-review.md) · [Birth order E2](artificial-life/62-pass13-first-daughter-septin-memory-2023-full-review.md) · [EERC-T original hypothesis](artificial-life/64-pass13-eerc-external-trace-selective-inheritance.md) · [Pass 13 handoff](artificial-life/65-pass13-research-handoff.md).
+
+## Pass 14 — temporal memory, fitness reversals, and fixed-control counterexamples
+
+**Nine unique primary-source additions:** four complete-main E2 reviews plus five E1 primary abstracts or selected-method records. E1 bioRxiv works are **not peer-reviewed**. Source review does not mean independent scientific reproduction; inherited preinstalled cellular behavior is not a newly created digital organism.
+
+| Year | Source | Level | Epistemic caution |
+|---:|---|---|---|
+| 2014 | [Memory and Fitness Optimization of Bacteria under Fluctuating Environments](https://doi.org/10.1371/journal.pgen.1004556) | E2 | Full main source read; results authors only, no reproduction |
+| 2024 | [Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments](https://doi.org/10.1038/s41559-024-02475-9) | E2 | Full main source read; results authors only, no reproduction |
+| 2008 | [Memory in Microbes: Quantifying History-Dependent Behavior in a Bacterium](https://doi.org/10.1371/journal.pone.0001700) | E2 | Full main source read; results authors only, no reproduction |
+| 2000 | [Robust perfect adaptation in bacterial chemotaxis through integral feedback control](https://doi.org/10.1073/pnas.97.9.4649) | E2 | Full main source read; results authors only, no reproduction |
+| 2008 | [Stochastic switching as a survival strategy in fluctuating environments](https://doi.org/10.1038/ng.110) | E1 | Abstract/selected study; not full methods, no reproduction |
+| 2025 | [How memory and adaptation cost shape cell phenotypic dynamics in response to fluctuating environments](https://doi.org/10.1101/2025.05.24.655868) | E1 | Abstract/selected study; not full methods, no reproduction |
+| 2026 | [Multi-Timescale Adaptation and Emergent Learning in Single Bacterial Cells](https://doi.org/10.1103/5zbg-8vll) | E1 | Abstract/selected study; not full methods, no reproduction |
+| 2022 | [Do microbes have a memory? History-dependent behavior in the adaptation to variable environments](https://doi.org/10.3389/fmicb.2022.1004488) | E1 | Abstract/selected study; not full methods, no reproduction |
+| 2026 | [An improved Stentor coeruleus genome and time-resolved transcriptomics link cyclic nucleotide-dependent kinase signaling to single-cell habituation](https://doi.org/10.64898/2026.07.23.740246) | E1 | Abstract/selected study; not full methods, no reproduction |
+
+[Lambert 2014 E2](artificial-life/66-pass14-lambert-kussell-2014-timescale-memory-full-review.md) · [Abreu 2024 E2](artificial-life/67-pass14-abreu-2024-environmental-fitness-reversal-full-review.md) · [Wolf 2008 E2](artificial-life/68-pass14-wolf-2008-microbial-information-memory-full-review.md) · [Yi 2000 E2](artificial-life/69-pass14-chemotaxis-integral-feedback-2000-full-review.md) · [Counterevidence](artificial-life/70-pass14-costly-memory-bethedging-and-countermodels.md) · [Original EERC-R](artificial-life/71-pass14-eerc-temporal-reliability-selection.md) · [Pass 14 handoff](artificial-life/72-pass14-research-handoff.md).

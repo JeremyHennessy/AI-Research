@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-08",
+  "study_unit_instruction": "Distinct independent evolution populations, selected clones, laboratory reactions, guided genetic-search model rounds, assayed sequences, and reanalyses cannot be pooled.",
+  "studies": [
+    {
+      "id": "beaumont2009",
+      "paper_id": "doi:10.1038/nature08504",
+      "level": "E2_PROMOTED",
+      "type": "evolving population",
+      "units": "12 independent full selection lines, two switch origins; 3/36 vs 0/138 one-round replay separately",
+      "positive": "necessary/sufficient metabolic mutation in potentiated ancestor causes switch; fitness history changes sign",
+      "negative": "special novelty-exclusion/bottleneck required for persistence, without them evolved switch loses fitness; phenotype possible in original background but deleterious"
+    },
+    {
+      "id": "acar2008",
+      "paper_id": "doi:10.1038/ng.110",
+      "level": "E2_PROMOTED",
+      "type": "engineered state-switching physiology comparator",
+      "units": "engineered two rate configurations in selected environmental schedules, not natural evolution origins",
+      "positive": "fast/slow switch strategy winner depends on researcher-chosen environmental duration",
+      "negative": "all two-state gene regulation, rates and fitness environment installed by experimenters"
+    },
+    {
+      "id": "hayden2011",
+      "paper_id": "doi:10.1038/nature10083",
+      "level": "E2_NEW",
+      "type": "in-vitro ribozyme evolution",
+      "units": "two earlier diverse lines A/B, one undiversified WT comparison, 8 new-substrate selection generations",
+      "positive": "~8x/~6x faster rate at generation five; independently inactive ribozyme recovered function with helper",
+      "negative": "external mutagenesis, copying and selection, helper rescue not independently reproducing multi-component life"
+    },
+    {
+      "id": "karve2022",
+      "paper_id": "doi:10.1038/s41467-022-33634-w",
+      "level": "E2_NEW",
+      "type": "bacterial latent phenotype selection",
+      "units": "eight original evolving populations each environmental condition, 2 representatives chosen per condition; assay universe 52 formerly inaccessible types",
+      "positive": "higher mutation supply did not improve novelty count, more complex selection environment correlated with more novel viability",
+      "negative": "complex environments got ~600 vs ~100–200 generations, only one five-factor complex environment; gene/pleiotropy causation mostly inferred"
+    },
+    {
+      "id": "rotRNA2022",
+      "paper_id": "doi:10.1038/s41467-022-32538-z",
+      "level": "E2_NEW",
+      "type": "experimental ligase RNA landscape",
+      "units": ">120000 assayed molecules and all 65536 intermediates of a 16-site candidate pair, not independent evolving lineages",
+      "positive": "neutral network paths connect distant functional RNA genotype configurations under assay threshold",
+      "negative": "MLP trained to guide candidate selection, 100 in-silico evolutionary steps, external activity threshold and RNA chemistry"
+    },
+    {
+      "id": "graham2014",
+      "paper_id": "doi:10.1098/rspb.2014.0706",
+      "level": "E2_NEW",
+      "type": "fungal dormancy experimental evolution",
+      "units": "88 independent evolving samples from 12 founding genetic lineages across five selected adversity proportions",
+      "positive": "dormancy evolved according to adverse-frequency and geometric-mean fitness interpretation",
+      "negative": "no two consecutive adverse years allowed; many extinct lineages, not proven genotypic mechanism or spontaneous new dormancy"
+    },
+    {
+      "id": "zheng2019",
+      "paper_id": "doi:10.1126/science.aax1837",
+      "level": "E1_NEW",
+      "type": "protein cryptic genotypic diversity / laboratory directed evolution",
+      "positive": "hidden variation changes which color-functional peaks reachable under selected tests",
+      "negative": "chosen fluorescent phenotype and lab mutation guided, entire primary methods not audited"
+    },
+    {
+      "id": "copley2022",
+      "paper_id": "doi:10.1021/acs.biochem.2c00249",
+      "level": "E1_NEW",
+      "type": "research synthesis of promiscuous enzyme functions",
+      "positive": "side activities furnish physical capability reserve, median 31 M^-1s^-1 across 108 enzymes",
+      "negative": "many side activities below actual cellular throughput usefulness, not an independent new wetlab cohort"
+    }
+  ],
+  "original_hypothesis": "EERC-S selectable-reachability threshold; NOT validated",
+  "negative_results_stored": true,
+  "artificial_world_implemented": false,
+  "independent_reproduction_by_ai_research": false
+}

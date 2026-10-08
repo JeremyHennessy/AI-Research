@@ -1,0 +1,90 @@
+{
+  "schema_version": "0.6",
+  "id": "EERC-06",
+  "name": "Endogenous Selectable Reachability and Ecological Opportunity Thresholds",
+  "date": "2026-10-08",
+  "hypothesis_status": "UNVERIFIED_NEW_ORIGINAL_RESEARCH",
+  "research_only": true,
+  "implementation_authorized": false,
+  "systems_created": 0,
+  "experiments_executed": 0,
+  "independent_reproduction": false,
+  "consciousness_claim": false,
+  "preserves": [
+    {
+      "id": "EERC-01",
+      "path": "data/alife/combined-path-eerc-v1.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-02",
+      "path": "data/alife/combined-path-eerc-v2.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-03",
+      "path": "data/alife/combined-path-eerc-v3.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-04",
+      "path": "data/alife/combined-path-eerc-v4.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-05",
+      "path": "data/alife/combined-path-eerc-v5.json",
+      "immutable": true
+    }
+  ],
+  "question": "Can a heritable endogenous organization and its changed ecology make a previously possible-but-unselectable function advantageous, persistent in independently reproduced descendants, and useful in unseen circumstances, without altering primitive physics or externally awarding novelty?",
+  "four_distinct_levels": [
+    "primitive physical possibility (unchanged substrate laws)",
+    "actual accessibility/expression in ancestral genotype or environment",
+    "net selectable benefit after full material and reproduction cost",
+    "causal daughter/granddaughter functional inheritance and blind generalization"
+  ],
+  "competing_hypotheses": [
+    {
+      "id": "S1",
+      "description": "Only external novelty-exclusion rewards and bottle-necks make traits appear persistent.",
+      "falsifier": "After withdrawal, trait remains causally viable and makes descendants without copy/sort aid"
+    },
+    {
+      "id": "S2",
+      "description": "Fixed molecular dynamics and weak side activities explain observations without evolved accessibility.",
+      "falsifier": "An inherited causal change reweights the reachable function and survives reversion/rescue controls"
+    },
+    {
+      "id": "S3",
+      "description": "Genotype sorting rather than new emergent organization accounts for positive outcome.",
+      "falsifier": "New interaction causally absent in ancestor, transmitted by daughter collective beyond genotype-alone effects"
+    },
+    {
+      "id": "S4",
+      "description": "Endogenous selectable reachability under ecological/organizational coadaptation.",
+      "falsifier": "Matched resource-cost and ancestral-context controls remove new fitness advantage, or no independent daughter reproduction"
+    }
+  ],
+  "future_only_evidence_gates": [
+    "founder ancestral variant and intermediate background phenotype-versus-fitness double measurement",
+    "experimenter novelty reward absent and forced bottle-neck/individual cloning removed",
+    "possible reaction verified under fixed primitive physics and cost-conserving interaction",
+    "partial or externally supplied helper resupply held out as shortcut positive control",
+    "actual ecological utility and net survival not a retrospective novelty score",
+    "blinded unexpected environmental resource reversal or new partner without test score leakage",
+    "independently reproduced daughter/granddaughter collectives and all extinctions reported"
+  ],
+  "sources": [
+    "doi:10.1038/nature08504",
+    "doi:10.1038/ng.110",
+    "doi:10.1038/nature10083",
+    "doi:10.1038/s41467-022-33634-w",
+    "doi:10.1038/s41467-022-32538-z",
+    "doi:10.1098/rspb.2014.0706",
+    "doi:10.1126/science.aax1837",
+    "doi:10.1021/acs.biochem.2c00249"
+  ],
+  "main_research_document": "docs/artificial-life/86-pass16-eerc-selectable-reachability-ecological-gating.md",
+  "scientific_boundary": "no AI model built, trained or deployed, and no organism created or scientific studies reproduced; no Ora/AgentTest change authorized"
+}

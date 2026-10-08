@@ -1,0 +1,162 @@
+{
+  "schema_version": "0.1",
+  "id": "EERC-01",
+  "name": "Endogenous Ecological–Reproductive Closure",
+  "created_at": "2026-10-08",
+  "status": "original_hypothesis_not_tested",
+  "research_only": true,
+  "implementation_authorized": false,
+  "prohibition": "No digital organism/world/model training, local lab execution, changes to Ora or AgentTest, autonomous deployment or consciousness assertions are authorized by this record.",
+  "claim": "Self-generated niche opportunity plus an endogenously constructed interface for co-transmitting functionally necessary relations may allow a new higher-level evolutionary individual to persist after external reproductive/selection scaffolding is reduced.",
+  "epistemic_status": "original_conjecture_not_author_report",
+  "source_review_path": "docs/artificial-life/53-pass11-new-path-ecological-reproductive-closure.md",
+  "substrate_candidates": [
+    {
+      "id": "C",
+      "name": "finite stochastic resource chemistry",
+      "preinstalled_primitives": [
+        "reaction basis",
+        "conservation",
+        "resource flow",
+        "decay"
+      ],
+      "major_risk": "compositional organization cannot produce faithful daughters"
+    },
+    {
+      "id": "S",
+      "name": "interpreter-linked artificial chemistry",
+      "preinstalled_primitives": [
+        "finite opcode basis",
+        "initial expression grammar",
+        "decay",
+        "primitive copy operations"
+      ],
+      "major_risk": "seeded replicase creates copying shortcut or ecologies collapse"
+    },
+    {
+      "id": "F",
+      "name": "conservative field with locally inheritable dynamics",
+      "preinstalled_primitives": [
+        "field update",
+        "transport and grid",
+        "local resource bookkeeping"
+      ],
+      "major_risk": "apparent morphology without causal functional heredity"
+    }
+  ],
+  "proposed_observables": [
+    {
+      "id": "T1",
+      "name": "causally constructed accessible ecological product",
+      "null": "externally matched material flux and null producer knockout/rescue"
+    },
+    {
+      "id": "T2",
+      "name": "relation-specific viability not generic food addition",
+      "null": "replacement partner, externally supplied matched metabolite and component-loss controls"
+    },
+    {
+      "id": "T3",
+      "name": "endogenous persistence and repair of group reproductive interface",
+      "null": "direct interface knockout and rescue; compare to preinstalled group copy"
+    },
+    {
+      "id": "T4",
+      "name": "functional group traits inherited to independent daughter and granddaughter cohorts",
+      "null": "shuffled daughter partner identities, random reassembly and lineage-label nulls"
+    },
+    {
+      "id": "T5",
+      "name": "within-lifetime perturbation-sensitive learned regulation",
+      "null": "history knockout, cue shuffle, reflex-only and no-task-reward controls"
+    }
+  ],
+  "future_only_comparators": [
+    {
+      "arm": "N0",
+      "function": "no active construction or inherited group interface",
+      "purpose": "baseline null"
+    },
+    {
+      "arm": "R",
+      "function": "active ecological by-products only, no specialized co-transmission",
+      "purpose": "interaction without individuality"
+    },
+    {
+      "arm": "X",
+      "function": "identical exogenous material feed with putative interface",
+      "purpose": "nutrient/exogenous resource confound"
+    },
+    {
+      "arm": "I",
+      "function": "partner-specific inherited collective interface without novel producer influence",
+      "purpose": "separate inheritance from construction"
+    },
+    {
+      "arm": "J",
+      "function": "endogenous opportunity plus endogenous interface, fixed memory",
+      "purpose": "joint test"
+    },
+    {
+      "arm": "K",
+      "function": "J but interface knocked out and separately rescued",
+      "purpose": "necessity"
+    },
+    {
+      "arm": "L",
+      "function": "J plus adaptive within-life memory, with reflex and cue-shuffle controls",
+      "purpose": "learning separate from evolution"
+    },
+    {
+      "arm": "W",
+      "function": "J or L with external lineage sorting/selection partially withdrawn",
+      "purpose": "scaffold robustness, include all extinctions"
+    },
+    {
+      "arm": "S",
+      "function": "externally installed group copier",
+      "purpose": "positive control for false organism identity"
+    }
+  ],
+  "pre_registration_requirements": [
+    "independent population/world as replication unit",
+    "fixed resource/compute budget and observation windows",
+    "all extinct lineages in denominators",
+    "frozen blind function probes never optimized against",
+    "parent offspring grandchild causal DAG with partner provenance",
+    "nonnegative conservation/resource cost ledger",
+    "separate source of every installed mechanism and human scaffold",
+    "full rights/source revision/seed/renderer receipt",
+    "scaffold removal is operationally specific, not a magical total-withdrawal concept"
+  ],
+  "stop_or_reject_conditions": [
+    "ancestral daughter links cannot be independently verified",
+    "selected survivors without extinction accounting",
+    "observed novelty disappears under matched nutrient supply",
+    "the prospective interface does not affect offspring functionality under knockout",
+    "all group persistence requires external automatic population reassembly",
+    "apparent within-life learning vanishes under matched reflex/historical controls",
+    "claims of subjective consciousness rely only on morphology, conversational behavior or scores"
+  ],
+  "no_status_collapse": [
+    "living-like self-maintenance",
+    "causal reproductive individuality",
+    "learning/agency",
+    "novel adaptive capabilities",
+    "open-endedness",
+    "subjective consciousness",
+    "moral conscience"
+  ],
+  "source_ids": [
+    "doi:10.1038/s41586-024-08010-x",
+    "doi:10.1371/journal.pcbi.1014699",
+    "doi:10.1038/ncomms15973",
+    "doi:10.1128/msystems.01053-24",
+    "doi:10.1038/s41467-021-27630-9",
+    "doi:10.1038/s41467-025-58742-1",
+    "doi:10.1086/737588"
+  ],
+  "reproduction_status": "not_tested",
+  "evidence_level": "HYPOTHESIS_ONLY",
+  "hypothesis_registry_policy": "This is an independent proposed scientific path; canonical legacy 15 AL-H hypotheses and 11 future-only AL designs are untouched until explicit catalog integration decisions and validation."
+}

@@ -21,6 +21,7 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [08 — Primary source bibliography](08-source-bibliography.md) | Which published findings support each proposal? | Annotated sources, versions, access caveats |
 | [09 — Contradictions & limits](09-counterevidence.md) | What evidence challenges attractive intuitions? | Explicit contrary cases and discriminators |
 | [10 — Continuing research handoff](10-handoff.md) | How to continue without drifting into implementation? | Next review pass, repository receipts |
+| [11 — Feasibility and interdisciplinary bridges](11-feasibility-and-cross-disciplinary-bridges.md) | What can be tested with accessible compute, and which new combinations are worth falsifying? | Practical trade-offs and six original cross-disciplinary research hypotheses |
 
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 

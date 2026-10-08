@@ -2,10 +2,13 @@
 
 **Research roadmap updated 2026-10-08.** Scientific design only; no digital organism, world, evolutionary program or source-analysis runner was authorized or built.
 
+## Sixth research pass — what changes after the 2020 complete paper (2026-10-08)
+The [full eight-page novelty taxonomy](30-stringmol-2020-novelty-full-review.md) reveals a necessary scientific distinction: **type-2 emergence can consist solely of an observer updating a reaction-network meta-model**, while internally mutated Stringmol code can generate some *model-level* type-1 innovation. These should not be treated as evidence for the same mechanism. See [twelve failure mechanisms](32-why-evolvable-computation-fails.md), [three competing non-LLM foundations](33-three-pathway-critical-experiments.md), and [current handoff](34-pass6-research-handoff.md).
+
 ## Fifth research pass — bibliographic follow-through (2026-10-08)
 **Full E2 methods reviews now completed:** [Stepney's 2025 paper](25-stepney-2025-complete-review.md), [Stringmol 2016](26-stringmol-2016-full-review.md), [Stringmol UCA semantic closure 2017](27-semantic-closure-2017-full-review.md), and [Physis 2003](28-physis-2003-full-review.md). Their [unified critical comparison](29-evolvable-semantics-cross-study.md) identifies the **two fidelity constraints** (hereditary copying and viable interpretation), tested selection-loophole scenarios, and why endogenous semantic evolution has not yet demonstrated continued independent ecological innovation.
 
-**New highest-information literature gaps:** source-specific independent replication and negative trials of 2017 universal-constructor Stringmol; 2020 Stringmol full methods and the 2026 ALIFE Physis late-breaking booklet/code; empirical methods defining self-maintaining boundaries and viable niche novelty; exact physical and artificial resource accounting. **Next archival research** should seek methods/appendices and separately verify original simulation traces before any new experiment is proposed for approval.
+**Updated source priorities after completed 2020 E2 reading:** independent replication and failed trials of 2017 Stringmol UCA; 2021 spatial Stringmol parasitism *full* methods; 2016 Banzhaf theory *full* text; and the 2026 ALIFE Physis booklet/code (currently E1 and uninspected in full). Further investigate self-maintaining boundaries and resource accounting with independent null controls. **Next archival research** should seek methods/appendices and separately verify original simulation traces before any new experiment is proposed for approval.
 
 **Still research-only:** no new organism, simulated ecosystem, mutable language engine or experiment run is authorized. Previous AL09–AL11 designs remain future-only under the original approval gate.
 
@@ -67,7 +70,7 @@ Failing any property does not invalidate the value of the other findings. It nar
 - If computational resources are unknown, do not assert a runtime budget or promise an innovation timeline.
 
 ## Next research-only deliverables
-1. Complete-paper E2 review of Stepney 2025 and the 2016/2020 Stringmol research where full text is lawfully accessible.
+1. Stepney 2025, Stringmol 2016 and the original 2020 Stringmol novelty paper have now been completely reviewed E2. Next review the full **2021 spatial parasite evolution study**, Banzhaf's 2016 model-relative taxonomy, and the complete 2026 ALIFE Physis pages when accessible.
 2. Survey new open critique/replication publications citing [Hintze/Bohm 2026](https://doi.org/10.1038/s44260-026-00074-2).
 3. Audit **methodology and provenance** of archived causal-data outputs without executing organism code.
 4. Prepare a blinded functional-heredity questionnaire for an eventual AL09/AL10 experiment.

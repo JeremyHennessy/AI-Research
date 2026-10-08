@@ -1,6 +1,16 @@
 # Artificial Life Research Initiative — handoff for the next pass
 **Initiated:** 2026-10-08. Explicit authorization **research only**, confined to JeremyHennessy/AI-Research. Do not modify Ora, AgentTest or other repositories. No organism creation/deployment.
 
+## Latest custodian checkpoint — Pass 26 (2026-10-08)
+
+**Baseline when started:** `main` at `2e37f8852f9a315d90cbdba77f8cefde7d1bf0fb`, with successful offline CI. **Concurrent work:** [Pass 25 PR #5](https://github.com/JeremyHennessy/AI-Research/pull/5), exact branch head `f03bc1dfbbe4fff034d97ce60ffad440d0b13de8`, passed CI but remained **open**; do **not** describe it as merged, cherry-pick it blindly, or overwrite its three distinct documents. Pass 26 starts from main and does not change Pass 25 files.
+
+**New review:** [Gassler et al. 2025 full-main source-critical review](118-pass26-gassler-2025-selection-dependence-full-review.md) and [Pass 26 structured evidence](../../data/alife/pass26-selection-withdrawal-evidence.json); original [Nature Communications main article](https://doi.org/10.1038/s41467-025-65741-9). Three independent *injections* yielded six FACS-sorted arms, but **only two twenty-round arms from one common founder**. Improving germination and bacterial carriage *under continual sorting* is not evidence of unassisted new collective reproduction. At day 28 after starvation, the surviving positive-spore germination count was only **1/288** under refeeding; conditional retention in surviving germlings must not be misread as overall lineage survival. An unresolved 114/384 text versus 311/384 figure germination discrepancy is recorded, not repaired.
+
+**Boundary:** research-only; E2 main-text review not E3 independent replication; literature overlap with Giger 2024 is not independent validation. Canonical paper/source/claim/audit counts, historical E1 levels and EERC v1–v7 preserved. No simulations, organisms, experiments, new agents, cost-bearing actions, OpenAI API keys, Ora, AgentTest or Ora2 changes. **Publication requires an exact branch CI-successful head plus an unchanged main, then successful post-merge main CI**. Never infer those outcomes from this handoff.
+
+**Next research gate:** locate primary, genuinely independent de novo host–partner lines with multi-generation **unsorted/unassisted** transmission and functional descendant benefit, including failures and externally imposed rescue. If absent, record as a negative evidence gap rather than claiming proof.
+
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 

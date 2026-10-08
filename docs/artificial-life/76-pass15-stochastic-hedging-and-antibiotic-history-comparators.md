@@ -28,7 +28,7 @@ Bram Van den Bergh and collaborators, *Frequency of antibiotic application drive
 
 This is directly relevant as a **counterexample** to the belief that a high-scoring memory or state switch can be automatically reversed when environmental conditions change. But it is **evolutionary reversal across generations**, not demonstrated individual cognitive erasure. Treatment frequency and persistence are specialized biological conditions; generalize only as a scientific analogy.
 
-### Dörr? Not included — keep source IDs exact
+### An additional negative control: assay-dependent awakening
 
 A further original observational source, [The frequency of persisters in Escherichia coli reflects the kinetics of awakening from dormancy](https://doi.org/10.1128/JB.00056-10), *Journal of Bacteriology* 2010, PubMed abstract/E1, reports that identical stationary cultures can produce **different apparent persister fractions** depending on the fresh medium used to measure awakening. That warns even the **measurement** of a 'memory fraction' may depend on assay timing and environmental context. Authors/original full method comparison and denominators are **pending**; do not inflate E2 catalog without whole-paper review.
 

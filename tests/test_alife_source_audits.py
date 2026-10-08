@@ -36,7 +36,7 @@ class AlifeSourceAuditTests(unittest.TestCase):
                 for p in self.papers.values()), 37
         )
         self.assertIn("arxiv:2603.01701", self.papers)
-        self.assertEqual(self.papers["arxiv:2603.01701"]["evidence_level"], "E1")
+        self.assertEqual(self.papers["arxiv:2603.01701"]["evidence_level"], "E2")
 
     def test_chemistry_full_paper_audit_is_e2_not_experiment(self):
         paper = self.papers["doi:10.1074/jbc.ra118.003795"]

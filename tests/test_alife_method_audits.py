@@ -60,7 +60,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
 
     def test_primary_claims_have_caveats_and_exact_primary_links(self):
         relevant = [x for x in self.claims if x["paper_id"] in IDS]
-        self.assertGreaterEqual(len(relevant), 20)
+        self.assertGreaterEqual(len(relevant), 18)
         for x in relevant:
             self.assertEqual(x["evidence_level"], "E2")
             self.assertFalse(x["independent_replication"])

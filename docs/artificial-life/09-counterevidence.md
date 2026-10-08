@@ -101,3 +101,21 @@ The [2025 review](https://doi.org/10.1098/rstb.2024.0298) and [2026 ALIFE summar
 **Falsifier:** [ten independent operational criteria](23-unified-organism-evidence-standard.md) must reject oscillator, engine-repaired body and externally novelty-scored agent nulls before any claim of digital autonomy.
 
 **Current research conclusion:** replication under a specified causal criterion has been better established for Outlier. **Independently heritable functional innovation and self-maintenance remain open**; neither a confident "yes" nor a categorical "impossible" is justified.
+
+## C21 — Allowing more survival can select empty computation
+**E2 negative finding:** [Stringmol 2016](26-stringmol-2016-full-review.md) shows that protecting bound molecular pairs from decay can favor effectively immortal but **nonreplicating infinite-loop complexes**. Length-dependent death rules select very long sequences that can inflate computing costs. These are **author-published selection loopholes**, not a universal model of chemistry.
+**Discriminator:** quantify functioning viable daughters and resource/replication costs at matched conditions, not survival time alone.
+
+## C22 — Evolving interpreters can undermine their own replication
+**E2 author finding:** [Stringmol semantic closure 2017](27-semantic-closure-2017-full-review.md) reports viable copier/expressor transitions in 39/500 worlds **and "bureaucratic death"**, when incompatible genome-expression machinery proliferates. Copying fidelity and interpretation fidelity are different control problems.
+**Discriminator:** tests of viable descendants/new functional capability with inherited interpretation, and separate copy-error versus expressor-error interventions. Count crashes, not just successful takeovers.
+
+## C23 — More evolvable processor structures need not overtake selection
+**E2 negative/comparison finding:** [Physis 2003](28-physis-2003-full-review.md) evolves some intermediate instruction semantics while the initial virtual-processor structure remains >90% of populations. Task-reward experiments involve explicit programmer-defined rewards; authors did **not** demonstrate superior evolutionary potential in the tested conditions.
+**Discriminator:** compare frozen vs heritably mutable processor on equal resource/task budgets with independent new ecological functions, avoiding hand-targeted task bonuses.
+
+## C24 — Engineering definitions are not achieved empirical systems
+**E2 conceptual review:** [Stepney 2025](25-stepney-2025-complete-review.md) proposes autopoiesis, agency and open-ended adaptation as high-level requirements. Her argument *assumes* the possibility of virtual life for analysis and distinguishes requirements/design/implementation. Full paper review **does not prove** all three can be implemented together.
+**Discriminator:** test each property independently, with negative controls for passive attractors, external repair, and human-assigned novelty scores.
+
+See [technical comparison](29-evolvable-semantics-cross-study.md) for remaining conflicting conclusions and a future-only falsifier. No life/consciousness or indefinite evolving-intelligence claim is supported here.

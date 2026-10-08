@@ -4,6 +4,20 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## Fifth scholarly pass: semantic closure, Stringmol and Physis deep methods (2026-10-08)
+
+**Scope:** AI-Research scholarly documentation only; no AI or artificial organism experiment, virtual world, execution of untrusted program code, deployment or modifications to Ora/AgentTest.
+
+**New verified content:** [Stepney 2025 E2](25-stepney-2025-complete-review.md) separates engineering requirements/design/implementation and reports autopoiesis, agency and open-ended adaptation as **proposed** requirements. [Stringmol 2016 E2](26-stringmol-2016-full-review.md) documents **32/100 vs 0/100** parasite escape under stochastic vs sticky binding and pathological effects of decay rules (immortal loops, oversized costly molecules). [Stringmol 2017 E2](27-semantic-closure-2017-full-review.md) reports **39/500 viable universal-constructor takeovers**, with **32 changing copier/expressor** and a *bureaucratic death* interpreter-incompatibility mechanism. [Physis 2003 E2](28-physis-2003-full-review.md) documents heritable intermediate processor semantics with limited structural takeover and no proven advantage over fixed processors in the studied regimes.
+
+**Key scientific distinction:** program evolution (mutations of instructions), genotype-encoded instruction semantics, and the viability of genome-encoded copier/expressor semantics are different. **An evolving interpretation mechanism can remain viable**, but current examined systems do **not** show continued, independently assayed new ecological functions, autonomous metabolism, infinitely open-ended complexity, or new intelligence. [Critical comparison](29-evolvable-semantics-cross-study.md).
+
+**Registry:** **193** literature records across **30** tracks, **47** ALife source notes, **12** E2 full paper/theory reviews, **66** qualified source claims, **9** specific machine method-audit receipts, **4** pinned code source metadata receipts. Existing **15** untested ALife hypotheses and **11** authorization-gated future experiments unchanged. 2020 Stringmol and 2026 late-breaking Physis abstracts remain **E1**. The newly examined Physis Python port at SHA `5b5b7f8d3763c0cdbdfb036893645021823ad6a6` was not run and had no verified root software license, and is **not assumed to match 2026 GPU work**.
+
+**CI resolution:** metadata commit `c88ed39ca062458cce636ac33bcba4275a0bf3f9` initially failed only old test-count / source URL assumptions; updated evidence tests preserve E1 historical claims even when the paper later became E2. Test-fix commit `999d341d156ce88950993e4ae6e43fa133a612a7` was reported successful by GitHub Actions run `37787540852`. The next full repo checkpoint after navigation updates requires new CI verification, rather than assuming success.
+
+**Next priorities:** (1) complete 2020 Stringmol novelty/variation/emergence paper and 2026 ALIFE Physis late abstract where text is accessible; (2) independently review reproducibility/counterexamples of 2017 universal constructor and 2003 Physis, without running an artificial organism; (3) evaluate specific null controls for copy fidelity vs interpretation fidelity, resource accounting and true new ecological function; (4) record software/data rights, methods revisions and negative papers. No new experimental project without separate approval.
+
 ## Fourth scholarly pass: Outlier causal replication and 2026 ALIFE conceptual directions (October 8, 2026)
 **Scope:** changed only the private AI-Research reference library and metadata. No organism, cellular simulation, original source code, agent autonomy, model weights, Ora or AgentTest was created/modified/deployed.
 

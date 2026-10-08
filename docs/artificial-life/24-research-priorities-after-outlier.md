@@ -2,6 +2,13 @@
 
 **Research roadmap updated 2026-10-08.** Scientific design only; no digital organism, world, evolutionary program or source-analysis runner was authorized or built.
 
+## Fifth research pass — bibliographic follow-through (2026-10-08)
+**Full E2 methods reviews now completed:** [Stepney's 2025 paper](25-stepney-2025-complete-review.md), [Stringmol 2016](26-stringmol-2016-full-review.md), [Stringmol UCA semantic closure 2017](27-semantic-closure-2017-full-review.md), and [Physis 2003](28-physis-2003-full-review.md). Their [unified critical comparison](29-evolvable-semantics-cross-study.md) identifies the **two fidelity constraints** (hereditary copying and viable interpretation), tested selection-loophole scenarios, and why endogenous semantic evolution has not yet demonstrated continued independent ecological innovation.
+
+**New highest-information literature gaps:** source-specific independent replication and negative trials of 2017 universal-constructor Stringmol; 2020 Stringmol full methods and the 2026 ALIFE Physis late-breaking booklet/code; empirical methods defining self-maintaining boundaries and viable niche novelty; exact physical and artificial resource accounting. **Next archival research** should seek methods/appendices and separately verify original simulation traces before any new experiment is proposed for approval.
+
+**Still research-only:** no new organism, simulated ecosystem, mutable language engine or experiment run is authorized. Previous AL09–AL11 designs remain future-only under the original approval gate.
+
 ## What has genuinely changed after this pass?
 
 - **Original Outlier** demonstrated two-scale repeating structures arising under a GP-selected binary CA rule. [Full-paper review](20-outlier-original-2025-full-review.md).

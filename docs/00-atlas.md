@@ -1,5 +1,8 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | ALife research addition | Status: **193 research records across 30 tracks, twelve full-paper/theory reviews; no artificial organism or trained model**
+Updated: 2026-10-08 | ALife research addition | Status: **195 research records across 30 tracks, thirteen full-paper/theory reviews; no artificial organism or trained model**
+
+## Latest: when evolutionary novelty is only in the observer's model
+The [Stringmol 2020 complete eight-page study](artificial-life/30-stringmol-2020-novelty-full-review.md) distinguishes internally available code modifications from **extrinsic** scientific reclassification, including its reaction-network type-2 example. This becomes central to the [12-case failure mechanism ledger](../data/alife/failure-modes.jsonl), [three competing research-only candidate architectures](artificial-life/33-three-pathway-critical-experiments.md), and [ALIFE 2026 Physis evidence-boundary review](artificial-life/31-physis-2026-source-boundaries.md) (full booklet not inspected, remains E1).
 
 ## Deep research: evolving the interpreter rather than only the program
 The [four new E2 technical reviews](artificial-life/29-evolvable-semantics-cross-study.md) trace a key artificial-life challenge from **Physis (2003)** through **Stringmol (2016–2017)** to Stepney's **2025 requirements/design/implementation** framework. Heritable changes to an intermediate instruction interpreter and viable molecular expressor/copy machinery have been reported, **but no independently verified continued functional innovation or self-maintaining organism is demonstrated**. The 2026 Physis meta-chemistry late abstract and 2020 novelty conference abstract remain **E1**. Research-only; no simulator or organism executed.
@@ -23,7 +26,7 @@ The [three-paper comparison](artificial-life/19-three-paper-methodology-comparis
 5. Hybrid architectures may offer useful latency/context/quality tradeoffs, but must beat strong attention baselines.
 
 ## Updated reading map
-Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [193-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
+Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [195-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
 
 ## Navigation by the question you are asking
 

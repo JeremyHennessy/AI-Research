@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Pass 3 — **108** curated research records across **18** tracks, **24** explicit source-backed claims, and **22** experiment proposals. Offline research validation and bibliographic reconciliation are in place. **No new model trained, independently replicated or demonstrated as superior.**
+**Current stage:** Pass 4 — **146** research records in **25** tracks, **34** source-linked claims, **8** research disagreements, **3** documented publication corrections, and **28** experiment proposals. One full-paper source review is E2; **no new model has been trained or independently replicated here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -23,8 +23,17 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - [Research experiments and evaluation](docs/04-experiments.md)
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
-- [Pass 3: AI field map](docs/22-ai-field-map.md) — connect 18 disciplines
-- [Browse 108 source records](docs/19-paper-index.md) — categorized primary links
+- [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
+- [Browse 146 source records](docs/19-paper-index.md)
+- [Pass 4 research atlas](docs/29-pass4-index.md)
+- [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
+- [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)
+- [Graph and formal reasoning](docs/32-graph-formal-reasoning.md)
+- [Speech and brain-inspired AI](docs/33-audio-neuroscience.md)
+- [Multi-agent reliability](docs/34-multiagent-reliability.md)
+- [Conflicting research and corrected claims](docs/35-research-disagreements.md)
+- [Experimental plans E23–E28](docs/36-pass4-experiments.md)
+- [Pass 5 research handoff](docs/37-pass5-handoff.md)
 - [Interpretability & causal learning](docs/23-interpretability-and-causality.md)
 - [Safety, security & alignment](docs/24-alignment-and-security.md)
 - [Robotics, science & hardware](docs/25-embodied-science-hardware.md)
@@ -33,6 +42,8 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - [Next research program](docs/28-next-research-program.md)
 - [Pass 2 research decision map](docs/10-pass2-index.md)
 - [Evidence-qualified claim ledger](data/claims.jsonl)
+- [Research disagreement ledger](data/disagreements.jsonl)
+- [Paper corrections ledger](data/corrections.jsonl)
 - [Literature discovery pipeline](docs/20-collection-pipeline.md)
 - [Earlier Pass 3 handoff (historical)](docs/21-pass3-backlog.md)
 - [Open laboratory training recipes](docs/11-open-training-recipes.md)

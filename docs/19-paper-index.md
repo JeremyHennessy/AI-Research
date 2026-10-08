@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 183 curated research records across 30 research tracks. Three detailed paper reviews (E2: formal proof, ALife theory, and chemical self-replication); no independent model replication.
+**Pass 4 — 2026-10-08.** 183 curated research records across 30 research tracks. Six complete public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -308,7 +308,7 @@ This section is additive. Sources already indexed elsewhere are cross-linked rat
 
 | Year | Primary source | Evidence | Future research |
 |---:|---|---|---|
-| 2025 | [Flow-Lenia: Emergent evolutionary dynamics in mass conservative continuous cellular automata](https://arxiv.org/abs/2506.08569) | E1 | AL04 |
+| 2025 | [Flow-Lenia: Emergent evolutionary dynamics in mass conservative continuous cellular automata](https://arxiv.org/abs/2506.08569) | E2 | AL04 |
 | 2025 | [Emergence of Self-Replicating Hierarchical Structures in a Binary Cellular Automaton](https://doi.org/10.1162/artl_a_00449) | E1 | AL02 |
 | 2023 | [EINCASM: Emergent Intelligence in Neural Cellular Automaton Slime Molds](https://doi.org/10.1162/isal_a_00703) | E1 | AL05 |
 | 2022 | [Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization](https://arxiv.org/abs/2212.07906) | E1 | AL02 |
@@ -319,7 +319,7 @@ This section is additive. Sources already indexed elsewhere are cross-linked rat
 
 | Year | Primary source | Evidence | Future research |
 |---:|---|---|---|
-| 2026 | [Evolving Many Worlds: Towards Open-Ended Discovery in Petri Dish NCA via Population-Based Training](https://arxiv.org/abs/2604.11248) | E1 | AL04 |
+| 2026 | [Evolving Many Worlds: Towards Open-Ended Discovery in Petri Dish NCA via Population-Based Training](https://arxiv.org/abs/2604.11248) | E2 | AL04 |
 | 2026 | [Directing Open-Ended Evolution in Artificial Life via Multi-Scale Path Divergence](https://arxiv.org/abs/2606.17091) | E1 | AL08 |
 | 2025 | [Guiding Evolution of Artificial Life Using Vision-Language Models](https://arxiv.org/abs/2509.22447) | E1 | AL08 |
 | 2024 | [Automating the Search for Artificial Life with Foundation Models](https://arxiv.org/abs/2412.17799) | E1 | AL08 |
@@ -340,7 +340,7 @@ Deep source audit: [Liu and Sumpter chemistry full paper review](artificial-life
 
 | Year | New source | Evidence | Proposed future experiment |
 |---:|---|---|---|
-| 2026 | [A speciation simulation that partly passes open-endedness tests](https://arxiv.org/abs/2603.01701) | E1 | AL04 |
+| 2026 | [A speciation simulation that partly passes open-endedness tests](https://arxiv.org/abs/2603.01701) | E2 | AL04 |
 | 2026 | [Visualising the Attractor Landscape of Neural Cellular Automata](https://doi.org/10.1162/ISAL.a.952) | E1 | AL07 |
 | 2025 | [Self-Reproduction and Evolution in Cellular Automata: 25 Years After Evoloops](https://doi.org/10.1162/artl_a_00451) | E1 | AL02 |
 | 2020 | [An Investigation into the Origin of Autopoiesis](https://doi.org/10.1162/artl_a_00307) | E1 | AL07 |

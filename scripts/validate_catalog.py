@@ -65,7 +65,7 @@ def validate_records(path: Path) -> tuple[int, list[str]]:
         if record["review_status"] not in {"queued", "abstract_only", "full_paper", "replicated"}:
             errors.append(f"line {line_no}: invalid review status")
         for key in ["title", "original_summary", "implementation_question"]:
-            if not isinstance(record[key], str) or len(record[key].strip()) < 8:
+            if not isinstance(record[key], str) or len(record[key].strip()) < (3 if key == "title" else 8):
                 errors.append(f"line {line_no}: missing/short {key}")
         if type(record["year"]) is not int or not (1950 <= record["year"] <= dt.date.today().year):
             errors.append(f"line {line_no}: invalid publication year")

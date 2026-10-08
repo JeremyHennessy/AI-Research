@@ -1,5 +1,5 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | Pass: 2 | Status: **curated and CI-validated research foundation; not a systematic full-text survey or trained model**
+Updated: 2026-10-08 | Pass: 3 | Status: **108 research source records; curated foundation, not systematic full-text review or trained model**
 
 ## In 60 seconds
 **Objective:** discover a measurable improvement in intelligence per dollar, per token, per joule, or per interaction; do not confuse a bigger benchmark score with general intelligence.
@@ -11,8 +11,8 @@ Updated: 2026-10-08 | Pass: 2 | Status: **curated and CI-validated research foun
 4. Learning environment dynamics and actions helps transfer better than text-only imitation on interactive tasks.
 5. Hybrid architectures may offer useful latency/context/quality tradeoffs, but must beat strong attention baselines.
 
-## Pass 2 additions
-Start at the [Pass 2 decision atlas](10-pass2-index.md) for recent 2026 alternatives, the [63-record catalog](19-paper-index.md), [lab recipes](11-open-training-recipes.md), [source claim ledger](../data/claims.jsonl), and [metadata collection pipeline](20-collection-pipeline.md). Reproduction candidates and the next research stages are indexed in the [backlog](21-pass3-backlog.md).
+## Updated reading map
+Start with the [18-track AI field map](22-ai-field-map.md) → the [108-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [Pass 4 research plan](28-next-research-program.md).
 
 ## Navigation by the question you are asking
 

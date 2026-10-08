@@ -2,6 +2,8 @@ name: AI Research offline validation
 on:
   push:
     paths:
+      - "README.md"
+      - "docs/**"
       - "data/**"
       - "scripts/**"
       - "tests/**"

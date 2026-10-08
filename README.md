@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Pass 2 — 63 curated research records, 24 source-linked claim records, architecture/training/memory dossiers, and offline-validated research tooling. **No new model trained, independently replicated or demonstrated as superior.**
+**Current stage:** Pass 3 — **108** curated research records across **18** tracks, **24** explicit source-backed claims, and **22** experiment proposals. Offline research validation and bibliographic reconciliation are in place. **No new model trained, independently replicated or demonstrated as superior.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -23,16 +23,23 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - [Research experiments and evaluation](docs/04-experiments.md)
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
-- [Pass 2: research decision map](docs/10-pass2-index.md)
-- [Browse the 63-paper index](docs/19-paper-index.md)
+- [Pass 3: AI field map](docs/22-ai-field-map.md) — connect 18 disciplines
+- [Browse 108 source records](docs/19-paper-index.md) — categorized primary links
+- [Interpretability & causal learning](docs/23-interpretability-and-causality.md)
+- [Safety, security & alignment](docs/24-alignment-and-security.md)
+- [Robotics, science & hardware](docs/25-embodied-science-hardware.md)
+- [New experiments E14–E22](docs/26-experiments-cross-domain.md)
+- [Expert reading guide](docs/27-expert-reading-guide.md)
+- [Next research program](docs/28-next-research-program.md)
+- [Pass 2 research decision map](docs/10-pass2-index.md)
 - [Evidence-qualified claim ledger](data/claims.jsonl)
 - [Literature discovery pipeline](docs/20-collection-pipeline.md)
-- [Pass 3 prioritized handoff](docs/21-pass3-backlog.md)
+- [Earlier Pass 3 handoff (historical)](docs/21-pass3-backlog.md)
 - [Open laboratory training recipes](docs/11-open-training-recipes.md)
 - [Architecture and tokenizer alternatives](docs/12-architectures.md)
 - [Memory, agents and world models](docs/13-memory-world.md)
 - [Literature catalog](data/papers.jsonl)
-- [Metadata collector](scripts/collect_arxiv.py)
+- [Metadata discovery and reconciliation](docs/20-collection-pipeline.md)
 
 ## Major research tracks
 1. **Data and pretraining:** high-quality data, tokenization, mixture control, deduplication, provenance, scaling laws, compute-optimal training.
@@ -57,3 +64,14 @@ Initial focus: **verifiable reasoning plus persistent structured memory and envi
 **Stage 4:** only advance experimentally superior systems, including rollback and safety reviews.
 
 This repository supports an ongoing scientific process. Literature review and automated validation are not evidence of model improvement. No novel system has been trained, evaluated or demonstrated to be superior in this repository.
+
+## Research workflow and current truth
+**Collect:** [arXiv](scripts/collect_arxiv.py), [Crossref](scripts/collect_crossref.py), [OpenAlex](scripts/collect_openalex.py) metadata; [reconcile](scripts/reconcile_sources.py) by stable DOI/arXiv identity; preserve discrepancies and provenance in E0 review queue.
+
+**Curate:** promote only after human/assistant review of the primary source; E1 means metadata/abstract or public lab release checked, not complete-paper comprehension. An indexed link doesn't imply validated scientific results.
+
+**Experiment:** controlled, cost-matched baselines with sealed tests; retain negative results and report exact commit, environment, benchmark and result artifacts.
+
+**Validate offline:** `python scripts/validate_catalog.py && python -m unittest discover -s tests -v`. GitHub Actions runs these checks; the manual literature workflow does not autonomously promote research claims.
+
+**Research continuity:** see [append-only log](data/research-log.md) and [Pass 4 plan](docs/28-next-research-program.md). A research repository improves documented knowledge and future retrieval; it does not itself retrain the assistant's model weights.

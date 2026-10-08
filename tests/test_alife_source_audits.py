@@ -51,7 +51,7 @@ class AlifeSourceAuditTests(unittest.TestCase):
         self.assertIn("6,886", review)
         self.assertIn("74/16,825", review)
         self.assertIn("unlimited reservoir", review)
-        self.assertIn("not independently", review.lower())
+        self.assertIn("no simulation or independent numerical replication", review.lower())
 
     def test_public_code_inventory_is_source_only(self):
         ids = set()
@@ -66,9 +66,9 @@ class AlifeSourceAuditTests(unittest.TestCase):
             self.assertFalse(source["executed"])
             self.assertFalse(source["models_trained"])
             self.assertFalse(source["rights_review_complete"])
-            self.assertIn("not", source["relationship_to_paper"].lower()
-                          if source["study_id"] == "arxiv:2506.08569"
-                          else "not verified")
+            self.assertGreater(len(source["relationship_to_paper"]), 30)
+            if source["study_id"] == "arxiv:2506.08569":
+                self.assertIn("not verified", source["relationship_to_paper"].lower())
 
     def test_no_new_ai_or_organism_implementation(self):
         experiments = rows("data/alife/experiment-designs.jsonl")

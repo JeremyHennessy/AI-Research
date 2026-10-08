@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Nineteenth ALife research pass (2026-10-08) — **264** curated source records across **30** tracks, **118** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **47** full-paper/theory reviews (E2), **227** evidence-qualified claims, **44** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Twentieth ALife research pass (2026-10-08) — **266** curated source records across **30** tracks, **120** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **49** full-paper/theory reviews (E2), **233** evidence-qualified claims, **46** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -47,6 +47,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 19 — transmission, recruitment and dispersal:** [2011 access boundary](docs/artificial-life/100-pass19-brock-2011-source-boundary.md) · [DiSalvo 2015 full review](docs/artificial-life/101-pass19-disalvo-2015-transmitted-carriage-full-review.md) · [Khojandi 2019 full review](docs/artificial-life/102-pass19-khojandi-2019-propagule-context-full-review.md) · [Inheritance through recruitment](docs/artificial-life/103-pass19-inheritance-through-recruitment-and-dispersal.md) · [Current handoff](docs/artificial-life/104-pass19-research-handoff.md). Two new E2 readings and one E1 historical source; pooled transmission and descendant function are distinct from reliable inheritance by every offspring.
 
+**Pass 20 — transmission provenance and benefit:** [Insect environmental-acquisition E2](docs/artificial-life/105-pass20-kikuchi-2007-environmental-acquisition-full-review.md) · [Clam egg/environment E2](docs/artificial-life/106-pass20-russell-2018-egg-and-environment-full-review.md) · [Evidence interpretation](docs/artificial-life/107-pass20-transmission-provenance-and-evidence.md) · [Current handoff](docs/artificial-life/108-pass20-research-handoff.md). Two independent host systems distinguish source of acquisition, presence and benefit; no new EERC version or scientific implementation.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -55,7 +57,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 264 source records](docs/19-paper-index.md)
+- [Browse 266 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

@@ -1,6 +1,8 @@
 # Artificial-life primary source bibliography (first systematic map)
 **Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; the Liu–Sumpter (2018), Flow-Lenia (2025), PBT-NCA (2026), ToLSim (2026), original Outlier (2025) and independent Hintze/Bohm (2026), **Physis 2003, Stringmol 2016, 2017 semantic closure, and Stepney 2025** detailed public methods are now E2. Remaining ALife sources, including ALIFE 2026 short abstracts, are E1 pending full-text method review. **E2 is a reading-depth label, not a reproduction.**
 
+**Pass 20 depth:** Kikuchi 2007 and Russell 2018 complete main-primary E2 readings. Direct acquisition contrasts and egg/environment localization are different evidence types; neither source establishes new digital life. [Provenance ledger](../../data/alife/pass20-transmission-provenance.json).
+
 **Pass 19 depth:** DiSalvo 2015 and Khojandi 2019 complete main-primary E2 readings; Brock 2011 remains E1 because full methods were not available. Three new records from a connected research program. [Transmission ledger](../../data/alife/pass19-transmission-evidence.json).
 
 **Pass 18 research depth:** two existing sources (Pauli 2022 and Melero-Jiménez 2025) promoted to complete-primary E2 and one new E2 source (Turner 2023). Older E1 claims preserve their original reading depth. [Relational evidence and unresolved reporting discrepancies](../../data/alife/pass18-relational-continuity-evidence.json). This current-depth update supersedes historical E1 labels for those two publications.
@@ -279,3 +281,8 @@ The [author listing](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-la
 - **Debra A. Brock et al. (2011)**, [Primitive agriculture in a social amoeba](https://doi.org/10.1038/nature09668). **E1**. [Review and access boundary](100-pass19-brock-2011-source-boundary.md).
 - **Susanne DiSalvo et al. (2015)**, [Burkholderia bacteria infectiously induce the proto-farming symbiosis of Dictyostelium amoebae and food bacteria](https://doi.org/10.1073/pnas.1511878112). **E2**. [Review and access boundary](101-pass19-disalvo-2015-transmitted-carriage-full-review.md).
 - **Niloufar Khojandi et al. (2019)**, [Intracellular Burkholderia Symbionts induce extracellular secondary infections; driving diverse host outcomes that vary by genotype and environment](https://doi.org/10.1038/s41396-019-0419-7). **E2**. [Review and access boundary](102-pass19-khojandi-2019-propagule-context-full-review.md).
+
+## XXI. Twentieth-pass primary sources — transmission route and function
+
+- **Yoshitomo Kikuchi et al. (2007)**, [Insect-Microbe Mutualism without Vertical Transmission: a Stinkbug Acquires a Beneficial Gut Symbiont from the Environment Every Generation](https://doi.org/10.1128/AEM.00067-07). **E2**. [Complete main review and limits](105-pass20-kikuchi-2007-environmental-acquisition-full-review.md).
+- **S. L. Russell et al. (2018)**, [Transmission strategies in a chemosynthetic symbiosis: detection and quantification of symbionts in host tissues and their environment](https://doi.org/10.1098/rspb.2018.2157). **E2**. [Complete main review and limits](106-pass20-russell-2018-egg-and-environment-full-review.md).

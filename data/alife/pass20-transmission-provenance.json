@@ -1,0 +1,56 @@
+{
+  "pass_number": 20,
+  "reviewed_at": "2026-10-08",
+  "baseline_commit": "cc5019511182a0fb17cd860fd248c45c2de97198",
+  "status": "research_only",
+  "studies": [
+    {
+      "paper_id": "doi:10.1128/AEM.00067-07",
+      "evidence_level": "E2",
+      "source_url": "https://journals.asm.org/doi/10.1128/aem.00067-07",
+      "review_document": "docs/artificial-life/105-pass20-kikuchi-2007-environmental-acquisition-full-review.md",
+      "summary": "Parent/environment contrasts and controlled symbiont addition support environmental acquisition in offspring; colonized adults are larger, without a consistent emergence-rate advantage.",
+      "caveat": "Five family broods inform transmission contrasts and four different broods inform controlled addition; adult detection denominators exclude non-emerging eggs. Size is not lifetime reproductive fitness."
+    },
+    {
+      "paper_id": "doi:10.1098/rspb.2018.2157",
+      "evidence_level": "E2",
+      "source_url": "https://www.shelbirussell.com/wp-content/uploads/2019/07/Russell-et-al.-Transmission-strategies-in-a-chemosynthetic-symbio.pdf",
+      "review_document": "docs/artificial-life/106-pass20-russell-2018-egg-and-environment-full-review.md",
+      "summary": "Egg-associated molecular and tissue signals support predominantly vertical transmission; environmental symbiont DNA is scarce and often co-occurs with host DNA, leaving environmental acquisition rates unresolved.",
+      "caveat": "Gene copies do not measure viable transmitted cells or successful offspring function. Egg extracts include pooled samples and technical replication; rare horizontal transmission is inferred, not directly counted."
+    }
+  ],
+  "independence": {
+    "insect": "Five family broods for route contrasts; four separate family broods for controlled addition.",
+    "clam": "Egg extracts include single and pooled samples with technical replication; environmental samples are not transmission events.",
+    "cross_study": "Distinct hosts and research systems, not a controlled cross-species comparison."
+  },
+  "evidence_dimensions": [
+    "identity and presence",
+    "source-specific acquisition",
+    "parent-linked transmission",
+    "functional benefit",
+    "repeated reproduction"
+  ],
+  "illustrative_model": {
+    "equation": "p = v + (1-v)*h",
+    "status": "bookkeeping identity under stated assumptions, not fitted or experimentally tested",
+    "assumptions": [
+      "v is direct inheritance probability",
+      "h is acquisition probability conditional on no inherited partner",
+      "no subsequent partner loss",
+      "perfect detection",
+      "sample before differential survival"
+    ]
+  },
+  "outstanding": [
+    "No direct per-generation horizontal-acquisition rate in clam study",
+    "No lifetime reproductive-output measurement in insect study",
+    "Earlier Pass 18 discrepancies and Pass 19 access gap remain unresolved"
+  ],
+  "next_priority": "Causal partner filtering versus differential growth and environmental abundance",
+  "organism_implemented": false,
+  "source_code_executed": false,
+  "independently_reproduced": false
+}

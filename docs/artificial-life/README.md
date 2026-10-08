@@ -2,11 +2,17 @@
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
-## Latest completed research — Pass 19 (2026-10-08)
+## Latest completed research — Pass 20 (2026-10-08)
+
+**266** papers across **30** tracks; **120** ALife notes; **49** E2 complete-primary readings; **46** method receipts; **233** claims. Two new full-main primary reviews; no independent scientific reproduction.
+
+[Current handoff](108-pass20-research-handoff.md) · [Transmission provenance and evidence](107-pass20-transmission-provenance-and-evidence.md) · [Evidence ledger](../../data/alife/pass20-transmission-provenance.json). Next: causal evidence of selective partner recruitment rather than prevalence alone.
+
+## Historical completed research — Pass 19 (2026-10-08)
 
 **264** papers across **30** tracks; **118** ALife notes; **47** E2 complete-primary readings; **44** method receipts; **227** claims. Two new E2 sources and one E1 source, no independent scientific reproduction.
 
-[Current handoff](104-pass19-research-handoff.md) · [Transmission and recruitment synthesis](103-pass19-inheritance-through-recruitment-and-dispersal.md) · [Evidence ledger](../../data/alife/pass19-transmission-evidence.json). Next: quantitative separation of vertical transmission and environmental reacquisition in an independent host system.
+[Pass 19 handoff](104-pass19-research-handoff.md) · [Transmission and recruitment synthesis](103-pass19-inheritance-through-recruitment-and-dispersal.md) · [Evidence ledger](../../data/alife/pass19-transmission-evidence.json). Next: quantitative separation of vertical transmission and environmental reacquisition in an independent host system.
 
 ## Historical completed research — Pass 18 (2026-10-08)
 

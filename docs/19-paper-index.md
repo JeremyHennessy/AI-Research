@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 19 — 2026-10-08:** 264 curated research records across 30 tracks, with 47 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 20 — 2026-10-08:** 266 curated research records across 30 tracks, with 49 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -560,3 +560,12 @@ Current E2 promotions below supersede older E1 source-depth entries; historical 
 | 2019 | [Intracellular Burkholderia Symbionts induce extracellular secondary infections; driving diverse host outcomes that vary by genotype and environment](https://doi.org/10.1038/s41396-019-0419-7) | E2 | AL11 |
 
 [Pass 19 source boundaries and handoff](artificial-life/104-pass19-research-handoff.md). These are connected studies, not three independent origins.
+
+## Pass 20 — transmission provenance in independent host systems
+
+| Year | Publication | Evidence | Experiment |
+|---:|---|---|---|
+| 2007 | [Insect-Microbe Mutualism without Vertical Transmission: a Stinkbug Acquires a Beneficial Gut Symbiont from the Environment Every Generation](https://doi.org/10.1128/AEM.00067-07) | E2 | AL11 |
+| 2018 | [Transmission strategies in a chemosynthetic symbiosis: detection and quantification of symbionts in host tissues and their environment](https://doi.org/10.1098/rspb.2018.2157) | E2 | AL11 |
+
+[Pass 20 full reviews and handoff](artificial-life/108-pass20-research-handoff.md). Reading depth does not imply independent experimental reproduction.

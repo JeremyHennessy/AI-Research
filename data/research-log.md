@@ -221,3 +221,13 @@
 **Catalog after atomic branch integration:** six new papers/notes, three E2 full-main review/audit receipts, fifteen caveated claims; **260 curated publications** across 30 tracks, **114** ALife notes, **42** E2 full primary source reviews, **39** ALife method audits and **210** claims. Previous 15 proposed hypotheses, 11 future-only experiment plans, ten evidence criteria, twelve detailed failure cases, EERC v1–v6 and Ora2.0 crosswalk retained. **Zero independent scientific E3 reproductions.** Preliminary branch source uniqueness/URL/citation crosslinks passed. Final main head CI must be checked after full navigation merge; GitHub metadata tests don't experimentally verify papers.
 
 **Next:** [Pass 17 handoff](../docs/artificial-life/93-pass17-research-handoff.md) prioritizes genuine producer-caused ecological route changes with knockout/rescue, derivative viability in daughters, route blockers in natural rather than scripted conditions, and negative cohorts. No model, organism, simulation, training or API executed.
+
+## 2026-10-08 — Pass 17 recovered from interrupted chat
+
+Recovered saved Pass 17 tip `910b14fef9c3ea263835d69b592acbb7d6a0cbe8`, based on Pass 16 main `f2839a5c3ca8871d97a18f00073e00590966e122`. Its six sources, three E2 receipts, fifteen claims, five reviews/synthesis documents, v7 proposal and six-study matrix were already committed. Prepared navigation, counts and a handoff on a separate recovery branch. A later fetch found the original branch had resumed through `f67d5e5fd3cf7919f2e0def6423f63559328d0a9`; reconciled both histories and retained its canonical handoff with a recovery addendum.
+
+New [recovery audit](../docs/artificial-life/94-pass17-recovery-causal-audit.md) resolves shared PTE study provenance, distinguishes a natural enzyme transition from laboratory evolution, and corrects causal interpretation: material rescue after producer removal does not alone refute endogenous production. Endpoint presence also does not isolate mutation arrival. Saved EERC v1-v7 manifests and dated Ora2.0 crosswalk preserved.
+
+Catalog: **260 papers / 30 tracks; 114 ALife notes; 42 E2 reviews; 39 ALife method receipts; 210 claims**. Recovered branch: syntax/schema and **66/66 offline tests passed**. Final publication CI must be checked at the actual published commit. No source experiments independently replicated and no scientific runtime changed. Earlier E2 reading receipts retained; this recovery performed selected primary checks with access limitations documented.
+
+Next: Pass 18 should distinguish partner-dependent persistence, specific material rescue and independently reconstructed descendant relationships, starting with unresolved existing Pass 11 sources. Research only; no changes to Ora/AgentTest/Ora2.0.

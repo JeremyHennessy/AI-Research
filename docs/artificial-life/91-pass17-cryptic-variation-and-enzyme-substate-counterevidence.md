@@ -46,3 +46,5 @@ The authors characterized previously selected enzyme function transitions, measu
 | Stable alternative catalytic substates mean neurons or awareness | Sakuma 2026 | Protein chemical kinetics is not experience, intelligence or self-generated organismhood |
 
 **Best future research priority:** the counterfactual first point where a **previously low-fitness but physically possible** activity becomes **selectable through an organism-produced environment** rather than through a scientist adding the target nutrient/reward. This is the next EERC hypothesis, not an established result. No experimental activity authorized.
+
+**Recovery provenance correction (2026-10-08):** Publisher reference lists establish shared earlier PTE trajectory studies (Tokuriki 2012; Kaltenbach 2015). Exact per-variant overlap remains unaudited. Kaltenbach also characterizes a natural AtzA/TriA transition; both examples must not be described as laboratory-evolved. See the [recovery audit](94-pass17-recovery-causal-audit.md).

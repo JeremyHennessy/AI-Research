@@ -2,6 +2,12 @@
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
+## Latest completed research — Pass 17 (2026-10-08)
+
+**260** curated papers across **30** tracks; **114** ALife notes; **42** E2 reviews across AI-Research; **39** ALife method receipts; **210** claims. Earlier dated sections below retain historical counts.
+
+[Current handoff](93-pass17-research-handoff.md) · [EERC-C untested proposal](92-pass17-eerc-ecological-constraint-redistribution.md) · [Recovery source and causal audit](94-pass17-recovery-causal-audit.md). Recovered saved work rather than duplicating it; source reviews are not independent experimental reproduction. Next: partner-loss, material rescue and descendant reconstruction evidence.
+
 ## Central question
 **Can computational processes develop and sustain organizational properties associated with living systems, rather than merely producing lifelike-looking behavior or serving human-defined tasks?**
 

@@ -41,6 +41,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 17 — causal alternatives and why hidden routes fail:** [Lind 2015 full E2](docs/artificial-life/88-pass17-lind-2015-hidden-evolutionary-routes-full-review.md) · [Taylor 2016 full E2](docs/artificial-life/89-pass17-taylor-2016-cryptic-yeast-genetic-architecture-full-review.md) · [Johnson & Desai 2022 full E2](docs/artificial-life/90-pass17-johnson-2022-mutational-robustness-landscape-full-review.md) · [Contrary yeast/enzyme evidence](docs/artificial-life/91-pass17-cryptic-variation-and-enzyme-substate-counterevidence.md) · [EERC-C original causal hypothesis](docs/artificial-life/92-pass17-eerc-ecological-constraint-redistribution.md) · [Unimplemented EERC v7](data/alife/combined-path-eerc-v7.json) · [Canonical Pass 17 handoff](docs/artificial-life/93-pass17-research-handoff.md). The independent Ora2.0 crosswalk and all earlier EERC versions remain unchanged; no new organism, simulated world or scientific replication.
 
+**Pass 17 recovery audit:** [Source independence and causal rescue interpretation](docs/artificial-life/94-pass17-recovery-causal-audit.md). Concurrent continuation commits and the canonical handoff are preserved.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)

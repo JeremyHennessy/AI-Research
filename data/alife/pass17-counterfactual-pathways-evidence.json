@@ -18,7 +18,7 @@
       "study": "Taylor et al 2016 yeast cross genotype-phenotype epistasis",
       "unit": "106 independently initiated parent crosses, >100000 progeny tested, 17 independently selected rough segregants",
       "findings": "8 novel mutation interactions, 9 standing variant recombinations; common pathway components",
-      "independence": "New yeast species/genetic-cross study, distinct laboratory from Pseudomonas route studies",
+      "independence": "Separate yeast genetic-cross study, distinct laboratory and species from the Pseudomonas route studies; not origin of a new species",
       "caveat": "morphology proxy, unknown ecological utility, shared parent lines"
     },
     {
@@ -45,16 +45,16 @@
       "study": "Sakuma et al 2026 enzyme single-molecule functional substates",
       "unit": "one wild-type and 18 previously evolved selected variants; new single-molecule tests, not 18 evolutionary cohorts",
       "findings": "native and alternate catalytic-state distributions shift over previously selected trajectory",
-      "independence": "trajectories pre-existed in earlier directed-evolution literature, independence from Kaltenbach's studied enzyme families not exhaustively reconciled",
+      "independence": "References 45-46 share the earlier PTE trajectory studies with Kaltenbach 2016 references 29 and 33: Tokuriki 2012 and Kaltenbach 2015. New measurement study, not independent origin; exact per-variant overlap not audited.",
       "caveat": "metal/cofactor heterogeneity alters peaks; simulation model does not prove selection of ecological benefit"
     },
     {
       "paper_id": "doi:10.1371/journal.pgen.1006305",
       "level": "E1",
       "study": "Kaltenbach et al 2016 enzyme promiscuity and tradeoff",
-      "unit": "measured mutation effects in two previously evolved enzyme function transitions",
+      "unit": "Mutation-effect assays for one laboratory-evolved PTE/AE transition and one characterized natural AtzA/TriA transition",
       "findings": "native function not always more robust to mutation than promiscuous one, contradicts simplistic universal explanation",
-      "independence": "original assays on older lab-evolved functional trajectories; not independent new evolution of whole organisms",
+      "independence": "PTE source trajectories overlap Sakuma 2026 via Tokuriki 2012 and Kaltenbach 2015; the other functional transition is natural rather than a second laboratory evolution.",
       "caveat": "selection bias, highly specific prepared molecular assays, not ecological-reproductive proof"
     }
   ],
@@ -67,5 +67,6 @@
     "Kaltenbach: rejects robust-native/mutable-promiscuous simple theory"
   ],
   "independent_reproduction_by_AI_Research": false,
-  "experiments_executed": 0
+  "experiments_executed": 0,
+  "recovery_audit": "docs/artificial-life/94-pass17-recovery-causal-audit.md"
 }

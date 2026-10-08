@@ -42,3 +42,13 @@ At atomic catalog branch commit `910b14fef9c3ea263835d69b592acbb7d6a0cbe8`, inde
 7. Future experimental work, if separately authorized, must use an isolated reversible sandbox outside AI-Research with frozen primitive laws, no API keys, negative controls and appropriate rights.
 
 **No automatic cross-project authority:** the Ora2.0 crosswalk is a separate interpretation document, not approval to modify its code or run a new world. Preserve the approved GitHub and runtime checkpoints.
+
+## Recovery addendum — concurrent continuations reconciled
+
+A separate continuation recovered branch tip `910b14fef9c3ea263835d69b592acbb7d6a0cbe8`, completed local checks, and then discovered that this original handoff and navigation had been committed through `f67d5e5fd3cf7919f2e0def6423f63559328d0a9`. Both histories are preserved on `research/pass17-recovery-20261008`; the original handoff above remains intact.
+
+The [targeted recovery audit](94-pass17-recovery-causal-audit.md) adds verified shared PTE trajectory provenance, distinguishes Kaltenbach's natural second transition from laboratory evolution, and clarifies that exogenous material rescue can support mediation rather than disprove endogenous production. Its interpretation qualifies the archived v7 ecological-cause falsifier without altering the original manifest. Endpoint occurrence also cannot isolate mutation arrival from establishment or detection.
+
+Recovery validation: syntax compilation, 260-record catalog validation, all 66 existing offline tests, historical baseline byte comparisons and Pass 17 local-link checks passed before reconciliation. Reconciled-commit validation and final main CI must be checked separately. These are integrity checks, not experimental reproduction. Renewed primary checks were selective; earlier full-reading receipts are not relabeled as new complete readings.
+
+For Pass 18, prioritize the producer/consumer causal comparison above and separately ask whether viable descendants reconstruct the relation after continuing external support is removed. Existing unresolved Pauli/Melero sources from Pass 11 may help distinguish individual rescue from collective persistence. Preserve all original research-only boundaries.

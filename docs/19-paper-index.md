@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 10 — 2026-10-08:** 206 curated research records across 30 tracks, with 18 complete-primary E2 reviews; none independently reproduced. The legacy per-track tables below preserve the Pass 4 snapshot; newer additions are listed in the separate tenth-pass addendum at the end. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 11 — 2026-10-08:** 214 curated records across 30 tracks, 22 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -415,3 +415,20 @@ These nine are **now represented in [the canonical catalog](../data/papers.jsonl
 | 2012 | [Experimental evolution of multicellularity](https://doi.org/10.1073/pnas.1115323109) | artificial-life | E1 | Settling-selected clonal yeast groups and propagules |
 
 [Critical E2 bacterial review](artificial-life/45-pass10-pseudomonas-life-cycle-2020-full-review.md) · [Critical E2 algae review](artificial-life/46-pass10-chlamydomonas-ancestry-2025-full-review.md) · [Hypothesis/anti-overclaim comparison](artificial-life/47-pass10-major-transition-mechanism-synthesis.md) · [Tenth-pass handoff](artificial-life/48-pass10-research-handoff.md).
+
+## Eleventh-pass primary-source additions (8 new papers, 4 E2 main reviews)
+
+These eight sources are **separately recorded** in the [canonical source catalog](../data/papers.jsonl); no repeated biological cohort is treated as independent scientific replication.
+
+| Year | Primary publication | Review | Evidence and critical boundary |
+|---:|---|---|---|
+| 2026 | [Host-initiated microbial association leads to stable ectosymbiosis in an ecological model](https://doi.org/10.1371/journal.pcbi.1014699) | E2 | Toxic-byproduct buffering favors binding in a model; attachment and reproduction preinstalled |
+| 2025 | [Mutualism breakdown underpins evolutionary rescue in an obligate cross-feeding bacterial consortium](https://doi.org/10.1038/s41467-025-58742-1) | E1 | Majority recovered by *one* autonomous survivor, not recovered mutualism |
+| 2025 | [The Evolution of Dependence and Cohesion in Incipient Endosymbioses](https://doi.org/10.1086/737588) | E1 | Theory distinguishes dependence from synced reproduction; main paywalled |
+| 2024 | [Inducing novel endosymbioses by implanting bacteria in fungi](https://doi.org/10.1038/s41586-024-08010-x) | E2 | Inherited association lost after 4–5 unselected generations; one original fungal injection founder |
+| 2024 | [Microbial diversification is maintained in an experimentally evolved synthetic community](https://doi.org/10.1128/msystems.01053-24) | E2 | Old 200-generation evolution cohorts reexamined; invalidated one hypothesis; missing matched benzoate control |
+| 2022 | [Obligate mutualistic cooperation limits evolvability](https://doi.org/10.1038/s41467-021-27630-9) | E1 | Antibiotic stress can favor metabolic escape from obligation |
+| 2020 | [Ecological scaffolding and the evolution of individuality](https://doi.org/10.1038/s41559-019-1086-9) | E1 | Model uses imposed patches and dispersal structure |
+| 2017 | [The evolution of host-symbiont dependence](https://doi.org/10.1038/ncomms15973) | E2 | 106 literature pairings, correlated transmission and host dependency, phylogeny confounds |
+
+[New EERC falsifiable scientific path](artificial-life/53-pass11-new-path-ecological-reproductive-closure.md) · [EERC hypothesis manifest](../data/alife/combined-path-eerc-v1.json) · [Pass 11 handoff](artificial-life/54-pass11-research-handoff.md).

@@ -133,3 +133,21 @@ The [ALIFE 2026 author abstract](31-physis-2026-source-boundaries.md) reports th
 **Falsifier:** exact original-vs-GPU configuration/seed evidence, organism-level lineage, interpreter-semantics change, and independently measured useful function in viable descendants. **Keep E1**.
 
 [Structured 12-case failure ledger](../../data/alife/failure-modes.jsonl), [three proposed independent test pathways](33-three-pathway-critical-experiments.md). No organism, simulation or AI training run was performed by this research pass.
+
+## C31 — More elaborate replication can be adaptive even when it is slower
+The complete [2021 spatial Stringmol primary paper](35-stringmol-spatial-parasitism-2021-full-review.md) describes non-complementary binding, self-scanning and partner checks which can reduce the advantage of short parasite sequences. This is credible **within-world evolved strategy**, but does not establish unlimited novelty or internallly evolved new primitive opcodes.
+**Control:** remove parasite pressure and ablate self-scan under matched geometry, material budgets and mutation opportunities; measure blind new functions, not complexity alone.
+
+## C32 — Spatial organization doesn't make extinction disappear
+The 2021 study's **12/20 extinct worlds** were not slower versions of the eight survivors. Two grid shapes and two initial seed-placement regimes were tested, five worlds per combination. Plotting only surviving worlds can overstate generality.
+**Control:** record every seed, extinction/collapse time, resource use and error range, including failures, before claiming robust long-horizon evolution.
+
+## C33 — Built-in individuality and reproduction are shortcuts, not observed origins
+The complete [Banzhaf et al. 2016 31-page framework](36-banzhaf-2016-open-ended-novelty-full-review.md) identifies fixed individuality, simulator-level cloning and precomputed fitness as modeling shortcuts. A research system may use them legitimately, but it cannot claim that the very property supplied by the shortcut emerged from the lower level.
+**Control:** preregister the difference between engineered entity API, actual reproduced descendant process, and observer-defined species category. Do not reject genuine evolved defense just because its substrate is artificial.
+
+## C34 — Actual RNA parasite lineages differ from the digital model
+[2020 wet RNA evolution](https://doi.org/10.7554/eLife.56038) reports diversification of host and parasite RNA lineages in a physical replication system, whereas the 2021 Stringmol authors report newly parasitic code frequently arising from mutated replicators. These are **distinct substrates and experimental histories**; the physical study was only screened at E1 here.
+**Control:** identify conserved *causal mechanisms* of competition, partner recognition, resource/environment response and lineage transmission, rather than simply calling both systems alive or open-ended.
+
+[New literature research handoff](38-pass7-research-handoff.md) and [twelve previously registered failure mechanisms](../../data/alife/failure-modes.jsonl). None of these counterexamples requires implementing an artificial organism in this research repo.

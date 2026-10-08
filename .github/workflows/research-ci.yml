@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Syntax
-        run: python -m compileall -q scripts tests
+        run: python -m compileall -q scripts tests experiments
       - name: Validate metadata
         run: python scripts/validate_catalog.py
       - name: Test tools (offline fixtures only)

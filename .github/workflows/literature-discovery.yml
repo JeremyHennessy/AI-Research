@@ -37,6 +37,9 @@ jobs:
           LIMIT: ${{ inputs.limit }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: python scripts/collect_openalex.py --query "$QUERY" --limit "$LIMIT"
+      - name: Reconcile work identities conservatively
+        if: always()
+        run: python scripts/reconcile_sources.py
       - name: Upload unreviewed discovery queue
         if: always()
         uses: actions/upload-artifact@v4

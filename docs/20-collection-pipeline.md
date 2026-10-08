@@ -1,5 +1,5 @@
 # Literature discovery pipeline — Pass 2
-**What exists:** bounded, metadata-only collectors for **arXiv, Crossref, OpenAlex** and an on-demand GitHub Actions workflow. **Not** continuous scraping, bulk downloads, a full-text repository or a scientifically reviewed crawl.
+**What exists:** bounded, metadata-only collectors for **arXiv, Crossref, OpenAlex**, a conservative multi-source identity reconciler and an on-demand GitHub Actions workflow. **Not** continuous scraping, bulk downloads, a full-text repository or a scientifically reviewed crawl.
 
 ## Run locally
 Python 3.11+ and standard library only.
@@ -8,15 +8,16 @@ Python 3.11+ and standard library only.
 python scripts/collect_arxiv.py --query "language model reasoning" --limit 20
 python scripts/collect_crossref.py --query "language model reasoning" --limit 20 --from-year 2025
 python scripts/collect_openalex.py --query "language model reasoning" --limit 20
+python scripts/reconcile_sources.py
 python scripts/validate_catalog.py
 python -m unittest discover -s tests -v
 python experiments/temporal_memory.py --trials 100 --seed 41
 ```
 
-The collectors write `data/discovered/*.jsonl` as an **unreviewed queue E0** with only bibliographic metadata. They do not copy full-text abstracts or PDFs or change `data/papers.jsonl` automatically. No crawling against publisher paywalls, bypasses or private lab systems. `data/discovered/` stays excluded from Git by default; intentionally promote verified sources in a reviewed commit.
+The collectors write `data/discovered/*.jsonl` as an **unreviewed queue E0** with only bibliographic metadata. They do not copy full-text abstracts or PDFs or change `data/papers.jsonl` automatically. The reconciler matches by **exact DOI or arXiv identity only**, retains original source IDs/URLs, flags conflicting titles, and **never** promotes review status or merges solely on title similarity. No crawling against publisher paywalls, bypasses or private lab systems. `data/discovered/` stays excluded from Git by default; intentionally promote verified sources in a reviewed commit.
 
 ## Run from GitHub
-Repository → Actions → **Manual literature metadata discovery** → Run workflow → set topic and limit → download the generated research-metadata-queue artifact. This workflow is **manual only** (not a scheduled background monitor) and does not publish discoveries or change the evidence classification.
+Repository → Actions → **Manual literature metadata discovery** → Run workflow → set topic and limit → download the generated research-metadata-queue artifact (which now includes `reconciled.jsonl`). This workflow is **manual only** (not a scheduled background monitor) and does not publish discoveries or change the evidence classification.
 
 If any source errors/rate limits, the workflow can fail while still uploading already produced queues. Check the logs; a failed API call is **not** empty research coverage.
 

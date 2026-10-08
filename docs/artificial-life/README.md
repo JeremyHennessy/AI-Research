@@ -7,6 +7,8 @@
 
 We are *not* presupposing a Transformer, LLM, biological phenotype, human-like personality or human-assigned mission. Intelligence could be an eventual, contingent outcome rather than the first optimization target.
 
+**Cross-project evidence boundary (2026-10-08):** [Ora2.0 research-to-development crosswalk](ora2-evidence-to-roadmap-2026-10-08.md) documents Pass 15, a provisional Pass 16 branch checkpoint, and Ora2.0's latest negative/engineering gates. This is research interpretation only; it creates no new E2/E3 evidence, runnable experiment, autonomous runtime or permission to change another project's approved state.
+
 ## Eight-minute map
 
 | Read | Answers | Deliverable |

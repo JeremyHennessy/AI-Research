@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-10-08",
+  "scope": "research-only cross-paper study-unit map; author-reported results; no independent reproduction",
+  "measurement_note": "successes refer to each paper's own finite phenotype definition, not a common organism or consciousness score",
+  "study_units": [
+    {
+      "id": "rose2020-nonmixed",
+      "paper_id": "doi:10.1111/ele.13570",
+      "study_type": "wet_lab_evolution",
+      "organism": "Pseudomonas fluorescens",
+      "unit": "metapopulation (eight competing microcosms)",
+      "n_metapopulations": 15,
+      "generations": 10,
+      "treatment": "non-mixed SM dispersal propagules",
+      "outcome": "group offspring fitness increased and cell density-based fitness decreased relative to ancestral samples",
+      "source_review": "docs/artificial-life/45-pass10-pseudomonas-life-cycle-2020-full-review.md",
+      "independent_of": [
+        "chen2025-predator",
+        "chen2025-settling",
+        "herron2019-predator"
+      ],
+      "not_independent_of": [
+        "hammerschmidt2014-nonmixed"
+      ],
+      "status": "author_report_E2_unreplicated"
+    },
+    {
+      "id": "rose2020-mixed",
+      "paper_id": "doi:10.1111/ele.13570",
+      "study_type": "wet_lab_evolution",
+      "organism": "Pseudomonas fluorescens",
+      "unit": "metapopulation (eight competing microcosms)",
+      "n_metapopulations": 15,
+      "generations": 10,
+      "treatment": "pooled/mixed SM propagules in dispersal",
+      "outcome": "cell density-based fitness increased, group offspring fitness not significantly increased at p=0.077",
+      "source_review": "docs/artificial-life/45-pass10-pseudomonas-life-cycle-2020-full-review.md",
+      "not_independent_of": [
+        "rose2020-nonmixed",
+        "hammerschmidt2014-nonmixed"
+      ],
+      "independence_note": "paired treatment comparison within same research experiment, not independent conceptual replication",
+      "status": "author_report_E2_unreplicated"
+    },
+    {
+      "id": "chen2025-predator",
+      "paper_id": "doi:10.1093/gbe/evaf090",
+      "study_type": "wet_lab_evolution",
+      "organism": "Chlamydomonas reinhardtii",
+      "unit": "independent selected population",
+      "n_populations": 12,
+      "estimated_generations": 600,
+      "treatment": "Paramecium tetraurelia predation",
+      "stable_multicellular_positive_populations": 4,
+      "unstable_phenotypes_not_counted_as_positive": true,
+      "stable_isolates": 6,
+      "ancestral_founder_strains_inferred": 2,
+      "source_review": "docs/artificial-life/46-pass10-chlamydomonas-ancestry-2025-full-review.md",
+      "independent_of": [
+        "herron2019-predator",
+        "rose2020-nonmixed"
+      ],
+      "not_independent_of": [
+        "chen2025-settling"
+      ],
+      "status": "author_report_E2_unreplicated"
+    },
+    {
+      "id": "chen2025-settling",
+      "paper_id": "doi:10.1093/gbe/evaf090",
+      "study_type": "wet_lab_evolution",
+      "organism": "Chlamydomonas reinhardtii",
+      "unit": "independent selected population",
+      "n_populations": 12,
+      "estimated_generations": 600,
+      "treatment": "settling centrifugation selection",
+      "stable_multicellular_positive_populations": 0,
+      "unstable_phenotypes_not_counted_as_positive": true,
+      "source_review": "docs/artificial-life/46-pass10-chlamydomonas-ancestry-2025-full-review.md",
+      "not_independent_of": [
+        "chen2025-predator"
+      ],
+      "status": "author_report_E2_unreplicated"
+    },
+    {
+      "id": "herron2019-predator",
+      "paper_id": "doi:10.1038/s41598-019-39558-8",
+      "study_type": "wet_lab_evolution",
+      "organism": "Chlamydomonas reinhardtii",
+      "unit": "independent predator-selected population",
+      "n_populations": 5,
+      "estimated_generations": 750,
+      "treatment": "Paramecium predation",
+      "multicellular_positive_populations": 2,
+      "control_populations": 3,
+      "source_review": "primary journal abstract and indexed methods, not full E2",
+      "independent_of": [
+        "chen2025-predator"
+      ],
+      "status": "author_report_E1_unreplicated"
+    },
+    {
+      "id": "ratcliff2012-settling",
+      "paper_id": "doi:10.1073/pnas.1115323109",
+      "study_type": "wet_lab_evolution",
+      "organism": "Saccharomyces cerevisiae",
+      "unit": "selected replicate population",
+      "n_populations": 10,
+      "transfers": 60,
+      "multicellular_positive_populations": 10,
+      "treatment": "settling",
+      "source_review": "primary abstract and indexed methods/results; no full E2",
+      "not_independent_of": [
+        "bozdag2023-snowflake-as-fresh-origin"
+      ],
+      "independence_note": "2012 creates yeast multicellular lineage; 2023 selects descendants of engineered snowflake yeast, a different follow-up study, not fresh origins",
+      "status": "author_report_E1_unreplicated"
+    },
+    {
+      "id": "bozdag2023-snowflake-as-fresh-origin",
+      "paper_id": "doi:10.1038/s41586-023-06052-1",
+      "study_type": "wet_lab_followup",
+      "organism": "Saccharomyces cerevisiae",
+      "rounds": 600,
+      "treatment": "snowflake yeast size selection under metabolic treatments",
+      "outcome": "macroscopic multicellularity/toughness in anaerobic treatment",
+      "source_review": "journal abstract/primary summary only",
+      "status": "author_report_E1_unreplicated",
+      "independence_note": "not de novo unicellular-to-multicellular origins; started with engineered ACE2-deficient snowflake yeast"
+    },
+    {
+      "id": "alchemy2024-organizations",
+      "paper_id": "arxiv:2408.12137",
+      "study_type": "computational_research_author_runs",
+      "substrate": "lambda calculus artificial chemistry",
+      "outcome": "stable L1 computational organizations and mostly destructive L1 mixing at L2 attempt; no collective reproducing daughters demonstrated",
+      "source_review": "docs/artificial-life/41-pass9-alchemy-organization-barriers-full-review.md",
+      "status": "author_report_E2_unreplicated"
+    },
+    {
+      "id": "doulcier2024-hysteresis",
+      "paper_id": "doi:10.1038/s41467-024-50625-1",
+      "study_type": "mathematical_model",
+      "outcome": "parameter-reversal hysteresis can stabilize selected collective traits in specific externally maintained patch models",
+      "source_review": "primary publisher abstract and selected methods",
+      "status": "author_report_E1_unreplicated",
+      "independence_note": "not a wet-lab test or independently self-maintained boundary"
+    }
+  ],
+  "source_independence_rules": [
+    "wet-lab population is evolution replicate; colony and time-series sample are not independent evolution populations",
+    "same historical group treatments reanalysed in subsequent paper do not count as fresh cohort",
+    "mathematical model or figure analysis cannot be pooled with wet-lab study denominators",
+    "same multicellular phenotype at one timepoint is not group heritability without descendants",
+    "all values are paper-reported, unreplicated by AI-Research"
+  ],
+  "mechanism_question": "Can a collective preserve causally necessary components and new functions through independently viable group daughters after externally provided reproductive scaffolding is weakened?",
+  "unimplemented": true
+}

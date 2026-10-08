@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.3",
+  "id": "EERC-03",
+  "name": "Endogenous Ecological–Reproductive Closure: Ecological Trace & Selective Memory",
+  "date": "2026-10-08",
+  "extends": [
+    {
+      "id": "EERC-01",
+      "path": "data/alife/combined-path-eerc-v1.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-02",
+      "path": "data/alife/combined-path-eerc-v2.json",
+      "immutable": true
+    }
+  ],
+  "research_only": true,
+  "implementation_authorized": false,
+  "status": "original_hypothesis_not_tested",
+  "scientific_question": "Can an evolving process create material ecological information, adapt its use in changing unseen contexts, and gate transfer of internal states among descendants, without a preprogrammed visited-map/copying/reward module?",
+  "original_hypotheses": [
+    {
+      "id": "EERC-T1",
+      "claim": "Ecological read/write traces become beneficial on unseen obstacles but maladaptive under unreliable or renewed resources; reliability-sensitive modulation may be favoured.",
+      "falsifier": "Preinstalled fixed slime aversion, passive gradient or inert residue accounts for all benefits after matched material cost."
+    },
+    {
+      "id": "EERC-T2",
+      "claim": "Selectively partitioning learned internal state to descendants sometimes outperforms full copy and full erasure under environmental contingency reversal.",
+      "falsifier": "Neither selective gate nor its causal rescue changes independent daughter-lineage function relative to matched replication controls."
+    },
+    {
+      "id": "EERC-T3",
+      "claim": "Temporal stimulus association can become useful for resource/viability outcomes beyond its original stimulus modalities.",
+      "falsifier": "Stimulus-based contraction response disappears under a held-out ecological outcome, or is fully explained by sensitization/fatigue."
+    }
+  ],
+  "axes": [
+    "environmental trace authorship",
+    "trace reliability vs false marks",
+    "individual within-lifetime history",
+    "daughter gate and negative inheritance",
+    "novel ecological generalization",
+    "resource and computation cost",
+    "independent lineage replication",
+    "installed shortcut audit"
+  ],
+  "substrates": [
+    "resource-limited stochastic artificial chemistry",
+    "evolving-instruction artificial chemistry",
+    "conservative field with localized heredity"
+  ],
+  "planned_null_controls": [
+    "substrate no trace",
+    "inert chemically matched trace",
+    "masked trace",
+    "false external marker",
+    "renewed resource reversal",
+    "forced memory all daughters",
+    "memory erased all daughters",
+    "fixed physical gradient",
+    "hand-built genetic oscillator",
+    "fixed copied organism API"
+  ],
+  "source_ids": [
+    "doi:10.1073/pnas.1215037109",
+    "doi:10.1016/j.cub.2022.01.002",
+    "doi:10.3390/ijms24033003",
+    "doi:10.64898/2026.02.25.708045",
+    "doi:10.1021/acssynbio.5c00766"
+  ],
+  "source_review": "docs/artificial-life/64-pass13-eerc-external-trace-selective-inheritance.md",
+  "future_authorization_required": true,
+  "experiments_executed": 0,
+  "systems_created": 0,
+  "consciousness_measured": false,
+  "zero_model_training": true,
+  "legacy_hypothesis_count_unchanged": true
+}

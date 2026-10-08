@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-10-08",
+  "scope": "selected primary author-reported evidence, not independent replication; each paper's authors/experiment unit retained",
+  "studies": [
+    {
+      "paper_id": "doi:10.1073/pnas.1215037109",
+      "evidence_level": "E2",
+      "class": "wet-lab externalized navigation",
+      "unit": "plasmodium/maze assay, shared lab stock",
+      "positive": "23/24 blank vs 8/24 pre-coated reached glucose through U trap in 120h; 39/40 avoided slime in Y-choice",
+      "important_null": "no-trap glucose-sensing and average speed not different",
+      "boundary": "extracellular trail is pre-existing biology; externally deposited slime can affect different organism; no new evolving memory mechanism"
+    },
+    {
+      "paper_id": "doi:10.1016/j.cub.2013.10.046",
+      "evidence_level": "E1",
+      "class": "yeast mating memory",
+      "positive": "Whi3 mnemons retained in mother while daughters usually remain pheromone-responsive",
+      "boundary": "full main text not fully audited; daughters not always protected early after escape; overlapping authors with 2022/2023 followups"
+    },
+    {
+      "paper_id": "doi:10.1016/j.cub.2022.01.002",
+      "evidence_level": "E2",
+      "class": "maternal gate and induced prion-like spread",
+      "positive": "Whi3 bud aggregates 24% WT vs 62–65% in 3 ER barrier mutants; first daughter often inherits altered response; forced tethering raises transfer to 70.3%",
+      "boundary": "experimenter perturbs cellular architecture; genotype pleiotropy and transmission not necessarily adaptive"
+    },
+    {
+      "paper_id": "doi:10.3390/ijms24033003",
+      "evidence_level": "E2",
+      "class": "first daughter exception",
+      "positive": "WT D1 46.5±4.5% refractory vs D2 12.2±3.3%; septin shs1 mutant D1 66.9±6.3% D2 30.4±12.3%",
+      "boundary": "same basic research program as 2022; septin defects alter cell division fitness"
+    },
+    {
+      "paper_id": "doi:10.64898/2026.02.25.708045",
+      "evidence_level": "E1",
+      "class": "Stentor associative learning preprint",
+      "positive": "weak/strong tap paired temporary increase in response to weak, conditional on timing and controls",
+      "boundary": "bioRxiv v2 updated 2026-09-10; not peer reviewed; contraction to same-modality intensity rather than ecological generalization"
+    },
+    {
+      "paper_id": "doi:10.1103/PhysRevLett.100.018101",
+      "evidence_level": "E1",
+      "class": "Physarum periodic cue",
+      "positive": "spontaneous slowdown at estimated next expected unfavorable stimulus",
+      "boundary": "only 3 imposed periodic episodes; oscillator models can mimic anticipation"
+    },
+    {
+      "paper_id": "arxiv:2505.02114",
+      "evidence_level": "E1",
+      "class": "synthetic model preprint",
+      "positive": "preinstalled adaptive hexagonal reservoir exhibits periodic unsupervised pattern completion",
+      "boundary": "not spontaneously evolved or a reproduced wet-lab organism"
+    },
+    {
+      "paper_id": "arxiv:2511.08531",
+      "evidence_level": "E1",
+      "class": "transport physics preprint",
+      "positive": "predefined transport graphs optimize energy dissipation and paths",
+      "boundary": "no necessary internal symbolic or subjective cognitive representation"
+    },
+    {
+      "paper_id": "arxiv:1712.04681",
+      "evidence_level": "E1",
+      "class": "skeptical gradient/flow analysis",
+      "positive": "many apparent maze solutions are diffusion or minimal resistance paths",
+      "boundary": "does not refute the 2012 trail-specific masking control"
+    },
+    {
+      "paper_id": "doi:10.1021/acssynbio.5c00766",
+      "evidence_level": "E1",
+      "class": "engineered genetic circuit simulations",
+      "positive": "designer-built regulation reproduces habituation sensitization spacing",
+      "boundary": "no new organism or spontaneously evolved memory, code not run by AI-Research"
+    }
+  ],
+  "negative_controls_to_preserve": [
+    "inert marker chemistry vs own deposited mark",
+    "same-geometry world with coated/slime mask",
+    "false producer mark and restored resource",
+    "mother vs daughter vs transmission age",
+    "prion-like memory propagation can harm future mating opportunities",
+    "selected genetic anticipation is not individual learned experience",
+    "time series/frames do not multiply evolutionary replicates"
+  ],
+  "independent_reproduction_by_ai_research": false,
+  "new_world_authorized": false
+}

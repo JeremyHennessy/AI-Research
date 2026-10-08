@@ -12,9 +12,9 @@ E2 = {
     "doi:10.1162/artl_a_00180": "26-stringmol-2016-full-review.md",
     "doi:10.1098/rsif.2016.1033": "27-semantic-closure-2017-full-review.md",
     "doi:10.1007/978-3-540-39432-7_26": "28-physis-2003-full-review.md",
+    "doi:10.1162/isal_a_00265": "30-stringmol-2020-novelty-full-review.md",
 }
 E1 = (
-    "doi:10.1162/isal_a_00265",
     "alife:adams-2026-transformational-novelty",
     "alife:stepney-2026-engineering",
 )
@@ -35,7 +35,7 @@ class EvolvingSemanticsEvidenceTests(unittest.TestCase):
         cls.audits = {x["paper_id"]: x for x in rows("data/alife/method-audits.jsonl")}
         cls.code = {x["study_id"]: x for x in rows("data/alife/code-inventory.jsonl")}
 
-    def test_all_four_technical_audits_are_e2_not_reproductions(self):
+    def test_all_five_technical_audits_are_e2_not_reproductions(self):
         for pid, name in E2.items():
             paper, audit = self.papers[pid], self.audits[pid]
             self.assertEqual(paper["evidence_level"], "E2")
@@ -59,7 +59,10 @@ class EvolvingSemanticsEvidenceTests(unittest.TestCase):
     def test_twelve_source_claims_are_caveated(self):
         selected = [x for x in self.claims if "C055" <= x["claim_id"] <= "C066"]
         self.assertEqual(len(selected), 12)
-        self.assertEqual({x["paper_id"] for x in selected}, set(E2))
+        # C055–C066 predate the 2020 full-review promotion.
+        # Historical claim levels and sources remain unchanged after promotion.
+        self.assertEqual({x["paper_id"] for x in selected},
+                         set(E2) - {"doi:10.1162/isal_a_00265"})
         for claim in selected:
             self.assertFalse(claim["independent_replication"])
             self.assertEqual(claim["evidence_level"], "E2")

@@ -15,6 +15,7 @@ IDS = {
     "doi:10.1162/artl_a_00180": "26-stringmol-2016-full-review.md",
     "doi:10.1098/rsif.2016.1033": "27-semantic-closure-2017-full-review.md",
     "doi:10.1007/978-3-540-39432-7_26": "28-physis-2003-full-review.md",
+    "doi:10.1162/isal_a_00265": "30-stringmol-2020-novelty-full-review.md",
 }
 
 
@@ -30,7 +31,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
         cls.audits = load("data/alife/method-audits.jsonl")
         cls.claims = load("data/claims.jsonl")
 
-    def test_nine_reviews_have_exact_source_and_depth(self):
+    def test_ten_reviews_have_exact_source_and_depth(self):
         self.assertEqual({x["paper_id"] for x in self.audits}, set(IDS))
         for a in self.audits:
             pid = a["paper_id"]
@@ -56,8 +57,8 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
 
     def test_compendium_index_preserves_citation_evidence(self):
         index = (ROOT / "docs/19-paper-index.md").read_text(encoding="utf-8")
-        self.assertIn("193 curated research records", index)
-        self.assertIn("Twelve detailed public-paper", index)
+        self.assertIn("195 curated research records", index)
+        self.assertIn("Thirteen detailed public-paper", index)
         for pid in IDS:
             p = self.papers[pid]
             self.assertIn(f"[{p['title']}]({p['url']}) | E2 |", index)
@@ -90,6 +91,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
             "26-stringmol-2016-full-review.md": ["32 of 100", "decay", "Everything Evolves", "sticky"],
             "27-semantic-closure-2017-full-review.md": ["39 of 500", "bureaucratic death", "copier", "expressor"],
             "28-physis-2003-full-review.md": ["200,000", "processor", "universal", "90%"],
+            "30-stringmol-2020-novelty-full-review.md": ["Type 0", "EXTRINSIC", "hypercycle", "meta-model"],
         }
         for name, terms in cases.items():
             page = (root / name).read_text(encoding="utf-8").lower()

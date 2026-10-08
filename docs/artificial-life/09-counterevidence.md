@@ -119,3 +119,17 @@ The [2025 review](https://doi.org/10.1098/rstb.2024.0298) and [2026 ALIFE summar
 **Discriminator:** test each property independently, with negative controls for passive attractors, external repair, and human-assigned novelty scores.
 
 See [technical comparison](29-evolvable-semantics-cross-study.md) for remaining conflicting conclusions and a future-only falsifier. No life/consciousness or indefinite evolving-intelligence claim is supported here.
+
+## C28 — Meta-model novelty is not automatically novel executable behavior
+The [complete 2020 Stringmol paper](30-stringmol-2020-novelty-full-review.md) calls its type-2 hypercycle/reaction-network novelty **extrinsic**: the analyst introduces a new network-level class to explain observed molecular relations, while the engineered simulator has not implemented that meta-class as a new operation. The novelty label itself depends on the original scientific model.
+**Falsifier:** prespecify two scientific taxonomies of the same trajectory, then separately test whether any new inherited executable function exists independent of the observer's model.
+
+## C29 — Ecological competition can favor complex defenses, but many worlds still become extinct
+The [2021 spatial Stringmol study](https://doi.org/10.1098/rsos.210441) reports **12 of 20 worlds** extinct and eight still operating at a two-million-step cutoff while studying parasite-driven adaptation. This is **E1 selected results only** in the current compendium, not a complete E2 audit or independently replicated rate.
+**Falsifier:** matched no-parasite world and resource controls, prospective new defensive function, daughter-lineage persistence and extinction uncertainty.
+
+## C30 — The 2026 GPU Physis abstract doesn't verify inherited new ecology
+The [ALIFE 2026 author abstract](31-physis-2026-source-boundaries.md) reports that an automata chemistry can modify code and language and that old results were reproduced after a GPU port. The **complete short contribution was not inspected**; numerical outcomes, experiment versions and whether the 'new results' demonstrate new inherited ecological functions remain unresolved.
+**Falsifier:** exact original-vs-GPU configuration/seed evidence, organism-level lineage, interpreter-semantics change, and independently measured useful function in viable descendants. **Keep E1**.
+
+[Structured 12-case failure ledger](../../data/alife/failure-modes.jsonl), [three proposed independent test pathways](33-three-pathway-critical-experiments.md). No organism, simulation or AI training run was performed by this research pass.

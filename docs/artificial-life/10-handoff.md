@@ -4,6 +4,22 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## Sixth scholarly pass: complete Stringmol 2020, Physis 2026 evidence limits and competing mechanisms (2026-10-08)
+
+**Research scope:** AI-Research only. No organism/simulator, training, externally executed scientific source code, repository other than AI-Research, or deployment.
+
+**New E2:** [Stringmol 2020 complete 8-page primary source](30-stringmol-2020-novelty-full-review.md), including figure/model/meta-model and explicit **EXTRINSIC** type-2 reaction-network example. This is a theoretical/reinterpretive *classification* of earlier experiments, not fresh quantitative simulation data or proof that the computational language changed. The [2026 Physis author abstract](31-physis-2026-source-boundaries.md) remains **E1** because the full conference booklet could not be reliably inspected; abstract-only CPU→GPU replication and "new results" have no independently reviewed run receipts.
+
+**Scientific additions:** [12 failure and counterexample mechanisms](32-why-evolvable-computation-fails.md), [machine-readable source-linked ledger](../../data/alife/failure-modes.jsonl), and [three separate future-only candidate approaches](33-three-pathway-critical-experiments.md): heritable virtual processor (Physis), genome-coded copier/expressor (Stringmol UCA), and artificial chemistry/compartment self-maintenance. The latter are future research designs and **not** implemented organisms.
+
+**Corpus:** **195** curated records in **30** tracks; **49** ALife source notes; **13** E2 primary full-paper/theory reviews total; **74** caveated source claims; **10** E2 ALife method receipts; **12** failure ledger cases. Original **15** ALife hypotheses, **11** separately authorization-gated future experimental proposals, and **10** operational criteria are unchanged. Two new E1 sources: [Banzhaf et al. 2016 model-relative open-endedness](https://doi.org/10.1007/s12064-016-0229-7) and [2021 spatial Stringmol parasitism](https://doi.org/10.1098/rsos.210441), which reports 12/20 extinct and 8/20 active by two million timesteps but whose full methods were **not** audited.
+
+**Verification history:** old-count test failures on initial metadata commits were addressed by updating evidence-aware tests. [Midpass GitHub Actions run 37790856887](https://github.com/JeremyHennessy/AI-Research/actions/runs/37790856887) passed after correcting an overly literal claim-string assertion. Final main SHA and CI following these documentation edits should be checked **after** committing; no unverified CI success claimed here.
+
+**Top unresolved research:** read pp.96–98 of the actual ALIFE 2026 Physis booklet from a supported authorized source; locate exactly which 2003/2026 GPU experiments correspond. Complete the **2021 Stringmol spatial parasitism** and **2016 Banzhaf model/meta-model** full-method audits. Find independently reproduced/contradictory studies of evolving genotype→interpreter meaning. Prioritize blind, independent **new inherited ecological function**, accounting for copying fidelity, interpretation fidelity and actual resource costs. **No new organism project without separate approval.**
+
+**Current continuation map:** [Pass 6 dedicated handoff](34-pass6-research-handoff.md) (read after this chronological history), [2020 deep source](30-stringmol-2020-novelty-full-review.md), [2026 abstract limits](31-physis-2026-source-boundaries.md), [failure map](32-why-evolvable-computation-fails.md), [three candidate test directions](33-three-pathway-critical-experiments.md).
+
 ## Fifth scholarly pass: semantic closure, Stringmol and Physis deep methods (2026-10-08)
 
 **Scope:** AI-Research scholarly documentation only; no AI or artificial organism experiment, virtual world, execution of untrusted program code, deployment or modifications to Ora/AgentTest.

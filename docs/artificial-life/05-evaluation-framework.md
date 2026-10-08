@@ -85,3 +85,10 @@ A research receipt must contain:
 - Verdict *for each criterion*, not a global assertion of artificial life or consciousness.
 
 This document specifies **how to evaluate** an organism research program, not a design ready for deployment.
+
+## Added 2026-10-08: protect against observer-only transformation claims
+The [complete 2020 Stringmol novelty paper](30-stringmol-2020-novelty-full-review.md) distinguishes **intrinsic code-enabled innovations** from **extrinsic scientific meta-model** changes. An evaluator who invents a new category (e.g. "reaction network" or "hypercycle") may detect interesting ecological organization, but its new category does **not** necessarily become a novel instruction or a usable functional property to participants.
+
+**Additional required control for AL-C09 and AL-H14:** freeze at least one scientific/engineering model **before observing** the world; repeat analysis under a more complete taxonomy already containing candidate networks; then independently inspect genome/program/interpretation differences and test daughters' newly reachable functions. A model-relative label cannot substitute for **causal executable change and inherited viability**.
+
+This is a proposed evidence check, not an additional organism run. [Full failure atlas](32-why-evolvable-computation-fails.md).

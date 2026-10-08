@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 197 curated research records across 30 research tracks. Fifteen detailed public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
+**Catalog updated in Pass 10 — 2026-10-08:** 206 curated research records across 30 tracks, with 18 complete-primary E2 reviews; none independently reproduced. The legacy per-track tables below preserve the Pass 4 snapshot; newer additions are listed in the separate tenth-pass addendum at the end. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -397,3 +397,21 @@ Original [2021 spatial Stringmol full audit](artificial-life/35-stringmol-spatia
 | 2020 | [Emergence and diversification of a host-parasite RNA ecosystem through Darwinian evolution](https://doi.org/10.7554/eLife.56038) | E1 | Wet-lab parasite coevolution |
 
 E1: public primary abstract or official release checked, not full-paper replication. E2: documented whole-paper methods/evaluation review; E3: demands independent reproduction. None E3 here.
+
+## Tenth research pass — nine additional primary source records
+
+These nine are **now represented in [the canonical catalog](../data/papers.jsonl)** and [ALife source notes](../data/alife/source-notes.jsonl). They extend the earlier per-track snapshot without erasing previous reading history. E2 means full available primary main text reviewed, not model or biology replication.
+
+| Year | Primary publication | Track | Review | Why it matters |
+|---:|---|---|---|---|
+| 2025 | [Genetic Predisposition Toward Multicellularity in Chlamydomonas reinhardtii](https://doi.org/10.1093/gbe/evaf090) | artificial-life | E2 | 4/12 predator, 0/12 settling stable outcomes; transient lineages and founder effects |
+| 2025 | [Can a microbial community become an evolutionary individual?](https://doi.org/10.1016/j.mib.2025.102596) | artificial-life | E1 | Heritability and functional integration critique |
+| 2024 | [Self-Organization in Computation & Chemistry: Return to AlChemy](https://arxiv.org/abs/2408.12137) | artificial-chemistry | E2 | Computation-level organizations and higher-level stagnation |
+| 2024 | [Stability of ecologically scaffolded traits during evolutionary transitions in individuality](https://doi.org/10.1038/s41467-024-50625-1) | artificial-life | E1 | Hysteresis *model*, external scaffolding retained |
+| 2023 | [De novo evolution of macroscopic multicellularity](https://doi.org/10.1038/s41586-023-06052-1) | artificial-life | E1 | Engineered snowflake-yeast ancestor, later trait evolution |
+| 2020 | [Meta-population structure and the evolutionary transition to multicellularity](https://doi.org/10.1111/ele.13570) | artificial-life | E2 | Separating vs mixing reproductive cell lineages |
+| 2019 | [De novo origins of multicellularity in response to predation](https://doi.org/10.1038/s41598-019-39558-8) | artificial-life | E1 | Independent five-population algae predator experiment |
+| 2014 | [Life cycles, fitness decoupling and the evolution of multicellularity](https://doi.org/10.1038/nature13884) | artificial-life | E1 | Previously published non-mixed experiment re-used in 2020 |
+| 2012 | [Experimental evolution of multicellularity](https://doi.org/10.1073/pnas.1115323109) | artificial-life | E1 | Settling-selected clonal yeast groups and propagules |
+
+[Critical E2 bacterial review](artificial-life/45-pass10-pseudomonas-life-cycle-2020-full-review.md) · [Critical E2 algae review](artificial-life/46-pass10-chlamydomonas-ancestry-2025-full-review.md) · [Hypothesis/anti-overclaim comparison](artificial-life/47-pass10-major-transition-mechanism-synthesis.md) · [Tenth-pass handoff](artificial-life/48-pass10-research-handoff.md).

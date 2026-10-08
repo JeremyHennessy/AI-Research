@@ -1,0 +1,50 @@
+{
+  "pass_number": 24,
+  "date": "2026-10-08",
+  "base_main": "628d2ae503bcb17d3301a2c658c7a395ed8c308a",
+  "paper_id": "doi:10.1128/mbio.01342-24",
+  "review_scope": "Full publicly accessible publisher main article methods/results/discussion/figures; supplement and deposited data not audited",
+  "review_depth": "E2 main-text reading; not registered in canonical catalog in this pass",
+  "rights": "Publisher states CC BY 4.0 for main article; supplementary reuse terms separate",
+  "source_url": "https://journals.asm.org/doi/10.1128/mbio.01342-24",
+  "dependent_predecessor": "Koga et al. 2022 Nature Microbiology 7:1141-1150, same research program, separate full-method audit pending",
+  "study_unit": "eight distinct host species, not eight independent experimental-evolution origins",
+  "interventions": [
+    "surface-sterilized eggs",
+    "single bacterial inoculation of each symbiont-deprived host",
+    "Keio ΔcyaA reconstructed knockout instead of evolved hypermutator lineage"
+  ],
+  "reported_adult_emergence_original_host_pct": {
+    "native": 87.7,
+    "aposymbiotic": 0,
+    "delta_cyaA": 54.9,
+    "natural_symC": 28.6,
+    "delta_intS": 12.1
+  },
+  "negative_cases": [
+    "seven non-original hosts lack sustained beneficial ΔcyaA symbiosis",
+    "Halyomorpha halys no adult emergence with replacement strains",
+    "Eucorysses grandis no replacement infection or adult emergence",
+    "Riptortus pedestris no replacement infection despite numerical survival benefit without significance"
+  ],
+  "counterhypotheses": [
+    "pre-existing host compatibility",
+    "inoculum nutrient carryover",
+    "bacterial growth/entry differences",
+    "local adaptation and phylogenetic background"
+  ],
+  "independent_reproduction_demonstrated": false,
+  "scientific_experiment_reproduced": false,
+  "source_catalog_changed": false,
+  "protected_eerc_versions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_document": "docs/artificial-life/116-pass24-sugiyama-2024-host-range-full-review.md",
+  "next_primary": "Koga et al. 2022 Nature Microbiology, independent lineage and intervention audit"
+}

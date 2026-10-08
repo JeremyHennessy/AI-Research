@@ -4,6 +4,22 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## Seventh scholarly pass: parasite-driven function versus simulated shortcuts (2026-10-08)
+
+**Research-only status:** AI-Research documentation/source audits, not a runnable digital-life project. No model, simulator, organism, self-modifying interpreter, or other repository updated or executed. User's explicit separate authorization gate for future organism experiments remains intact.
+
+**E2 primary upgrades:** [2021 spatial Stringmol](35-stringmol-spatial-parasitism-2021-full-review.md) main methods, experimental outcomes and 2×2 design (20 runs; **12 extinct/8 active** at 2m steps) and [Banzhaf 2016](36-banzhaf-2016-open-ended-novelty-full-review.md) complete 31-page model/meta-model and "shortcuts" theory (external individuality/replication/fitness, finite resources). The [joint synthesis](37-parasite-and-shortcut-synthesis.md) distinguishes evolved costly parasite defenses *within* fixed physics from the simulator's preinstalled properties.
+
+**Method/code receipt:** Stringmol `0.2.3.4` tagged source SHA `aa6c7301822a93b74ad60b46437515ef6804784f` with root **GNU GPL v2**; paper's `Rstringmol 0.3.1` analysis version **not pinned** (inspected current DESCRIPTION says `0.1.0`, tagged engine README says older `0.2.2`). CC BY journal paper license separate from engine/analysis/archive rights. Never claim those mismatches were resolved or that code was executed.
+
+**New E1 comparators:** [Stepney/Hickinbotham 2024 multiple novelty metrics](https://doi.org/10.1162/artl_a_00399), using the **same eight surviving Stringmol worlds**, and [Furubayashi et al. 2020 eLife wet RNA host–parasite ecology](https://doi.org/10.7554/eLife.56038) with multiple actual RNA lineages and 120 rounds. Neither was independently reproduced nor reviewed end-to-end in this pass.
+
+**Integrated target counts:** **197** curated papers / **30** tracks / **51** ALife notes; **15** E2 entire-text paper/theory audits (12 method-audit receipts in ALife); **87** claim entries with caveats; **5** source-only code inventories; **12** previously registered failure modes. Prior **15** ALife hypotheses, **11** future-only experiments and **10** operational criteria remain unchanged. [Seventh-pass primary handoff](38-pass7-research-handoff.md) is the single current next-step document.
+
+**Next:** complete the 2024 detecting-open-endedness paper and 2020 wet RNA comparator, audit Rstringmol v0.3.1 source provenance, and retrieve readable full ALIFE 2026 Physis pages 96–98 (still E1). Prioritize blind new heritable function, counterfactual defense, extinction, and resource/shortcut accounting rather than paper counts. **No additional custodian task; existing daily one remains.**
+
+**Validation receipt:** the last full SHA/CI is to be checked after this and research log/document updates. Avoid using old successful Actions as proof for new commits.
+
 ## Sixth scholarly pass: complete Stringmol 2020, Physis 2026 evidence limits and competing mechanisms (2026-10-08)
 
 **Research scope:** AI-Research only. No organism/simulator, training, externally executed scientific source code, repository other than AI-Research, or deployment.

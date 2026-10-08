@@ -1,4 +1,4 @@
-# Expert reading guide — how to turn 108 papers into usable knowledge
+# Expert reading guide — how to turn 146 research records into usable knowledge
 
 This is a **research curriculum and retrieval guide**, not an assertion that any individual—or the assistant's base model—has mastered or memorized all of AI. Read, test and challenge the papers; keep uncertainties visible.
 

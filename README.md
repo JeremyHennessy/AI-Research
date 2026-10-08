@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Pass 2 — source-backed architecture, training-recipe, memory/world-model and evaluation dossiers. **No new model trained, replicated or demonstrated as superior.**
+**Current stage:** Pass 2 — 63 curated research records, 24 source-linked claim records, architecture/training/memory dossiers, and offline-validated research tooling. **No new model trained, independently replicated or demonstrated as superior.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -24,6 +24,10 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [Pass 2: research decision map](docs/10-pass2-index.md)
+- [Browse the 63-paper index](docs/19-paper-index.md)
+- [Evidence-qualified claim ledger](data/claims.jsonl)
+- [Literature discovery pipeline](docs/20-collection-pipeline.md)
+- [Pass 3 prioritized handoff](docs/21-pass3-backlog.md)
 - [Open laboratory training recipes](docs/11-open-training-recipes.md)
 - [Architecture and tokenizer alternatives](docs/12-architectures.md)
 - [Memory, agents and world models](docs/13-memory-world.md)

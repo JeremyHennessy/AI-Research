@@ -1,5 +1,5 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | Pass: 1 | Status: **curated foundation, not a complete literature survey**
+Updated: 2026-10-08 | Pass: 2 | Status: **curated and CI-validated research foundation; not a systematic full-text survey or trained model**
 
 ## In 60 seconds
 **Objective:** discover a measurable improvement in intelligence per dollar, per token, per joule, or per interaction; do not confuse a bigger benchmark score with general intelligence.
@@ -10,6 +10,9 @@ Updated: 2026-10-08 | Pass: 1 | Status: **curated foundation, not a complete lit
 3. Structured persistent memory and retrieval outperform infinitely growing conversation context for some long-horizon tasks.
 4. Learning environment dynamics and actions helps transfer better than text-only imitation on interactive tasks.
 5. Hybrid architectures may offer useful latency/context/quality tradeoffs, but must beat strong attention baselines.
+
+## Pass 2 additions
+Start at the [Pass 2 decision atlas](10-pass2-index.md) for recent 2026 alternatives, the [63-record catalog](19-paper-index.md), [lab recipes](11-open-training-recipes.md), [source claim ledger](../data/claims.jsonl), and [metadata collection pipeline](20-collection-pipeline.md). Reproduction candidates and the next research stages are indexed in the [backlog](21-pass3-backlog.md).
 
 ## Navigation by the question you are asking
 

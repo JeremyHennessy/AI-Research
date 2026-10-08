@@ -98,12 +98,32 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [77 — New two-clock EERC-L hypothesis](77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md) | Can selection recruit latent responses without reward leakage? | Unverified new research synthesis, no autonomous world |
 | [78 — Pass 15 canonical handoff](78-pass15-research-handoff.md) | Where do we resume and which source counts hold? | Research preservation, exact E1/E2 boundaries and Pass16 reading plan |
 
+| [79 — Beaumont 2009 original full experiment](79-pass16-beaumont-2009-history-dependent-switch-full-review.md) | When is a phenotype possible but unselectable? | E2 history-dependent fitness, 2/12, imposed novelty reward and removal negative |
+| [80 — Acar 2008 engineered switching full paper](80-pass16-acar-2008-engineered-switch-full-review.md) | What can externally tuned switching explain? | E2 engineered two-rate comparator, no evolved controller |
+| [81 — Cryptic RNA variation and partner rescue](81-pass16-hayden-2011-cryptic-rna-variation-full-review.md) | Can hidden variation expose new activities? | E2 in vitro selection and inactive-alone RNA rescued by partner |
+| [82 — Complexity and new viability functions](82-pass16-karve-2022-complex-environments-novelty-full-review.md) | Do changing environments change reachable functions? | E2 selection duration and mutation confounds |
+| [83 — Ribozyme neutral network and ML assistance](83-pass16-rotrattanadumrong-2022-ribozyme-neutral-network-full-review.md) | How many mutational paths are actually accessible? | E2 all 65,536 combinations; classifier-guided search shortcut |
+| [84 — Fungal long-horizon dormancy E2](84-pass16-graham-2014-neurospora-dormancy-fitness-full-review.md) | Which strategies preserve lineages under adverse uncertainty? | E2 88 cohorts, 12 founder genotypes, schedule restrictions and extinctions |
+| [85 — Weak promiscuous reactions and cryptic peaks](85-pass16-hidden-variation-and-latent-activity-counterevidence.md) | Does latent catalytic capability yield actual fitness? | E1 separate fluorescence results/enzyme synthesis, no added E2 |
+| [86 — Original EERC-S selectable reachability](86-pass16-eerc-selectable-reachability-ecological-gating.md) | Can inherited ecology make a weak possibility selectable? | Novel UNTESTED theory, physics/cost/offspring/shortcut controls |
+| [87 — Pass 16 independent research handoff](87-pass16-research-handoff.md) | What was observed, added and remains unknown? | Verified source ledgers, concurrency rules and proposed next readings |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Sixteenth scholarly pass — selectable reachability and researcher-assisted innovation (2026-10-08)
+
+**Validated source catalog on research branch:** **254** curated papers across **30** tracks, **108** ALife source notes, **39** E2 complete-primary method/theory readings across AI-Research, **36** ALife E2 method receipts and **195** evidence-linked claims. E2 means original full paper reviewed, **not** independent source reproduction. Preserve historical **15** canonical untested AL-H hypotheses, **11** future-only experimental plans, **10** organism criteria, **12** documented failure mechanisms and source-code inventory. Nothing here created a digital organism, trained AI, or established subjective consciousness.
+
+**New source depths:** six genuinely new papers, four E2 and two E1; [Beaumont 2009](79-pass16-beaumont-2009-history-dependent-switch-full-review.md) and [Acar 2008](80-pass16-acar-2008-engineered-switch-full-review.md) upgraded E1→E2 on full original text, **without duplicating source records or silently rewriting the older E1 claims**. Negative controls: imposed novelty selection/bottleneck, genotype vs fitness access, external copying and learned classifier guiding RNA search, insufficient weak side-activity, and independent long-horizon extinctions.
+
+**New original untested hypothesis:** [EERC-S selectable reachability](86-pass16-eerc-selectable-reachability-ecological-gating.md) and [v6 separately versioned proposal](../../data/alife/combined-path-eerc-v6.json), with [8-study source independence matrix](../../data/alife/pass16-selectable-reachability-evidence.json) and [Pass16 handoff](87-pass16-research-handoff.md). EERC v1–v5 immutable, no experiment authorization.
+
+**Concurrent project preservation:** The independently approved [Ora2.0 research-development crosswalk](ora2-evidence-to-roadmap-2026-10-08.md) added to main on 2026-10-08 remains preserved as a separate dated coordination snapshot. That crosswalk is not source evidence or permission for this research repo to control Ora2.0 runtime.
 
 ## Fifteenth scholarly pass — latent switches and two independent adaptation timescales (2026-10-08)
 

@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 15 — 2026-10-08:** 248 curated research records across 30 tracks, with 33 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 16 — 2026-10-08:** 254 curated research records across 30 tracks, with 39 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -504,3 +504,22 @@ New distinct catalog sources (3 E2 primary full-paper reviews, 7 E1 abstract/sel
 **Existing work promoted to E2 (not an additional record):** [Multi-Timescale Adaptation and Emergent Learning in Single Bacterial Cells](https://doi.org/10.1103/5zbg-8vll), with [complete primary full-method audit](artificial-life/74-pass15-kratz-2026-multiscale-bacterial-memory-full-review.md); author-fitted fractional kernel and ribosomal memory remain unproven causal mechanisms. 
 
 [Metabolic trade-off E2](artificial-life/73-pass15-basan-2020-growth-lag-metabolic-tradeoff-full-review.md) · [Gallie latent bistability E2](artificial-life/75-pass15-gallie-2015-latent-bistability-and-evolution-full-review.md) · [Independent cohort boundaries](artificial-life/76-pass15-stochastic-hedging-and-antibiotic-history-comparators.md) · [EERC-L original theory](artificial-life/77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md) · [Pass 15 handoff](artificial-life/78-pass15-research-handoff.md).
+
+## Pass 16 — Selectable reachability, cryptic variation and researcher-guided search (2026-10-08)
+
+**Six newly catalogued publications:** four complete-main primary E2 readings, plus two E1 source-level research/review papers. **Two previously indexed E1 originals promoted to E2** following full-primary reading (Beaumont 2009, Acar 2008), without duplicate publications or retroactive elevation of their older E1 claims. All author science remains unreplicated.
+
+| Year | Primary publication | Evidence | Crucial causal boundary |
+|---:|---|---|---|
+| 2011 | [Cryptic genetic variation promotes rapid evolutionary adaptation in an RNA enzyme](https://doi.org/10.1038/nature10083) | E2 | Cryptic RNA history permits faster adaptation; inactive-alone RNA rescued by partner |
+| 2022 | [Environmental complexity is more important than mutation in driving the evolution of latent novel traits in E. coli](https://doi.org/10.1038/s41467-022-33634-w) | E2 | Complex selection associated with latent traits; duration/selection confounds |
+| 2022 | [Experimental exploration of a ribozyme neutral network using evolutionary algorithm and deep learning](https://doi.org/10.1038/s41467-022-32538-z) | E2 | Large measured neutral RNA network with externally guided ML search |
+| 2014 | [Experimental evolution of bet hedging under manipulated environmental uncertainty in Neurospora crassa](https://doi.org/10.1098/rspb.2014.0706) | E2 | Independent Neurospora bet hedging; geometric-mean fitness and extinctions |
+| 2019 | [Cryptic genetic variation accelerates evolution by opening access to diverse adaptive peaks](https://doi.org/10.1126/science.aax1837) | E1 | Cryptic protein fluorescence peaks, original abstract only |
+| 2023 | [How to recruit a promiscuous enzyme to serve a new function](https://doi.org/10.1021/acs.biochem.2c00249) | E1 | Promiscuous enzyme function often too weak for viable ecological flux; review |
+
+**E1→E2 existing publication promotion:** [Experimental evolution of bet hedging](https://doi.org/10.1038/nature08504) — [Full 2009 switching evolution and source-selection shortcut](artificial-life/79-pass16-beaumont-2009-history-dependent-switch-full-review.md). This promotion changes paper/method metadata but **does not alter historical E1 claims**.
+
+**E1→E2 existing publication promotion:** [Stochastic switching as a survival strategy in fluctuating environments](https://doi.org/10.1038/ng.110) — [Full 2008 engineered switch experiment](artificial-life/80-pass16-acar-2008-engineered-switch-full-review.md). This promotion changes paper/method metadata but **does not alter historical E1 claims**.
+
+[Hayden 2011 molecular/partnership full study](artificial-life/81-pass16-hayden-2011-cryptic-rna-variation-full-review.md) · [Karve 2022 environmental-selection full study](artificial-life/82-pass16-karve-2022-complex-environments-novelty-full-review.md) · [RNA neutral-network 2022 full study](artificial-life/83-pass16-rotrattanadumrong-2022-ribozyme-neutral-network-full-review.md) · [Independent Neurospora 2014 full study](artificial-life/84-pass16-graham-2014-neurospora-dormancy-fitness-full-review.md) · [Counterevidence E1](artificial-life/85-pass16-hidden-variation-and-latent-activity-counterevidence.md) · [EERC-06 theory](artificial-life/86-pass16-eerc-selectable-reachability-ecological-gating.md) · [Pass 16 handoff](artificial-life/87-pass16-research-handoff.md).

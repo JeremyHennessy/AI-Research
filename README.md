@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Fifteenth ALife research pass (2026-10-08) — **248** curated source records across **30** tracks, **102** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **33** full-paper/theory reviews (E2), **175** evidence-qualified claims, **30** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Sixteenth ALife research pass (2026-10-08) — **254** curated source records across **30** tracks, **108** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **39** full-paper/theory reviews (E2), **195** evidence-qualified claims, **36** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -37,6 +37,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 15 — evolving latent dynamical behavior and two timescales:** [Basan 2020 growth/readiness full E2](docs/artificial-life/73-pass15-basan-2020-growth-lag-metabolic-tradeoff-full-review.md) · [Kratz 2026 single-cell multi-timescale E2](docs/artificial-life/74-pass15-kratz-2026-multiscale-bacterial-memory-full-review.md) · [Gallie 2015 evolution reveals preexisting bistability E2](docs/artificial-life/75-pass15-gallie-2015-latent-bistability-and-evolution-full-review.md) · [Beaumont/stress-history independent-source boundaries](docs/artificial-life/76-pass15-stochastic-hedging-and-antibiotic-history-comparators.md) · [Untested original EERC-L theory](docs/artificial-life/77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md) · [Version 5 proposal](data/alife/combined-path-eerc-v5.json) · [Pass 15 canonical handoff](docs/artificial-life/78-pass15-research-handoff.md). All publications are author-reported and this project has not reproduced scientific experiments, trained a model or created an artificial organism.
 
+**Pass 16 — reachable versus selectable evolutionary novelty:** [Beaumont's evolved switch and scaffold withdrawal E2](docs/artificial-life/79-pass16-beaumont-2009-history-dependent-switch-full-review.md) · [Acar engineered switch E2](docs/artificial-life/80-pass16-acar-2008-engineered-switch-full-review.md) · [Cryptic RNA function and partner help E2](docs/artificial-life/81-pass16-hayden-2011-cryptic-rna-variation-full-review.md) · [Environmental complexity and confounds E2](docs/artificial-life/82-pass16-karve-2022-complex-environments-novelty-full-review.md) · [ML-guided RNA neutral paths E2](docs/artificial-life/83-pass16-rotrattanadumrong-2022-ribozyme-neutral-network-full-review.md) · [Independent fungal long-horizon survival E2](docs/artificial-life/84-pass16-graham-2014-neurospora-dormancy-fitness-full-review.md) · [Original **EERC-S** hypothesis](docs/artificial-life/86-pass16-eerc-selectable-reachability-ecological-gating.md) · [EERC v6 versioned proposal](data/alife/combined-path-eerc-v6.json) · [Pass16 canonical handoff](docs/artificial-life/87-pass16-research-handoff.md). Research and evidence only, no scientific world executed or conscious organism established. Ora2.0's concurrent cross-project note is preserved separately.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -45,7 +47,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 248 source records](docs/19-paper-index.md)
+- [Browse 254 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

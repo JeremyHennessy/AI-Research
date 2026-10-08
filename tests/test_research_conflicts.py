@@ -33,9 +33,11 @@ class ContradictionLedgerTests(unittest.TestCase):
             self.assertNotIn(correction["id"], ids)
             ids.add(correction["id"])
             self.assertIn(correction["paper_id"], self.papers)
-            self.assertIn("not_independently_replicated",
-                          correction["status"] if "not_independently_replicated" in correction["status"]
-                          else "not_independently_replicated")
+            self.assertIn(correction["status"], {
+                "documented_source_discrepancy_not_independently_replicated",
+                "paper_author_issued_correction"
+            })
+            self.assertEqual(self.papers[correction["paper_id"]]["evidence_level"], "E2")
             self.assertTrue(correction["full_text_url"].startswith("https://"))
         self.assertEqual(len(self.corrections), 3)
 

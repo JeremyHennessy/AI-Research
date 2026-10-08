@@ -1,0 +1,10 @@
+# Synthetic/generated discovery queues, experiments, secrets and licensed local archive
+data/discovered/
+research-archive/
+secrets/
+runs/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example

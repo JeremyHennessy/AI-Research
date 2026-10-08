@@ -1,0 +1,47 @@
+name: Manual literature metadata discovery
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "One research query (1-160 characters)"
+        required: true
+        default: "language model reasoning"
+      limit:
+        description: "Up to 100 metadata results per source"
+        required: true
+        default: "20"
+permissions:
+  contents: read
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Discover arXiv preprints
+        env:
+          QUERY: ${{ inputs.topic }}
+          LIMIT: ${{ inputs.limit }}
+        run: python scripts/collect_arxiv.py --query "$QUERY" --limit "$LIMIT"
+      - name: Discover Crossref DOI metadata
+        env:
+          QUERY: ${{ inputs.topic }}
+          LIMIT: ${{ inputs.limit }}
+        run: python scripts/collect_crossref.py --query "$QUERY" --limit "$LIMIT"
+      - name: Discover OpenAlex scholarly works (low volume, optional key)
+        env:
+          QUERY: ${{ inputs.topic }}
+          LIMIT: ${{ inputs.limit }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/collect_openalex.py --query "$QUERY" --limit "$LIMIT"
+      - name: Upload unreviewed discovery queue
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-metadata-queue
+          path: data/discovered/*.jsonl
+          if-no-files-found: warn
+          retention-days: 14

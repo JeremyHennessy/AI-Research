@@ -1,8 +1,8 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 146 curated research records across 25 research tracks. One detailed paper audit (E2); no independent model replication.
+**Pass 4 — 2026-10-08.** 176 curated research records across 30 research tracks. Two detailed paper reviews (E2, one formal and one ALife theoretical synthesis); no independent model replication.
 
-[Research atlas](29-pass4-index.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
+[Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
 ## agents (4)
 
@@ -274,5 +274,64 @@
 | 2025 | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | E1 | E08, E09 |
 | 2024 | [Genie: Generative Interactive Environments](https://proceedings.mlr.press/v235/bruce24a.html) | E1 | E08 |
 | 2023 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | E1 | E08 |
+
+## New Artificial-Life Initiative: Primary Literature (2026-10-08)
+
+This section is additive. Sources already indexed elsewhere are cross-linked rather than copied into duplicate catalog records. Full [research map](artificial-life/README.md).
+
+### artificial-chemistry (3)
+
+| Year | Primary source | Evidence | Future research |
+|---:|---|---|---|
+| 2018 | [Mathematical modeling reveals spontaneous emergence of self-replication in chemical reaction systems](https://doi.org/10.1074/jbc.RA118.003795) | E1 | AL01 |
+| 2007 | [Synthetic protocell biology: from reproduction to computation](https://pmc.ncbi.nlm.nih.gov/articles/PMC2442389/) | E1 | AL01 |
+| 1974 | [Autopoiesis: the organization of living systems, its characterization and a model](https://doi.org/10.1016/0303-2647(74)90031-8) | E1 | AL01 |
+
+### artificial-life (3)
+
+| Year | Primary source | Evidence | Future research |
+|---:|---|---|---|
+| 2024 | [What Is Artificial Life Today, and Where Should It Go?](https://doi.org/10.1162/artl_e_00435) | E1 | AL06 |
+| 2023 | [Emergence in Artificial Life](https://doi.org/10.1162/artl_a_00397) | E1 | AL07 |
+| 1995 | [The major evolutionary transitions](https://doi.org/10.1038/374227a0) | E1 | AL06 |
+
+### digital-evolution (4)
+
+| Year | Primary source | Evidence | Future research |
+|---:|---|---|---|
+| 2021 | [Digital Evolution for Ecology Research: A Review](https://doi.org/10.3389/fevo.2021.750779) | E1 | AL03 |
+| 2004 | [Avida: A Software Platform for Research in Computational Evolutionary Biology](https://doi.org/10.1162/106454604773563612) | E1 | AL02 |
+| 2003 | [The evolutionary origin of complex features](https://doi.org/10.1038/nature01568) | E1 | AL04 |
+| 1991 | [An approach to the synthesis of life](https://tomray.me/pubs/index.html) | E1 | AL02 |
+
+### morphogenesis (6)
+
+| Year | Primary source | Evidence | Future research |
+|---:|---|---|---|
+| 2025 | [Flow-Lenia: Emergent evolutionary dynamics in mass conservative continuous cellular automata](https://arxiv.org/abs/2506.08569) | E1 | AL04 |
+| 2025 | [Emergence of Self-Replicating Hierarchical Structures in a Binary Cellular Automaton](https://doi.org/10.1162/artl_a_00449) | E1 | AL02 |
+| 2023 | [EINCASM: Emergent Intelligence in Neural Cellular Automaton Slime Molds](https://doi.org/10.1162/isal_a_00703) | E1 | AL05 |
+| 2022 | [Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization](https://arxiv.org/abs/2212.07906) | E1 | AL02 |
+| 2020 | [Growing Neural Cellular Automata](https://doi.org/10.23915/distill.00023) | E1 | AL01 |
+| 2018 | [Lenia - Biology of Artificial Life](https://arxiv.org/abs/1812.05433) | E1 | AL01 |
+
+### open-ended-evolution (14)
+
+| Year | Primary source | Evidence | Future research |
+|---:|---|---|---|
+| 2026 | [Evolving Many Worlds: Towards Open-Ended Discovery in Petri Dish NCA via Population-Based Training](https://arxiv.org/abs/2604.11248) | E1 | AL04 |
+| 2026 | [Directing Open-Ended Evolution in Artificial Life via Multi-Scale Path Divergence](https://arxiv.org/abs/2606.17091) | E1 | AL08 |
+| 2025 | [Guiding Evolution of Artificial Life Using Vision-Language Models](https://arxiv.org/abs/2509.22447) | E1 | AL08 |
+| 2024 | [Automating the Search for Artificial Life with Foundation Models](https://arxiv.org/abs/2412.17799) | E1 | AL08 |
+| 2023 | [Open-Ended Library Learning in Unsupervised Program Synthesis](https://doi.org/10.1162/isal_a_00685) | E1 | AL06 |
+| 2022 | [Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research](https://arxiv.org/abs/2203.13050) | E1 | AL04 |
+| 2020 | [Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity](https://doi.org/10.1162/isal_a_00323) | E1 | AL06 |
+| 2019 | [Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions](https://arxiv.org/abs/1901.01753) | E1 | AL03 |
+| 2019 | [Open-Endedness for the Sake of Open-Endedness](https://doi.org/10.1162/artl_a_00289) | E1 | AL08 |
+| 2016 | [Open-Ended Evolution: Perspectives from the OEE Workshop in York](https://doi.org/10.1162/ARTL_A_00210) | E1 | AL04 |
+| 2015 | [Requirements for Open-Ended Evolution in Natural and Artificial Systems](https://arxiv.org/abs/1507.07403) | E2 | AL04 |
+| 2015 | [Illuminating search spaces by mapping elites](https://arxiv.org/abs/1504.04909) | E1 | AL08 |
+| 2011 | [Abandoning objectives: evolution through the search for novelty alone](https://doi.org/10.1162/EVCO_a_00025) | E1 | AL08 |
+| 2002 | [Open-Ended Artificial Evolution](https://arxiv.org/abs/nlin/0210027) | E1 | AL04 |
 
 E1: public primary abstract or official release checked, not full-paper replication. E2: documented whole-paper methods/evaluation review; E3: demands independent reproduction. None E3 here.

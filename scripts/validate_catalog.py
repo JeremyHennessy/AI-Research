@@ -15,6 +15,8 @@ TRACKS = {
     "robotics", "science", "hardware",
     "graph-learning", "probabilistic", "neuroscience", "formal-reasoning",
     "audio", "program-synthesis", "multi-agent",
+    "artificial-life", "digital-evolution", "open-ended-evolution",
+    "artificial-chemistry", "morphogenesis",
 }
 REQUIRED = {
     "id", "title", "year", "track", "url", "evidence_level",
@@ -23,7 +25,7 @@ REQUIRED = {
     "rights_review", "added_at",
 }
 ARXIV = re.compile(r"^arxiv:\d{4}\.\d{4,5}$")
-EXPERIMENT = re.compile(r"^E\d{2}$")
+EXPERIMENT = re.compile(r"^(?:E\d{2}|AL\d{2})$")
 
 
 def validate_records(path: Path) -> tuple[int, list[str]]:
@@ -52,7 +54,7 @@ def validate_records(path: Path) -> tuple[int, list[str]]:
             errors.append(f"line {line_no}: missing {sorted(missing)}")
             continue
         pid, url = record["id"], record["url"]
-        if not isinstance(pid, str) or not (ARXIV.fullmatch(pid) or re.fullmatch(r"(?:pmlr|acl|iclr|lab|nature|anthropic|deepmind|openai|metr|mlcommons|ijcai|springer):[A-Za-z0-9_.-]+", pid)):
+        if not isinstance(pid, str) or not (ARXIV.fullmatch(pid) or re.fullmatch(r"(?:pmlr|acl|iclr|lab|nature|anthropic|deepmind|openai|metr|mlcommons|ijcai|springer):[A-Za-z0-9_.-]+", pid) or re.fullmatch(r"doi:10\.\d{4,9}/[A-Za-z0-9._;()/:-]+", pid) or re.fullmatch(r"alife:[a-z0-9-]+", pid)):
             errors.append(f"line {line_no}: bad paper id {pid!r}")
         if pid in ids:
             errors.append(f"line {line_no}: duplicate id {pid}")

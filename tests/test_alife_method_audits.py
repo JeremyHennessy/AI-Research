@@ -66,10 +66,16 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
         relevant = [x for x in self.claims if x["paper_id"] in IDS]
         self.assertGreaterEqual(len(relevant), 18)
         for x in relevant:
-            self.assertEqual(x["evidence_level"], "E2")
+            self.assertIn(x["evidence_level"], ("E1", "E2"))
             self.assertFalse(x["independent_replication"])
-            self.assertEqual(x["source_url"], self.papers[x["paper_id"]]["url"])
-            self.assertEqual(x["source_detail"], self.papers[x["paper_id"]]["full_text_url"])
+            paper = self.papers[x["paper_id"]]
+            self.assertEqual(x["source_url"], paper["url"])
+            # Preserve historical E1 claims; full-paper audits do not retroactively
+            # elevate the original claim's evidence level.
+            if x["evidence_level"] == "E2":
+                self.assertEqual(x["source_detail"], paper["full_text_url"])
+            else:
+                self.assertEqual(x["source_detail"], paper["url"])
             self.assertGreater(len(x["caveat"]), 45)
 
     def test_source_specific_falsifiers_present(self):

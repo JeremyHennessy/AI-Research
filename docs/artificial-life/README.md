@@ -52,6 +52,11 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
+## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
+**Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
+
+**Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
 ## Seventh scholarly pass — spatial ecology, defensive function, and simulator shortcuts (2026-10-08)
 **Latest library:** 51 ALife sources, **197 total research records**, **15 E2 detailed paper/theory reviews**, **87 caveated source claims**, **12 failure-mode records**, and **12 ALife source-method receipts**. The [2021 spatial Stringmol paper](35-stringmol-spatial-parasitism-2021-full-review.md) has been fully reviewed (20 trials, 12 extinct, eight active at finite cutoff); the [2016 Banzhaf 31-page novelty theory](36-banzhaf-2016-open-ended-novelty-full-review.md) is also E2. New [2024 novelty-metric](https://doi.org/10.1162/artl_a_00399) and [2020 wet RNA evolution](https://doi.org/10.7554/eLife.56038) comparisons remain **E1** pending full method reviews. [Seventh-pass technical synthesis](37-parasite-and-shortcut-synthesis.md), [continuation handoff](38-pass7-research-handoff.md).
 

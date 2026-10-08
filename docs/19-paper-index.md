@@ -1,29 +1,30 @@
 # Research catalog index (generated from curated metadata)
-**Pass 2 — 2026-10-08.** 63 curated research records. All scientific claims remain publication-reported; there are **no independently reproduced results**.
+**Pass 3 — 2026-10-08.** 108 curated research records across 18 research tracks. All scientific claims remain publication-reported; there are **no independently reproduced results**.
 
-[Decision atlas](10-pass2-index.md) · [Dossiers](11-open-training-recipes.md) · [Research experiments](15-pass2-experiments.md) · [Source ledger](17-verified-sources.md)
+[Research roadmap](10-pass2-index.md) · [New domains](22-ai-field-map.md) · [Interpretability](23-interpretability-and-causality.md) · [Safety and robustness](24-alignment-and-security.md) · [Embodied AI](25-embodied-science-hardware.md)
 
-## foundations (1)
+## agents (4)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
-| 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | E1 | E01 |
+| 2025 | [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534) | E1 | E05, E07 |
+| 2025 | [SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/) | E1 | E08 |
+| 2023 | [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688) | E1 | E05 |
+| 2022 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | E1 | E05 |
 
-## data (7)
+## alignment (5)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
-| 2026 | [Position: Multiple Definitions & Unrealistic Assumptions of Model Collapse Distract from Real World Threats](https://proceedings.mlr.press/v306/schaeffer26a.html) | E1 | E04 |
-| 2026 | [Scaling Laws for Mixture Pretraining Under Data Constraints](https://arxiv.org/abs/2605.12715) | E1 | E04 |
-| 2026 | [When Sample Selection Bias Precipitates Model Collapse](https://proceedings.mlr.press/v306/qiao26c.html) | E1 | E04 |
-| 2025 | [Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls](https://arxiv.org/abs/2510.01631) | E1 | E04 |
-| 2025 | [Olmo 3](https://arxiv.org/abs/2512.13961) | E1 | E04 |
-| 2025 | [Olmo 3 Model Training: official configurations and checkpoints](https://github.com/allenai/Olmo-core/blob/main/src/scripts/official/OLMo3/README.md) | E1 | E04 |
-| 2022 | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | E1 | E04 |
+| 2026 | [Early work on monitorability evaluations](https://metr.org/blog/2026-01-19-early-work-on-monitorability-evaluations/) | E1 | E18 |
+| 2024 | [Alignment faking in large language models](https://arxiv.org/abs/2412.14093) | E1 | E18 |
+| 2024 | [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566) | E1 | E18 |
+| 2023 | [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483) | E1 | E18 |
+| 2022 | [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) | E1 | E18 |
 
 ## architecture (17)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
 | 2026 | [Clock Diffusion: Efficient Semi-Autoregressive Continuous Diffusion Language Models](https://arxiv.org/abs/2610.00894) | E1 | E11 |
 | 2026 | [Consistent Diffusion Language Models](https://arxiv.org/abs/2605.00161) | E1 | E11 |
@@ -43,9 +44,97 @@
 | 2023 | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | E1 | E07 |
 | 2021 | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961) | E1 | E07 |
 
+## causality (1)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2021 | [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107) | E1 | E15 |
+
+## continual learning (1)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2016 | [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) | E1 | E16 |
+
+## data (7)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2026 | [Position: Multiple Definitions & Unrealistic Assumptions of Model Collapse Distract from Real World Threats](https://proceedings.mlr.press/v306/schaeffer26a.html) | E1 | E04 |
+| 2026 | [Scaling Laws for Mixture Pretraining Under Data Constraints](https://arxiv.org/abs/2605.12715) | E1 | E04 |
+| 2026 | [When Sample Selection Bias Precipitates Model Collapse](https://proceedings.mlr.press/v306/qiao26c.html) | E1 | E04 |
+| 2025 | [Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls](https://arxiv.org/abs/2510.01631) | E1 | E04 |
+| 2025 | [Olmo 3](https://arxiv.org/abs/2512.13961) | E1 | E04 |
+| 2025 | [Olmo 3 Model Training: official configurations and checkpoints](https://github.com/allenai/Olmo-core/blob/main/src/scripts/official/OLMo3/README.md) | E1 | E04 |
+| 2022 | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | E1 | E04 |
+
+## evaluation (10)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2026 | [BenchMIRT: What are LLM benchmarks actually measuring?](https://allenai.org/blog/benchmirt) | E1 | E12 |
+| 2026 | [Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT](https://metr.org/blog/2026-07-21-expenditure-horizon/) | E1 | E21 |
+| 2026 | [Task-Completion Time Horizons of Frontier AI Models](https://metr.org/time-horizons/) | E1 | E12 |
+| 2025 | [Evaluating AI’s ability to perform scientific research tasks](https://openai.com/index/frontierscience/) | E1 | E12 |
+| 2025 | [Humanity's Last Exam](https://arxiv.org/abs/2501.14249) | E1 | E12 |
+| 2024 | [FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI](https://arxiv.org/abs/2411.04872) | E1 | E12 |
+| 2024 | [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974) | E1 | E01, E02 |
+| 2023 | [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022) | E1 | E12 |
+| 2023 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) | E1 | E01, E05 |
+| 2022 | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) | E1 | E01 |
+
+## foundations (1)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | E1 | E01 |
+
+## hardware (2)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2026 | [MLPerf Inference v6.0 Benchmark Results](https://mlcommons.org/2026/04/mlperf-inference-v6-0-results/) | E1 | E22 |
+| 2026 | [MLPerf Training v6.0 Benchmark Results](https://mlcommons.org/2026/06/mlperf-training-v6-0-results/) | E1 | E22 |
+
+## interpretability (10)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2026 | [A diff tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | E1 | E14 |
+| 2026 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | E1 | E14 |
+| 2026 | [Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](https://proceedings.mlr.press/v306/pepper26a.html) | E1 | E14 |
+| 2026 | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | E1 | E14 |
+| 2026 | [Position: Accountable Deployment of Agentic AI Demands Layered, System-Level Interpretability](https://proceedings.mlr.press/v306/zhu26bk.html) | E1 | E14 |
+| 2026 | [Position: Causality Is Key for Interpretability Claims to Generalise](https://proceedings.mlr.press/v306/joshi26a.html) | E1 | E14 |
+| 2026 | [Position: Interpretability Can Be Actionable](https://proceedings.mlr.press/v306/orgad26a.html) | E1 | E14 |
+| 2025 | [Open-sourcing circuit tracing tools](https://www.anthropic.com/research/open-source-circuit-tracing) | E1 | E14 |
+| 2025 | [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors) | E1 | E14 |
+| 2024 | [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093) | E1 | E14 |
+
+## memory (9)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2026 | [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://aclanthology.org/2026.acl-long.981/) | E1 | E03 |
+| 2026 | [AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications](https://proceedings.mlr.press/v306/zhao26bs.html) | E1 | E03 |
+| 2026 | [Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://proceedings.mlr.press/v306/he26am.html) | E1 | E03, E05 |
+| 2026 | [From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](https://proceedings.mlr.press/v306/cai26b.html) | E1 | E03 |
+| 2026 | [From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents](https://aclanthology.org/2026.findings-acl.1337/) | E1 | E03 |
+| 2026 | [Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents](https://aclanthology.org/2026.acl-long.370/) | E1 | E03, E05 |
+| 2024 | [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) | E1 | E03, E07 |
+| 2023 | [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172) | E1 | E03 |
+| 2020 | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | E1 | E03 |
+
+## multimodal (2)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2024 | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | E1 | E09 |
+| 2023 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) | E1 | E09 |
+
 ## reasoning (12)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
 | 2026 | [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://proceedings.mlr.press/v306/chen26an.html) | E1 | E13 |
 | 2026 | [CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement](https://aclanthology.org/2026.acl-long.1321/) | E1 | E13 |
@@ -60,61 +149,57 @@
 | 2024 | [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) | E1 | E02 |
 | 2023 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | E1 | E06 |
 
-## memory (8)
+## robotics (4)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
-| 2026 | [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://aclanthology.org/2026.acl-long.981/) | E1 | E03 |
-| 2026 | [AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications](https://proceedings.mlr.press/v306/zhao26bs.html) | E1 | E03 |
-| 2026 | [Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://proceedings.mlr.press/v306/he26am.html) | E1 | E03, E05 |
-| 2026 | [From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory](https://proceedings.mlr.press/v306/cai26b.html) | E1 | E03 |
-| 2026 | [From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents](https://aclanthology.org/2026.findings-acl.1337/) | E1 | E03 |
-| 2026 | [Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents](https://aclanthology.org/2026.acl-long.370/) | E1 | E03, E05 |
-| 2024 | [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663) | E1 | E03, E07 |
-| 2020 | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | E1 | E03 |
+| 2026 | [Gemini Robotics 1.5](https://deepmind.google/en/models/gemini-robotics/gemini-robotics/) | E1 | E19 |
+| 2023 | [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) | E1 | E19 |
+| 2023 | [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | E1 | E19 |
+| 2023 | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | E1 | E19 |
 
-## agents (3)
+## science (4)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
-| 2025 | [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534) | E1 | E05, E07 |
-| 2023 | [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688) | E1 | E05 |
-| 2022 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | E1 | E05 |
+| 2026 | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | E1 | E21 |
+| 2026 | [Our First Proof submissions](https://openai.com/index/first-proof-submissions/) | E1 | E21 |
+| 2026 | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | E1 | E21 |
+| 2025 | [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) | E1 | E21 |
 
-## world models (6)
+## security (1)
 
-| Year | Paper / primary source | Level | Proposed experiments |
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2020 | [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) | E1 | E17 |
+
+## systems (11)
+
+| Year | Paper / primary source | Level | Experiments |
+|---:|---|---|---|
+| 2026 | [Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://allenai.org/blog/olmocore3) | E1 | E07 |
+| 2026 | [Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](https://proceedings.mlr.press/v306/elango26a.html) | E1 | E07 |
+| 2026 | [Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs](https://proceedings.iclr.cc/paper_files/paper/2026/hash/dd2eb5250696753ea37141bbd89bb569-Abstract-Conference.html) | E1 | E07 |
+| 2025 | [Scaling Inference-Efficient Language Models](https://proceedings.mlr.press/v267/bian25b.html) | E1 | E07 |
+| 2024 | [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764) | E1 | E07 |
+| 2023 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) | E1 | E07 |
+| 2023 | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | E1 | E07 |
+| 2023 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | E1 | E20 |
+| 2022 | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) | E1 | E07 |
+| 2021 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | E1 | E20 |
+| 2015 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | E1 | E20 |
+
+## world models (7)
+
+| Year | Paper / primary source | Level | Experiments |
 |---:|---|---|---|
 | 2026 | [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://proceedings.mlr.press/v306/wang26jh.html) | E1 | E08 |
 | 2026 | [Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](https://proceedings.mlr.press/v306/feng26aa.html) | E1 | E08 |
 | 2026 | [WebWorld: A Large-Scale World Model for Web Agent Training](https://proceedings.mlr.press/v306/xiao26o.html) | E1 | E08 |
+| 2025 | [Genie 3: A new frontier for world models](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) | E1 | E08 |
 | 2025 | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | E1 | E08, E09 |
 | 2024 | [Genie: Generative Interactive Environments](https://proceedings.mlr.press/v235/bruce24a.html) | E1 | E08 |
 | 2023 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | E1 | E08 |
 
-## multimodal (2)
-
-| Year | Paper / primary source | Level | Proposed experiments |
-|---:|---|---|---|
-| 2024 | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | E1 | E09 |
-| 2023 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) | E1 | E09 |
-
-## systems (3)
-
-| Year | Paper / primary source | Level | Proposed experiments |
-|---:|---|---|---|
-| 2026 | [Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://allenai.org/blog/olmocore3) | E1 | E07 |
-| 2023 | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | E1 | E07 |
-| 2022 | [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135) | E1 | E07 |
-
-## evaluation (4)
-
-| Year | Paper / primary source | Level | Proposed experiments |
-|---:|---|---|---|
-| 2026 | [BenchMIRT: What are LLM benchmarks actually measuring?](https://allenai.org/blog/benchmirt) | E1 | E12 |
-| 2024 | [LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://arxiv.org/abs/2403.07974) | E1 | E01, E02 |
-| 2023 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) | E1 | E01, E05 |
-| 2022 | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) | E1 | E01 |
-
-## Evidence note
-E1 means identified primary source metadata/abstract, **not** validated results or full-method review. Laboratory announcements remain author-reported. Rights for source copies must be reviewed separately.
+## Source status
+E1 represents public source metadata and author-reported findings. A subset has newly inspected primary landing pages, noted in the JSONL catalog; other entries still need deeper verification. **No** passage in this index claims independent replication.

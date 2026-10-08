@@ -43,7 +43,7 @@ class FailureResearchLedgerTests(unittest.TestCase):
         self.assertIn("extrinsic emergence", doc.lower())
         self.assertIn("type-2", doc)
         self.assertIn("retrospective", doc.lower())
-        self.assertIn("not a new independent experiment", doc.lower())
+        self.assertIn("does not report a new independent experiment", doc.lower())
 
     def test_brief_2026_author_item_stays_e1(self):
         abstract = self.papers["alife:adams-2026-transformational-novelty"]

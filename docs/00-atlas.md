@@ -1,5 +1,8 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | Pass: 4 | Status: **146 research source records across 25 tracks, one full-text review; no trained model**
+Updated: 2026-10-08 | ALife research addition | Status: **176 research records across 30 tracks, two full-paper/theory reviews; no artificial organism or trained model**
+
+## New research direction: digital living systems
+[Artificial Life, Emergent Intelligence, and Digital Organisms](artificial-life/README.md) investigates whether computational processes can originate and sustain life-like organization, adaptation, heredity and ecological evolution without being another human-targeted LLM or assistant. It distinguishes real maintenance and lineage innovation from convincing animation. Five competing research-only substrates, [criteria](artificial-life/05-evaluation-framework.md), [12 falsifiable hypotheses](../data/alife/hypotheses.jsonl) and [future study designs](artificial-life/07-experimental-roadmap.md) are documented; **none is implemented**.
 
 ## In 60 seconds
 **Objective:** discover a measurable improvement in intelligence per dollar, per token, per joule, or per interaction; do not confuse a bigger benchmark score with general intelligence.
@@ -12,7 +15,7 @@ Updated: 2026-10-08 | Pass: 4 | Status: **146 research source records across 25 
 5. Hybrid architectures may offer useful latency/context/quality tradeoffs, but must beat strong attention baselines.
 
 ## Updated reading map
-Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [146-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
+Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [176-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
 
 ## Navigation by the question you are asking
 

@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Pass 4 — **146** research records in **25** tracks, **34** source-linked claims, **8** research disagreements, **3** documented publication corrections, and **28** experiment proposals. One full-paper source review is E2; **no new model has been trained or independently replicated here.**
+**Current stage:** Artificial Life initiative research pass (2026-10-08) — **176** curated research records across **30** tracks, including **30** new ALife sources, **12** proposed ALife hypotheses and **8** future research-only experiment designs. The overall collection has **two** full-paper/theoretical reviews at E2; **no new model or organism trained, built or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -16,6 +16,13 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - Protect independent holdouts against benchmark contamination; do not optimize on test data.
 - Treat agentic autonomy, open-ended self-modification, and self-improvement as hypotheses requiring sandboxed tests and explicit deployment gates.
 
+## New independent research direction
+**[Artificial Life, Emergent Intelligence, and Digital Organisms → Start Here](docs/artificial-life/README.md)**
+
+Research into self-maintaining organizational processes, digital ecosystems, autocatalysis, open-ended evolution, developmental cellular systems and potentially emergent cognition. **It does not presume an LLM or human-assigned task.** This initiative is **research only**: no digital organism or simulator authorized or deployed; no changes to Ora, AgentTest or other projects.
+
+[Five competing foundations](docs/artificial-life/03-architecture-comparison.md) · [Operational criteria](docs/artificial-life/05-evaluation-framework.md) · [Primary bibliography](docs/artificial-life/08-source-bibliography.md) · [Counterevidence](docs/artificial-life/09-counterevidence.md) · [12 falsifiable hypotheses](data/alife/hypotheses.jsonl) · [8 future experimental designs](data/alife/experiment-designs.jsonl) · [Handoff](docs/artificial-life/10-handoff.md).
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -24,7 +31,7 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 146 source records](docs/19-paper-index.md)
+- [Browse 176 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

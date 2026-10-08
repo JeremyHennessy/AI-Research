@@ -72,6 +72,9 @@ Keep these alternatives independent through R2. Don't automatically choose an LL
 - Unsafe or irreversible external action would be needed → cannot be undertaken under this research-only authorization.
 - Ambiguous ethical questions about potential digital welfare/consciousness → do not presume resolution; require separate oversight before more ambitious life-related experiments.
 
+## Crosswalk: structured future-only experiment designs
+The eight `AL01`–`AL08` research plans are **metadata-only**, registered in [data/alife/experiment-designs.jsonl](../../data/alife/experiment-designs.jsonl) with an explicit separate authorization gate. They cover maintenance/chemical organizational closure (AL01), heritable lineage (AL02), ecological resource exchange (AL03), functional evolutionary novelty (AL04), sensing selection (AL05), major transitions (AL06), independent organism identity tracking (AL07), and visual-vs-functional novelty (AL08). Falsifiable hypotheses are in [data/alife/hypotheses.jsonl](../../data/alife/hypotheses.jsonl). No simulation implementation accompanies those records.
+
 ## What is appropriate **today**
 Library/scholarship work: collect and evaluate sources; identify open papers and code; write original technical designs, no executable organism; prepare preregistration templates and benchmark schemas; document falsifiable alternatives and limitations; validate catalog/links and report the exact GitHub commit.
 

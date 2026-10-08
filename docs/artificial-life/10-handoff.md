@@ -4,6 +4,9 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## First integration checkpoint
+The main catalog was expanded from **146 to 176** records across **30** research tracks, with 30 ALife entries linked to original source records. The hypothesis and future-study machine-readable registries contain **12** and **8** proposed items respectively; their status remains `not_tested` / `not_authorized`. Read the main [README](../../README.md) and inspect the latest GitHub Actions run for a confirmed deployment-free documentation baseline. The previous pre-initiative commit `6cdecdaa79879be028c7b53d19b067c0b6cb4d54` and its passing workflow `37773603738` remain reference checkpoints, not a rollback instruction.
+
 ## Initial work and materials
 - Dedicated [artificial-life atlas](README.md) linking scientific foundations, systems, five architecture families, emergent bottlenecks, cross-system evaluation, twelve original hypotheses, future staged experiments, literature and contrary cases.
 - Main catalog holds one record per unique paper; the ALife notes table connects to canonical paper IDs, **not copied second publication records**.

@@ -1,5 +1,8 @@
 # AI field map — one research atlas beyond LLMs
-**Pass 4, October 8 2026.** The source catalog now holds **146** records across **25** tracks. This is a curated starting reference, not a comprehensive count of AI research or independently validated findings.
+**October 8 2026, following the new ALife research addition.** The catalog contains **176** records across **30** tracks. This is a curated starting reference, not a comprehensive count of AI research or independently validated findings.
+
+## Artificial life: separate research branch
+See [Artificial Life, Emergent Intelligence, and Digital Organisms](artificial-life/README.md). This section studies autocatalytic chemistries, evolutionary instruction ecologies, continuous cellular fields, developmental self-organization and co-evolving habitats. It investigates possible emergence of intelligence without assuming a neural network or assigning human tasks. Literature for this area is grouped into new `artificial-life`, `digital-evolution`, `open-ended-evolution`, `artificial-chemistry`, and `morphogenesis` catalog tracks. [Five independent foundational approaches](artificial-life/03-architecture-comparison.md) and [evidence-based metrics](artificial-life/05-evaluation-framework.md) show how they connect to—but are not reducible to—existing agent, world-model and biological-computation tracks.
 
 ## One-page taxonomy
 ```mermaid

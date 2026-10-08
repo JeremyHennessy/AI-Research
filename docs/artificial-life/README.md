@@ -61,12 +61,27 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [47 — Major-transition causal synthesis](47-pass10-major-transition-mechanism-synthesis.md) | What makes a reproducing new individual? | Critical counterexamples, prospective blinded null tests |
 | [48 — Tenth-pass research handoff](48-pass10-research-handoff.md) | Where are we and what is next? | Counts, audit boundaries and priorities |
 
+| [49 — Induced fungal endosymbiosis, full paper](49-pass11-induced-endosymbiosis-2024-full-review.md) | What survived after FACS selection stopped? | E2 experimental methods, selection-withdrawal **failure** |
+| [50 — Host-initiated ectosymbiosis, full theoretical paper](50-pass11-ectosymbiosis-2026-theoretical-review.md) | Can metabolite self-inhibition favor contact? | E2 assumptions and reproduction shortcuts |
+| [51 — Host symbiont dependence, comparative study](51-pass11-host-symbiont-dependence-2017-full-review.md) | Do dependence and transmission covary? | E2 106-pair data/phylogeny with noncausal limits |
+| [52 — Cross-fed microbial diversity, full paper](52-pass11-crossfeeding-diversification-2024-full-review.md) | Does partner-produced resource preserve diversification? | E2 false mechanisms and matched-resource gap |
+| [53 — New EERC scientific pathway](53-pass11-new-path-ecological-reproductive-closure.md) | What is our original alternative to existing AI paths? | Unverified ecological–reproductive closure with causal falsifiers |
+| [54 — Eleventh-pass evidence handoff](54-pass11-research-handoff.md) | What exactly is verified and still untested? | Pass 11 source boundaries, research counts and next readings |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Eleventh scholarly pass — symbiosis, failed dependence and EERC (2026-10-08)
+
+The canonical source ledger now contains **214** curated publications across **30** tracks, **68** ALife source notes, **22** complete main-paper/theory E2 reviews in the full collection, **19** E2 ALife method receipts, and **113** qualified claims. Old **15** canonical untested hypotheses, **11** future-only designs, **10** independent criteria, **12** prior failure cases preserved. **No E3 independently reproduced result or artificial organism.**
+
+**New primary E2 readings:** [2024 Giger](49-pass11-induced-endosymbiosis-2024-full-review.md), [2026 Krishnan theoretical ectosymbiosis](50-pass11-ectosymbiosis-2026-theoretical-review.md), [2017 Fisher phylogenetic host-symbiont dependence](51-pass11-host-symbiont-dependence-2017-full-review.md), and [2024 Al-Tameemi microbial cross-feeding](52-pass11-crossfeeding-diversification-2024-full-review.md). Four more papers E1 (Pauli 2022, Melero-Jiménez 2025, Athreya 2025, Black 2020) until complete-method reviews.
+
+**New original (UNTESTED):** [Endogenous Ecological–Reproductive Closure (EERC)](53-pass11-new-path-ecological-reproductive-closure.md), with [versioned falsifiers and stop rules](../../data/alife/combined-path-eerc-v1.json), is an **additional scientific hypothesis**, not an implemented digital organism. [Eight-paper independence receipt](../../data/alife/pass11-study-independence.json) · [handoff](54-pass11-research-handoff.md). Observed symbiosis can become *less* adaptable or revert to independence; these negatives count.
 
 ## Tenth scholarly pass — biological reproductive individuality and negative controls (2026-10-08)
 **Verified machine-readable inventory:** **206** curated papers, **60** ALife sources, **18** full-paper E2 reviews across AI-Research, **15** ALife E2 method receipts, **97** caveated source-linked claims and **12** preserved ALife failure mechanisms. Earlier 15 research hypotheses, 11 future-only experiments, and 10 operational tests remain unchanged. **Zero experiments independently reproduced and zero digital organisms built.**

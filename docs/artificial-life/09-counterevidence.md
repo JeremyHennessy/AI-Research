@@ -67,3 +67,18 @@ The objective is not to prove artificial life is inevitable. This ledger records
 Actively seek studies claiming **failed OEE, non-increasing complexity, deceptive novelty metrics, transient repair, collapsed niche ecology, overfitting to habitat, lineage/hierarchy identification ambiguity**. Check correction/retraction status for sources above. Add counterexample entries even when they contradict our favorite architecture.
 
 No current evidence justifies saying an artificial system here is alive or conscious. This section is designed to remain open to surprising *negative* results.
+
+## C14 — Mass-normalized and raw evolutionary activity rank worlds differently
+**Full E2 review:** [Flow-Lenia 2025](16-flow-lenia-2025-full-review.md). The paper reports higher *raw* mass-weighted evolutionary activity in food/dissipative worlds, but after dividing by total mass the relationship reverses. The species metric additionally treats infinitely close rule vectors as distinct species.
+**Discriminator:** condition on mass and compare phenotype/lineage function; never infer adaptation directly from resource throughput.
+
+## C15 — Designed novelty can sustain visual discovery without independently verified organismal evolution
+**Full E2 review:** [PBT-NCA v2](17-pbt-nca-2026-full-review.md). Composite outer objective explicitly includes historical occupancy-descriptor novelty plus DINOv2 frame diversity; inner NCAs optimize territorial aliveness. Its EP≈1 and complexity≈0.21±0.05 at 7 agents are **published, metric-specific**, not a proof of organismal reproduction.
+**Discriminator:** turn off outer novelty search and test new heritable ecological functions under a frozen hidden assay.
+
+## C16 — A neutral-shadow comparator can invalidate raw-looking open-endedness
+**Full E2 review:** [ToLSim 2026](18-tolsim-2026-full-review.md). Eight of twenty two-million-step worlds had visually unbounded-looking raw cumulative activity, yet **all 20 failed** the paper's shadow-corrected new-activity criterion. Authors note subjectivity of by-eye trend labels and dependence on gene-level units.
+**Discriminator:** neutral shadows and multiple component definitions with objectively precommitted finite-window tests.
+
+## Current cross-paper interpretation
+[Flow-Lenia vs PBT-NCA vs ToLSim](19-three-paper-methodology-comparison.md) demonstrates **three distinct forms of confounding** (resources, objective, evaluation component/neutral process). They do not establish any universal verdict on whether digital life can or cannot emerge.

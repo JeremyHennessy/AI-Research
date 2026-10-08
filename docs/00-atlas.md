@@ -1,8 +1,10 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | ALife research addition | Status: **183 research records across 30 tracks, three full-paper/theory reviews; no artificial organism or trained model**
+Updated: 2026-10-08 | ALife research addition | Status: **183 research records across 30 tracks, six full-paper/theory reviews; no artificial organism or trained model**
 
 ## New research direction: digital living systems
 [Artificial Life, Emergent Intelligence, and Digital Organisms](artificial-life/README.md) investigates whether computational processes can originate and sustain life-like organization, adaptation, heredity and ecological evolution without being another human-targeted LLM or assistant. It distinguishes real maintenance and lineage innovation from convincing animation. Five competing research-only substrates, [criteria](artificial-life/05-evaluation-framework.md), [12 falsifiable hypotheses](../data/alife/hypotheses.jsonl) and [future study designs](artificial-life/07-experimental-roadmap.md) are documented; **none is implemented**.
+
+The [three-paper comparison](artificial-life/19-three-paper-methodology-comparison.md) now contrasts **resource confounding in Flow-Lenia**, **designed novelty objectives in PBT-NCA**, and **neutral-shadow correction in ToLSim**. Full source-method reviews: [Flow-Lenia 2025](artificial-life/16-flow-lenia-2025-full-review.md), [PBT-NCA 2026](artificial-life/17-pbt-nca-2026-full-review.md), [ToLSim 2026](artificial-life/18-tolsim-2026-full-review.md). No scientific experiment was run by this literature review.
 
 ## In 60 seconds
 **Objective:** discover a measurable improvement in intelligence per dollar, per token, per joule, or per interaction; do not confuse a bigger benchmark score with general intelligence.

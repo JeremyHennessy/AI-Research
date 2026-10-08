@@ -4,6 +4,19 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## Third literature pass: primary full-method reviews verified 2026-10-08
+**Status:** still **research-only**, without digital organisms, virtual worlds, agent runs, copied confidential materials, training, or modification to Ora/AgentTest.
+
+**New E2 reviews:** [Flow-Lenia 2025 v1](16-flow-lenia-2025-full-review.md), [PBT-NCA 2026 v2](17-pbt-nca-2026-full-review.md), and [ToLSim 2026 v1](18-tolsim-2026-full-review.md). Each main paper's methods, results, discussion/limits (plus ToLSim appendix) was examined using public HTML; no paper figure or code was independently reproduced. Their [E2 metadata receipts](../../data/alife/method-audits.jsonl) list sections and versions; the [source claim ledger](../../data/claims.jsonl) now has **43** records, including nine new explicit ALife claims.
+
+**Central comparison:** [resource-normalized Flow-Lenia evolutionary activity reverses raw ranking; PBT-NCA's novelty is directly optimized; ToLSim's normalized 20-run tests fail despite raw cumulative trends](19-three-paper-methodology-comparison.md). These findings are *not* a proof that artificial life is impossible: all methods use finite simulations and operational choices.
+
+**Numbers:** unchanged **183 papers / 30 tracks / 37 ALife papers**; total full-public-paper reviews **6** (ALife 5 + separate formal-verifier 1). No E3 reproduction in the repository. Existing **12 original hypotheses** and **8 planned ALife experiments** remain `not_tested` and `not_authorized`.
+
+**Verification checkpoint:** GitHub `47dd59bf4de997e5d0e6508fee305973679bac3b` returned success in run `37778996123`: catalog validated, **46 offline unit tests** passed. Any subsequent navigation-only commits must also pass CI; the exact final head should be reported by the custodian in its completion receipt.
+
+**Next most informative:** (1) Outlier cellular self-reproduction 2025 full methods and published corrections; (2) full ALIFE 2026 conference search and negative-results ledger; (3) verify Flow-Lenia 2025 exact code beyond older 2023 JAX precursor; (4) investigate neutral-shadow and mass-normalization methods on *existing published data only* after permission, without running an artificial organism; (5) reproduce *published results* only after separate explicit experimental authorization, if an organism/simulator would run.
+
 ## Second-pass research checkpoint (October 8, 2026)
 **Scope remains research only; no organism/simulator/world built or deployed.** Expanded curated collection to **183** primary research records across **30** tracks, with **37** records linked to ALife source notes (30 initial, seven added here). Overall E2 source reviews now **three**: existing DeepSeek-Prover-V2; Taylor's 2015 OEE theory; newly deep-read [Liu & Sumpter 2018](12-chemical-replication-full-review.md). **No** independent E3 replication.
 

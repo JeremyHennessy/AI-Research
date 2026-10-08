@@ -26,8 +26,15 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [13 — Original implementation sources](13-implementation-source-audit.md) | Can we reproduce Flow-Lenia/PBT–NCA/chemistry faithfully? | Pinned author GitHub SHAs, licenses and unrun dependencies |
 | [14 — Negative results and scale effects](14-negative-results-and-measurement-disagreements.md) | Why do OEE metrics and microscopic complexity disagree? | 2025–2026 counterexamples and falsification paths |
 | [15 — Experimental separation](15-experimental-verdicts-and-separation.md) | How to distinguish survival from simulated illusion? | Null controls and proposed independent outcome measures |
+| [16 — Flow-Lenia full paper](16-flow-lenia-2025-full-review.md) | What does matter normalization do to evolutionary activity? | E2 equations, 5-seed data, metric reversal and species caveats |
+| [17 — PBT-NCA full paper](17-pbt-nca-2026-full-review.md) | How much novelty is externally selected? | E2 two-scale learning, score math, budgets and limitations |
+| [18 — ToLSim full paper](18-tolsim-2026-full-review.md) | What fails after neutral-shadow correction? | E2 20×2m-step method, exact 8/4/8/0 outcomes and subjectivity |
+| [19 — Measurement comparison](19-three-paper-methodology-comparison.md) | What distinguishes these three claims? | Resource, objective and component confounds, matched future falsifiers |
 
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
+
+## Third scholarly pass — full methods, results, limitations (2026-10-08)
+**Current verified evidence scope:** 37 ALife sources, **five E2 full public-paper/theory reviews** within artificial life (Tim Taylor, Liu–Sumpter, Flow-Lenia, PBT-NCA, ToLSim) and **six E2 sources across AI-Research** including the earlier formal-verifier audit. Source-backed claims are 43 overall. Three new audited papers have [machine-readable E2 receipts](../../data/alife/method-audits.jsonl) and a [three-way comparison](19-three-paper-methodology-comparison.md). All remain **unreplicated**: no evolutionary run, organism, simulation, model training, or deployment was executed.
 
 ## Current audit status
 **Second research pass:** 37 ALife source records, including seven new counterexample/foundational studies; **two ALife E2 theory/technical paper reviews** (Tim Taylor 2015 and Liu–Sumpter 2018), neither independently reproduced. The wider AI-Research compendium has three E2 reviews overall. The [methodology audit](12-chemical-replication-full-review.md) and [2026 negative-evidence review](14-negative-results-and-measurement-disagreements.md) distinguish actual authors' results from design hypotheses. The [implementation inventory](../../data/alife/code-inventory.jsonl) is source-only: **no scientific code was executed**.

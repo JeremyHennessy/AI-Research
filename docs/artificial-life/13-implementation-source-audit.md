@@ -61,3 +61,10 @@ In the observed small config `pbt_vlm_enabled=false`, although other experiments
 - Record **research receipts**, not unverified claims of an implemented digital creature.
 
 Source citations: [Flow-Lenia public JAX repo](https://github.com/erwanplantec/FlowLenia), [PBT–NCA MIT code](https://github.com/arberzela/pbt-nca), [chemistry simulator MATLAB archive](https://github.com/yuernestliu/Self-replication-simulator).
+
+## Added 2026-10-08: verified paper-method distinction
+The earlier source-code inventory remains correct as an **unexecuted** inventory. [Three full-public-paper reviews](19-three-paper-methodology-comparison.md) now specify underlying algorithms:
+- Flow-Lenia v1: stochastic incoming-mass parameter softmax, mass-conservative reintegration transport, and **externally added/removed mass** for dissipative/food variants.
+- PBT-NCA v2: inner gradient loss for territorial aliveness and outer optimized `F=N+D`, with 30 worlds / 500 meta steps / 12 inner steps, **three** plotted independent runs. The public readme's `n_seeds=4` is not proof of four independent paper replications.
+- ToLSim v1: the complete methods also reference an [author-linked source repository](https://github.com/LanaSina/speciation) and [Figshare dataset](https://doi.org/10.6084/m9.figshare.31443793). The repository/data were **not downloaded or executed**. Its neutral shadow process is part of the *evaluation*, not the organism itself.
+Source audit is not model training or validation of biological life.

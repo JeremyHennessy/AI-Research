@@ -1,5 +1,5 @@
 # Artificial-life primary source bibliography (first systematic map)
-**Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; the Liu–Sumpter (2018) full open article is now also E2; all other ALife sources here remain E1 pending deeper audits.
+**Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; the Liu–Sumpter (2018), Flow-Lenia (2025), PBT-NCA (2026), and ToLSim (2026) full public papers are now also E2; remaining ALife sources are E1 pending full-text method review. **E2 is a reading-depth label, not a reproduction.**
 
 See the [main machine-readable catalog](../../data/papers.jsonl) and scoped [method annotations](../../data/alife/source-notes.jsonl). Each listed source should contain an exact DOI, arXiv ID, or identified archival work.
 
@@ -66,4 +66,11 @@ Sources queried include original journal/venue pages, PubMed/PMC, author reposit
 
 **Full E2 audit added:** Liu & Sumpter (2018), [deep technical reading](12-chemical-replication-full-review.md). Main journal article and methods reviewed via [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6295724/); model source code is [pinned and inventoried](13-implementation-source-audit.md) but unexecuted. The paper's roughly 41% **self-driven** figure must not be interpreted as 41% **self-replicating**: at L=6 its sufficient self-replicator lower bound is **74/16,825**.
 
-**Next coverage pass:** full-method audits of 2025 Flow-Lenia, 2025 Outlier and 2026 PBT–NCA; systematic ALIFE 2026 paper collection; independently verify negative OEE metrics and compositional error catastrophe; audit source license/code contents with permission. No independent simulation reproduction has been performed.
+### E2 public-paper review receipts (new third pass)
+
+- **Flow-Lenia 2025** — [arXiv 2506.08569v1](https://arxiv.org/html/2506.08569v1), [detailed methods and opposing mass-normalization result](16-flow-lenia-2025-full-review.md). Importantly, journal DOI `10.1162/artl_a_00471` is a manifestation of the same work, **not** independent replication.
+- **PBT-NCA 2026** — [arXiv 2604.11248v2](https://arxiv.org/html/2604.11248v2), [scoring/training/baseline review](17-pbt-nca-2026-full-review.md); external novelty and visual diversity directly shape selection.
+- **ToLSim 2026** — [arXiv 2603.01701v1](https://arxiv.org/html/2603.01701v1), [neutral-shadow 20-run review](18-tolsim-2026-full-review.md); eight raw upward-looking runs, zero meeting stricter normalized test.
+- **Cross-paper audit:** [why their metrics cannot be numerically compared](19-three-paper-methodology-comparison.md). [Machine-readable reviewed sections and source versions](../../data/alife/method-audits.jsonl).
+
+**Next coverage pass:** exact methods/figures/code of 2025 Outlier CA and 2026 ALIFE proceedings; check environmental conservation and lineage semantics in published Flow-Lenia source revisions; identify independent replication and negative evidence for all three reviewed models. No ALife system has been independently reproduced or run in this compendium.

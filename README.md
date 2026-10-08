@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Artificial Life initiative research pass (2026-10-08) — **183** curated research records across **30** tracks, including **37** ALife sources (30 initial, 7 second pass), **12** proposed ALife hypotheses and **8** future research-only experiment designs. The overall collection has **three** full-paper/theoretical reviews at E2; **no new model or organism trained, built or independently reproduced here.**
+**Current stage:** Artificial Life initiative research pass (2026-10-08) — **183** curated research records across **30** tracks, including **37** ALife sources (30 initial, 7 second pass), **12** proposed ALife hypotheses and **8** future research-only experiment designs. The overall collection has **six** full-paper/theoretical reviews at E2 and **43** explicitly caveated research claims; **no new model or organism trained, built or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -21,7 +21,7 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 
 Research into self-maintaining organizational processes, digital ecosystems, autocatalysis, open-ended evolution, developmental cellular systems and potentially emergent cognition. **It does not presume an LLM or human-assigned task.** This initiative is **research only**: no digital organism or simulator authorized or deployed; no changes to Ora, AgentTest or other projects.
 
-[Full-text artificial chemistry audit](docs/artificial-life/12-chemical-replication-full-review.md) · [2026 negative findings](docs/artificial-life/14-negative-results-and-measurement-disagreements.md) · [Five competing foundations](docs/artificial-life/03-architecture-comparison.md) · [Operational criteria](docs/artificial-life/05-evaluation-framework.md) · [Primary bibliography](docs/artificial-life/08-source-bibliography.md) · [Counterevidence](docs/artificial-life/09-counterevidence.md) · [12 falsifiable hypotheses](data/alife/hypotheses.jsonl) · [8 future experimental designs](data/alife/experiment-designs.jsonl) · [Handoff](docs/artificial-life/10-handoff.md).
+[Three-paper open-endedness comparison](docs/artificial-life/19-three-paper-methodology-comparison.md) · [Flow-Lenia full-method audit](docs/artificial-life/16-flow-lenia-2025-full-review.md) · [PBT-NCA full-method audit](docs/artificial-life/17-pbt-nca-2026-full-review.md) · [ToLSim full-method audit](docs/artificial-life/18-tolsim-2026-full-review.md) · [Full-text artificial chemistry audit](docs/artificial-life/12-chemical-replication-full-review.md) · [2026 negative findings](docs/artificial-life/14-negative-results-and-measurement-disagreements.md) · [Five competing foundations](docs/artificial-life/03-architecture-comparison.md) · [Operational criteria](docs/artificial-life/05-evaluation-framework.md) · [Primary bibliography](docs/artificial-life/08-source-bibliography.md) · [Counterevidence](docs/artificial-life/09-counterevidence.md) · [12 falsifiable hypotheses](data/alife/hypotheses.jsonl) · [8 future experimental designs](data/alife/experiment-designs.jsonl) · [Handoff](docs/artificial-life/10-handoff.md).
 
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)

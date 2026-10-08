@@ -1,0 +1,67 @@
+{
+  "schema_version": "0.2",
+  "id": "EERC-02",
+  "extends": {
+    "id": "EERC-01",
+    "path": "data/alife/combined-path-eerc-v1.json",
+    "immutable": true
+  },
+  "date": "2026-10-08",
+  "status": "new_research_hypotheses_unverified",
+  "research_only": true,
+  "implementation_authorized": false,
+  "hypothesis": "History-bearing state may emerge as an endogenous consequence of ecological maintenance and causally improve a continuing individual's later responses; any collective reproduction or consciousness inference needs separate evidence.",
+  "claims_of_consciousness": false,
+  "independently_reproduced": false,
+  "memory_candidates": [
+    {
+      "id": "M1",
+      "type": "biochemical",
+      "source": "doi:10.1016/j.cub.2026.03.080",
+      "level": "E1",
+      "risk": "off-target inhibitor and cell detachment; molecular carrier unresolved"
+    },
+    {
+      "id": "M2",
+      "type": "morphological_transport",
+      "source": "doi:10.1073/pnas.2007815118",
+      "level": "E1",
+      "risk": "passive geometry imprint with no readout under randomized identical networks"
+    },
+    {
+      "id": "M3",
+      "type": "horizontal_fusion",
+      "source": "doi:10.1098/rspb.2016.2382",
+      "level": "E2",
+      "risk": "fused body no daughter germline, mediator unknown"
+    },
+    {
+      "id": "M4",
+      "type": "genetically_selected_anticipatory_regulation",
+      "source": "doi:10.1126/science.1154456",
+      "level": "E1",
+      "risk": "selection over generations mistaken for individual learning"
+    },
+    {
+      "id": "M5",
+      "type": "fractional_temporal_response_preprint",
+      "source": "doi:10.64898/2026.06.06.730631",
+      "level": "E1",
+      "risk": "preprint not independently replicated; model not settled"
+    }
+  ],
+  "requires_independent_tests": [
+    "history-conditioned response matched current cues and genotype",
+    "state persistence after washout",
+    "carrier ablation and rescue",
+    "untrained held-out ecological benefit after resource/viability adjustment",
+    "distinguish horizontal transfer and vertical daughter heredity",
+    "compare reflex-only passive-hysteresis and installed-memory false-positive controls",
+    "include all extinctions, replicate worlds/lineages and prespecified limits",
+    "measured within-life change independently of population genetic evolution",
+    "consciousness and moral conscience never inferred from habituation alone"
+  ],
+  "experimental_status": "future_only_not_authorized",
+  "next_milestone": "separate research-only preregistration of low-cost causal history experiments after method audit and explicit authorization outside AI-Research",
+  "source_review": "docs/artificial-life/58-pass12-eerc-history-conditioned-organization.md"
+}

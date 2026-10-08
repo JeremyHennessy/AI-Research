@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-10-08",
+  "scope": "research-only pass12 references, not independent reproduction",
+  "units": [
+    {
+      "id": "doi:10.1016/j.cub.2026.03.080",
+      "kind": "single-cell molecular/behavioral",
+      "level": "E1",
+      "feature": "habituation, calcium-phosphorylation candidates and reported daughter persistence",
+      "positive": "reported learned state across cell division",
+      "critical_null": "KN-93 off-targets; detachment exclusion; mother/daughter separate environment; specific molecular carrier unverified",
+      "read": "docs/artificial-life/55-pass12-stentor-molecular-memory-and-daughters.md",
+      "independent_of": "Stentor 2022 and 2025 are related group/organism and partial design lineage, not independent species-level confirmations"
+    },
+    {
+      "id": "doi:10.1016/j.cub.2022.11.010",
+      "kind": "single-cell behavior/phenomenology",
+      "level": "E1",
+      "feature": "individual two-state transition to tap habituation",
+      "critical_null": "graded population effect from asynchronous state switching; no demonstrated molecular encoding",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    },
+    {
+      "id": "doi:10.1016/j.cub.2025.05.071",
+      "kind": "mechanistic model + new behavior assays",
+      "level": "E1",
+      "feature": "receptor inactivation model and novel stimulus alternation tests",
+      "critical_null": "hidden receptor count inferred, not molecularly measured; contradicted by 2026 frequency-domain preprint in current form",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    },
+    {
+      "id": "doi:10.64898/2026.06.06.730631",
+      "kind": "not-peer-reviewed preprint",
+      "level": "E1",
+      "feature": "reported ~-30 dB/decade fractional-order habituation",
+      "critical_null": "not peer reviewed, authors model not independently reproduced, comparable stimulation regimes unresolved",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    },
+    {
+      "id": "doi:10.1098/rspb.2016.0446",
+      "kind": "Physarum habituation",
+      "level": "E1",
+      "feature": "quinine/caffeine avoidance diminishes with repeated exposure, recovery and specificity",
+      "critical_null": "same research group as fusion, behavioral endpoint may include locomotor/nutrient confounds",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    },
+    {
+      "id": "doi:10.1098/rspb.2016.2382",
+      "kind": "Physarum horizontal transfer full paper",
+      "level": "E2",
+      "feature": "3h vs1h cell fusion transfer then separation",
+      "positive": "transferred habituation phenotype to previously naive plasmodium",
+      "critical_null": "fusion is not lineage reproduction; no molecule identified; derived from 8 starting sclerotia",
+      "read": "docs/artificial-life/56-pass12-physarum-fusion-memory-complete-review.md"
+    },
+    {
+      "id": "doi:10.1073/pnas.2007815118",
+      "kind": "Physarum structural flow memory",
+      "level": "E1",
+      "feature": "tube diameter hierarchy influenced by local nutrients and modifies later flows",
+      "critical_null": "identical-network randomized challenge impossible in original assay, softened agent modeled not definitively isolated",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    },
+    {
+      "id": "doi:10.1126/science.1154456",
+      "kind": "biochemical networks model + bacterial evolution",
+      "level": "E1",
+      "feature": "temperature and oxygen response correlations and re-evolution under inverted schedule",
+      "critical_null": "generation-level selection vs within-life learned contingency must be separated",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    },
+    {
+      "id": "doi:10.1038/nature08112",
+      "kind": "ecologically selected anticipatory gene regulation",
+      "level": "E1",
+      "feature": "early ecological cue pre-induces later-environment responses in E. coli / yeast",
+      "critical_null": "regulatory anticipation can be inherited genotype not trained within the same cell",
+      "read": "docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md"
+    }
+  ],
+  "negative_findings": [
+    "Stentor 2026 KN-93 is non-specific; calcium/calmodulin pathway not uniquely reconstructed.",
+    "Stentor 2022 population smooth curve is compatible with heterogeneous individual step transitions.",
+    "Stentor 2026 preprint fractional response challenges earlier model predictions but is not independently replicated.",
+    "Physarum 2016 transfer requires longer cell fusion, and fusion is not vertical reproduction.",
+    "Physarum 2021 body network dynamics may express passive history without learned novel function.",
+    "Microbial anticipation can be an evolved fixed regulatory response rather than within-life plasticity."
+  ],
+  "independent_reproduction_by_AI_Research": false,
+  "impl_authorized": false
+}

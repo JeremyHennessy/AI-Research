@@ -1,0 +1,110 @@
+{
+  "pass_number": 26,
+  "date": "2026-10-08",
+  "base_main": "2e37f8852f9a315d90cbdba77f8cefde7d1bf0fb",
+  "pending_previous_pr": "https://github.com/JeremyHennessy/AI-Research/pull/5",
+  "paper": {
+    "paper_id": "doi:10.1038/s41467-025-65741-9",
+    "title": "Induced endosymbiosis between a fungus and bacterium reveals a shift from antagonism to commensalism",
+    "year": 2025,
+    "publication_date": "2025-11-28",
+    "primary_url": "https://www.nature.com/articles/s41467-025-65741-9",
+    "full_text_main_read": true,
+    "methods_results_figures_discussion_read": true,
+    "grade": "E2 main primary only; not E3 reproduction",
+    "rights": "CC BY 4.0 main article subject to third-party notices",
+    "supplements_reviewed": false,
+    "deposited_data_reanalyzed": false,
+    "code_executed": false
+  },
+  "mechanisms": {
+    "fungus": "Rhizopus microsporus NH",
+    "bacterium": "Ralstonia pickettii K-288",
+    "natural_entry_demonstrated": false,
+    "physical_injection": "instrument-mediated",
+    "spore_transmission_observed": true,
+    "external_selection": "continual FACS enrichment of bacterium-positive spores",
+    "independent_introductions": 3,
+    "selection_arms_per_introduction": 2,
+    "arms_followed_5_rounds": 6,
+    "arms_followed_20_rounds": 2,
+    "long_arms_shared_one_founder": true,
+    "multigeneration_selection_withdrawal_test": false
+  },
+  "reported_original_values": {
+    "initial_bacterium_positive_spore_fractions_percent": [
+      0.009,
+      0.9,
+      1.2
+    ],
+    "initial_germination_percent": [
+      3.8,
+      11.1,
+      2.8
+    ],
+    "non_injected_germination_percent": "52 ± 6.5",
+    "FACS_bulk_sort_per_round": "50,000–100,000 positive spores, with exceptions",
+    "late_line_day28_starvation_activated_germination_positive": "1/288",
+    "late_line_day28_starvation_activated_germination_negative": "93/288",
+    "late_line_bacterial_retention_in_germlings": ">65%, conditional on germinated survivors"
+  },
+  "unresolved_source_discrepancy": {
+    "text": "Results state 114 germinations among 384 tracked spores",
+    "figure": "Figure 3c four reported groups sum 311 germinations among 384 spores",
+    "status": "not reconciled; may reflect different processing subsets despite same reported denominator; do not repair silently",
+    "raw_data_checked": false
+  },
+  "source_independence": {
+    "comparison": "Giger et al. 2024, DOI 10.1038/s41586-024-08010-x",
+    "relationship": "overlapping investigators and same FluidFM/FACS fungal platform, new bacterial species; not independent laboratory validation",
+    "negative_2024": "positive symbiont carriage washed out after four to five rounds without selection",
+    "outside_system": "Sørensen et al. 2021 DOI 10.1016/j.cub.2021.06.034; E1 abstract-only comparator, not new de novo origin"
+  },
+  "negatives": [
+    "rare initial symbiont-positive spores",
+    "substantial initial infected-host germination cost",
+    "continuous manual selection and plating required in serial passages",
+    "late fungal biomass growth slower despite tolerance",
+    "late spore survival after 28 days very low",
+    "no multigeneration no-FACS washout in 2025 pairing",
+    "no causal genotype-to-phenotype reconstruction",
+    "conditional survivor measurements not population-level reproduction"
+  ],
+  "hypotheses": [
+    {
+      "id": "P26-H1",
+      "question": "Does removal of positive-spore FACS selection collapse heritable co-transmission in independently initialized lines?",
+      "status": "unimplemented"
+    },
+    {
+      "id": "P26-H2",
+      "question": "Does improved partner load tolerance fail to increase unconditional host lifetime reproduction?",
+      "status": "unimplemented"
+    },
+    {
+      "id": "P26-H3",
+      "question": "Could apparent adaptation be selection of pre-existing tolerance or non-genetic carryover rather than new inherited control?",
+      "status": "unimplemented"
+    },
+    {
+      "id": "P26-H4",
+      "question": "Does conditioning on surviving germlings overstate lineage maintenance?",
+      "status": "unimplemented"
+    }
+  ],
+  "independent_scientific_replication": false,
+  "independent_autonomous_joint_reproduction_demonstrated": false,
+  "no_artificial_organism_or_simulation_executed": true,
+  "historical_catalog_counts_unchanged": true,
+  "preserve_eerc_versions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_path": "docs/artificial-life/118-pass26-gassler-2025-selection-dependence-full-review.md",
+  "next_priority": "Primary, independent-origin experiment with multigeneration intervention-withdrawal descendants and full failure accounting"
+}

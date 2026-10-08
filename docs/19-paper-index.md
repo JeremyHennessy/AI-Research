@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 12 — 2026-10-08:** 223 curated research records across 30 tracks, with 23 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 13 — 2026-10-08:** 233 curated research records across 30 tracks, with 26 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -450,3 +450,22 @@ The titles below are newly catalogued, with one E2 full-main review and eight E1
 | 2009 | [Adaptive prediction of environmental changes by microorganisms](https://doi.org/10.1038/nature08112) | E1 | AL11 |
 
 [2016 Physarum fusion full review](artificial-life/56-pass12-physarum-fusion-memory-complete-review.md) · [Stentor mechanistic limitations](artificial-life/55-pass12-stentor-molecular-memory-and-daughters.md) · [EERC history hypothesis](artificial-life/58-pass12-eerc-history-conditioned-organization.md) · [Pass 12 continuation](artificial-life/59-pass12-research-handoff.md).
+
+## Pass 13 — memory-bearing environments, yeast partition gates, and strict model comparators
+
+New distinct catalog sources (3 E2 primary full-paper reviews, 7 E1 abstract/selected-source reviews). E1 is NOT an E3 replication and includes unreviewed preprints.
+
+| Year | New primary work | Source evidence | Scientific boundary |
+|---:|---|---|---|
+| 2012 | [Slime mold uses an externalized spatial “memory” to navigate in complex environments](https://doi.org/10.1073/pnas.1215037109) | E2 | External trace navigation, not new evolved cognition |
+| 2013 | [A Super-Assembly of Whi3 Encodes Memory of Deceptive Encounters by Single Cells during Yeast Courtship](https://doi.org/10.1016/j.cell.2013.10.046) | E1 | No independent living digital organism demonstrated |
+| 2022 | [Whi3 mnemon association with endoplasmic reticulum membranes confines the memory of deceptive courtship to the yeast mother cell](https://doi.org/10.1016/j.cub.2022.01.002) | E2 | ER mother-to-daughter transmission gate |
+| 2023 | [Septin Defects Favour Symmetric Inheritance of the Budding Yeast Deceptive Courtship Memory](https://doi.org/10.3390/ijms24033003) | E2 | First-daughter partial inheritance, septin trade-offs |
+| 2026 | [Associative learning in the protozoan Stentor coeruleus](https://doi.org/10.64898/2026.02.25.708045) | E1 | September 2026 v2 NOT peer-reviewed |
+| 2008 | [Amoebae Anticipate Periodic Events](https://doi.org/10.1103/PhysRevLett.100.018101) | E1 | No independent living digital organism demonstrated |
+| 2025 | [Cognition without neurons: modelling anticipation in a basal reservoir computer](https://arxiv.org/abs/2505.02114) | E1 | No independent living digital organism demonstrated |
+| 2025 | [Cognition as least action: the Physarum Lagrangian](https://arxiv.org/abs/2511.08531) | E1 | No independent living digital organism demonstrated |
+| 2017 | [Maze solvers demystified and some other thoughts](https://arxiv.org/abs/1712.04681) | E1 | No independent living digital organism demonstrated |
+| 2026 | [Engineering Basal Cognition: Minimal Genetic Circuits for Habituation, Sensitization, and Massed–Spaced Learning](https://doi.org/10.1021/acssynbio.5c00766) | E1 | Human-engineered simulated learning-like circuits |
+
+[Three full primary reviews](artificial-life/60-pass13-externalized-navigation-memory-2012-full-review.md) · [Yeast gating E2](artificial-life/61-pass13-whi3-memory-barrier-2022-full-review.md) · [Birth order E2](artificial-life/62-pass13-first-daughter-septin-memory-2023-full-review.md) · [EERC-T original hypothesis](artificial-life/64-pass13-eerc-external-trace-selective-inheritance.md) · [Pass 13 handoff](artificial-life/65-pass13-research-handoff.md).

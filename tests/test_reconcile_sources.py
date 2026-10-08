@@ -10,7 +10,7 @@ ROWS = [
      "title":"Interesting Paper", "evidence_level":"E0", "retrieved_at":"2026-10-08",
      "authors":["A. One"],"query":"models"},
     {"id":"doi:10.48550/ARXIV.2601.01234", "doi":"10.48550/ARXIV.2601.01234",
-     "url":"https://doi.org/10.48550/arxiv.2601.01234", "title":"Interesting Paper!",
+     "url":"https://doi.org/10.48550/arxiv.2601.01234", "title":"Interesting Paper - Extended Edition",
      "evidence_level":"E0","retrieved_at":"2026-10-09","authors":["Alice One"],"query":"agents"},
     {"id":"openalex:W123", "doi":"https://doi.org/10.48550/arxiv.2601.01234",
      "url":"https://doi.org/10.48550/arxiv.2601.01234", "title":"Interesting Paper",

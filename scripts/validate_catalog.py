@@ -13,6 +13,8 @@ TRACKS = {
     "world-models", "multimodal", "systems", "evaluation", "safety",
     "interpretability", "causality", "continual-learning", "security", "alignment",
     "robotics", "science", "hardware",
+    "graph-learning", "probabilistic", "neuroscience", "formal-reasoning",
+    "audio", "program-synthesis", "multi-agent",
 }
 REQUIRED = {
     "id", "title", "year", "track", "url", "evidence_level",

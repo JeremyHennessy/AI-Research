@@ -1,11 +1,12 @@
-# Research catalog index (generated from curated metadata)
-**Pass 3 — 2026-10-08.** 108 curated research records across 18 research tracks. All scientific claims remain publication-reported; there are **no independently reproduced results**.
+# Research catalog index
 
-[Research roadmap](10-pass2-index.md) · [New domains](22-ai-field-map.md) · [Interpretability](23-interpretability-and-causality.md) · [Safety and robustness](24-alignment-and-security.md) · [Embodied AI](25-embodied-science-hardware.md)
+**Pass 4 — 2026-10-08.** 119 curated research records across 22 research tracks. One complete publication was reviewed (E2); no independent model replication.
+
+[Pass 4 research atlas](29-pass4-index.md) · [Revised formal-prover source audit](30-deepseek-prover-v2-review.md) · [Disagreements and corrections](35-research-disagreements.md)
 
 ## agents (4)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2025 | [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534) | E1 | E05, E07 |
 | 2025 | [SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/) | E1 | E08 |
@@ -14,7 +15,7 @@
 
 ## alignment (5)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Early work on monitorability evaluations](https://metr.org/blog/2026-01-19-early-work-on-monitorability-evaluations/) | E1 | E18 |
 | 2024 | [Alignment faking in large language models](https://arxiv.org/abs/2412.14093) | E1 | E18 |
@@ -24,7 +25,7 @@
 
 ## architecture (17)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Clock Diffusion: Efficient Semi-Autoregressive Continuous Diffusion Language Models](https://arxiv.org/abs/2610.00894) | E1 | E11 |
 | 2026 | [Consistent Diffusion Language Models](https://arxiv.org/abs/2605.00161) | E1 | E11 |
@@ -46,19 +47,19 @@
 
 ## causality (1)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2021 | [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107) | E1 | E15 |
 
-## continual learning (1)
+## continual-learning (1)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2016 | [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) | E1 | E16 |
 
 ## data (7)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Position: Multiple Definitions & Unrealistic Assumptions of Model Collapse Distract from Real World Threats](https://proceedings.mlr.press/v306/schaeffer26a.html) | E1 | E04 |
 | 2026 | [Scaling Laws for Mixture Pretraining Under Data Constraints](https://arxiv.org/abs/2605.12715) | E1 | E04 |
@@ -70,7 +71,7 @@
 
 ## evaluation (10)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [BenchMIRT: What are LLM benchmarks actually measuring?](https://allenai.org/blog/benchmirt) | E1 | E12 |
 | 2026 | [Expenditure Horizon: Measuring Optimization Ability, with an Application to NanoGPT](https://metr.org/blog/2026-07-21-expenditure-horizon/) | E1 | E21 |
@@ -83,22 +84,38 @@
 | 2023 | [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770) | E1 | E01, E05 |
 | 2022 | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) | E1 | E01 |
 
+## formal-reasoning (2)
+
+| Year | Source | Level | Experiment |
+|---:|---|---|---|
+| 2025 | [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://arxiv.org/abs/2504.21801) | E2 | E24 |
+| 2023 | [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://arxiv.org/abs/2306.15626) | E1 | E24 |
+
 ## foundations (1)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | E1 | E01 |
 
+## graph-learning (4)
+
+| Year | Source | Level | Experiment |
+|---:|---|---|---|
+| 2018 | [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) | E1 | E25 |
+| 2018 | [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261) | E1 | E25 |
+| 2017 | [Graph Attention Networks](https://arxiv.org/abs/1710.10903) | E1 | E25 |
+| 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | E1 | E25 |
+
 ## hardware (2)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [MLPerf Inference v6.0 Benchmark Results](https://mlcommons.org/2026/04/mlperf-inference-v6-0-results/) | E1 | E22 |
 | 2026 | [MLPerf Training v6.0 Benchmark Results](https://mlcommons.org/2026/06/mlperf-training-v6-0-results/) | E1 | E22 |
 
 ## interpretability (10)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [A diff tool for AI: Finding behavioral differences in new models](https://www.anthropic.com/research/diff-tool) | E1 | E14 |
 | 2026 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | E1 | E14 |
@@ -113,7 +130,7 @@
 
 ## memory (9)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://aclanthology.org/2026.acl-long.981/) | E1 | E03 |
 | 2026 | [AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications](https://proceedings.mlr.press/v306/zhao26bs.html) | E1 | E03 |
@@ -127,14 +144,29 @@
 
 ## multimodal (2)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2024 | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | E1 | E09 |
 | 2023 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) | E1 | E09 |
 
+## probabilistic (4)
+
+| Year | Source | Level | Experiment |
+|---:|---|---|---|
+| 2017 | [On Calibration of Modern Neural Networks](https://arxiv.org/abs/1706.04599) | E1 | E23 |
+| 2016 | [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474) | E1 | E23 |
+| 2015 | [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/abs/1506.02142) | E1 | E23 |
+| 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | E1 | E23 |
+
+## program-synthesis (1)
+
+| Year | Source | Level | Experiment |
+|---:|---|---|---|
+| 2020 | [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/abs/2006.08381) | E1 | E24 |
+
 ## reasoning (12)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://proceedings.mlr.press/v306/chen26an.html) | E1 | E13 |
 | 2026 | [CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement](https://aclanthology.org/2026.acl-long.1321/) | E1 | E13 |
@@ -151,7 +183,7 @@
 
 ## robotics (4)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Gemini Robotics 1.5](https://deepmind.google/en/models/gemini-robotics/gemini-robotics/) | E1 | E19 |
 | 2023 | [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) | E1 | E19 |
@@ -160,7 +192,7 @@
 
 ## science (4)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) | E1 | E21 |
 | 2026 | [Our First Proof submissions](https://openai.com/index/first-proof-submissions/) | E1 | E21 |
@@ -169,13 +201,13 @@
 
 ## security (1)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2020 | [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) | E1 | E17 |
 
 ## systems (11)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://allenai.org/blog/olmocore3) | E1 | E07 |
 | 2026 | [Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures](https://proceedings.mlr.press/v306/elango26a.html) | E1 | E07 |
@@ -189,9 +221,9 @@
 | 2021 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | E1 | E20 |
 | 2015 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | E1 | E20 |
 
-## world models (7)
+## world-models (7)
 
-| Year | Paper / primary source | Level | Experiments |
+| Year | Source | Level | Experiment |
 |---:|---|---|---|
 | 2026 | [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://proceedings.mlr.press/v306/wang26jh.html) | E1 | E08 |
 | 2026 | [Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling](https://proceedings.mlr.press/v306/feng26aa.html) | E1 | E08 |
@@ -201,5 +233,4 @@
 | 2024 | [Genie: Generative Interactive Environments](https://proceedings.mlr.press/v235/bruce24a.html) | E1 | E08 |
 | 2023 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | E1 | E08 |
 
-## Source status
-E1 represents public source metadata and author-reported findings. A subset has newly inspected primary landing pages, noted in the JSONL catalog; other entries still need deeper verification. **No** passage in this index claims independent replication.
+E1 denotes paper/abstract metadata review; E2 denotes full paper and caveat review, **not** replication. No claim in the catalog has been experimentally verified here.

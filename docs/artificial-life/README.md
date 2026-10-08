@@ -74,12 +74,27 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [58 — History-conditioned EERC pathway](58-pass12-eerc-history-conditioned-organization.md) | Could maintenance encode experience? | Original future-only hypotheses and null tests |
 | [59 — Twelfth-pass scientific handoff](59-pass12-research-handoff.md) | What is verified and what remains unknown? | Source, catalog, CI and subsequent research priorities |
 
+| [60 — Physarum externalized navigation, full source](60-pass13-externalized-navigation-memory-2012-full-review.md) | Do self-deposited environmental traces improve a novel obstacle? | E2 23/24 vs 8/24 U-trap, no-trap and speed controls |
+| [61 — Yeast Whi3 memory partition](61-pass13-whi3-memory-barrier-2022-full-review.md) | Can physical barriers separate mother memory from daughter response? | E2 barrier mutant/forced-tether inheritance, 1st daughter caveat |
+| [62 — Septin first daughter follow-up](62-pass13-first-daughter-septin-memory-2023-full-review.md) | Is daughter transmission always blocked? | E2 early leak and septin division tradeoffs |
+| [63 — Associative protozoa and installed-circuit alternatives](63-pass13-association-anticipation-and-circuit-shortcuts.md) | Is dynamic behavior learned, wired, or purely physical? | E1 preprints and synthetic-circuit false-positive controls |
+| [64 — New EERC-T hypothesis](64-pass13-eerc-external-trace-selective-inheritance.md) | Can organisms create, trust and selectively pass ecological traces? | Unverified novel synthesis and independent causal nulls |
+| [65 — Pass 13 canonical handoff](65-pass13-research-handoff.md) | What is verified, what remains hypothetical, and what's next? | Counts, rights, provenance and continuation |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Thirteenth scholarly pass — environmental memory, selective partition and critical alternative explanations (2026-10-08)
+
+**Current source library:** **233** curated records in **30** tracks, **87** ALife source notes, **26** complete primary paper/theory E2 reviews, **23** ALife E2 methods receipts and **145** evidence-qualified claims. Earlier **15** canonical untested hypotheses, **11** future-only experiment designs, **10** independent evaluation criteria and **12** documented failure cases remain untouched. **Zero independent E3 scientific reproductions and no new organism built.**
+
+**E2:** [2012 externalized slime-trail navigation](60-pass13-externalized-navigation-memory-2012-full-review.md) tested 23/24 against 8/24 success in a U-shaped obstacle; [2022 yeast Whi3 barrier](61-pass13-whi3-memory-barrier-2022-full-review.md) and [2023 first-daughter septin](62-pass13-first-daughter-septin-memory-2023-full-review.md) identify **selective, sometimes leaky daughter-state inheritance**. Same yeast research program must **not** be counted as independent evolutionary origins. **E1:** original 2013 Whi3, 2008 periodic Physarum, two 2025 mathematical arXiv models, 2017 maze-gradient critique, 2026 designed-circuit simulations and September 2026 **bioRxiv associative Stentor v2 (NOT peer reviewed)**.
+
+**New original research only:** [EERC-T](64-pass13-eerc-external-trace-selective-inheritance.md) asks whether environmental records and controlled memory transmission could emerge inside changing ecologies, outperforming blindly copying or erasing all states and externally written maps. [Version 3](../../data/alife/combined-path-eerc-v3.json) is **additional and untested**, preserves [v1](../../data/alife/combined-path-eerc-v1.json) and [v2](../../data/alife/combined-path-eerc-v2.json), and authorizes **zero** world/model implementation. [Study-unit matrix](../../data/alife/pass13-trace-and-memory-evidence.json) · [Pass 13 handoff](65-pass13-research-handoff.md).
 
 ## Twelfth scholarly pass — memory and learning outside nervous systems (2026-10-08)
 

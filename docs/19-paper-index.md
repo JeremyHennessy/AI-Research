@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 183 curated research records across 30 research tracks. Six complete public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
+**Pass 4 — 2026-10-08.** 191 curated research records across 30 research tracks. Eight detailed public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -309,7 +309,7 @@ This section is additive. Sources already indexed elsewhere are cross-linked rat
 | Year | Primary source | Evidence | Future research |
 |---:|---|---|---|
 | 2025 | [Flow-Lenia: Emergent evolutionary dynamics in mass conservative continuous cellular automata](https://arxiv.org/abs/2506.08569) | E2 | AL04 |
-| 2025 | [Emergence of Self-Replicating Hierarchical Structures in a Binary Cellular Automaton](https://doi.org/10.1162/artl_a_00449) | E1 | AL02 |
+| 2025 | [Emergence of Self-Replicating Hierarchical Structures in a Binary Cellular Automaton](https://doi.org/10.1162/artl_a_00449) | E2 | AL02 |
 | 2023 | [EINCASM: Emergent Intelligence in Neural Cellular Automaton Slime Molds](https://doi.org/10.1162/isal_a_00703) | E1 | AL05 |
 | 2022 | [Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization](https://arxiv.org/abs/2212.07906) | E1 | AL02 |
 | 2020 | [Growing Neural Cellular Automata](https://doi.org/10.23915/distill.00023) | E1 | AL01 |
@@ -347,5 +347,22 @@ Deep source audit: [Liu and Sumpter chemistry full paper review](artificial-life
 | 2022 | [Self-Replication in Neural Networks](https://doi.org/10.1162/artl_a_00359) | E1 | AL02 |
 | 2001 | [The molecular roots of compositional inheritance](https://doi.org/10.1006/jtbi.2001.2440) | E1 | AL02 |
 | 2025 | [Survival and Evolutionary Adaptation of Populations Under Disruptive Habitat Change: A Study With Darwinian Cellular Automata](https://doi.org/10.1162/artl_a_00457) | E1 | AL03 |
+
+## Artificial Life: Outlier, 2026 engineering, and evolving chemistries (pass 4)
+
+This index adds **8** distinct publication leads plus full-method review of an **existing** Outlier record. Do not count the journal/preprint versions of Outlier or the Hintze/Bohm study as the same paper: the latter is a separate causal-lineage analysis. E1 sources include author abstracts only; short 2026 booklets were not reviewed in full.
+
+| Year | Source | Evidence | Proposed experiment |
+|---:|---|---|---|
+| 2026 | [An Engineering Definition of (Artificial) Life](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-summ.htm) | E1 | AL11 |
+| 2026 | [From ALife Worlds to ALife World Views](https://doi.org/10.1162/ISAL.a.941) | E1 | AL11 |
+| 2026 | [Rethinking Self-Replication: Detecting Distributed Selfhood in the Outlier Cellular Automaton](https://arxiv.org/abs/2508.08047) | E2 | AL09 |
+| 2026 | [Transformational Novelty with an Automata Meta-Chemistry](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-late.htm) | E1 | AL10 |
+| 2025 | [Towards origins of virtual artificial life: an overview](https://doi.org/10.1098/rstb.2024.0298) | E1 | AL11 |
+| 2020 | [Innovation, Variation, and Emergence in an Automata Chemistry](https://doi.org/10.1162/isal_a_00265) | E1 | AL10 |
+| 2020 | [MetaChem: An Algebraic Framework for Artificial Chemistries](https://arxiv.org/abs/1905.12541) | E1 | AL10 |
+| 2016 | [Maximizing the Adjacent Possible in Automata Chemistries](https://doi.org/10.1162/ARTL_a_00180) | E1 | AL10 |
+
+[Original Outlier paper E2](artificial-life/20-outlier-original-2025-full-review.md) · [Independent causal study E2](artificial-life/21-outlier-causal-selfhood-2026.md) · [Stepney and meta-chemistry sources](artificial-life/22-engineering-life-and-transformational-novelty.md) · [Unified experimental standard](artificial-life/23-unified-organism-evidence-standard.md).
 
 E1: public primary abstract or official release checked, not full-paper replication. E2: documented whole-paper methods/evaluation review; E3: demands independent reproduction. None E3 here.

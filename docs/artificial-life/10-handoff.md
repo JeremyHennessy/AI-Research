@@ -4,6 +4,15 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## Second-pass research checkpoint (October 8, 2026)
+**Scope remains research only; no organism/simulator/world built or deployed.** Expanded curated collection to **183** primary research records across **30** tracks, with **37** records linked to ALife source notes (30 initial, seven added here). Overall E2 source reviews now **three**: existing DeepSeek-Prover-V2; Taylor's 2015 OEE theory; newly deep-read [Liu & Sumpter 2018](12-chemical-replication-full-review.md). **No** independent E3 replication.
+
+**New results:** [2026 counterevidence](14-negative-results-and-measurement-disagreements.md) on ToLSim partial open-endedness failure and NCA attractor-scale complexity; [public author-code audit](13-implementation-source-audit.md) pinned FlowLenia, PBT-NCA and chemical MATLAB releases with exact observed GitHub SHA/license status; [future-only verdict protocol](15-experimental-verdicts-and-separation.md). The original **12** hypotheses and **8** experimental designs retain status `not_tested` / `not_authorized`.
+
+**Verified intermediate GitHub checkpoint:** code/content SHA `08272a10977be5e3e23d266ed9b9c402d2218579`, GitHub Actions run `37777425259` reported success for syntax, catalog and tests. Subsequent navigation/handoff changes require their own final CI run. The previous full Pass 1 baseline and approved evidence conventions remain preserved.
+
+**Remaining blockers before E2 for other papers:** Flow-Lenia 2025 journal article's complete method/results unavailable in this inspection despite access to primary abstract and older JAX code; PBT–NCA README/config does not constitute full-text review; ALIFE 2026 proceedings not exhaustively audited. Zero live collection/API crawling, training or ALife execution was performed.
+
 ## First integration checkpoint
 The main catalog was expanded from **146 to 176** records across **30** research tracks, with 30 ALife entries linked to original source records. The hypothesis and future-study machine-readable registries contain **12** and **8** proposed items respectively; their status remains `not_tested` / `not_authorized`. Read the main [README](../../README.md) and inspect the latest GitHub Actions run for a confirmed deployment-free documentation baseline. The previous pre-initiative commit `6cdecdaa79879be028c7b53d19b067c0b6cb4d54` and its passing workflow `37773603738` remain reference checkpoints, not a rollback instruction.
 

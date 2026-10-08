@@ -51,6 +51,18 @@ The objective is not to prove artificial life is inevitable. This ledger records
 **Limitation:** their interesting claims depend on selected rules, metrics, optimization settings or run horizons. We have only screened primary metadata/descriptions here, not executed their code or independently checked all figures.
 **Discriminator:** preregister holdouts, replicate original configs, perform parameter/seed sweep, compare independent functional metrics, retain negative results.
 
+## C11 — One open-endedness metric increases while new activity vanishes
+**New published counterexample:** [ToLSim, de Pinho & Sinapayen (2026)](https://arxiv.org/abs/2603.01701) reports cumulative gene-based evolutionary activity behavior consistent with one unboundedness measure, but bounded normalized trends and persistently null new activity. **Limit:** the authors themselves suggest agent-/species-based component definitions could yield a different result.
+**Discriminator:** preregister component levels, normalized and new activity, hidden functions and trajectories across independent worlds. A monotonic total cannot certify OEE.
+
+## C12 — A chemistry can be "self-driven" without self-replicating
+**Full reviewed evidence:** [Liu & Sumpter (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6295724/) classify 6,886/16,825 toy chemistries as self-driven at L=6, with only 74 meeting *sufficient lower-bound* self-replicating conditions. Infinite external feedstock and no spatial compartments are modeled.
+**Discriminator:** inspect overproduction vs mere molecular recycling, finite-feedstock persistence, internal repair knockouts and descendant inheritance. [Detailed audit](12-chemical-replication-full-review.md).
+
+## C13 — Complexity is scale- and representation-dependent
+**New published abstract:** [Stovold et al., ALIFE 2026](https://doi.org/10.1162/ISAL.a.952) report relatively simple global NCA attractor manifolds and complicated local cell-level manifolds. Neither alone identifies a causal living organization.
+**Discriminator:** multiple scales with retained hidden-test functional predictions, oscillator nulls and controlled perturbation/repair effects.
+
 ## Literature map for next pass
 Actively seek studies claiming **failed OEE, non-increasing complexity, deceptive novelty metrics, transient repair, collapsed niche ecology, overfitting to habitat, lineage/hierarchy identification ambiguity**. Check correction/retraction status for sources above. Add counterexample entries even when they contradict our favorite architecture.
 

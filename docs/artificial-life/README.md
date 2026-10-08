@@ -22,8 +22,15 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [09 — Contradictions & limits](09-counterevidence.md) | What evidence challenges attractive intuitions? | Explicit contrary cases and discriminators |
 | [10 — Continuing research handoff](10-handoff.md) | How to continue without drifting into implementation? | Next review pass, repository receipts |
 | [11 — Feasibility and interdisciplinary bridges](11-feasibility-and-cross-disciplinary-bridges.md) | What can be tested with accessible compute, and which new combinations are worth falsifying? | Practical trade-offs and six original cross-disciplinary research hypotheses |
+| [12 — Chemical replication full paper](12-chemical-replication-full-review.md) | Which methods truly support chemical amplification? | First fully examined chemistry paper, equations, exact denominators and caveats |
+| [13 — Original implementation sources](13-implementation-source-audit.md) | Can we reproduce Flow-Lenia/PBT–NCA/chemistry faithfully? | Pinned author GitHub SHAs, licenses and unrun dependencies |
+| [14 — Negative results and scale effects](14-negative-results-and-measurement-disagreements.md) | Why do OEE metrics and microscopic complexity disagree? | 2025–2026 counterexamples and falsification paths |
+| [15 — Experimental separation](15-experimental-verdicts-and-separation.md) | How to distinguish survival from simulated illusion? | Null controls and proposed independent outcome measures |
 
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
+
+## Current audit status
+**Second research pass:** 37 ALife source records, including seven new counterexample/foundational studies; **two ALife E2 theory/technical paper reviews** (Tim Taylor 2015 and Liu–Sumpter 2018), neither independently reproduced. The wider AI-Research compendium has three E2 reviews overall. The [methodology audit](12-chemical-replication-full-review.md) and [2026 negative-evidence review](14-negative-results-and-measurement-disagreements.md) distinguish actual authors' results from design hypotheses. The [implementation inventory](../../data/alife/code-inventory.jsonl) is source-only: **no scientific code was executed**.
 
 ## Initial evidence position (not a verdict on whether digital life is possible)
 

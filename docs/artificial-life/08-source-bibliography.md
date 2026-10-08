@@ -1,5 +1,5 @@
 # Artificial-life primary source bibliography (first systematic map)
-**Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; other ALife sources here remain E1 pending deeper audits.
+**Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; the Liu–Sumpter (2018) full open article is now also E2; all other ALife sources here remain E1 pending deeper audits.
 
 See the [main machine-readable catalog](../../data/papers.jsonl) and scoped [method annotations](../../data/alife/source-notes.jsonl). Each listed source should contain an exact DOI, arXiv ID, or identified archival work.
 
@@ -48,4 +48,22 @@ See the [main machine-readable catalog](../../data/papers.jsonl) and scoped [met
 ## Database and rights notes
 Sources queried include original journal/venue pages, PubMed/PMC, author repositories, arXiv, official ALIFE organizers and publicly linked implementation repositories. We did **not** scrape Crossref/OpenAlex/Semantic Scholar exhaustively or harvest full text from paywalled outlets. For individual papers, inspect versions, DOIs, retractions, available code, and rights before archiving any full text. Date ambiguity example: Bo Yang's article is in a **2025 issue** but has a **2024 online record** in some metadata indexes; include both instead of silently rewriting history.
 
-**Next coverage pass:** full-method audits of 2025 Flow-Lenia, 2025 Outlier, 2026 PBT–NCA and 2018 chemical model; search negative replications and ALIFE 2026 papers; reconcile arXiv-to-journal DOIs; inspect actual code commit/licenses. No independent reproductions have yet been performed.
+## VI. Second research pass — newly confirmed primary sources
+
+33. **Théo de Pinho and Lana Sinapayen (2026).** [A speciation simulation that partly passes open-endedness tests](https://arxiv.org/abs/2603.01701). ToLSim gene-level evolutionary activity shows an apparently unbounded accumulated statistic **but bounded normalized and missing new activity**. **Limit:** authors warn individual/species-level component choice could change the result. [Analysis](14-negative-results-and-measurement-disagreements.md).
+
+34. **James Stovold, Mia-Katrin Kvalsund, Michael Ludwig, Varun Sharma, Alexander Mordvintsev (2026).** [Visualising the Attractor Landscape of Neural Cellular Automata](https://doi.org/10.1162/ISAL.a.952), ALIFE 2026, [TU Wien institutional record](https://repositum.tuwien.at/handle/20.500.12708/231190). **Result at abstract level:** global state manifold often simpler than local cell state manifold. **Limit:** representational complexity ≠ living adaptive organization.
+
+35. **Hiroki Sayama and Chrystopher L. Nehaniv (2025).** [Self-Reproduction and Evolution in Cellular Automata: 25 Years After Evoloops](https://doi.org/10.1162/artl_a_00451), *Artificial Life* 31(1), 81–95. **Review:** distinguishes self-copying from evolution-capable offspring; compares von Neumann and Langton conditions. **Limit:** survey is not new independent ALife reproduction.
+
+36. **Randall D. Beer (2020).** [An Investigation into the Origin of Autopoiesis](https://doi.org/10.1162/artl_a_00307), *Artificial Life* 26(1), 5–22. **Method:** statistical treatment of creation, persistence and destruction of Game-of-Life gliders as minimal organizational examples. **Limit:** glider is an explicit toy model, not a metabolizing cell.
+
+37. **Thomas Gabor et al. (2022).** [Self-Replication in Neural Networks](https://doi.org/10.1162/artl_a_00359), *Artificial Life* 28(2), 205–223. **Method:** self-application and training of neural network weight configurations, artificial soups and robustness to noise. **Limit:** weight-space fixpoints are not a full organism with inherited evolving function.
+
+38. **Doron Segré, Barak Shenhav, Ron Kafri, Doron Lancet (2001).** [The molecular roots of compositional inheritance](https://doi.org/10.1006/jtbi.2001.2440), *Journal of Theoretical Biology* 213(3), 481–491. **Result in abstract:** inheritance fidelity depends on catalytic coefficients and assembly size; particular distributions produce compositional error catastrophe. **Limit:** model-dependent rates.
+
+39. **Hanna Derets and Chrystopher L. Nehaniv (2025).** [Survival and Evolutionary Adaptation of Populations Under Disruptive Habitat Change](https://doi.org/10.1162/artl_a_00457), *Artificial Life* 31(1), 106–123. **Method:** stochastic spatial Darwinian CA; explores habitat-related survival/extinction thresholds. **Limit:** experiment parameters and original code not yet audited.
+
+**Full E2 audit added:** Liu & Sumpter (2018), [deep technical reading](12-chemical-replication-full-review.md). Main journal article and methods reviewed via [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6295724/); model source code is [pinned and inventoried](13-implementation-source-audit.md) but unexecuted. The paper's roughly 41% **self-driven** figure must not be interpreted as 41% **self-replicating**: at L=6 its sufficient self-replicator lower bound is **74/16,825**.
+
+**Next coverage pass:** full-method audits of 2025 Flow-Lenia, 2025 Outlier and 2026 PBT–NCA; systematic ALIFE 2026 paper collection; independently verify negative OEE metrics and compositional error catastrophe; audit source license/code contents with permission. No independent simulation reproduction has been performed.

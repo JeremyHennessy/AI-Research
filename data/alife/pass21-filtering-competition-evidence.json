@@ -1,0 +1,41 @@
+{
+  "pass": 21,
+  "reviewed_at": "2026-10-08",
+  "baseline_main": "43d6abfbfc947d10200a5597c8f24bd0576d05bb",
+  "mode": "research_only",
+  "studies": [
+    {
+      "paper_id": "doi:10.1073/pnas.1511454112",
+      "source_url": "https://www.pnas.org/doi/10.1073/pnas.1511454112",
+      "review": "docs/artificial-life/109-pass21-ohbayashi-2015-filtering-full-review.md",
+      "level": "E2",
+      "causal_contrast": "Native tagged symbiont entry versus limited nonsymbiont exposure; motility mutants and complementation",
+      "negative": "0/5 comparator arms; one nonmotile line still 4/10; broad host specificity not measured",
+      "independence": "Engineering perturbations nested in one existing host-symbiont system; no observed evolutionary origins"
+    },
+    {
+      "paper_id": "doi:10.1073/pnas.1912397116",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6842582/",
+      "review": "docs/artificial-life/110-pass21-itoh-2019-competition-full-review.md",
+      "level": "E2",
+      "causal_contrast": "Broad nonnative colonization panel, alone versus co-inoculation, host versus host-free fitness",
+      "negative": "Beneficial nonnative passage; high-dose Pandoraea competitor not dominated",
+      "independence": "Same host system and overlapping group as 2015; 52 candidate species not independent evolution lineages"
+    }
+  ],
+  "independent_origin_events_observed": 0,
+  "unobserved": [
+    "Origin of the host entry gate",
+    "Selective regime giving rise to native competitiveness",
+    "Full descendant lifetime reproduction across partner alternatives",
+    "Primary supplements and raw data"
+  ],
+  "proposals": [
+    "H21-A admission after equal exposure",
+    "H21-B post-entry competition after matched passage",
+    "H21-C evolving preference with independent costed descendants"
+  ],
+  "source_text_redistributed": false,
+  "organism_implemented": false,
+  "independently_reproduced": false
+}

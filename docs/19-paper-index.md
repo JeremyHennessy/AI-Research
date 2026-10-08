@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 20 — 2026-10-08:** 266 curated research records across 30 tracks, with 49 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 21 — 2026-10-08:** 268 curated research records across 30 tracks, with 51 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -569,3 +569,12 @@ Current E2 promotions below supersede older E1 source-depth entries; historical 
 | 2018 | [Transmission strategies in a chemosynthetic symbiosis: detection and quantification of symbionts in host tissues and their environment](https://doi.org/10.1098/rspb.2018.2157) | E2 | AL11 |
 
 [Pass 20 full reviews and handoff](artificial-life/108-pass20-research-handoff.md). Reading depth does not imply independent experimental reproduction.
+
+## Pass 21 — partial admission filtering versus competition
+
+| Year | Publication | Evidence | Experiment |
+|---:|---|---|---|
+| 2015 | [Insect's intestinal organ for symbiont sorting](https://doi.org/10.1073/pnas.1511454112) | E2 | AL11 |
+| 2019 | [Host–symbiont specificity determined by microbe–microbe competition in an insect gut](https://doi.org/10.1073/pnas.1912397116) | E2 | AL11 |
+
+[Complete reviews, causal limits and handoff](artificial-life/112-pass21-research-handoff.md). Same overlapping host program, no independent evolutionary origins.

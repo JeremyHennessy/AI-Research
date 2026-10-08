@@ -2,7 +2,11 @@
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
-## Latest completed research — Pass 20 (2026-10-08)
+## Latest completed research — Pass 21 (2026-10-08)
+
+**268** curated sources, **30** tracks, **122** ALife notes, **51** E2 complete-main reviews, **48** ALife method receipts and **241** claims. [2015 gate review](109-pass21-ohbayashi-2015-filtering-full-review.md) · [2019 competition counterexample](110-pass21-itoh-2019-competition-full-review.md) · [Stage-separated synthesis](111-pass21-stage-separated-recruitment-hypothesis.md) · [current handoff](112-pass21-research-handoff.md) · [evidence ledger](../../data/alife/pass21-filtering-competition-evidence.json).
+
+## Historical completed research — Pass 20 (2026-10-08)
 
 **266** papers across **30** tracks; **120** ALife notes; **49** E2 complete-primary readings; **46** method receipts; **233** claims. Two new full-main primary reviews; no independent scientific reproduction.
 

@@ -1,0 +1,195 @@
+{
+  "version": "0.1",
+  "status": "proposed_research_only",
+  "created_at": "2026-10-08",
+  "organism_implementation_authorized": false,
+  "global_rule": "independent per-property judgments; not a universal life score",
+  "criteria": [
+    {
+      "id": "AL-C01",
+      "axis": "replication",
+      "claim": "repeated pattern",
+      "status": "descriptive_not_replication",
+      "positive_evidence": "Recurrent spatial-temporal structure under a pinned update rule",
+      "critical_null": "Static pattern, translated glider and periodic oscillator",
+      "falsifier": "Recurrence attributable to one unbranching causal trajectory",
+      "required_artifacts": [
+        "rule_revision",
+        "initial_state",
+        "time_window",
+        "pattern_identity_rule"
+      ],
+      "primary_sources": [
+        "doi:10.1162/artl_a_00449"
+      ]
+    },
+    {
+      "id": "AL-C02",
+      "axis": "replication",
+      "claim": "causally distinct offspring",
+      "status": "replication_evidence",
+      "positive_evidence": "Two sibling descendants depend on parent through necessary causal edges and not on one another",
+      "critical_null": "Glider gun emits other structure; glider repeats; shared environmental source generates twins without causal parent",
+      "falsifier": "Daughters cannot be causally separated or are produced by engine cloning",
+      "required_artifacts": [
+        "parent_child_causal_DAG",
+        "cell_transition_truth_table",
+        "necessary_cause_rule",
+        "offspring_identity_definition"
+      ],
+      "primary_sources": [
+        "doi:10.1162/artl_a_00449",
+        "arxiv:2508.08047"
+      ]
+    },
+    {
+      "id": "AL-C03",
+      "axis": "replication",
+      "claim": "multigenerational reproducibility",
+      "status": "replication_evidence",
+      "positive_evidence": "Grandchildren that satisfy independent sibling and causal ancestry tests across time",
+      "critical_null": "Single generation c0-style copying; repeated emission without daughter reproduction",
+      "falsifier": "Only founder produces copies while all daughter lines terminate",
+      "required_artifacts": [
+        "generation_depth",
+        "offspring_reproductive_rate",
+        "extinction_fraction",
+        "seed_family"
+      ],
+      "primary_sources": [
+        "arxiv:2508.08047"
+      ]
+    },
+    {
+      "id": "AL-C04",
+      "axis": "heredity",
+      "claim": "inherited functional variation",
+      "status": "functional_heredity",
+      "positive_evidence": "Offspring acquire distinct variant function from identifiable parent organization and pass it onward under a novel assay",
+      "critical_null": "Environment-only induced resemblance, shuffled parent links, identical-copy-only patterns",
+      "falsifier": "New variation is phenotypic noise or disappears under parent-shuffle/independent-function test",
+      "required_artifacts": [
+        "genotype_or_process_lineage",
+        "function_assay",
+        "parent_shuffle_control",
+        "new_environment_holdout"
+      ],
+      "primary_sources": [
+        "arxiv:2508.08047",
+        "doi:10.1162/artl_a_00449"
+      ]
+    },
+    {
+      "id": "AL-C05",
+      "axis": "maintenance",
+      "claim": "endogenous constituent replacement",
+      "status": "autopoiesis_candidate",
+      "positive_evidence": "Internal causal repair loop restores a persistent organization after damage with quantified component turnover",
+      "critical_null": "Engine-respawn, protected cell memory, passive attractor, external healing script",
+      "falsifier": "Recovery remains unchanged when internally identified repair route is ablated",
+      "required_artifacts": [
+        "repair_knockout",
+        "component_turnover",
+        "boundary_definition",
+        "independent_viability_metric"
+      ],
+      "primary_sources": [
+        "doi:10.1098/rstb.2024.0298"
+      ]
+    },
+    {
+      "id": "AL-C06",
+      "axis": "resources",
+      "claim": "viability depends on resource use",
+      "status": "resource_regulation",
+      "positive_evidence": "Internally regulated resource uptake and output causally change lifetime and recovery",
+      "critical_null": "Unlimited replenishment, cosmetic energy meter, immortal update rule",
+      "falsifier": "Resource perturbation has no predicted causal effect on organization or ledger does not balance",
+      "required_artifacts": [
+        "resource_conservation_ledger",
+        "resource_knockout",
+        "replenishment_controls",
+        "cost_accounting"
+      ],
+      "primary_sources": [
+        "doi:10.1098/rstb.2024.0298"
+      ]
+    },
+    {
+      "id": "AL-C07",
+      "axis": "agency",
+      "claim": "counterfactual regulation",
+      "status": "agency_evidence",
+      "positive_evidence": "Behavior changes adaptively when previously unseen viability-threatening conditions change, with confirmed survival effect",
+      "critical_null": "Same reflex in every state; hidden designer fitness reward; cue scramble",
+      "falsifier": "Fitness gain disappears after changing the cues or predicted viability conditions",
+      "required_artifacts": [
+        "perturbation_distribution",
+        "cue_shuffle_control",
+        "viability_survival_effect",
+        "mechanistic_ablation"
+      ],
+      "primary_sources": [
+        "doi:10.1098/rstb.2024.0298"
+      ]
+    },
+    {
+      "id": "AL-C08",
+      "axis": "open_endedness",
+      "claim": "continual heritable functional innovation",
+      "status": "finite_horizon_hallmark",
+      "positive_evidence": "Repeated independent new functional capabilities inherited by distinct lineages in several future environmental conditions",
+      "critical_null": "Externally rewarded visual novelty, raw pattern entropy, mass-only activity, neutral shadow, repeated fixed task bonus",
+      "falsifier": "New functions plateau or are no different from null after removing external novelty objective",
+      "required_artifacts": [
+        "innovation_event_log",
+        "frozen_function_tests",
+        "lineage_receipts",
+        "null_activity_model",
+        "world_level_statistics"
+      ],
+      "primary_sources": [
+        "doi:10.1162/artl_a_00210",
+        "arxiv:2603.01701"
+      ]
+    },
+    {
+      "id": "AL-C09",
+      "axis": "computational_language",
+      "claim": "evolvable interpreter changes",
+      "status": "transformational_novelty_candidate",
+      "positive_evidence": "Causally inherited interpreter/rule-semantic change creates a viable new functional behavior unavailable under fixed language",
+      "critical_null": "Renamed syntax, random opcode corruption, human-chosen language upgrade, increased compute or extra action types",
+      "falsifier": "Only representation changes, behavior fails transfer, or no progeny inherit semantic capacity",
+      "required_artifacts": [
+        "old_new_instruction_semantics",
+        "environment_state",
+        "rule_change_origin",
+        "lineage_transmission_test",
+        "matched_fixed_interpreter"
+      ],
+      "primary_sources": [
+        "alife:adams-2026-transformational-novelty",
+        "doi:10.1162/isal_a_00265"
+      ]
+    },
+    {
+      "id": "AL-C10",
+      "axis": "identity",
+      "claim": "distributed process individuality",
+      "status": "operational_individuation",
+      "positive_evidence": "Causally cohesive but spatially separated components jointly sustain replication with intervention-supported dependencies",
+      "critical_null": "Connected component label only, independent oscillators, random spatial co-occurrence",
+      "falsifier": "Apparent group survives arbitrary removal of components or causal graph only links via environment-level common cause",
+      "required_artifacts": [
+        "causal_interaction_graph",
+        "perturbation_of_member",
+        "split_merge_handling",
+        "alternative_identity_trackers"
+      ],
+      "primary_sources": [
+        "arxiv:2508.08047"
+      ]
+    }
+  ]
+}

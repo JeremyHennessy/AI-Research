@@ -11,6 +11,10 @@ IDS = {
     "arxiv:2603.01701": "18-tolsim-2026-full-review.md",
     "doi:10.1162/artl_a_00449": "20-outlier-original-2025-full-review.md",
     "arxiv:2508.08047": "21-outlier-causal-selfhood-2026.md",
+    "doi:10.1098/rstb.2024.0298": "25-stepney-2025-complete-review.md",
+    "doi:10.1162/artl_a_00180": "26-stringmol-2016-full-review.md",
+    "doi:10.1098/rsif.2016.1033": "27-semantic-closure-2017-full-review.md",
+    "doi:10.1007/978-3-540-39432-7_26": "28-physis-2003-full-review.md",
 }
 
 
@@ -26,7 +30,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
         cls.audits = load("data/alife/method-audits.jsonl")
         cls.claims = load("data/claims.jsonl")
 
-    def test_five_reviews_have_exact_source_and_depth(self):
+    def test_nine_reviews_have_exact_source_and_depth(self):
         self.assertEqual({x["paper_id"] for x in self.audits}, set(IDS))
         for a in self.audits:
             pid = a["paper_id"]
@@ -43,7 +47,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
             self.assertEqual(p["source_review_path"], a["review_document"])
             self.assertEqual(n["method_audit_path"], a["review_document"])
             self.assertEqual(p["full_text_url"], a["full_text_url"])
-            self.assertTrue(a["full_text_url"].startswith("https://arxiv.org/"))
+            self.assertTrue(a["full_text_url"].startswith("https://"))
             self.assertGreaterEqual(len(a["reviewed_sections"]), 5)
             self.assertGreater(len(a["author_reported_results"]), 80)
             self.assertGreater(len(a["limitations"]), 75)
@@ -52,8 +56,8 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
 
     def test_compendium_index_preserves_citation_evidence(self):
         index = (ROOT / "docs/19-paper-index.md").read_text(encoding="utf-8")
-        self.assertIn("191 curated research records", index)
-        self.assertIn("Eight detailed public-paper", index)
+        self.assertIn("193 curated research records", index)
+        self.assertIn("Twelve detailed public-paper", index)
         for pid in IDS:
             p = self.papers[pid]
             self.assertIn(f"[{p['title']}]({p['url']}) | E2 |", index)
@@ -76,6 +80,10 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
             "18-tolsim-2026-full-review.md": ["shadow", "20", "0 / 20", "eyesight"],
             "20-outlier-original-2025-full-review.md": ["2^140", "143", "1556", "two"],
             "21-outlier-causal-selfhood-2026.md": ["15 generations", "31,959,320", "offspring", "glider"],
+            "25-stepney-2025-complete-review.md": ["autopoiesis", "agency", "transformation", "requirements"],
+            "26-stringmol-2016-full-review.md": ["32 of 100", "decay", "Everything Evolves", "sticky"],
+            "27-semantic-closure-2017-full-review.md": ["39 of 500", "bureaucratic death", "copier", "expressor"],
+            "28-physis-2003-full-review.md": ["200,000", "processor", "universal", "90%"],
         }
         for name, terms in cases.items():
             page = (root / name).read_text(encoding="utf-8").lower()

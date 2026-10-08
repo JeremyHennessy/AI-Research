@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Sixteenth ALife research pass (2026-10-08) — **254** curated source records across **30** tracks, **108** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **39** full-paper/theory reviews (E2), **195** evidence-qualified claims, **36** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Seventeenth ALife research pass (2026-10-08) — **260** curated source records across **30** tracks, **114** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **42** full-paper/theory reviews (E2), **210** evidence-qualified claims, **39** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -39,6 +39,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 16 — reachable versus selectable evolutionary novelty:** [Beaumont's evolved switch and scaffold withdrawal E2](docs/artificial-life/79-pass16-beaumont-2009-history-dependent-switch-full-review.md) · [Acar engineered switch E2](docs/artificial-life/80-pass16-acar-2008-engineered-switch-full-review.md) · [Cryptic RNA function and partner help E2](docs/artificial-life/81-pass16-hayden-2011-cryptic-rna-variation-full-review.md) · [Environmental complexity and confounds E2](docs/artificial-life/82-pass16-karve-2022-complex-environments-novelty-full-review.md) · [ML-guided RNA neutral paths E2](docs/artificial-life/83-pass16-rotrattanadumrong-2022-ribozyme-neutral-network-full-review.md) · [Independent fungal long-horizon survival E2](docs/artificial-life/84-pass16-graham-2014-neurospora-dormancy-fitness-full-review.md) · [Original **EERC-S** hypothesis](docs/artificial-life/86-pass16-eerc-selectable-reachability-ecological-gating.md) · [EERC v6 versioned proposal](data/alife/combined-path-eerc-v6.json) · [Pass16 canonical handoff](docs/artificial-life/87-pass16-research-handoff.md). Research and evidence only, no scientific world executed or conscious organism established. Ora2.0's concurrent cross-project note is preserved separately.
 
+**Pass 17 — causal alternatives and why hidden routes fail:** [Lind 2015 full E2](docs/artificial-life/88-pass17-lind-2015-hidden-evolutionary-routes-full-review.md) · [Taylor 2016 full E2](docs/artificial-life/89-pass17-taylor-2016-cryptic-yeast-genetic-architecture-full-review.md) · [Johnson & Desai 2022 full E2](docs/artificial-life/90-pass17-johnson-2022-mutational-robustness-landscape-full-review.md) · [Contrary yeast/enzyme evidence](docs/artificial-life/91-pass17-cryptic-variation-and-enzyme-substate-counterevidence.md) · [EERC-C original causal hypothesis](docs/artificial-life/92-pass17-eerc-ecological-constraint-redistribution.md) · [Unimplemented EERC v7](data/alife/combined-path-eerc-v7.json) · [Canonical Pass 17 handoff](docs/artificial-life/93-pass17-research-handoff.md). The independent Ora2.0 crosswalk and all earlier EERC versions remain unchanged; no new organism, simulated world or scientific replication.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -47,7 +49,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 254 source records](docs/19-paper-index.md)
+- [Browse 260 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

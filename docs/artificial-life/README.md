@@ -108,12 +108,27 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [86 — Original EERC-S selectable reachability](86-pass16-eerc-selectable-reachability-ecological-gating.md) | Can inherited ecology make a weak possibility selectable? | Novel UNTESTED theory, physics/cost/offspring/shortcut controls |
 | [87 — Pass 16 independent research handoff](87-pass16-research-handoff.md) | What was observed, added and remains unknown? | Verified source ledgers, concurrency rules and proposed next readings |
 
+| [88 — Alternative bacterial routes after external knockout](88-pass17-lind-2015-hidden-evolutionary-routes-full-review.md) | Does deleting easy pathways uncover selectable alternatives? | E2: 91/200 successes and 109 failures; researcher provides knockout and selection |
+| [89 — Cryptic yeast phenotypes by diverse epistasis](89-pass17-taylor-2016-cryptic-yeast-genetic-architecture-full-review.md) | Does identical morphology imply shared causal origin? | E2: 8 new-mutation and 9 standing-only instances, no new ecology measured |
+| [90 — Evolution changes mutation-effect distribution](90-pass17-johnson-2022-mutational-robustness-landscape-full-review.md) | Can adapting genotypes open or close future functional routes? | E2: 91 mutation assays in 144 nested clones, negative second condition |
+| [91 — Cryptic variation and enzyme-substate negatives](91-pass17-cryptic-variation-and-enzyme-substate-counterevidence.md) | Can latent activities be irrelevant or actively misleading? | E1 Routh, Sakuma and Kaltenbach independent contrasts |
+| [92 — New EERC-C counterfactual hypothesis](92-pass17-eerc-ecological-constraint-redistribution.md) | Can organisms themselves redistribute ecological constraints without special designer knockouts? | Original untested design with cost and lineage nulls |
+| [93 — Pass 17 canonical handoff](93-pass17-research-handoff.md) | What was found and what should follow? | Preserved results, main/CI boundary and Pass18 priorities |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Seventeenth scholarly pass — counterfactual evolutionary pathways (2026-10-08)
+
+The source catalog has **260** publication records across **30** tracks, **114** ALife source notes, **42** full-primary/theory E2 reviews, **39** E2 ALife method receipts and **210** qualified claims. Previous **15** canonical proposed hypotheses, **11** future-only experiments, **10** organism criteria and **12** detailed failures are preserved. No independently reproduced E3 scientific outcomes, trained model or artificial organism.
+
+**Three new full-primary reviews:** [Lind et al. 2015](88-pass17-lind-2015-hidden-evolutionary-routes-full-review.md) reveals rare alternatives after exogenous deletion of common genetic routes; [Taylor et al. 2016](89-pass17-taylor-2016-cryptic-yeast-genetic-architecture-full-review.md) identifies 17 independently obtained yeast morphology cases through different gene combinations; [Johnson & Desai 2022](90-pass17-johnson-2022-mutational-robustness-landscape-full-review.md) measures how historical evolution changes mutation fitness effects in one environment but not the other. **Three E1 counterexamples:** [Routh 2025, Sakuma 2026 and Kaltenbach 2016](91-pass17-cryptic-variation-and-enzyme-substate-counterevidence.md) caution against automatic cryptic innovation, in-vitro catalytic utility and biased old/new activity tradeoffs.
+
+**Unverified original theory:** [EERC-C](92-pass17-eerc-ecological-constraint-redistribution.md) examines how **inhabitants** might alter route accessibility within fixed physics, versus investigator-imposed knockout and nutrient subsidy. [Version 7](../../data/alife/combined-path-eerc-v7.json) is separately versioned; [source independence and negative matrix](../../data/alife/pass17-counterfactual-pathways-evidence.json) and [handoff](93-pass17-research-handoff.md) preserve uncertainty. All EERC v1–v6 and the concurrent [Ora2.0 crosswalk](ora2-evidence-to-roadmap-2026-10-08.md) remain unchanged. No new lab or model execution authorized here.
 
 ## Sixteenth scholarly pass — selectable reachability and researcher-assisted innovation (2026-10-08)
 

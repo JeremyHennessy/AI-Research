@@ -48,7 +48,7 @@ def validate_records(path: Path) -> tuple[int, list[str]]:
             errors.append(f"line {line_no}: missing {sorted(missing)}")
             continue
         pid, url = record["id"], record["url"]
-        if not isinstance(pid, str) or not (ARXIV.fullmatch(pid) or pid.startswith("pmlr:")):
+        if not isinstance(pid, str) or not (ARXIV.fullmatch(pid) or re.fullmatch(r"(?:pmlr|acl|iclr|lab|nature):[A-Za-z0-9_.-]+", pid)):
             errors.append(f"line {line_no}: bad paper id {pid!r}")
         if pid in ids:
             errors.append(f"line {line_no}: duplicate id {pid}")

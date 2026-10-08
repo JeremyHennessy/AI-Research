@@ -1,5 +1,8 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | ALife research addition | Status: **183 research records across 30 tracks, six full-paper/theory reviews; no artificial organism or trained model**
+Updated: 2026-10-08 | ALife research addition | Status: **191 research records across 30 tracks, eight full-paper/theory reviews; no artificial organism or trained model**
+
+## New causal-replication and organization research
+The [original Outlier paper](artificial-life/20-outlier-original-2025-full-review.md) and [2026 independent causal-lineage study](artificial-life/21-outlier-causal-selfhood-2026.md) now receive E2 evidence reviews; the latter documents multi-generation branching causal replication without proving heritable functional innovation. [Stepney and changing-language research](artificial-life/22-engineering-life-and-transformational-novelty.md) remain E1 where only author abstracts were inspected. The [10-criterion evidence standard](artificial-life/23-unified-organism-evidence-standard.md) distinguishes repeatable motion, branching offspring, functional heredity, self-maintenance, agency and open-endedness, with no single "life score". See [next research priorities](artificial-life/24-research-priorities-after-outlier.md).
 
 ## New research direction: digital living systems
 [Artificial Life, Emergent Intelligence, and Digital Organisms](artificial-life/README.md) investigates whether computational processes can originate and sustain life-like organization, adaptation, heredity and ecological evolution without being another human-targeted LLM or assistant. It distinguishes real maintenance and lineage innovation from convincing animation. Five competing research-only substrates, [criteria](artificial-life/05-evaluation-framework.md), [12 falsifiable hypotheses](../data/alife/hypotheses.jsonl) and [future study designs](artificial-life/07-experimental-roadmap.md) are documented; **none is implemented**.
@@ -17,7 +20,7 @@ The [three-paper comparison](artificial-life/19-three-paper-methodology-comparis
 5. Hybrid architectures may offer useful latency/context/quality tradeoffs, but must beat strong attention baselines.
 
 ## Updated reading map
-Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [183-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
+Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [191-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
 
 ## Navigation by the question you are asking
 

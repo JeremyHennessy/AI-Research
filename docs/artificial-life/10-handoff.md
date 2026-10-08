@@ -4,6 +4,21 @@
 ## Purpose and non-goals
 Study computational systems that *might* self-maintain, reproduce with heritable variation, adapt, develop independent organizational complexity and perhaps later cognition **without predefined human tasks**. Not a chatbot, assistant, simulated personality, task-performing RL agent or visually convincing toy creature.
 
+## Fourth scholarly pass: Outlier causal replication and 2026 ALIFE conceptual directions (October 8, 2026)
+**Scope:** changed only the private AI-Research reference library and metadata. No organism, cellular simulation, original source code, agent autonomy, model weights, Ora or AgentTest was created/modified/deployed.
+
+**Net additions:** **191** distinct catalog records (**+8**), **45** ALife source notes (+8), **8** E2 full-paper/theory source reviews (+2: original Outlier and 2026 independent causal ancestry paper), **54** caveated published source claims (+11). Historical paper versions are deduplicated: original Outlier 2023 preprint/2024 online/2025 journal is one work; Hintze/Bohm 2025 preprint/2026 journal is a separate second study. 2026 ALIFE Stepney engineering summary and Adams et al. late abstract remain **E1**, with complete booklet unreviewed.
+
+**Central new evidence:** [original Outlier full-method review](20-outlier-original-2025-full-review.md) documents novelty-searched rule and 143/1556-step transient structures; [causal follow-up E2](21-outlier-causal-selfhood-2026.md) documents **15-generation branching c2 causal lineage**, 31.96m instance nodes and explicit live-cell-cause limitations. [2026 framework research](22-engineering-life-and-transformational-novelty.md) separates autopoiesis, agency, open-ended adaptation and mutable interpreter language, none proven sufficient to create a living organism.
+
+**New scientific protocol:** [ten independent, null-controlled test criteria](23-unified-organism-evidence-standard.md) captured in [machine-readable JSON](../../data/alife/operational-tests.json), with no life badge; the historical 12 research hypotheses and 8 future plans are **preserved unchanged**, while **3 newly proposed hypotheses and 3 authorization-gated future designs** have been appended (totals **15** and **11**). [Prioritized next sources](24-research-priorities-after-outlier.md).
+
+**Reproducibility/access:** Hintzelab browser-visualization repo main SHA `20125a33db148a92d209e4485d2b59d3f2155cca`, MIT root license checked; source paper's full analysis and data are published at [Zenodo](https://doi.org/10.5281/zenodo.17904018) but neither downloaded nor run. Older Outlier paper includes its own third-party seed replay statement; not E3 in this repo.
+
+**Verified mid-pass checkpoint:** commit `5feca67a4fe13201f0795c54e15d8aaa03eb6a01`, GitHub Actions `37784088083` success. An earlier intermediate change `a121064f42033fd47a7aa7d4061bc1bfb30e6a80` failed because existing audit tests expected old counts (183/37/three reviews), not because research code executed or a scientific result was disproven. Updated tests passed by `0cc0b5ca7e497b8b85f36fd15146627492d41d64`, GitHub run `37783796000`.
+
+**Next pass:** complete Stepney 2025 source E2 methods and short ALIFE 2026 booklets (where lawful/accessible); review original Physis and Stringmol experiments; check independent critique/replication of Hintze causal method; develop externally-reviewed AL09/10/11 preregistration **without running worlds**. No universal evidence of living, conscious, unbounded or generally intelligent digital organism. Confirm final main SHA and successful CI after latest navigation edits.
+
 ## Third literature pass: primary full-method reviews verified 2026-10-08
 **Status:** still **research-only**, without digital organisms, virtual worlds, agent runs, copied confidential materials, training, or modification to Ora/AgentTest.
 

@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Artificial Life initiative research pass (2026-10-08) — **183** curated research records across **30** tracks, including **37** ALife sources (30 initial, 7 second pass), **12** proposed ALife hypotheses and **8** future research-only experiment designs. The overall collection has **six** full-paper/theoretical reviews at E2 and **43** explicitly caveated research claims; **no new model or organism trained, built or independently reproduced here.**
+**Current stage:** Fourth ALife research pass (2026-10-08) — **191** curated research records across **30** tracks, **45** ALife-specific sources, **15** falsifiable research hypotheses, **11** future-only experimental designs and **10** independent operational criteria. Across AI-Research: **eight** detailed full-paper/theory reviews (E2) and **54** caveated source-linked claims. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -21,7 +21,7 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 
 Research into self-maintaining organizational processes, digital ecosystems, autocatalysis, open-ended evolution, developmental cellular systems and potentially emergent cognition. **It does not presume an LLM or human-assigned task.** This initiative is **research only**: no digital organism or simulator authorized or deployed; no changes to Ora, AgentTest or other projects.
 
-[Three-paper open-endedness comparison](docs/artificial-life/19-three-paper-methodology-comparison.md) · [Flow-Lenia full-method audit](docs/artificial-life/16-flow-lenia-2025-full-review.md) · [PBT-NCA full-method audit](docs/artificial-life/17-pbt-nca-2026-full-review.md) · [ToLSim full-method audit](docs/artificial-life/18-tolsim-2026-full-review.md) · [Full-text artificial chemistry audit](docs/artificial-life/12-chemical-replication-full-review.md) · [2026 negative findings](docs/artificial-life/14-negative-results-and-measurement-disagreements.md) · [Five competing foundations](docs/artificial-life/03-architecture-comparison.md) · [Operational criteria](docs/artificial-life/05-evaluation-framework.md) · [Primary bibliography](docs/artificial-life/08-source-bibliography.md) · [Counterevidence](docs/artificial-life/09-counterevidence.md) · [12 falsifiable hypotheses](data/alife/hypotheses.jsonl) · [8 future experimental designs](data/alife/experiment-designs.jsonl) · [Handoff](docs/artificial-life/10-handoff.md).
+[2025 Outlier original research audit](docs/artificial-life/20-outlier-original-2025-full-review.md) · [2026 causal-lineage follow-up](docs/artificial-life/21-outlier-causal-selfhood-2026.md) · [2026 engineering life and mutable-language research](docs/artificial-life/22-engineering-life-and-transformational-novelty.md) · [Ten-criterion evidence standard](docs/artificial-life/23-unified-organism-evidence-standard.md) · [Prioritized next research questions](docs/artificial-life/24-research-priorities-after-outlier.md) · [Three-paper open-endedness comparison](docs/artificial-life/19-three-paper-methodology-comparison.md) · [Flow-Lenia full-method audit](docs/artificial-life/16-flow-lenia-2025-full-review.md) · [PBT-NCA full-method audit](docs/artificial-life/17-pbt-nca-2026-full-review.md) · [ToLSim full-method audit](docs/artificial-life/18-tolsim-2026-full-review.md) · [Full-text artificial chemistry audit](docs/artificial-life/12-chemical-replication-full-review.md) · [2026 negative findings](docs/artificial-life/14-negative-results-and-measurement-disagreements.md) · [Five competing foundations](docs/artificial-life/03-architecture-comparison.md) · [Operational criteria](docs/artificial-life/05-evaluation-framework.md) · [Primary bibliography](docs/artificial-life/08-source-bibliography.md) · [Counterevidence](docs/artificial-life/09-counterevidence.md) · [12 falsifiable hypotheses](data/alife/hypotheses.jsonl) · [8 future experimental designs](data/alife/experiment-designs.jsonl) · [Handoff](docs/artificial-life/10-handoff.md).
 
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
@@ -31,7 +31,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 183 source records](docs/19-paper-index.md)
+- [Browse 191 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

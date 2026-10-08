@@ -79,3 +79,6 @@ Every future test needs:
 No finite collection of metrics proves consciousness, subjective experience, a universally accepted definition of life, or *infinite* innovation. Some theoretical positions deny digital organization constitutes biological life even when functional analogs are observed. We report empirical properties plus interpretation, never present a universal ranking.
 
 **Cross-links:** [ten explicit test criteria](../../data/alife/operational-tests.json), [new source literature](21-outlier-causal-selfhood-2026.md), [previous ALife measurement work](05-evaluation-framework.md), [future authorized-only plan](07-experimental-roadmap.md), and [scientific counterarguments](09-counterevidence.md).
+
+## Registry integration check
+The original **AL01–AL08** experiment design records and **AL-H01–AL-H12** hypothesis records remain intact. New **AL09–AL11** and **AL-H13–AL-H15** entries are appended with `future_authorization_required=true`, `implementation_status=not_authorized`, and `reproduction_status=not_tested`. These are technical research plans, not runnable programs. The separate [ten AL-C01–AL-C10 evidence criteria](../../data/alife/operational-tests.json) are properties of a *future research protocol* and never assert living status.

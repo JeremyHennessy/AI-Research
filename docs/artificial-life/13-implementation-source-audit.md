@@ -68,3 +68,10 @@ The earlier source-code inventory remains correct as an **unexecuted** inventory
 - PBT-NCA v2: inner gradient loss for territorial aliveness and outer optimized `F=N+D`, with 30 worlds / 500 meta steps / 12 inner steps, **three** plotted independent runs. The public readme's `n_seeds=4` is not proof of four independent paper replications.
 - ToLSim v1: the complete methods also reference an [author-linked source repository](https://github.com/LanaSina/speciation) and [Figshare dataset](https://doi.org/10.6084/m9.figshare.31443793). The repository/data were **not downloaded or executed**. Its neutral shadow process is part of the *evaluation*, not the organism itself.
 Source audit is not model training or validation of biological life.
+
+## Independent Outlier causal-analysis sources inspected 2026-10-08
+- **Hintze & Bohm (2026):** [primary full preprint](https://arxiv.org/html/2508.08047), [published npj Complexity journal](https://doi.org/10.1038/s44260-026-00074-2).
+- **Small public visualization repository:** [Hintzelab/RethinkingSelfReplication](https://github.com/Hintzelab/RethinkingSelfReplication) main head `20125a33db148a92d209e4485d2b59d3f2155cca`, root `README.md` and `LICENSE` inspected. Root **MIT license**; browser `outlierJS.html` only, not the full causal graph analyzer. No code executed.
+- **Full analysis and data:** [Zenodo 17904018](https://doi.org/10.5281/zenodo.17904018) linked in peer-reviewed article; archive contents, license and datasets **not downloaded or independently audited**. Do not infer the MIT license of the visualization covers Zenodo artifacts.
+- **Original Yang (2025):** publisher appendix contains an RLE LifeViewer rule+seed and thanks an independent third-party for replaying a seed trajectory; this is **paper-reported limited replay**, not our reproduction or independent verification of adaptive hereditary life.
+- **Literature claims and evidence depth:** [E2 original study](20-outlier-original-2025-full-review.md) / [E2 follow-up causal study](21-outlier-causal-selfhood-2026.md) / [10 independent criteria](23-unified-organism-evidence-standard.md). No organism, simulation or model executed.

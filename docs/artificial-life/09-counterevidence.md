@@ -82,3 +82,22 @@ No current evidence justifies saying an artificial system here is alive or consc
 
 ## Current cross-paper interpretation
 [Flow-Lenia vs PBT-NCA vs ToLSim](19-three-paper-methodology-comparison.md) demonstrates **three distinct forms of confounding** (resources, objective, evaluation component/neutral process). They do not establish any universal verdict on whether digital life can or cannot emerge.
+
+## C17 — Externally discovered physics vs internally evolved organism organization
+[Original Outlier research](20-outlier-original-2025-full-review.md) used **human-designed GP novelty selection** to discover the CA transition rule. The subsequent fixed physics yielded sparse-seed replicating structures without hand-placing an assembled creature.
+**Correction:** being emergent **within a fixed world** is not the same as evolving the world's underlying instruction language or overcoming rule-space brittleness. One-bit rule-table perturbations reportedly did not preserve replication.
+**Falsifier:** compare heritable functional changes beyond one fixed rule, controlling for external search and environmental resource effects.
+
+## C18 — Causal branching replication does not establish adaptive heredity
+[Hintze & Bohm (2026)](21-outlier-causal-selfhood-2026.md) supply much stronger **necessary-cause multi-generation** evidence than visual periodicity and confirm distributed replication. Their main criterion uses **exact-pattern copies**. An offspring having the same causal pattern says little about whether *novel properties* can be transmitted to its descendants.
+**Falsifier:** require independently assayed inherited new functions, controlled parent-link shuffles and unseen survival challenges. Avoid mislabelling the 15 generations as evolving 15 adaptive abilities.
+
+## C19 — Mutable computational language is exploratory, not confirmed open-ended intelligence
+[ALIFE 2026 meta-chemistry late abstract](22-engineering-life-and-transformational-novelty.md) reports initial Physis work changing code and language; no long-horizon, inherited language-functional innovation was validated in this library. [Stringmol 2020](https://doi.org/10.1162/isal_a_00265) explicitly distinguishes novelty arising to participants from novelty classified by observers.
+**Falsifier:** new interpreter semantics must be **causally inherited, viable, and functionally useful** beyond random opcode changes and external upgrades.
+
+## C20 — Stepney's life criteria are proposed engineering requirements
+The [2025 review](https://doi.org/10.1098/rstb.2024.0298) and [2026 ALIFE summary](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-summ.htm) emphasize autopoiesis, agency and open-ended adaptation. They are philosophical/scientific engineering proposals, not demonstrated universal necessary-and-sufficient tests.
+**Falsifier:** [ten independent operational criteria](23-unified-organism-evidence-standard.md) must reject oscillator, engine-repaired body and externally novelty-scored agent nulls before any claim of digital autonomy.
+
+**Current research conclusion:** replication under a specified causal criterion has been better established for Outlier. **Independently heritable functional innovation and self-maintenance remain open**; neither a confident "yes" nor a categorical "impossible" is justified.

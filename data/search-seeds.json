@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-08",
+  "max_per_query": 50,
+  "description": "Small curated search topics for manual metadata discovery. Not an instruction to scrape publisher full text.",
+  "queries": [
+    {
+      "track": "data",
+      "query": "pretraining data quality scaling laws"
+    },
+    {
+      "track": "data",
+      "query": "synthetic data language model pretraining"
+    },
+    {
+      "track": "architecture",
+      "query": "mixture of experts language model inference"
+    },
+    {
+      "track": "architecture",
+      "query": "state space language models long context"
+    },
+    {
+      "track": "architecture",
+      "query": "diffusion language models"
+    },
+    {
+      "track": "reasoning",
+      "query": "reinforcement learning verifiable rewards reasoning"
+    },
+    {
+      "track": "reasoning",
+      "query": "test time compute verification language model"
+    },
+    {
+      "track": "memory",
+      "query": "long term memory language model agents"
+    },
+    {
+      "track": "agents",
+      "query": "long horizon agent planning tool recovery"
+    },
+    {
+      "track": "world-models",
+      "query": "world models active learning agent planning"
+    },
+    {
+      "track": "multimodal",
+      "query": "video joint embedding predictive representation"
+    },
+    {
+      "track": "evaluation",
+      "query": "benchmark contamination language model evaluation"
+    },
+    {
+      "track": "safety",
+      "query": "reward hacking reasoning agents robust evaluation"
+    },
+    {
+      "track": "systems",
+      "query": "efficient attention inference quantization"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+name: AI Research offline validation
+on:
+  push:
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/research-ci.yml"
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Syntax
+        run: python -m compileall -q scripts tests
+      - name: Validate metadata
+        run: python scripts/validate_catalog.py
+      - name: Test tools (offline fixtures only)
+        run: python -m unittest discover -s tests -v

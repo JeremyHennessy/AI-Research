@@ -30,7 +30,7 @@ class CalibrationTests(unittest.TestCase):
         # Confidently wrong examples -> larger T favored.
         T=fit_temperature([.99,.99,.01,.01],[0,0,1,1],grid=(.5,1.,3.,10.))
         self.assertEqual(T,10.)
-        self.assertLess(log_loss(temperature_transform([.99],[10.]),[0]),
+        self.assertLess(log_loss(temperature_transform([.99],10.),[0]),
                         log_loss([.99],[0]))
 
     def test_selective_risk_respects_coverage(self):

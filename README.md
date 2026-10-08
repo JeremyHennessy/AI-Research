@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Eleventh ALife research pass (2026-10-08) — **214** curated source records across **30** tracks, **68** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **22** full-paper/theory reviews (E2), **113** evidence-qualified claims, **19** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Twelfth ALife research pass (2026-10-08) — **223** curated source records across **30** tracks, **77** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **23** full-paper/theory reviews (E2), **127** evidence-qualified claims, **20** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -29,6 +29,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Latest Pass 11 — new combined path, not a deployed system:** [EERC: Endogenous Ecological–Reproductive Closure](docs/artificial-life/53-pass11-new-path-ecological-reproductive-closure.md) · [Versioned hypotheses and null controls](data/alife/combined-path-eerc-v1.json) · [New symbiosis experimental evidence and failed associations](docs/artificial-life/49-pass11-induced-endosymbiosis-2024-full-review.md) · [Eight-study source independence map](data/alife/pass11-study-independence.json) · [Pass 11 scientific handoff](docs/artificial-life/54-pass11-research-handoff.md). All findings are research-only; no new organism, simulator or model independently reproduced.
 
+**Pass 12 — history and memory in living processes:** [2026 Stentor evidence and limits](docs/artificial-life/55-pass12-stentor-molecular-memory-and-daughters.md) · [Full Physarum fusion E2](docs/artificial-life/56-pass12-physarum-fusion-memory-complete-review.md) · [Physical and evolved-anticipation comparators](docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md) · [New EERC history-conditioned organization hypothesis](docs/artificial-life/58-pass12-eerc-history-conditioned-organization.md) · [Unimplemented EERC v2](data/alife/combined-path-eerc-v2.json) · [Twelfth-pass handoff](docs/artificial-life/59-pass12-research-handoff.md). No new digital organism, brain, model or experiment has been created, trained or deployed.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -37,7 +39,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 214 source records](docs/19-paper-index.md)
+- [Browse 223 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

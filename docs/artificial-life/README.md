@@ -68,12 +68,26 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [53 — New EERC scientific pathway](53-pass11-new-path-ecological-reproductive-closure.md) | What is our original alternative to existing AI paths? | Unverified ecological–reproductive closure with causal falsifiers |
 | [54 — Eleventh-pass evidence handoff](54-pass11-research-handoff.md) | What exactly is verified and still untested? | Pass 11 source boundaries, research counts and next readings |
 
+| [55 — Stentor cell-state and molecular memory](55-pass12-stentor-molecular-memory-and-daughters.md) | What persists within a cell or its daughters? | E1, calcium/phosphorylation and drug/behavior limits |
+| [56 — Physarum fusion-transfer full primary](56-pass12-physarum-fusion-memory-complete-review.md) | Can one cell share an acquired response? | E2 1-hour vs 3-hour fusion, separation, non-reproduction |
+| [57 — Structural and anticipatory memory](57-pass12-structural-prediction-memory-counterarguments.md) | How are within-life learning and evolved regulation different? | Network morphology, molecular models and genetic selection |
+| [58 — History-conditioned EERC pathway](58-pass12-eerc-history-conditioned-organization.md) | Could maintenance encode experience? | Original future-only hypotheses and null tests |
+| [59 — Twelfth-pass scientific handoff](59-pass12-research-handoff.md) | What is verified and what remains unknown? | Source, catalog, CI and subsequent research priorities |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Twelfth scholarly pass — memory and learning outside nervous systems (2026-10-08)
+
+The canonical source catalog now contains **223** research records in 30 tracks, **77** ALife source notes, **23** full-paper E2 reviews across the library, **20** ALife E2 method receipts and **127** qualified claims. Existing 15 hypotheses, 11 future-only experiments, 10 property criteria and 12 failure cases are **preserved**. No independent E3 paper reproductions or digital life system created.
+
+**New source evidence:** [2016 Physarum fusion transfer E2](56-pass12-physarum-fusion-memory-complete-review.md), plus eight E1 readings including [2026 Stentor molecular and daughter report](55-pass12-stentor-molecular-memory-and-daughters.md), other Stentor history-model studies, [Physarum network/biochemical and bacterial selection alternatives](57-pass12-structural-prediction-memory-counterarguments.md). A 2026 Stentor frequency-response preprint is **not peer reviewed**. A complete 2026 full Stentor paper/appendix audit remains pending.
+
+**New, untested path:** [EERC-M](58-pass12-eerc-history-conditioned-organization.md), [v2 research manifest](../../data/alife/combined-path-eerc-v2.json) and [nine-source evidence matrix](../../data/alife/pass12-memory-evidence.json) study history-conditioned organization with separate within-life vs transgenerational criteria. [Twelfth handoff](59-pass12-research-handoff.md). No change to original EERC v1 or Ora/AgentTest.
 
 ## Eleventh scholarly pass — symbiosis, failed dependence and EERC (2026-10-08)
 

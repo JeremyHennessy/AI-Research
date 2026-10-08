@@ -133,3 +133,15 @@
 **Unverified:** publication studies have not been independently reproduced, original raw data or notebook code were not executed, no local test program or scientific world was run. GitHub Actions run/conclusion for the final main SHA and full offline Python unit suite require separate verification; no pass claimed here.
 
 **Next:** E2 audit independent Pauli/Melero bacterial breakdown and no-selection heritable co-reproduction; examine non-neural within-life memory and causal ecological prediction without reflex or mutation confounds. If a future experimental lab is separately authorized, start with ONE reversible, low-cost substrate contrast; preserve source, seed, failed outcomes and complete negative controls.
+
+## 2026-10-08 — Pass 12: non-neural learning and history-conditioned organization
+
+**Research-only direction:** no simulator, model, agent or artificial organism built; no changes to Ora/AgentTest, existing EERC v1, or authorization-gated experiment designs. Focus on molecular, structural, horizontally transferable and genetically selected memory as **non-equivalent** mechanisms.
+
+**Primary evidence:** [Full E2 original 2016 Physarum fusion/learned-response transfer](../docs/artificial-life/56-pass12-physarum-fusion-memory-complete-review.md) (1h insufficient, 3h effective after separation) and [2026 Stentor E1](../docs/artificial-life/55-pass12-stentor-molecular-memory-and-daughters.md) reported altered state in daughters; newer full article, mechanistic off-targets and exact daughter denominators require E2 validation. [Competing 2025 receptor model/2026 preprint, 2021 Physarum morphology, 2008–2009 microbial adaptation](../docs/artificial-life/57-pass12-structural-prediction-memory-counterarguments.md).
+
+**Scientific innovation (unverified):** [EERC-M](../docs/artificial-life/58-pass12-eerc-history-conditioned-organization.md) asks if ecological maintenance can give rise to persistent history-conditioned regulation, with controls for external memory, passive hysteresis, response fatigue, genotype sorting, partner fusion and transmitted daughters. Original EERC v1 remains immutable; [v2 research manifest](alife/combined-path-eerc-v2.json) is separately versioned.
+
+**Metadata:** +9 distinct DOI sources (one newly E2), +9 ALife notes, +1 complete main-method audit, +14 qualified claims. Expected integrated inventory: **223** catalog records, **77** ALife notes, **23** E2 full reviews, **20** ALife method audits, **127** claims, 30 tracks and unchanged historical 15 hypotheses/11 future designs/10 criteria/12 failure cases. **Automated branch and final main CI status must be checked independently before calling this pass verified.**
+
+**Next:** direct molecular daughter mechanism and independent frequency model comparison, matched genotype within-life cue reversals, and functional fitness transfer under held-out ecological conditions. [Pass 12 handoff](../docs/artificial-life/59-pass12-research-handoff.md).

@@ -1,0 +1,31 @@
+{
+  "pass_number": 23,
+  "date": "2026-10-08",
+  "base_main": "9a05244153245a10c9c125b8393872829d43ea8b",
+  "research_only": true,
+  "canonical_paper_id": "doi:10.1073/pnas.1912397116",
+  "canonical_level": "E1",
+  "canonical_claim": "C237",
+  "concurrent_branch": "research/pass21-sorting-competition-20261008",
+  "concurrent_sha": "cb1fccd06349446f270681507dc37a62019ac178",
+  "full_primary_reading": "reported on concurrent branch, not independently reverified in this pass",
+  "independent_replication": false,
+  "scientific_experiments_executed": false,
+  "source_rights": "Original articles linked; no full-text redistribution.",
+  "negative_cases": [
+    "nonnative symbionts can reportedly enter",
+    "Pandoraea dose sensitivity",
+    "occupancy does not measure lifetime host reproduction"
+  ],
+  "next_question": "Evolution of new partner control with independent viable descendant lineages",
+  "review": "docs/artificial-life/115-pass23-itoh-reconciliation-and-lineage-gate.md",
+  "EERC_preserved": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

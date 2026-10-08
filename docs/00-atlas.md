@@ -1,5 +1,5 @@
 # AI Research Atlas — start here
-Updated: 2026-10-08 | Pass: 3 | Status: **108 research source records; curated foundation, not systematic full-text review or trained model**
+Updated: 2026-10-08 | Pass: 4 | Status: **146 research source records across 25 tracks, one full-text review; no trained model**
 
 ## In 60 seconds
 **Objective:** discover a measurable improvement in intelligence per dollar, per token, per joule, or per interaction; do not confuse a bigger benchmark score with general intelligence.
@@ -12,7 +12,7 @@ Updated: 2026-10-08 | Pass: 3 | Status: **108 research source records; curated f
 5. Hybrid architectures may offer useful latency/context/quality tradeoffs, but must beat strong attention baselines.
 
 ## Updated reading map
-Start with the [18-track AI field map](22-ai-field-map.md) → the [108-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [Pass 4 research plan](28-next-research-program.md).
+Start with the [Pass 4 research atlas](29-pass4-index.md) → the [25-track AI field map](22-ai-field-map.md) → the [146-record primary-source catalog](19-paper-index.md) → [lab training recipes](11-open-training-recipes.md) and [cross-domain dossiers](23-interpretability-and-causality.md) → [experiment plans](26-experiments-cross-domain.md). The [source claim ledger](../data/claims.jsonl) preserves exactly what is claimed, by whom, and with what caveat. The [discovery pipeline](20-collection-pipeline.md) identifies source metadata across three services and deduplicates by stable identifiers. See [research disagreements](35-research-disagreements.md), [proposed experiments E23–E28](36-pass4-experiments.md) and the [Pass 5 plan](37-pass5-handoff.md).
 
 ## Navigation by the question you are asking
 

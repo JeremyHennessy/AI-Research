@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Status:** initial curated synthesis and research infrastructure, **not** an exhaustive crawl or validated novel model.
+**Current stage:** Pass 2 — source-backed architecture, training-recipe, memory/world-model and evaluation dossiers. **No new model trained, replicated or demonstrated as superior.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -11,8 +11,8 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - Give each claim a traceable primary source; prefer papers, original technical reports, source code, datasets, and reproducible benchmarks.
 - Record publication date, access date, license, data provenance, version, and retraction/correction status.
 - Never equate benchmark improvements with general intelligence; evaluate out-of-distribution behavior, efficiency, reliability, and safety.
-- Avoid copying copyrighted papers or training sets. Store citations, metadata, short original summaries, and permitted artifacts.
-- Never claim access to private lab recipes, unpublished weights, paid databases, or undisclosed training data.
+- For this private, noncommercial research library, preserve complete publicly disclosed methods, configurations, formulas and recipes. Legally permitted personal/research copies of papers and artifacts may be archived with source/rights metadata. A private repository does **not** confer blanket permission to reproduce or redistribute protected work.
+- Include detailed recipes labs **publicly disclose**, with original-source attribution and version. Do not claim access to confidential trade secrets, nonpublic lab recipes, gated publications, or undisclosed data without proper authorization.
 - Protect independent holdouts against benchmark contamination; do not optimize on test data.
 - Treat agentic autonomy, open-ended self-modification, and self-improvement as hypotheses requiring sandboxed tests and explicit deployment gates.
 
@@ -22,7 +22,12 @@ Build a rigorous, source-backed knowledge base and executable experimental progr
 - [Source map and paper reading list](docs/03-source-map.md)
 - [Research experiments and evaluation](docs/04-experiments.md)
 - [Evidence conventions](docs/05-evidence-standards.md)
-- [Research record seed](data/papers.jsonl)
+- [Private research source policy](docs/16-private-research-materials.md)
+- [Pass 2: research decision map](docs/10-pass2-index.md)
+- [Open laboratory training recipes](docs/11-open-training-recipes.md)
+- [Architecture and tokenizer alternatives](docs/12-architectures.md)
+- [Memory, agents and world models](docs/13-memory-world.md)
+- [Literature catalog](data/papers.jsonl)
 - [Metadata collector](scripts/collect_arxiv.py)
 
 ## Major research tracks
@@ -47,4 +52,4 @@ Initial focus: **verifiable reasoning plus persistent structured memory and envi
 **Stage 3:** transfer tests on unseen tasks, multi-step environments, noisy observations, adversarial cases.  
 **Stage 4:** only advance experimentally superior systems, including rollback and safety reviews.
 
-This repository is designed to support an ongoing scientific process. As of initialization, no novel system has been trained, evaluated, or demonstrated to be superior.
+This repository supports an ongoing scientific process. Literature review and automated validation are not evidence of model improvement. No novel system has been trained, evaluated or demonstrated to be superior in this repository.

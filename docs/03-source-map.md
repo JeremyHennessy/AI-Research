@@ -21,7 +21,7 @@ Updated 2026-10-08. This is a deliberately **selected** starting map. Listed cla
 | MLCommons | https://mlcommons.org | Standardized hardware/model benchmarks | Version and submission-specific comparability |
 | Stanford HELM | https://crfm.stanford.edu/helm | Multi-metric model evaluation | Coverage and prompt policies change |
 
-Use APIs and metadata feeds with documented rate limits. Do **not** indiscriminately copy full-text papers, scrape restricted databases, or assume models/datasets are licensed for training.
+Use APIs and metadata feeds with documented rate limits. Public lab recipes, equations, configurations and research implementation details should be documented thoroughly. Legally permitted copies of papers may be archived for private study with provenance and rights metadata; neither a private repository nor noncommercial purpose automatically bypasses copyright, access restrictions or third-party dataset licenses. See [private materials policy](16-private-research-materials.md).
 
 ## Must-read foundation, by engineering task
 
@@ -65,6 +65,12 @@ Use APIs and metadata feeds with documented rate limits. Do **not** indiscrimina
 
 ## Source verification policy
 The entries above were selected using primary arXiv/venue metadata and paper abstract searches. This is **not** evidence that every PDF, appendix, implementation, licensing term or claimed result was checked. Our [catalog](../data/papers.jsonl) labels review level, date and follow-up work. Dates are original-publication years, not necessarily version or conference years. Always inspect retractions, revisions, code and reported benchmarks before implementing a paper.
+
+## Pass 2 deep research
+- [2026 research decision map](10-pass2-index.md)
+- [Reproduction-grade public recipes](11-open-training-recipes.md)
+- [New architecture research](12-architectures.md)
+- [Agent memory and world models](13-memory-world.md)
 
 ## High-value expansion searches
 - Benchmark leakage + synthetic chain-of-thought + verification

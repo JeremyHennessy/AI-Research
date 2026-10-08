@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-08",
+  "scope": "published source evidence; independence and methodological negative cases, not experimentally reproduced",
+  "study_units": [
+    {
+      "id": "beaumont2009",
+      "paper_id": "doi:10.1038/nature08504",
+      "unit": "12 originally independently selected bacterial populations; 2 evolved stochastic switching",
+      "newOrigin": true,
+      "source_level": "E1",
+      "limits": "phenotype preference alternated by humans; genotype lineage selection not same-individual prediction"
+    },
+    {
+      "id": "gallie2015",
+      "paper_id": "doi:10.1371/journal.pbio.1002109",
+      "unit": "molecular reconstruction/biochemical experiments nested in Beaumont original switching ancestry, plus later re-evolved isolates",
+      "newOrigin": false,
+      "source_level": "E2",
+      "overlaps": [
+        "beaumont2009"
+      ],
+      "limits": "not new independent 12-population repetition; bistability modeled; switch fails in foreign background"
+    },
+    {
+      "id": "basan2020",
+      "paper_id": "doi:10.1038/s41586-020-2505-4",
+      "unit": "resource-shift growth experiments, 144 source-destination transitions across substrate grid, not evolution population count",
+      "newOrigin": false,
+      "source_level": "E2",
+      "limits": "native metabolism, artificially set nutrient changes and genetic readiness interventions"
+    },
+    {
+      "id": "kratz2026",
+      "paper_id": "doi:10.1103/5zbg-8vll",
+      "unit": "nested single-cell mother-machine data (~30000 cells per experimental series) and model fits",
+      "newOrigin": false,
+      "source_level": "E2",
+      "overlaps": [
+        "Nguyen et al 2021 growth trajectories in Figure 1a"
+      ],
+      "limits": "fractional kernel, EMA/sigmoid gate and ribosome-subsector construction are author models; subsector molecular identity not directly experimentally proven"
+    },
+    {
+      "id": "fridman2014",
+      "paper_id": "doi:10.1038/nature13469",
+      "unit": "antibiotic-timing-selected E coli evolving populations; original per-arm denominators not full audited",
+      "newOrigin": true,
+      "source_level": "E1",
+      "limits": "genetic selection of lag-phase distribution under clinical-related stress; not cognitive learning, high-level discussion only"
+    },
+    {
+      "id": "vandenbergh2016",
+      "paper_id": "doi:10.1038/nmicrobiol.2016.20",
+      "unit": "independent antibiotic-frequency-selected E coli populations; sample counts pending E2",
+      "newOrigin": true,
+      "source_level": "E1",
+      "limits": "persistence adapts across generations, reversal after ceased treatment was slower/incomplete; no single-cell intelligence"
+    },
+    {
+      "id": "awakening2010",
+      "paper_id": "doi:10.1128/jb.00056-10",
+      "unit": "same stationary culture in different regrowth-media contexts, not independent origins",
+      "newOrigin": false,
+      "source_level": "E1",
+      "limits": "assay-dependent apparent persister fraction, not universal stable memory metric"
+    },
+    {
+      "id": "acar2008",
+      "paper_id": "doi:10.1038/ng.110",
+      "unit": "engineered yeast GAL switching competition, already catalogued in Pass 14",
+      "newOrigin": false,
+      "source_level": "E1",
+      "limits": "switch frequencies preprogrammed by investigators, not evolved in experiment"
+    }
+  ],
+  "negative_or_disconfirming_evidence": [
+    "Only 2 of 12 original Beaumont populations acquired stochastic switching; earlier lineage history mattered.",
+    "Gallie 2015 equivalent genetic change in standard E coli did not reproduce expected phenotype in tested environments.",
+    "Gallie 2015 measured capsule-producing phenotype has a growth cost, and mechanistic model uses assumed regulation.",
+    "Basan 2020 current high growth can generate long next-transition lag; environmental feed and readiness interventions external.",
+    "Kratz 2026 model's exact ribosome subsectors were not directly experimentally validated; authors used prior external data in Figure 1a.",
+    "Van den Bergh 2016 persistence reduction after treatment ceased was incomplete and slow.",
+    "Awakening assay medium can change inferred fraction of dormant cells without changing underlying ancestor lineage."
+  ],
+  "no_biological_or_computational_experiment_run_by_ai_research": true
+}

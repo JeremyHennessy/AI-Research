@@ -1,0 +1,100 @@
+{
+  "schema_version": "0.5",
+  "id": "EERC-05",
+  "name": "Latent-State Recruitment and Two Clocks of Adaptation",
+  "created_at": "2026-10-08",
+  "scope": "original_unverified_research",
+  "research_only": true,
+  "implementation_authorized": false,
+  "experiments_executed": 0,
+  "independently_reproduced": false,
+  "claims_consciousness": false,
+  "extends": [
+    {
+      "id": "EERC-01",
+      "path": "data/alife/combined-path-eerc-v1.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-02",
+      "path": "data/alife/combined-path-eerc-v2.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-03",
+      "path": "data/alife/combined-path-eerc-v3.json",
+      "must_preserve_blob": true
+    },
+    {
+      "id": "EERC-04",
+      "path": "data/alife/combined-path-eerc-v4.json",
+      "must_preserve_blob": true
+    }
+  ],
+  "hypothesis": "Heritable variants of a physically conserving ecology may recruit latent dynamical switching/relaxation capabilities already accessible to the substrate, giving rise to useful within-lifetime response spectra and changing their selection across generations, without an installed intelligence reward or memory API.",
+  "novelty_claim": "New falsifiable cross-timescale comparison and operational tests, NOT claim of a newly demonstrated organism or newly invented general mathematical principle.",
+  "independent_observables": [
+    {
+      "axis": "latent_repertoire",
+      "question": "Which biophysical/program interaction states are possible in the ancestral substrate without model alteration?",
+      "null": "developer secretly adds new reaction/opcode during test"
+    },
+    {
+      "axis": "genetic_accessibility",
+      "question": "Does an inherited change make an otherwise inaccessible latent behavior reachable?",
+      "null": "passive environmental difference or preprogrammed switch"
+    },
+    {
+      "axis": "individual_state_history",
+      "question": "At fixed lineage genotype/current inputs, does temporal history change response reliably?",
+      "null": "population sorting, instrument artifact, regression to mean"
+    },
+    {
+      "axis": "relaxation_spectrum",
+      "question": "Does organism-mediated action alter a distribution of physical response times?",
+      "null": "fixed fractional kernel/integral controller hardwired by evaluator"
+    },
+    {
+      "axis": "ecological_utility",
+      "question": "Does the inherited state interface improve held-out material viability after paying full switching cost?",
+      "null": "novelty score, training target, time-correlated treatment label"
+    },
+    {
+      "axis": "group_heredity",
+      "question": "Do daughters/granddaughters autonomously reproduce a functional collective state without external automatic group copying?",
+      "null": "externally copied full agents or shuffled cohabitation"
+    }
+  ],
+  "future_only_comparators": [
+    "unmodified ancestor",
+    "matched passive chemical relaxation",
+    "engineered fixed exponential/fractional filter",
+    "engineered stochastic phenotype switching",
+    "genotype-lineage adaptation without within-life learning",
+    "substrate chemistry with heritable access changes",
+    "causal reversion/rescue with same flux",
+    "unseen shift to different environment frequency",
+    "surprise permanent regime change",
+    "extinction-included offspring lineages"
+  ],
+  "reject_conditions": [
+    "positive effect explained fully by fixed feedback at same cost",
+    "no independent within-life history effect after genotype control",
+    "only 2009/2015 reused evolution dataset counted as multiple independent origins",
+    "model ribosomal subpopulation claimed experimentally proven without perturbation",
+    "relative metabolic current-growth benefit vanishes after accounting next-transition lag",
+    "new daughter phenotype supplied by engine copy instead of internal reproduction",
+    "behavior misleadingly interpreted as subjective consciousness"
+  ],
+  "linked_research": "docs/artificial-life/77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md",
+  "source_ids": [
+    "doi:10.1371/journal.pbio.1002109",
+    "doi:10.1038/s41586-020-2505-4",
+    "doi:10.1103/5zbg-8vll",
+    "doi:10.1038/nature08504",
+    "doi:10.1038/nature13469",
+    "doi:10.1038/nmicrobiol.2016.20",
+    "doi:10.1128/jb.00056-10"
+  ],
+  "no_operations_performed": true
+}

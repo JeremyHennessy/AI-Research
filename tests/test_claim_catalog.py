@@ -20,11 +20,14 @@ class ClaimCatalogTests(unittest.TestCase):
             claim_ids.add(claim["claim_id"])
             paper = paper_ids[claim["paper_id"]]
             self.assertEqual(paper["url"], claim["source_url"])
-            self.assertEqual(claim["evidence_level"], "E1")
+            self.assertIn(claim["evidence_level"], {"E1", "E2"})
+            if claim["evidence_level"] == "E2":
+                self.assertEqual(paper["evidence_level"], "E2")
+                self.assertTrue(paper["full_text_reviewed"])
             self.assertFalse(claim["independent_replication"])
             self.assertGreater(len(claim["claim"]), 20)
             self.assertGreater(len(claim["caveat"]), 20)
-        self.assertGreaterEqual(len(self.claims), 20)
+        self.assertGreaterEqual(len(self.claims), 30)
 
     def test_every_catalog_paper_is_in_index(self):
         index = (ROOT / "docs/19-paper-index.md").read_text()

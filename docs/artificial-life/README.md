@@ -81,12 +81,28 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [64 — New EERC-T hypothesis](64-pass13-eerc-external-trace-selective-inheritance.md) | Can organisms create, trust and selectively pass ecological traces? | Unverified novel synthesis and independent causal nulls |
 | [65 — Pass 13 canonical handoff](65-pass13-research-handoff.md) | What is verified, what remains hypothetical, and what's next? | Counts, rights, provenance and continuation |
 
+| [66 — Glucose/lactose bacterial memory, full original](66-pass14-lambert-kussell-2014-timescale-memory-full-review.md) | Does physiology retain adaptive utility at particular timescales? | E2 direct growth plus model-separated flux |
+| [67 — Yeast fitness reversals, full original](67-pass14-abreu-2024-environmental-fitness-reversal-full-review.md) | Can fitness under A depend on previously experienced B? | E2 barcodes, 889 mutants, 29% reversal caveats |
+| [68 — Bacillus information-memory full original](68-pass14-wolf-2008-microbial-information-memory-full-review.md) | Does history leave measurable information? | E2 bits distinct from demonstrated survival benefit |
+| [69 — Chemotaxis feedback theory, original](69-pass14-chemotaxis-integral-feedback-2000-full-review.md) | Could fixed integral control imitate learning? | E2 complete PNAS theoretical analysis |
+| [70 — Switching, costs and competing models](70-pass14-costly-memory-bethedging-and-countermodels.md) | When does remembering become harmful? | Five E1 sources; engineered and non-peer-reviewed models |
+| [71 — New EERC-R scientific path](71-pass14-eerc-temporal-reliability-selection.md) | Could context-dependent forgetting evolve? | Separate original hypothesis, no implemented architecture |
+| [72 — Pass 14 research handoff](72-pass14-research-handoff.md) | What exactly remains verified and open? | Status, source rights, negatives and next research |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Fourteenth scholarly pass — temporal memory reliability and cost (2026-10-08)
+
+**Catalog:** **242** curated source publications in **30** tracks, **96** ALife notes, **30** complete primary source E2 reviews across AI-Research, **27** ALife E2 method receipts, **160** evidence-qualified claims. Previous 15 proposed AL-H hypotheses, 11 future experiment designs, 10 organism criteria and 12 detailed failure modes are unchanged. No E3 reproduced experiments and no created model/organism.
+
+**Four new E2 primary reviews:** [Lambert/Kussell 2014](66-pass14-lambert-kussell-2014-timescale-memory-full-review.md), [Abreu/Mathur/Petrov 2024](67-pass14-abreu-2024-environmental-fitness-reversal-full-review.md), [Wolf et al. 2008](68-pass14-wolf-2008-microbial-information-memory-full-review.md), [Yi et al. 2000](69-pass14-chemotaxis-integral-feedback-2000-full-review.md). **Five new E1** primary abstracts/selected-method or review sources (Acar 2008, Jain 2025 preprint, Kratz 2026, Vermeersch 2022 review, Miao 2026 preprint). **Never treat theoretical model outputs as directly measured fitness** or observational memory bits as proof of conscious learning.
+
+**Original untested pathway:** [EERC-R](71-pass14-eerc-temporal-reliability-selection.md) and [v4 versioned manifest](../../data/alife/combined-path-eerc-v4.json), [nine-source independence matrix](../../data/alife/pass14-memory-reliability-evidence.json), [Pass 14 handoff](72-pass14-research-handoff.md). Earlier EERC v1/v2/v3 must remain unchanged, and the research does not authorize a simulator or any change to Ora.
 
 ## Thirteenth scholarly pass — environmental memory, selective partition and critical alternative explanations (2026-10-08)
 

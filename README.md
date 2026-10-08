@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Thirteenth ALife research pass (2026-10-08) — **233** curated source records across **30** tracks, **87** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **26** full-paper/theory reviews (E2), **145** evidence-qualified claims, **23** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Fourteenth ALife research pass (2026-10-08) — **242** curated source records across **30** tracks, **96** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **30** full-paper/theory reviews (E2), **160** evidence-qualified claims, **27** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -33,6 +33,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 13 — external ecological memory and selective inheritance:** [Reid 2012 externalized memory full E2](docs/artificial-life/60-pass13-externalized-navigation-memory-2012-full-review.md) · [Yeast Whi3 mother/daughter gating E2](docs/artificial-life/61-pass13-whi3-memory-barrier-2022-full-review.md) · [First-daughter septin E2](docs/artificial-life/62-pass13-first-daughter-septin-memory-2023-full-review.md) · [2026 associative preprint and engineered learning controls](docs/artificial-life/63-pass13-association-anticipation-and-circuit-shortcuts.md) · [**New EERC-T hypothesis**](docs/artificial-life/64-pass13-eerc-external-trace-selective-inheritance.md) · [Versioned EERC-03 evidence manifest](data/alife/combined-path-eerc-v3.json) · [Pass 13 canonical handoff](docs/artificial-life/65-pass13-research-handoff.md). This work is literature and hypotheses only: no new system built, trained, deployed or independently reproduced.
 
+**Pass 14 — memory timescales and usefulness after environmental reversal:** [Bacterial metabolic memory full review](docs/artificial-life/66-pass14-lambert-kussell-2014-timescale-memory-full-review.md) · [Yeast fitness history reversals E2](docs/artificial-life/67-pass14-abreu-2024-environmental-fitness-reversal-full-review.md) · [Bacillus informational history E2](docs/artificial-life/68-pass14-wolf-2008-microbial-information-memory-full-review.md) · [Built-in integral feedback E2](docs/artificial-life/69-pass14-chemotaxis-integral-feedback-2000-full-review.md) · [Contrary models and memory costs](docs/artificial-life/70-pass14-costly-memory-bethedging-and-countermodels.md) · [Original untested EERC-R hypothesis](docs/artificial-life/71-pass14-eerc-temporal-reliability-selection.md) · [New independent v4 manifest](data/alife/combined-path-eerc-v4.json) · [Pass 14 handoff](docs/artificial-life/72-pass14-research-handoff.md). All science remains source reading/hypothesis only; EERC v1–v3 and Ora/AgentTest unchanged.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -41,7 +43,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 233 source records](docs/19-paper-index.md)
+- [Browse 242 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

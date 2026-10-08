@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "reviewed_at": "2026-10-08",
+  "scope": "Pass 11 only: author-reported findings, publication independence, controls, source-reading level; no experiments by AI-Research",
+  "unit_rule": "A selected line, test well, literature case, genome clone, study modeled world and separately evolved laboratory population are noninterchangeable statistical units.",
+  "papers": [
+    {
+      "id": "doi:10.1038/s41586-024-08010-x",
+      "kind": "induced_wet_lab_evolution",
+      "evidence": "E2",
+      "study_unit": "ten selected descendant lines from one implanted fungal germling",
+      "major_contrast": "E. coli injection failure vs M. rhizoxinica selected inheritance and FACS withdrawal",
+      "outcomes": "Positive-spore transmission and germination improved; after withdrawal evolved symbiosis diluted below propagation threshold by 4–5 rounds; ancestral within 1",
+      "independent_origin_count": 1,
+      "negative_control": "E. coli injection non-transmitted; selection withdrawal",
+      "missing": "Does not demonstrate spontaneous partner entry or permanent unsorted group reproduction",
+      "review_path": "docs/artificial-life/49-pass11-induced-endosymbiosis-2024-full-review.md"
+    },
+    {
+      "id": "doi:10.1371/journal.pcbi.1014699",
+      "kind": "mathematical_model",
+      "evidence": "E2",
+      "study_unit": "specified population ODE fixed points and mutant invasions; no biological cohorts",
+      "outcomes": "Under stipulated inhibition-reduction and costs the bound mutant can invade/replace free-living partners",
+      "external_preinstallation": "host mutant already binds partners; consortial reproduction and random surface symbiont sorting assumed",
+      "missing": "model does not demonstrate evolved attachment, vertical heritable group daughters or endogenous new primitive rules",
+      "review_path": "docs/artificial-life/50-pass11-ectosymbiosis-2026-theoretical-review.md"
+    },
+    {
+      "id": "doi:10.1038/ncomms15973",
+      "kind": "comparative_phylogenetic_analysis",
+      "evidence": "E2",
+      "study_unit": "106 cross-literature host-bacterial pairings, 58 bacterial symbionts, 89 host species; phylogenetic non-independence",
+      "outcomes": "Mean host fitness loss on removal 52% vertically transmitted vs 21% horizontal in subset; more nutritional dependence",
+      "negative_control": "phylogenetic mixed models, measure-type sensitivity",
+      "missing": "associations not experimental origins or direct co-transmission causation",
+      "review_path": "docs/artificial-life/51-pass11-host-symbiont-dependence-2017-full-review.md"
+    },
+    {
+      "id": "doi:10.1128/msystems.01053-24",
+      "kind": "reanalysis_plus_followup_assays",
+      "evidence": "E2",
+      "study_unit": "original 4 monoculture and 4 P. putida co-culture evolutionary replicates (~200 generations) reused from earlier Rodríguez-Verdugo and Ackermann study",
+      "outcomes": "Two lineages stable ~150 generations in co-culture, frequency dependence hypothesis not supported by reciprocal invasion assays",
+      "negative_control": "monoculture vs producer-containing co-culture; starting-frequency invasion assays",
+      "missing": "no matched exogenous benzoate resource-flux control; no joint daughter collective evidence",
+      "review_path": "docs/artificial-life/52-pass11-crossfeeding-diversification-2024-full-review.md"
+    },
+    {
+      "id": "doi:10.1038/s41467-021-27630-9",
+      "kind": "independent_wet_lab_evolution",
+      "evidence": "E1",
+      "study_unit": "experimental bacterial mono and obligate mutualistic cocultures; exact independent biological population denominators pending complete methods",
+      "outcomes": "cross-feeding consortia adapted less well to rising antibiotic stress and sometimes returned to autonomy",
+      "missing": "full main methods and per-treatment replicates not audited in AI-Research",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8764027/"
+    },
+    {
+      "id": "doi:10.1038/s41467-025-58742-1",
+      "kind": "independent_wet_lab_evolution",
+      "evidence": "E1",
+      "study_unit": "abrupt-salinity/PNP stressed E. coli mutualist populations; exact denominators and stress-specific counts pending complete full-paper audit",
+      "outcomes": ">80% reported recovery but only one partner survived in every rescued mutualist population, with metabolic independence restored",
+      "missing": "complete variant reconstruction and per-stressor cohort counting still to audit; these are not 2022 antibiotic replicates",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11992082/"
+    },
+    {
+      "id": "doi:10.1086/737588",
+      "kind": "adaptive_dynamics_theory",
+      "evidence": "E1",
+      "study_unit": "mathematical systems with evolving dependence/cohesion parameters, no wet-lab cohort",
+      "outcomes": "dependence may evolve faster than reproductive cohesion and finite collective carrying capacity limits completion",
+      "missing": "original equations, calibration and supplement not fully reviewed",
+      "source": "https://www.journals.uchicago.edu/doi/10.1086/737588"
+    },
+    {
+      "id": "doi:10.1038/s41559-019-1086-9",
+      "kind": "ecological_scaffolding_model",
+      "evidence": "E1",
+      "study_unit": "externally given patch/resource/migration metapopulation, no wet-lab cohort",
+      "outcomes": "selected parameter regimes can create collective-level birth–death properties from ecological structure",
+      "missing": "does not establish evolved or independently reproduced patches/boundaries",
+      "source": "https://www.nature.com/articles/s41559-019-1086-9"
+    }
+  ],
+  "critical_overlaps": [
+    "Al-Tameemi 2024 is new analysis/assay of previously established 200-generation Rodríguez-Verdugo/Ackermann evolution lines, not new independent 200-generation origins",
+    "Giger 2024 ten derived selection lines share ONE inserted fungal founder, while positive spores/flow-cytometry counts are not distinct evolutionary origins",
+    "Fisher 2017 106 pairings share taxonomic histories and some host/symbiont taxa, corrected through phylogenetic modeling, not 106 independent lab origins",
+    "Krishnan 2026, Athreya 2025, Black et al 2020 are distinct modeling studies, NOT independent demonstrations of physically reproducing new individuals",
+    "Pauli 2022 and Melero-Jiménez 2025 use distinct experimental stress regimes/strain dependencies; one cannot pool their success rates as the same protocol",
+    "Study relative fitness, individual copy rate, group daughter fidelity and source-dependent morphology must be kept on separate axes"
+  ],
+  "not_implemented": true,
+  "independent_reproduction_by_ai_research": false,
+  "next_checks": [
+    "Independent experiment with live co-transmission after selective enrichment removed for more generations than Giger 2024",
+    "Matched externally added resource supply versus biologically produced resource in the Al-Tameemi ecology",
+    "Co-dependence and co-transmission manipulated orthogonally with group-lineage DAGs",
+    "Complete Pauli 2022/Melero-Jiménez 2025 methods and exact replicate/stressor denominators"
+  ]
+}

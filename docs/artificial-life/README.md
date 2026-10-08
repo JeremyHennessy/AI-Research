@@ -89,12 +89,27 @@ We are *not* presupposing a Transformer, LLM, biological phenotype, human-like p
 | [71 — New EERC-R scientific path](71-pass14-eerc-temporal-reliability-selection.md) | Could context-dependent forgetting evolve? | Separate original hypothesis, no implemented architecture |
 | [72 — Pass 14 research handoff](72-pass14-research-handoff.md) | What exactly remains verified and open? | Status, source rights, negatives and next research |
 
+| [73 — Growth vs lag under nutrient change, original full](73-pass15-basan-2020-growth-lag-metabolic-tradeoff-full-review.md) | Can costly metabolic readiness shorten a future shift? | E2 enzyme intervention, 144 conditions not independent evolution |
+| [74 — Multi-timescale physiology, complete 2026 original](74-pass15-kratz-2026-multiscale-bacterial-memory-full-review.md) | Are bacterial relaxation spectra experimentally real? | E2 author data/model separation, proposed ribosomal memory unverified |
+| [75 — Latent bistability exposed by evolution, original full](75-pass15-gallie-2015-latent-bistability-and-evolution-full-review.md) | How can inherited mutation recruit pre-existing hidden dynamics? | E2 molecular follow-up to Beaumont 2009; not independent original evolution |
+| [76 — Evolved stochastic switches and stress-history controls](76-pass15-stochastic-hedging-and-antibiotic-history-comparators.md) | When does switching evolve rather than get engineered? | E1 origin vs repeated lineage and measurement-confound warnings |
+| [77 — New two-clock EERC-L hypothesis](77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md) | Can selection recruit latent responses without reward leakage? | Unverified new research synthesis, no autonomous world |
+| [78 — Pass 15 canonical handoff](78-pass15-research-handoff.md) | Where do we resume and which source counts hold? | Research preservation, exact E1/E2 boundaries and Pass16 reading plan |
+
 Research metadata is integrated into the [main catalog](../../data/papers.jsonl); scoped annotations live in [ALife source notes](../../data/alife/source-notes.jsonl) and [hypothesis registry](../../data/alife/hypotheses.jsonl). Primary titles and abstracts are **not** automatically E2/full-text reviewed. Existing AI papers remain in the compendium and are cross-linked rather than duplicated.
 
 ## Ninth research pass — living organization, ecological construction and consciousness (2026-10-08)
 **Research-only source additions:** [AlChemy full-method E2 review](41-pass9-alchemy-organization-barriers-full-review.md) · [Independent routes to living organization, intelligence and consciousness](42-pass9-pathways-to-life-mind-and-consciousness.md) · [Microbial niche construction and historical contingency](43-pass9-ecological-path-dependence-evidence.md) · [Ninth-pass scientific handoff](44-pass9-research-handoff.md).
 
 **Central distinction:** reproducing structure, environmental feedback, adaptive intelligence and subjective experience are separate causal research questions. *No digital life or conscious AI has been created, demonstrated or tested here.* Earlier published corpus counts remain unchanged until source-record integration and validation. No Ora/AgentTest modifications.
+
+## Fifteenth scholarly pass — latent switches and two independent adaptation timescales (2026-10-08)
+
+**Research library:** **248** curated papers in **30** tracks, **102** ALife source notes, **33** complete main-paper E2 reviews across the repository, **30** ALife method audit receipts, and **175** caveated claims. Previous **15** canonical untested hypotheses, **11** future experimental plans, **10** organism property criteria and **12** documented failure cases remain intact. **No E3 scientific reproduction, trained AI model or newly created digital organism.**
+
+**Full-primary work:** [Basan et al. 2020 growth/lag](73-pass15-basan-2020-growth-lag-metabolic-tradeoff-full-review.md) and [Gallie et al. 2015 metabolic-state switching](75-pass15-gallie-2015-latent-bistability-and-evolution-full-review.md) added as new E2 publications. Previously indexed [Kratz et al. 2026 complete primary](74-pass15-kratz-2026-multiscale-bacterial-memory-full-review.md) promoted from E1 to E2 without duplicate, preserving earlier E1 claim labels. E1 comparator records [Beaumont 2009, Fridman 2014, Van den Bergh 2016 and Joers 2010](76-pass15-stochastic-hedging-and-antibiotic-history-comparators.md) remain limited source review. **2009 Beaumont and 2015 Gallie share a core historical switching lineage; do not count as independent original phenotype evolutions.**
+
+**New original theory:** [EERC-L latent-state recruitment and evolutionary/within-lifetime two clocks](77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md), [v5 research-only manifest](../../data/alife/combined-path-eerc-v5.json), and [study-independence/negative matrix](../../data/alife/pass15-two-clocks-evidence.json). Prior v1–v4 immutable. No software or experimental work permitted here. [Pass15 handoff](78-pass15-research-handoff.md).
 
 ## Fourteenth scholarly pass — temporal memory reliability and cost (2026-10-08)
 

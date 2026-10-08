@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Fourteenth ALife research pass (2026-10-08) — **242** curated source records across **30** tracks, **96** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **30** full-paper/theory reviews (E2), **160** evidence-qualified claims, **27** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Fifteenth ALife research pass (2026-10-08) — **248** curated source records across **30** tracks, **102** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **33** full-paper/theory reviews (E2), **175** evidence-qualified claims, **30** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -35,6 +35,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 14 — memory timescales and usefulness after environmental reversal:** [Bacterial metabolic memory full review](docs/artificial-life/66-pass14-lambert-kussell-2014-timescale-memory-full-review.md) · [Yeast fitness history reversals E2](docs/artificial-life/67-pass14-abreu-2024-environmental-fitness-reversal-full-review.md) · [Bacillus informational history E2](docs/artificial-life/68-pass14-wolf-2008-microbial-information-memory-full-review.md) · [Built-in integral feedback E2](docs/artificial-life/69-pass14-chemotaxis-integral-feedback-2000-full-review.md) · [Contrary models and memory costs](docs/artificial-life/70-pass14-costly-memory-bethedging-and-countermodels.md) · [Original untested EERC-R hypothesis](docs/artificial-life/71-pass14-eerc-temporal-reliability-selection.md) · [New independent v4 manifest](data/alife/combined-path-eerc-v4.json) · [Pass 14 handoff](docs/artificial-life/72-pass14-research-handoff.md). All science remains source reading/hypothesis only; EERC v1–v3 and Ora/AgentTest unchanged.
 
+**Pass 15 — evolving latent dynamical behavior and two timescales:** [Basan 2020 growth/readiness full E2](docs/artificial-life/73-pass15-basan-2020-growth-lag-metabolic-tradeoff-full-review.md) · [Kratz 2026 single-cell multi-timescale E2](docs/artificial-life/74-pass15-kratz-2026-multiscale-bacterial-memory-full-review.md) · [Gallie 2015 evolution reveals preexisting bistability E2](docs/artificial-life/75-pass15-gallie-2015-latent-bistability-and-evolution-full-review.md) · [Beaumont/stress-history independent-source boundaries](docs/artificial-life/76-pass15-stochastic-hedging-and-antibiotic-history-comparators.md) · [Untested original EERC-L theory](docs/artificial-life/77-pass15-eerc-latent-repertoire-two-clocks-hypothesis.md) · [Version 5 proposal](data/alife/combined-path-eerc-v5.json) · [Pass 15 canonical handoff](docs/artificial-life/78-pass15-research-handoff.md). All publications are author-reported and this project has not reproduced scientific experiments, trained a model or created an artificial organism.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -43,7 +45,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 242 source records](docs/19-paper-index.md)
+- [Browse 248 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

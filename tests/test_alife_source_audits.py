@@ -25,15 +25,15 @@ class AlifeSourceAuditTests(unittest.TestCase):
         cls.code = rows("data/alife/code-inventory.jsonl")
 
     def test_new_literature_links_have_deduped_canonical_ids(self):
-        self.assertEqual(len(self.notes), 37)
-        self.assertEqual(len({n["paper_id"] for n in self.notes}), 37)
+        self.assertEqual(len(self.notes), 45)
+        self.assertEqual(len({n["paper_id"] for n in self.notes}), 45)
         for n in self.notes:
             self.assertIn(n["paper_id"], self.papers)
             self.assertFalse(n["independent_replication_in_AI_Research"])
         self.assertEqual(
             sum(p.get("research_initiative") ==
                 "Artificial Life, Emergent Intelligence, and Digital Organisms"
-                for p in self.papers.values()), 37
+                for p in self.papers.values()), 45
         )
         self.assertIn("arxiv:2603.01701", self.papers)
         self.assertEqual(self.papers["arxiv:2603.01701"]["evidence_level"], "E2")

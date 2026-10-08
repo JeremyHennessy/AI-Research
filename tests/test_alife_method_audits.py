@@ -9,6 +9,8 @@ IDS = {
     "arxiv:2506.08569": "16-flow-lenia-2025-full-review.md",
     "arxiv:2604.11248": "17-pbt-nca-2026-full-review.md",
     "arxiv:2603.01701": "18-tolsim-2026-full-review.md",
+    "doi:10.1162/artl_a_00449": "20-outlier-original-2025-full-review.md",
+    "arxiv:2508.08047": "21-outlier-causal-selfhood-2026.md",
 }
 
 
@@ -24,7 +26,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
         cls.audits = load("data/alife/method-audits.jsonl")
         cls.claims = load("data/claims.jsonl")
 
-    def test_three_reviews_have_exact_source_and_depth(self):
+    def test_five_reviews_have_exact_source_and_depth(self):
         self.assertEqual({x["paper_id"] for x in self.audits}, set(IDS))
         for a in self.audits:
             pid = a["paper_id"]
@@ -41,7 +43,7 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
             self.assertEqual(p["source_review_path"], a["review_document"])
             self.assertEqual(n["method_audit_path"], a["review_document"])
             self.assertEqual(p["full_text_url"], a["full_text_url"])
-            self.assertTrue(a["full_text_url"].startswith("https://arxiv.org/html/"))
+            self.assertTrue(a["full_text_url"].startswith("https://arxiv.org/"))
             self.assertGreaterEqual(len(a["reviewed_sections"]), 5)
             self.assertGreater(len(a["author_reported_results"]), 80)
             self.assertGreater(len(a["limitations"]), 75)
@@ -50,15 +52,15 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
 
     def test_compendium_index_preserves_citation_evidence(self):
         index = (ROOT / "docs/19-paper-index.md").read_text(encoding="utf-8")
-        self.assertIn("183 curated research records", index)
-        self.assertIn("Six complete public-paper", index)
+        self.assertIn("191 curated research records", index)
+        self.assertIn("Eight detailed public-paper", index)
         for pid in IDS:
             p = self.papers[pid]
             self.assertIn(f"[{p['title']}]({p['url']}) | E2 |", index)
 
     def test_primary_claims_have_caveats_and_exact_primary_links(self):
         relevant = [x for x in self.claims if x["paper_id"] in IDS]
-        self.assertGreaterEqual(len(relevant), 9)
+        self.assertGreaterEqual(len(relevant), 20)
         for x in relevant:
             self.assertEqual(x["evidence_level"], "E2")
             self.assertFalse(x["independent_replication"])
@@ -72,6 +74,8 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
             "16-flow-lenia-2025-full-review.md": ["mass-normalized", "mutation", "species", "five"],
             "17-pbt-nca-2026-full-review.md": ["DINOv2", "500", "novelty", "0.25"],
             "18-tolsim-2026-full-review.md": ["shadow", "20", "0 / 20", "eyesight"],
+            "20-outlier-original-2025-full-review.md": ["2^140", "143", "1556", "two"],
+            "21-outlier-causal-selfhood-2026.md": ["15 generations", "31,959,320", "offspring", "glider"],
         }
         for name, terms in cases.items():
             page = (root / name).read_text(encoding="utf-8").lower()

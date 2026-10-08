@@ -1,0 +1,71 @@
+{
+  "schema_version": "0.4",
+  "id": "EERC-04",
+  "name": "Temporal Reliability and the Economics of Forgetting",
+  "created_at": "2026-10-08",
+  "status": "original_unverified_hypothesis",
+  "research_only": true,
+  "implementation_authorized": false,
+  "system_created": false,
+  "experiments_executed": 0,
+  "scientific_reproduction": false,
+  "consciousness_claim": false,
+  "extends": [
+    {
+      "id": "EERC-01",
+      "path": "data/alife/combined-path-eerc-v1.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-02",
+      "path": "data/alife/combined-path-eerc-v2.json",
+      "immutable": true
+    },
+    {
+      "id": "EERC-03",
+      "path": "data/alife/combined-path-eerc-v3.json",
+      "immutable": true
+    }
+  ],
+  "proposition": "Physically produced state may evolve useful decay/retention and reliability-dependent selective transmission within fixed finite-resource ecological laws, beyond a pre-installed regulator or engineered memory array.",
+  "properties": [
+    "measurable source-derived environmental history",
+    "held-out ecological viability advantage",
+    "explicit storage/expression/reset resource costs",
+    "cue reliability reversal generalization",
+    "endogenous retention mechanism and causal necessity",
+    "functional daughter/granddaughter inheritance"
+  ],
+  "critical_comparators": [
+    "matched no-memory history null",
+    "passive molecular carryover",
+    "permanent expression and storage with cost",
+    "fixed low-pass/integral-feedback control",
+    "stochastic fast/slow phenotype switching",
+    "programmed memory-decay rule as shortcut benchmark",
+    "carrier knockout+rescue",
+    "unexpected cue–resource relationship reversal",
+    "unanticipated permanent resource shift",
+    "daughter all-copy/no-copy/passive partition"
+  ],
+  "reject_on": [
+    "no functional advantage after causal resource/physiology matching",
+    "higher mutual information only, no survival benefit",
+    "same result from preinstalled fixed circuitry at matched cost",
+    "observer supplied a dedicated memory API or future-state reward",
+    "benefit lost under ecological reversal",
+    "offspring selected survivors only or no independent lineage structure"
+  ],
+  "source_ids": [
+    "doi:10.1371/journal.pgen.1004556",
+    "doi:10.1038/s41559-024-02475-9",
+    "doi:10.1371/journal.pone.0001700",
+    "doi:10.1073/pnas.97.9.4649",
+    "doi:10.1038/ng.110",
+    "doi:10.1101/2025.05.24.655868"
+  ],
+  "scientific_proposal": "docs/artificial-life/71-pass14-eerc-temporal-reliability-selection.md",
+  "future_auth_required": true,
+  "legacy_registries_untouched": true,
+  "Ora_AgentTest_unchanged": true
+}

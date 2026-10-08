@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-08",
+  "scope": "author-reported source metadata and reading depth only, not independent scientific replication",
+  "studies": [
+    {
+      "id": "doi:10.1371/journal.pgen.1004556",
+      "level": "E2",
+      "study_type": "E coli microfluidic growth/induction plus theoretical model",
+      "units": "five chambers per plotted condition, shared population",
+      "outcome": "~35m lag/55m recovery glucose->lactose; minutes-to-generations memory; theoretical up to 100% increase lactose consumption",
+      "caveat": "double flux is model prediction, not measured doubled growth; enzymes preexist"
+    },
+    {
+      "id": "doi:10.1038/s41559-024-02475-9",
+      "level": "E2",
+      "study_type": "barcoded yeast pooled fitness across fluctuating/static environments",
+      "units": "1–2 independent evolution flasks per environment, 889 selected mutant clones, three assay replicates",
+      "outcome": "53% component-memory cases significant, 29% component static-fitness-predictor reversal, 30% nonadditivity cases significant",
+      "caveat": "889 clones are not 889 independent evolution populations; lag-time mechanism theoretical/association"
+    },
+    {
+      "id": "doi:10.1371/journal.pone.0001700",
+      "level": "E2",
+      "study_type": "B subtilis memory information across ten initial histories",
+      "units": "three replicate cultures per ten histories, shared reporter genotypes",
+      "outcome": "~1.96 bits transient sporulation, ~0.8813 bits finite 21–24h late response; information limit set by experimental histories",
+      "caveat": "information about past not demonstrated survival benefit"
+    },
+    {
+      "id": "doi:10.1073/pnas.97.9.4649",
+      "level": "E2",
+      "study_type": "control theory based on historical chemotaxis experiments",
+      "units": "analytical model, not a new cell evolution cohort",
+      "outcome": "methylation-linked integral feedback supports perfect adaptation within assumptions",
+      "caveat": "fixed biological apparatus can mimic learning, not an evolved digital controller"
+    },
+    {
+      "id": "doi:10.1038/ng.110",
+      "level": "E1",
+      "study_type": "engineered yeast phenotype switching",
+      "outcome": "fast stochastic switchers gain under frequent change, slow switchers under rare changes",
+      "caveat": "researcher designed switching dynamics and favorable phenotypes"
+    },
+    {
+      "id": "doi:10.1101/2025.05.24.655868",
+      "level": "E1",
+      "study_type": "2025 not-peer-reviewed mathematical preprint",
+      "outcome": "modeled dated/undated forgetting and cost benefits depend on periodic vs permanent regime",
+      "caveat": "hypothetical policies supplied; no wet lab outcome or independent model run"
+    },
+    {
+      "id": "doi:10.1103/5zbg-8vll",
+      "level": "E1",
+      "study_type": "2026 published E coli single-cell microfluidic study and theoretical model",
+      "outcome": "authors report minute-to-hour response-history dependence",
+      "caveat": "publisher abstract only fully inspected; numerical full methods not audited"
+    },
+    {
+      "id": "doi:10.3389/fmicb.2022.1004488",
+      "level": "E1",
+      "study_type": "review of microbial metabolic history",
+      "outcome": "surveys lag, epigenetic carryover and bet-hedging",
+      "caveat": "not a new independent wet-lab experiment"
+    },
+    {
+      "id": "doi:10.64898/2026.07.23.740246",
+      "level": "E1",
+      "study_type": "2026 non-peer-reviewed Stentor genome/transcriptomics",
+      "outcome": "341 dynamically expressed genes and five PKG paralogs associated with habituation",
+      "caveat": "gene correlation is not causal memory carrier, overlapping investigators with prior Stentor work"
+    }
+  ],
+  "negative_evidence": [
+    "constitutive lac expression may be costly when lactose ceases",
+    "history information bits do not prove adaptive use",
+    "fitness effect can reverse depending on previous environmental component",
+    "fast or slow fixed switching can win without any learning",
+    "modeled costly adaptation can help noisy worlds but hurt a permanent new regime"
+  ],
+  "executed_experiments": 0
+}

@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 191 curated research records across 30 research tracks. Eight detailed public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
+**Pass 4 — 2026-10-08.** 193 curated research records across 30 research tracks. Twelve detailed public-paper/theory reviews (E2: formal proof, ALife OEE theory, chemical replication, Flow-Lenia, PBT-NCA, ToLSim); no independent model replication.
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -358,11 +358,22 @@ This index adds **8** distinct publication leads plus full-method review of an *
 | 2026 | [From ALife Worlds to ALife World Views](https://doi.org/10.1162/ISAL.a.941) | E1 | AL11 |
 | 2026 | [Rethinking Self-Replication: Detecting Distributed Selfhood in the Outlier Cellular Automaton](https://arxiv.org/abs/2508.08047) | E2 | AL09 |
 | 2026 | [Transformational Novelty with an Automata Meta-Chemistry](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-late.htm) | E1 | AL10 |
-| 2025 | [Towards origins of virtual artificial life: an overview](https://doi.org/10.1098/rstb.2024.0298) | E1 | AL11 |
+| 2025 | [Towards origins of virtual artificial life: an overview](https://doi.org/10.1098/rstb.2024.0298) | E2 | AL11 |
 | 2020 | [Innovation, Variation, and Emergence in an Automata Chemistry](https://doi.org/10.1162/isal_a_00265) | E1 | AL10 |
 | 2020 | [MetaChem: An Algebraic Framework for Artificial Chemistries](https://arxiv.org/abs/1905.12541) | E1 | AL10 |
-| 2016 | [Maximizing the Adjacent Possible in Automata Chemistries](https://doi.org/10.1162/ARTL_a_00180) | E1 | AL10 |
+| 2016 | [Maximizing the Adjacent Possible in Automata Chemistries](https://doi.org/10.1162/ARTL_a_00180) | E2 | AL10 |
 
 [Original Outlier paper E2](artificial-life/20-outlier-original-2025-full-review.md) · [Independent causal study E2](artificial-life/21-outlier-causal-selfhood-2026.md) · [Stepney and meta-chemistry sources](artificial-life/22-engineering-life-and-transformational-novelty.md) · [Unified experimental standard](artificial-life/23-unified-organism-evidence-standard.md).
+
+## ALife full-text deepening: Physis, Stringmol and engineering definitions (2026-10-08)
+
+**Four additional E2 source method audits**, two existing E1 records promoted and **two unique newly cataloged E2 papers**. Separate journal and author-accepted manifestations are not counted twice. Original published methods are read; **zero** experiments executed in AI-Research.
+
+| Year | Source | Evidence | Mechanism |
+|---:|---|---|---|
+| 2017 | [Semantic closure demonstrated by the evolution of a universal constructor architecture in an artificial chemistry](https://doi.org/10.1098/rsif.2016.1033) | E2 | Heritable executable interpretation |
+| 2003 | [Evolvability of the Genotype-Phenotype Relation in Populations of Self-Replicating Digital Organisms in a Tierra-like System](https://doi.org/10.1007/978-3-540-39432-7_26) | E2 | Heritable executable interpretation |
+
+[Stepney 2025 E2 synthesis](artificial-life/25-stepney-2025-complete-review.md) · [Stringmol 2016 E2](artificial-life/26-stringmol-2016-full-review.md) · [Semantic closure 2017 E2](artificial-life/27-semantic-closure-2017-full-review.md) · [Physis 2003 E2](artificial-life/28-physis-2003-full-review.md) · [Cross-study comparison](artificial-life/29-evolvable-semantics-cross-study.md).
 
 E1: public primary abstract or official release checked, not full-paper replication. E2: documented whole-paper methods/evaluation review; E3: demands independent reproduction. None E3 here.

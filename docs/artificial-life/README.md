@@ -2,11 +2,17 @@
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
-## Latest completed research — Pass 20 (2026-10-08)
+## Latest completed research — Pass 21 (2026-10-08)
+
+**269** papers across **30** tracks; **123** ALife notes; **51** E2 complete-primary readings; **48** method receipts; **240** claims. Two E2 main readings and one E1 partial source; no scientific reproduction.
+
+[Current handoff](113-pass21-research-handoff.md) · [Selective recruitment synthesis](112-pass21-selective-recruitment-and-priority.md) · [Evidence ledger](../../data/alife/pass21-selective-recruitment.json). Next: competition versus benefit, with the 2019 full-method access gap explicit.
+
+## Historical completed research — Pass 20 (2026-10-08)
 
 **266** papers across **30** tracks; **120** ALife notes; **49** E2 complete-primary readings; **46** method receipts; **233** claims. Two new full-main primary reviews; no independent scientific reproduction.
 
-[Current handoff](108-pass20-research-handoff.md) · [Transmission provenance and evidence](107-pass20-transmission-provenance-and-evidence.md) · [Evidence ledger](../../data/alife/pass20-transmission-provenance.json). Next: causal evidence of selective partner recruitment rather than prevalence alone.
+[Pass 20 handoff](108-pass20-research-handoff.md) · [Transmission provenance and evidence](107-pass20-transmission-provenance-and-evidence.md) · [Evidence ledger](../../data/alife/pass20-transmission-provenance.json). Next: causal evidence of selective partner recruitment rather than prevalence alone.
 
 ## Historical completed research — Pass 19 (2026-10-08)
 

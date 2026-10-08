@@ -1,6 +1,8 @@
 # Artificial-life primary source bibliography (first systematic map)
 **Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; the Liu–Sumpter (2018), Flow-Lenia (2025), PBT-NCA (2026), ToLSim (2026), original Outlier (2025) and independent Hintze/Bohm (2026), **Physis 2003, Stringmol 2016, 2017 semantic closure, and Stepney 2025** detailed public methods are now E2. Remaining ALife sources, including ALIFE 2026 short abstracts, are E1 pending full-text method review. **E2 is a reading-depth label, not a reproduction.**
 
+**Pass 21 depth:** Ohbayashi 2015 and Chen 2024 complete main-primary E2 readings; Itoh 2019 remains E1 after partial access. [Scope and dependencies](../../data/alife/pass21-selective-recruitment.json).
+
 **Pass 20 depth:** Kikuchi 2007 and Russell 2018 complete main-primary E2 readings. Direct acquisition contrasts and egg/environment localization are different evidence types; neither source establishes new digital life. [Provenance ledger](../../data/alife/pass20-transmission-provenance.json).
 
 **Pass 19 depth:** DiSalvo 2015 and Khojandi 2019 complete main-primary E2 readings; Brock 2011 remains E1 because full methods were not available. Three new records from a connected research program. [Transmission ledger](../../data/alife/pass19-transmission-evidence.json).
@@ -286,3 +288,9 @@ The [author listing](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-la
 
 - **Yoshitomo Kikuchi et al. (2007)**, [Insect-Microbe Mutualism without Vertical Transmission: a Stinkbug Acquires a Beneficial Gut Symbiont from the Environment Every Generation](https://doi.org/10.1128/AEM.00067-07). **E2**. [Complete main review and limits](105-pass20-kikuchi-2007-environmental-acquisition-full-review.md).
 - **S. L. Russell et al. (2018)**, [Transmission strategies in a chemosynthetic symbiosis: detection and quantification of symbionts in host tissues and their environment](https://doi.org/10.1098/rspb.2018.2157). **E2**. [Complete main review and limits](106-pass20-russell-2018-egg-and-environment-full-review.md).
+
+## XXII. Pass 21 — recruitment stages and priority
+
+- **Tsubasa Ohbayashi et al. (2015).** [Insect’s intestinal organ for symbiont sorting](https://doi.org/10.1073/pnas.1511454112). **E2**; [reading receipt](109-pass21-ohbayashi-2015-sorting-full-review.md).
+- **Hideomi Itoh et al. (2019).** [Host–symbiont specificity determined by microbe–microbe competition in an insect gut](https://doi.org/10.1073/pnas.1912397116). **E1**; [reading receipt](110-pass21-itoh-2019-source-boundary.md).
+- **Jason Z. Chen et al. (2024).** [A strong priority effect in the assembly of a specialized insect-microbe symbiosis](https://doi.org/10.1128/aem.00818-24). **E2**; [reading receipt](111-pass21-chen-2024-priority-full-review.md).

@@ -1,0 +1,68 @@
+{
+  "pass_number": 21,
+  "date": "2026-10-08",
+  "starting_main": "43d6abfbfc947d10200a5597c8f24bd0576d05bb",
+  "research_only": true,
+  "independently_reproduced": false,
+  "organism_implemented": false,
+  "source_code_executed": false,
+  "sources": [
+    {
+      "paper_id": "doi:10.1073/pnas.1511454112",
+      "evidence_level": "E2",
+      "review_document": "docs/artificial-life/109-pass21-ohbayashi-2015-sorting-full-review.md",
+      "reading_scope": "Complete published primary main article, main Methods, Results/Discussion and figure captions read; separate supplemental package and raw data/code not independently audited."
+    },
+    {
+      "paper_id": "doi:10.1073/pnas.1912397116",
+      "evidence_level": "E1",
+      "review_document": "docs/artificial-life/110-pass21-itoh-2019-source-boundary.md",
+      "reading_scope": "Primary abstract and early main Results through host-benefit section read; later competition results and full Methods not read because retrieval was blocked."
+    },
+    {
+      "paper_id": "doi:10.1128/aem.00818-24",
+      "evidence_level": "E2",
+      "review_document": "docs/artificial-life/111-pass21-chen-2024-priority-full-review.md",
+      "reading_scope": "Complete published primary main article, main Methods, Results/Discussion and figure captions read; separate supplemental package and raw data/code not independently audited."
+    }
+  ],
+  "source_dependencies": [
+    {
+      "papers": [
+        "doi:10.1073/pnas.1511454112",
+        "doi:10.1073/pnas.1912397116",
+        "doi:10.1128/AEM.00067-07"
+      ],
+      "relationship": "Shared host-system research program and overlapping authors; not independent evolutionary origins."
+    },
+    {
+      "paper": "doi:10.1128/aem.00818-24",
+      "relationship": "Different host species and author team, but related symbiotic anatomy; earlier cited competition/benefit studies not separately audited."
+    }
+  ],
+  "open_questions": [
+    "Full competition Methods and later Results of Itoh 2019 not read.",
+    "Chen 2024 residual cells prevent attribution to host-only exclusion.",
+    "Chen 2024 Results/Methods do not settle paired versus unpaired lumen-test implementation; deposited code not inspected.",
+    "Neither full-main reading establishes evolutionary emergence of the filtering capacity.",
+    "Pass 18 reporting discrepancies and Pass 19 Brock full-text access gap remain unresolved."
+  ],
+  "claim_ids": [
+    "C234",
+    "C235",
+    "C236",
+    "C237",
+    "C238",
+    "C239",
+    "C240"
+  ],
+  "preserved_eerc_versions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

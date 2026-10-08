@@ -1,7 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
 **Research foundation date:** 2026-10-08  
-**Current stage:** Twentieth ALife research pass (2026-10-08) — **266** curated source records across **30** tracks, **120** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **49** full-paper/theory reviews (E2), **233** evidence-qualified claims, **46** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
+**Current stage:** Twenty-first ALife research pass (2026-10-08) — **269** curated source records across **30** tracks, **123** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **51** full-paper/theory reviews (E2), **240** evidence-qualified claims, **48** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 
 ## Mission
 Build a rigorous, source-backed knowledge base and executable experimental program for developing next-generation AI: language models, reasoning systems, world models, multimodal intelligence, agents, and alternatives to conventional LLM scaling.
@@ -49,6 +49,8 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 
 **Pass 20 — transmission provenance and benefit:** [Insect environmental-acquisition E2](docs/artificial-life/105-pass20-kikuchi-2007-environmental-acquisition-full-review.md) · [Clam egg/environment E2](docs/artificial-life/106-pass20-russell-2018-egg-and-environment-full-review.md) · [Evidence interpretation](docs/artificial-life/107-pass20-transmission-provenance-and-evidence.md) · [Current handoff](docs/artificial-life/108-pass20-research-handoff.md). Two independent host systems distinguish source of acquisition, presence and benefit; no new EERC version or scientific implementation.
 
+**Pass 21 — selective recruitment and priority:** [Entry-filter E2](docs/artificial-life/109-pass21-ohbayashi-2015-sorting-full-review.md) · [Competition E1 access boundary](docs/artificial-life/110-pass21-itoh-2019-source-boundary.md) · [Priority-effect E2](docs/artificial-life/111-pass21-chen-2024-priority-full-review.md) · [Synthesis](docs/artificial-life/112-pass21-selective-recruitment-and-priority.md) · [Current handoff](docs/artificial-life/113-pass21-research-handoff.md). Two complete main readings and one partial source; prior EERC versions preserved.
+
 ## Navigation
 - [Research strategy and model design](docs/01-research-strategy.md)
 - [Technical handbook](docs/02-technical-handbook.md)
@@ -57,7 +59,7 @@ Research into self-maintaining organizational processes, digital ecosystems, aut
 - [Evidence conventions](docs/05-evidence-standards.md)
 - [Private research source policy](docs/16-private-research-materials.md)
 - [AI field map](docs/22-ai-field-map.md) — cross-domain taxonomy
-- [Browse 266 source records](docs/19-paper-index.md)
+- [Browse 269 source records](docs/19-paper-index.md)
 - [Pass 4 research atlas](docs/29-pass4-index.md)
 - [Formal proof paper audit](docs/30-deepseek-prover-v2-review.md)
 - [Bayesian uncertainty and calibration](docs/31-bayesian-calibration.md)

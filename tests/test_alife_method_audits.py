@@ -33,8 +33,10 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
         cls.audits = load("data/alife/method-audits.jsonl")
         cls.claims = load("data/claims.jsonl")
 
-    def test_twelve_reviews_have_exact_source_and_depth(self):
-        self.assertEqual({x["paper_id"] for x in self.audits}, set(IDS))
+    def test_full_text_reviews_have_exact_source_and_depth(self):
+        audit_ids = [x["paper_id"] for x in self.audits]
+        self.assertEqual(len(audit_ids), len(set(audit_ids)))
+        self.assertTrue(set(IDS).issubset(set(audit_ids)))
         for a in self.audits:
             pid = a["paper_id"]
             p = self.papers[pid]
@@ -55,12 +57,14 @@ class ALifeFulltextEvidenceTests(unittest.TestCase):
             self.assertGreater(len(a["author_reported_results"]), 80)
             self.assertGreater(len(a["limitations"]), 75)
             self.assertTrue((ROOT / a["review_document"]).is_file())
-            self.assertIn(IDS[pid], a["review_document"])
+            if pid in IDS:
+                self.assertIn(IDS[pid], a["review_document"])
 
     def test_compendium_index_preserves_citation_evidence(self):
         index = (ROOT / "docs/19-paper-index.md").read_text(encoding="utf-8")
-        self.assertIn("197 curated research records", index)
-        self.assertIn("Fifteen detailed public-paper", index)
+        self.assertIn(f"{len(self.papers)} curated research records", index)
+        e2_count = sum(p["evidence_level"] == "E2" for p in self.papers.values())
+        self.assertIn(f"{e2_count} complete-primary E2 reviews", index)
         for pid in IDS:
             p = self.papers[pid]
             self.assertIn(f"[{p['title']}]({p['url']}) | E2 |", index)

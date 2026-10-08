@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 11 — 2026-10-08:** 214 curated records across 30 tracks, 22 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 11 — 2026-10-08:** 214 curated research records across 30 tracks, with 22 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 

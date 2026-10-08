@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 18 — 2026-10-08:** 261 curated research records across 30 tracks, with 45 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 19 — 2026-10-08:** 264 curated research records across 30 tracks, with 47 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -550,3 +550,13 @@ Current E2 promotions below supersede older E1 source-depth entries; historical 
 | 2023 | [Evolution of a cross-feeding interaction following a key innovation in a long-term evolution experiment with Escherichia coli](https://doi.org/10.1099/mic.0.001390) | E2 | AL11 |
 
 [Complete reviews and unresolved source discrepancies](artificial-life/99-pass18-research-handoff.md). No source experiment independently reproduced.
+
+## Pass 19 — descendant transmission and recruitment
+
+| Year | Publication | Evidence | Experiment |
+|---:|---|---|---|
+| 2011 | [Primitive agriculture in a social amoeba](https://doi.org/10.1038/nature09668) | E1 | AL11 |
+| 2015 | [Burkholderia bacteria infectiously induce the proto-farming symbiosis of Dictyostelium amoebae and food bacteria](https://doi.org/10.1073/pnas.1511878112) | E2 | AL11 |
+| 2019 | [Intracellular Burkholderia Symbionts induce extracellular secondary infections; driving diverse host outcomes that vary by genotype and environment](https://doi.org/10.1038/s41396-019-0419-7) | E2 | AL11 |
+
+[Pass 19 source boundaries and handoff](artificial-life/104-pass19-research-handoff.md). These are connected studies, not three independent origins.

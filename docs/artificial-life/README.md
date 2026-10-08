@@ -2,11 +2,17 @@
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
-## Latest completed research — Pass 18 (2026-10-08)
+## Latest completed research — Pass 19 (2026-10-08)
+
+**264** papers across **30** tracks; **118** ALife notes; **47** E2 complete-primary readings; **44** method receipts; **227** claims. Two new E2 sources and one E1 source, no independent scientific reproduction.
+
+[Current handoff](104-pass19-research-handoff.md) · [Transmission and recruitment synthesis](103-pass19-inheritance-through-recruitment-and-dispersal.md) · [Evidence ledger](../../data/alife/pass19-transmission-evidence.json). Next: quantitative separation of vertical transmission and environmental reacquisition in an independent host system.
+
+## Historical completed research — Pass 18 (2026-10-08)
 
 **261** curated papers across **30** tracks; **115** ALife notes; **45** E2 reviews across AI-Research; **42** ALife method receipts; **219** claims. Two E1→E2 promotions and one new E2 source; no independent scientific reproduction.
 
-[Current handoff](99-pass18-research-handoff.md) · [Relational continuity and reconstruction](98-pass18-relational-continuity-and-reconstruction.md) · [Evidence and reporting discrepancies](../../data/alife/pass18-relational-continuity-evidence.json). Next: primary evidence of transmission, dispersal and reconstruction in descendants. All seven existing EERC manifests remain unchanged.
+[Pass 18 handoff](99-pass18-research-handoff.md) · [Relational continuity and reconstruction](98-pass18-relational-continuity-and-reconstruction.md) · [Evidence and reporting discrepancies](../../data/alife/pass18-relational-continuity-evidence.json). Next: primary evidence of transmission, dispersal and reconstruction in descendants. All seven existing EERC manifests remain unchanged.
 
 ## Historical completed research — Pass 17 (2026-10-08)
 

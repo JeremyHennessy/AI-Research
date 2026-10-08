@@ -1,0 +1,57 @@
+{
+  "pass_number": 19,
+  "reviewed_at": "2026-10-08",
+  "baseline_commit": "472ab24ca6d7e3411c9686500d5981e80f84fa05",
+  "status": "research_only",
+  "studies": [
+    {
+      "paper_id": "doi:10.1038/nature09668",
+      "evidence_level": "E1",
+      "source_url": "https://www.nature.com/articles/nature09668",
+      "review_document": "docs/artificial-life/100-pass19-brock-2011-source-boundary.md",
+      "summary": "The primary abstract reports bacterial carriage during amoeba spore dispersal with benefits conditional on food availability at the destination.",
+      "caveat": "Publisher access exposed the abstract and figure titles, not the complete article or methods. Later causal studies revise a host-only interpretation; this record remains E1."
+    },
+    {
+      "paper_id": "doi:10.1073/pnas.1511878112",
+      "evidence_level": "E2",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4568666/",
+      "review_document": "docs/artificial-life/101-pass19-disalvo-2015-transmitted-carriage-full-review.md",
+      "summary": "Symbiont acquisition and removal change food-carriage phenotypes; carriage persists through four subsequent social cycles without fresh symbiont addition, with conditional reproductive benefits.",
+      "caveat": "Transfers use pooled spores and renewed food bacteria, allowing mixed transmission and reacquisition. Stock history overlaps the earlier research program; single-spore inheritance is not guaranteed."
+    },
+    {
+      "paper_id": "doi:10.1038/s41396-019-0419-7",
+      "evidence_level": "E2",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6776111/",
+      "review_document": "docs/artificial-life/102-pass19-khojandi-2019-propagule-context-full-review.md",
+      "summary": "Food carriage is predominantly extracellular; downstream fruiting after transfer depends on symbiont identity and dispersal geometry, and carriage does not uniformly improve host reproduction.",
+      "caveat": "All experiments use one host clone, with repeated assays nested within it. Transferred sori are mixed propagules; conditional plot denominators and host costs prevent equating bacterial presence with reproductive success."
+    }
+  ],
+  "independence": {
+    "program": "Connected amoeba farming research program; publications are not independent origins.",
+    "2015": "Multiple host clones and bacterial isolates; stock collections overlap preceding studies.",
+    "2019": "One host clone; multiple bacterial strains and nested assays.",
+    "negative_comparator": "Giger 2024 previously reviewed, distinct fungal system and imposed pairing; not a matched comparison or new record."
+  },
+  "transmission_routes": [
+    "direct component inheritance",
+    "ecological carryover",
+    "recurrent recruitment"
+  ],
+  "required_denominators": [
+    "all starting propagules",
+    "viable descendants",
+    "partner-positive descendants",
+    "function-positive descendants"
+  ],
+  "outstanding": [
+    "Brock 2011 complete main paper and online methods unavailable in this pass",
+    "Mixed horizontal and vertical contributions not quantitatively resolved by these reviews",
+    "Pass 18 source denominator and legend discrepancies remain unresolved"
+  ],
+  "organism_implemented": false,
+  "source_code_executed": false,
+  "independently_reproduced": false
+}

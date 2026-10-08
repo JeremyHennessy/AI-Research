@@ -1,6 +1,8 @@
 # Artificial-life primary source bibliography (first systematic map)
 **Cutoff:** 2026-10-08. This is a **selected**, manually screened literature pass—not a scrape of every database. Publication metadata/abstract = E1; reading complete public methodology and limitations = E2; neither means independently reproduced. A full-paper review of [Taylor 2015](https://www.tim-taylor.com/papers/taylor2015requirements.web.html) supports E2 classification for that theoretical article; the Liu–Sumpter (2018), Flow-Lenia (2025), PBT-NCA (2026), ToLSim (2026), original Outlier (2025) and independent Hintze/Bohm (2026), **Physis 2003, Stringmol 2016, 2017 semantic closure, and Stepney 2025** detailed public methods are now E2. Remaining ALife sources, including ALIFE 2026 short abstracts, are E1 pending full-text method review. **E2 is a reading-depth label, not a reproduction.**
 
+**Pass 19 depth:** DiSalvo 2015 and Khojandi 2019 complete main-primary E2 readings; Brock 2011 remains E1 because full methods were not available. Three new records from a connected research program. [Transmission ledger](../../data/alife/pass19-transmission-evidence.json).
+
 **Pass 18 research depth:** two existing sources (Pauli 2022 and Melero-Jiménez 2025) promoted to complete-primary E2 and one new E2 source (Turner 2023). Older E1 claims preserve their original reading depth. [Relational evidence and unresolved reporting discrepancies](../../data/alife/pass18-relational-continuity-evidence.json). This current-depth update supersedes historical E1 labels for those two publications.
 
 **Pass 17 research depth:** six new distinct primary publications (three E2 complete-primary main article readings and three E1 selected-source readings), with EERC-C proposed as an **untested** scientific comparison. Physically possible routes, morphological expression, ecological viability and independent inheritance are separate outcomes. Historical source counts are verified by schema tests, not laboratory reproduction. [Pass 17 evidence map](../../data/alife/pass17-counterfactual-pathways-evidence.json).
@@ -271,3 +273,9 @@ The [author listing](https://www-users.york.ac.uk/~ss44/bib/ss/nonstd/alife26-la
 - **Turner, Blount, Mitchell & Lenski (2023)**, [Evolution of a cross-feeding interaction following a key innovation in a long-term evolution experiment with Escherichia coli](https://doi.org/10.1099/mic.0.001390). New **E2** publication, one historical LTEE population. Measured resource production and context-dependent consumer fitness; disputed Figure 6 legend retained as unresolved. [Full review](97-pass18-turner-2023-constructed-opportunity-full-review.md).
 
 [Pass 18 synthesis](98-pass18-relational-continuity-and-reconstruction.md) · [Current handoff](99-pass18-research-handoff.md). No supplements/data independently recomputed, code executed, or digital organism implemented.
+
+## XX. Nineteenth-pass sources — transmission and recruitment
+
+- **Debra A. Brock et al. (2011)**, [Primitive agriculture in a social amoeba](https://doi.org/10.1038/nature09668). **E1**. [Review and access boundary](100-pass19-brock-2011-source-boundary.md).
+- **Susanne DiSalvo et al. (2015)**, [Burkholderia bacteria infectiously induce the proto-farming symbiosis of Dictyostelium amoebae and food bacteria](https://doi.org/10.1073/pnas.1511878112). **E2**. [Review and access boundary](101-pass19-disalvo-2015-transmitted-carriage-full-review.md).
+- **Niloufar Khojandi et al. (2019)**, [Intracellular Burkholderia Symbionts induce extracellular secondary infections; driving diverse host outcomes that vary by genotype and environment](https://doi.org/10.1038/s41396-019-0419-7). **E2**. [Review and access boundary](102-pass19-khojandi-2019-propagule-context-full-review.md).

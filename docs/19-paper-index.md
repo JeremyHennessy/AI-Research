@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Pass 4 — 2026-10-08.** 176 curated research records across 30 research tracks. Two detailed paper reviews (E2, one formal and one ALife theoretical synthesis); no independent model replication.
+**Pass 4 — 2026-10-08.** 183 curated research records across 30 research tracks. Three detailed paper reviews (E2: formal proof, ALife theory, and chemical self-replication); no independent model replication.
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -333,5 +333,19 @@ This section is additive. Sources already indexed elsewhere are cross-linked rat
 | 2015 | [Illuminating search spaces by mapping elites](https://arxiv.org/abs/1504.04909) | E1 | AL08 |
 | 2011 | [Abandoning objectives: evolution through the search for novelty alone](https://doi.org/10.1162/EVCO_a_00025) | E1 | AL08 |
 | 2002 | [Open-Ended Artificial Evolution](https://arxiv.org/abs/nlin/0210027) | E1 | AL04 |
+
+## Artificial Life — Second research pass (2026-10-08)
+
+Deep source audit: [Liu and Sumpter chemistry full paper review](artificial-life/12-chemical-replication-full-review.md). Public implementation inventory: [Flow-Lenia/PBT/chemistry source-code audit](artificial-life/13-implementation-source-audit.md). Additional negative results: [2025–2026 counterevidence](artificial-life/14-negative-results-and-measurement-disagreements.md).
+
+| Year | New source | Evidence | Proposed future experiment |
+|---:|---|---|---|
+| 2026 | [A speciation simulation that partly passes open-endedness tests](https://arxiv.org/abs/2603.01701) | E1 | AL04 |
+| 2026 | [Visualising the Attractor Landscape of Neural Cellular Automata](https://doi.org/10.1162/ISAL.a.952) | E1 | AL07 |
+| 2025 | [Self-Reproduction and Evolution in Cellular Automata: 25 Years After Evoloops](https://doi.org/10.1162/artl_a_00451) | E1 | AL02 |
+| 2020 | [An Investigation into the Origin of Autopoiesis](https://doi.org/10.1162/artl_a_00307) | E1 | AL07 |
+| 2022 | [Self-Replication in Neural Networks](https://doi.org/10.1162/artl_a_00359) | E1 | AL02 |
+| 2001 | [The molecular roots of compositional inheritance](https://doi.org/10.1006/jtbi.2001.2440) | E1 | AL02 |
+| 2025 | [Survival and Evolutionary Adaptation of Populations Under Disruptive Habitat Change: A Study With Darwinian Cellular Automata](https://doi.org/10.1162/artl_a_00457) | E1 | AL03 |
 
 E1: public primary abstract or official release checked, not full-paper replication. E2: documented whole-paper methods/evaluation review; E3: demands independent reproduction. None E3 here.

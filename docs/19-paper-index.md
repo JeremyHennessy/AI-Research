@@ -1,6 +1,6 @@
 # Research catalog index
 
-**Catalog updated in Pass 11 — 2026-10-08:** 214 curated research records across 30 tracks, with 22 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
+**Catalog updated in Pass 12 — 2026-10-08:** 223 curated research records across 30 tracks, with 23 complete-primary E2 reviews, zero E3 independently reproduced. Legacy per-track tables preserve the Pass 4 snapshot; new Pass 10 and Pass 11 records have separate addenda below. For canonical machine-readable current records use [data/papers.jsonl](../data/papers.jsonl).
 
 [Research atlas](29-pass4-index.md) · [Artificial-life special initiative](artificial-life/README.md) · [DeepSeek-Prover-V2 audited correction](30-deepseek-prover-v2-review.md) · [Contradictions](35-research-disagreements.md)
 
@@ -432,3 +432,21 @@ These eight sources are **separately recorded** in the [canonical source catalog
 | 2017 | [The evolution of host-symbiont dependence](https://doi.org/10.1038/ncomms15973) | E2 | 106 literature pairings, correlated transmission and host dependency, phylogeny confounds |
 
 [New EERC falsifiable scientific path](artificial-life/53-pass11-new-path-ecological-reproductive-closure.md) · [EERC hypothesis manifest](../data/alife/combined-path-eerc-v1.json) · [Pass 11 handoff](artificial-life/54-pass11-research-handoff.md).
+
+## Pass 12 — nine non-neural memory research sources
+
+The titles below are newly catalogued, with one E2 full-main review and eight E1 source/selected methods. An E1 preprint does not imply independent reproduction or clinical validity. Historical per-track tables above are preserved as snapshots.
+
+| Year | Primary source | Evidence | Proposed future test |
+|---:|---|---|---|
+| 2026 | [Molecular pathways for learning in the single-cell Stentor coeruleus](https://doi.org/10.1016/j.cub.2026.03.080) | E1 | AL11 |
+| 2022 | [Single-cell analysis of habituation in Stentor coeruleus](https://doi.org/10.1016/j.cub.2022.11.010) | E1 | AL11 |
+| 2025 | [A receptor-inactivation model for single-celled habituation in Stentor coeruleus](https://doi.org/10.1016/j.cub.2025.05.071) | E1 | AL11 |
+| 2026 | [Single-cell learning in Stentor coeruleus is governed by a fractional-order low-pass filter](https://doi.org/10.64898/2026.06.06.730631) | E1 | AL11 |
+| 2016 | [Habituation in non-neural organisms: evidence from slime moulds](https://doi.org/10.1098/rspb.2016.0446) | E1 | AL11 |
+| 2016 | [Direct transfer of learned behaviour via cell fusion in non-neural organisms](https://doi.org/10.1098/rspb.2016.2382) | E2 | AL11 |
+| 2021 | [Encoding memory in tube diameter hierarchy of living flow network](https://doi.org/10.1073/pnas.2007815118) | E1 | AL11 |
+| 2008 | [Predictive behavior within microbial genetic networks](https://doi.org/10.1126/science.1154456) | E1 | AL11 |
+| 2009 | [Adaptive prediction of environmental changes by microorganisms](https://doi.org/10.1038/nature08112) | E1 | AL11 |
+
+[2016 Physarum fusion full review](artificial-life/56-pass12-physarum-fusion-memory-complete-review.md) · [Stentor mechanistic limitations](artificial-life/55-pass12-stentor-molecular-memory-and-daughters.md) · [EERC history hypothesis](artificial-life/58-pass12-eerc-history-conditioned-organization.md) · [Pass 12 continuation](artificial-life/59-pass12-research-handoff.md).

@@ -48,7 +48,7 @@ class ArtificialLifeResearchTests(unittest.TestCase):
     def test_hypotheses_come_with_falsifiers(self):
         ids = set()
         proposal_ids = {e["id"] for e in self.proposals}
-        self.assertEqual(len(self.hypotheses), 12)
+        self.assertEqual(len(self.hypotheses), 15)
         for hypothesis in self.hypotheses:
             hid = hypothesis["id"]
             self.assertNotIn(hid, ids)
@@ -64,7 +64,7 @@ class ArtificialLifeResearchTests(unittest.TestCase):
 
     def test_future_experiments_require_separate_authorization(self):
         self.assertEqual({x["id"] for x in self.proposals},
-                         {f"AL{i:02d}" for i in range(1, 9)})
+                         {f"AL{i:02d}" for i in range(1, 12)})
         for proposal in self.proposals:
             self.assertTrue(proposal["future_authorization_required"])
             self.assertTrue(proposal["preregistration_required"])

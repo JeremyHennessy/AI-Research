@@ -75,6 +75,16 @@ Keep these alternatives independent through R2. Don't automatically choose an LL
 ## Crosswalk: structured future-only experiment designs
 The eight `AL01`–`AL08` research plans are **metadata-only**, registered in [data/alife/experiment-designs.jsonl](../../data/alife/experiment-designs.jsonl) with an explicit separate authorization gate. They cover maintenance/chemical organizational closure (AL01), heritable lineage (AL02), ecological resource exchange (AL03), functional evolutionary novelty (AL04), sensing selection (AL05), major transitions (AL06), independent organism identity tracking (AL07), and visual-vs-functional novelty (AL08). Falsifiable hypotheses are in [data/alife/hypotheses.jsonl](../../data/alife/hypotheses.jsonl). No simulation implementation accompanies those records.
 
+## Research-only continuation: future AL09–AL11 proposals
+
+The initial **AL01–AL08** designs remain unchanged. The three new entries in [the existing experiment registry](../../data/alife/experiment-designs.jsonl) are **additive, not authorized implementations**:
+
+- **AL09:** test distributed parent-to-independent-child causality against glider/oscillator and connected-component false positives, using archival references. See [Outlier E2 follow-up](21-outlier-causal-selfhood-2026.md).
+- **AL10:** test endogenous, inherited changes to program-language semantics against fixed language, random interpreter corruption, and external upgrades. [2026 Physis claim](22-engineering-life-and-transformational-novelty.md) is an E1 research lead.
+- **AL11:** validate distinct autopoiesis/agency/open-ended-adaptation assays under matched resource constraints and researcher-imposed reward/repair null controls, without creating one universal life score. See [protocol](23-unified-organism-evidence-standard.md).
+
+The registry therefore tracks **eleven future-only experiment proposals** and **fifteen original untested hypotheses**, none of which has authorization to run. Future numerical simulation needs separate user approval.
+
 ## What is appropriate **today**
 Library/scholarship work: collect and evaluate sources; identify open papers and code; write original technical designs, no executable organism; prepare preregistration templates and benchmark schemas; document falsifiable alternatives and limitations; validate catalog/links and report the exact GitHub commit.
 

@@ -45,7 +45,7 @@ class ALifeOperationalProtocolTests(unittest.TestCase):
 
     def test_separate_project_requires_permission(self):
         designs = [json.loads(s) for s in (ROOT/"data/alife/experiment-designs.jsonl").read_text().splitlines() if s]
-        self.assertEqual(len(designs),8)
+        self.assertEqual(len(designs),11)
         for design in designs:
             self.assertTrue(design["future_authorization_required"])
             self.assertEqual(design["implementation_status"], "not_authorized")

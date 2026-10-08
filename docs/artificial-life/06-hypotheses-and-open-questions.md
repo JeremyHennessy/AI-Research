@@ -46,3 +46,13 @@ These hypotheses do **not** imply all proposed features should be built together
 For each hypothesis pre-register a *null* outcome and a critical ablation, then evaluate across at least two substrates if feasible. If two substrates disagree, preserve separate results rather than averaging them into a general life claim.
 
 Cross-links: [experiment stages](07-experimental-roadmap.md), [architectures](03-architecture-comparison.md), [emergence limits](04-emergence-bottlenecks.md).
+
+## New literature-review hypotheses (H13–H15, appended without altering H01–H12)
+
+The original twelve hypotheses remain intact. Three additional **untested** hypotheses were added after the Outlier causal-lineage and Stepney/automata-chemistry research pass:
+
+- **AL-H13 distributed causal individuality:** branching causal lineages need not be connected shapes, but lineage detection must reject oscillators, translating gliders and glider-gun lookalikes. [Original and follow-up E2 reviews](21-outlier-causal-selfhood-2026.md) and [future AL09 design](../../data/alife/experiment-designs.jsonl).
+- **AL-H14 evolving interpreter semantics:** inherited changes to the computational language, not merely program source text, may permit useful new functions beyond fixed-instruction substrates. Requires random-opcode and external-upgrade controls; [2026 late abstract](22-engineering-life-and-transformational-novelty.md) remains E1 and exploratory.
+- **AL-H15 independent engineering requirements:** causal maintenance, prospective viability regulation and continuing functional novelty should be evaluated separately. See [Stepney conceptual framework](22-engineering-life-and-transformational-novelty.md) and [operational test registry](../../data/alife/operational-tests.json).
+
+The [hypothesis registry](../../data/alife/hypotheses.jsonl) now has 15 records. **No new organism, simulation or learned model was implemented or approved.**

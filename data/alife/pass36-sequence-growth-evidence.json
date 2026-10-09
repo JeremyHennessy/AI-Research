@@ -1,0 +1,58 @@
+{
+  "pass_number": 36,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "5a3be2398ccc86162b30762d304f20f12badf31e",
+  "review_path": "docs/artificial-life/129-pass36-sequence-growth-and-division-closure.md",
+  "question": "Does partial DNA-driven droplet growth, peptide-dependent membrane growth, or lipid flip-flop division establish inherited unassisted genotype-plus-compartment reproductive closure?",
+  "sources": [
+    {
+      "doi": "10.1038/s41467-025-56172-7",
+      "year": 2025,
+      "authors": "Minagawa et al.",
+      "grade": "E2-depth indexed main material; publisher direct-open gated, supplements not independently analyzed",
+      "positive": "internal DNA amplification coupled to droplet growth",
+      "limits": "10-fold growth in nonexpressed amplification conditions distinct from 1.8-fold recursive TXTL; no measured daughter division",
+      "independent_replication": false,
+      "rights": "Open-access publication; no third-party materials reproduced"
+    },
+    {
+      "doi": "10.1038/s42004-026-02043-1",
+      "year": 2026,
+      "authors": "Baba et al.",
+      "grade": "E2 indexed full original main text; no raw/supplement reanalysis",
+      "positive": "peptide-sequence growth effect with epistasis",
+      "limits": "externally prepared peptides, no inherited peptide replication or division",
+      "independent_replication": false,
+      "rights": "CC BY 4.0 primary article, third-party exceptions"
+    },
+    {
+      "doi": "10.1021/acsnano.6c03241",
+      "year": 2026,
+      "authors": "Lira et al.",
+      "grade": "E1 indexed publisher bibliography/high-level only",
+      "positive": "published topic membrane flip-flop growth and division",
+      "limits": "full method, control/failure denominators and genotype heredity unverified",
+      "independent_replication": false,
+      "rights": "copyright publisher page seen; license details not independently established"
+    }
+  ],
+  "future_only_hypotheses": [
+    "P36-H1",
+    "P36-H2",
+    "P36-H3"
+  ],
+  "scientific_experiments_performed": 0,
+  "simulations_executed": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "append_only_history": true
+}

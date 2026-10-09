@@ -1,0 +1,111 @@
+{
+  "pass_number": 33,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "79e27cc312e34fe4198746a8dc8887883c9a3603",
+  "review_path": "docs/artificial-life/126-pass33-predation-continuous-culture-and-closure.md",
+  "central_question": "Does continuous production of heritably stable colonial offspring without manual serial selection demonstrate independent daughter establishment after all reproductive intervention and habitat rescue ends?",
+  "sources": [
+    {
+      "doi": "10.1023/A:1006527528063",
+      "authors": "Boraas, Seale & Boxhorn",
+      "year": 1998,
+      "grade_of_this_review": "E2 main text from author-uploaded original; original figures/raw records not checked",
+      "canonical_grade_unchanged": true,
+      "rights": "Publisher reuse terms not established; ResearchGate author upload flagged copyright; paraphrase only",
+      "organism": "Chlorella vulgaris and Ochromonas vallescia",
+      "experiment_unit": "chemostat culture; replication reported about 70% but exact number not provided",
+      "positive": "predator selection yielded stable ~eight-celled photosynthetic colonies; budding parent colonies released new daughter colonies; colonies maintained in light in continuous or monospecific culture",
+      "negative": "small colonies predation-prone; darkness causes stage-two washout; entire ecology requires pump, nutrient reservoir, light and habitat",
+      "supports": [
+        "reproducing clonal/colonial phenotype",
+        "continuous chemostat population without manually selected transfer every generation"
+      ],
+      "does_not_support": [
+        "independent daughter colonization of unprepared sites",
+        "complete counted founder-lineage independence",
+        "unassisted ecological closure"
+      ]
+    },
+    {
+      "doi": "10.1038/s41598-019-39558-8",
+      "authors": "Herron et al.",
+      "year": 2019,
+      "grade_of_this_review": "E2 full main Methods Results Discussion",
+      "historical_catalog_evidence_grade": "E1; unchanged pending separate catalog reconciliation",
+      "rights": "CC BY 4.0 main article; third-party/supplementary rights not independently checked",
+      "organism": "Chlamydomonas reinhardtii and Paramecium tetraurelia",
+      "experiment_unit": "five predator-exposed lines vs three controls, shared F1 starting cross; multiple isolates nested in two successful lines",
+      "positive": "2/5 evolved multicellular characteristics, stable for four years in maintained predator-free culture; clonally derived multicellular propagules observed for some isolates, predator-defense assay beneficial",
+      "negative": "3/5 predator lines did not establish stable multicellular histories; some isolates from successful lines remained unicellular; some colonies gathered unattached swim cells",
+      "supports": [
+        "heritable morphology after predator withdrawal",
+        "physical parent-to-daughter propagules in defined culture"
+      ],
+      "does_not_support": [
+        "four years without laboratory maintenance",
+        "founder-independent unassisted daughter settlement",
+        "independent replication of overlapping 2025 Chen group"
+      ]
+    },
+    {
+      "doi": "10.1111/jeb.12804",
+      "authors": "Fisher, Bell & West",
+      "year": 2016,
+      "online_year": 2015,
+      "grade_of_this_review": "E2 free-access original Methods Results Discussion",
+      "rights": "Free publisher access, CC license not established; Dryad data not reanalysed",
+      "organism": "Chlorella vulgaris and Tetrahymena thermophila",
+      "experiment_unit": "15 separately destructively sampled microcosms per treatment over five days; no independent evolved origins",
+      "positive": "live predators and filtered supernatant induce algal grouping, more intense with predator density",
+      "negative": "predator-exposed and control groups not distinguishable by individually tested day-20 contrasts, after predators decreased; direct demonstration of inherited life cycle absent",
+      "caveat": "Rapid evolutionary sorting after predator loss not excluded by authors; overall day-20 F test significant despite individual contrasts non-significant; fresh medium transferred on day 10",
+      "supports": [
+        "lab predator-responsive population phenotype"
+      ],
+      "does_not_support": [
+        "stable evolved heritable group-level individuality",
+        "failed replication of Boraas under same protocol"
+      ]
+    }
+  ],
+  "prior_canonical_comparator": {
+    "doi": "10.1093/gbe/evaf090",
+    "authors": "Chen et al. 2025",
+    "review_path": "docs/artificial-life/46-pass10-chlamydomonas-ancestry-2025-full-review.md",
+    "status": "already E2; no duplicate review",
+    "negative": "0/12 settling-selected groups had stable heritable multicellularity compared with 4/12 predator-selected; two inferred founders, overlapping Herron methods/network"
+  },
+  "study_independence": "Boraas, Herron and Fisher use distinct experimental programs, predator taxa, habitat scales and times; not directly pooled independent replications of one closure proposition; Chen 2025 shares some researcher lineage with Herron 2019.",
+  "falsifiable_future_only_hypotheses": [
+    {
+      "id": "P33-H1",
+      "status": "untested",
+      "topic": "continuous budding in chemostat versus daughter settlement without re-seeding"
+    },
+    {
+      "id": "P33-H2",
+      "status": "untested",
+      "topic": "heritable phenotype stability versus independently established descendants"
+    },
+    {
+      "id": "P33-H3",
+      "status": "untested",
+      "topic": "predator-cue induction and evolution can be confused"
+    }
+  ],
+  "experiments_performed": 0,
+  "simulations_performed": 0,
+  "independent_replications": 0,
+  "source_paper_claim_metadata_unchanged": true,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

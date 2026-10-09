@@ -1,0 +1,85 @@
+{
+  "pass": 37,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "base_main": "1a7d572d5f11b064478de1321502a7a7366f8a67",
+  "branch": "research/pass37-consciousness-theory-tests-vs-machine-inference-20261009",
+  "question": "Which preregistered biological consciousness theory tests could justify transfer to nonbiological systems without subjective-experience ground truth?",
+  "review_path": "docs/artificial-life/130-pass37-consciousness-tests-and-machine-inference-boundaries.md",
+  "sources": [
+    {
+      "doi": "10.1038/s41586-025-08888-1",
+      "year": 2025,
+      "publication_date": "2025-04-30",
+      "authors": "Cogitate Consortium; Ferrante et al.",
+      "primary_type": "preregistered adversarial multimodal human neuroscience study",
+      "grade": "E2 primary main Methods/Results/Discussion; supplements/raw not independently reanalyzed",
+      "units": {
+        "participants": 256,
+        "fMRI": 120,
+        "MEG": 102,
+        "iEEG": 34
+      },
+      "positive": "Some sustained occipitotemporal representations and frontal–early-visual content synchronization",
+      "negative": "Specific posterior sustained synchrony and PFC offset-ignition predictions challenged",
+      "limits": "One coordinated experiment, suprathreshold task; cortical implementation tests, not AI subjective ground truth",
+      "license": "CC BY 4.0 with third-party exceptions",
+      "primary_url": "https://www.nature.com/articles/s41586-025-08888-1",
+      "independent_replication_of_other_pass37_studies": false
+    },
+    {
+      "doi": "10.1093/cercor/bhae415",
+      "year": 2024,
+      "publication_date": "2024-11-13",
+      "authors": "Cohen, Dembski et al.",
+      "primary_type": "Masked-visual EEG report versus no-report study",
+      "grade": "E2 original main Methods/Results/Discussion; OSF raw/analyses not rerun",
+      "units": {
+        "recruited": 56,
+        "initial_optimization": 15,
+        "technical_exclusions": 8,
+        "criteria_exclusions": 8,
+        "confirmatory_n": 25,
+        "exploratory_combined_n": 40
+      },
+      "positive": "Fronto-central N2 250–290 ms bifurcation in no-report condition",
+      "negative": "P3b more report-sensitive; N170 did not clearly bifurcate",
+      "limits": "No no-report trialwise subjective labels; covert judgments possible; sample size and mask subtraction constraints",
+      "license": "CC BY-NC 4.0; original paraphrase only",
+      "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11558846/",
+      "independent_replication_of_other_pass37_studies": false
+    },
+    {
+      "doi": "10.1038/s41562-025-02381-5",
+      "year": 2026,
+      "publication_date": "2026-01-28",
+      "authors": "Luppi, Uhrig, Tasserie et al.",
+      "primary_type": "Four-species fMRI anaesthesia/integration study with original model analyses",
+      "grade": "E2 original main Results/Methods/Discussion; underlying data, supplements and models not rerun",
+      "units": {
+        "human_n": 15,
+        "macaque_runs_per_condition": "11–24 scans from 2–3 animals",
+        "marmoset": "48 scans from four animals per condition"
+      },
+      "positive": "Phi_R generally declined under anaesthesia and responded to thalamic stimulation in macaques",
+      "negative": "Older Phi_2008 was unchanged or increased under some anaesthetics and species",
+      "limits": "Unresponsiveness not direct consciousness absence; fMRI physiology, pairwise approximation, nested runs and model assumptions",
+      "license": "CC BY 4.0 with credited third-party exclusions",
+      "primary_url": "https://www.nature.com/articles/s41562-025-02381-5",
+      "independent_replication_of_other_pass37_studies": false
+    }
+  ],
+  "hypotheses_future_only": [
+    "P37-H1",
+    "P37-H2",
+    "P37-H3"
+  ],
+  "scientific_experiments_performed": 0,
+  "models_created_or_executed": 0,
+  "simulations_executed": 0,
+  "organisms_affected": 0,
+  "paper_source_claim_catalog_changed": false,
+  "EERC_v1_to_v7_changed": false,
+  "previous_log_edited": false,
+  "copyright": "Original critical paraphrase and DOI links only; no publisher media, original full text or raw experimental data reproduced."
+}

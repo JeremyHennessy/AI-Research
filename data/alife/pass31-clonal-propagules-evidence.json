@@ -1,0 +1,46 @@
+{
+  "pass_number": 31,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "a92686234f890f15e1fe1a56a31d2e7adb8e4276",
+  "review_path": "docs/artificial-life/124-pass31-clonal-propagules-and-selection-withdrawal.md",
+  "sources": [
+    {
+      "doi": "10.1073/pnas.1115323109",
+      "year": 2012,
+      "authors": "Ratcliff et al.",
+      "grade": "E2 main text",
+      "positive": "clonal daughter clusters produced; three lines from one source population stable through 35 manual no-settling transfers",
+      "negative": "still investigator-managed transfers; stability lines nested in one founder; no unassisted ecological establishment",
+      "rights": "openly accessible; third-party redistribution not checked",
+      "independence": "same research lineage as 2023 snowflake yeast"
+    },
+    {
+      "doi": "10.1038/s41586-023-06052-1",
+      "year": 2023,
+      "authors": "Bozdag et al.",
+      "grade": "E2 main text",
+      "positive": "five of five anaerobic populations evolved macroscopic multicellularity and retained clonal propagules",
+      "negative": "ten aerobic/mixotrophic populations remained microscopic; 600 rounds of manual size selection; no complete withdrawal",
+      "rights": "public author manuscript; code/figures not redistributed",
+      "independence": "preexisting snowflake yeast; same research family as 2012"
+    }
+  ],
+  "hypotheses": [
+    "P31-H1",
+    "P31-H2",
+    "P31-H3"
+  ],
+  "experiments_performed": 0,
+  "independent_reproductions": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "pass_number": 25,
+  "date": "2026-10-08",
+  "starting_main": "2e37f8852f9a315d90cbdba77f8cefde7d1bf0fb",
+  "source": {
+    "doi": "10.1038/s41564-022-01179-9",
+    "title": "Single mutation makes Escherichia coli an insect mutualist",
+    "year": 2022,
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9352592/",
+    "license": "CC BY 4.0 main article, third-party exceptions",
+    "reading_scope": "Full primary main Results, Discussion, Methods and figure captions; supplements and deposited raw data not audited",
+    "evidence": "E2 main-text reading only, no E3 replication"
+  },
+  "study_independence": {
+    "hypermutator_growth_lines": 7,
+    "hypermutator_colour_lines": 12,
+    "control_growth_lines": 7,
+    "control_colour_lines": 11,
+    "host_genetic_background": "single inbred host stock",
+    "dependent_followup": "Sugiyama et al. 2024 DOI 10.1128/mbio.01342-24"
+  },
+  "intervention": {
+    "selection": "researcher chose earliest or greenest adult",
+    "passage": "dissected female gut organ and researcher oral inoculation of sterilized hatchlings",
+    "rescue": "frozen bacterial stocks used after stochastic extinctions",
+    "independent_joint_lineage_reproduction_tested": false
+  },
+  "observations": {
+    "initial_E_coli_adult_emergence": "about 5-10%",
+    "native_symbiont_adult_emergence": "over 70%",
+    "aposymbiotic_emergence": "0%",
+    "selected_improvements": [
+      "CmL05 around generation 7",
+      "GmL07 around generation 2"
+    ],
+    "causal_tests": [
+      "ΔcyaA reconstruction",
+      "crp point substitution",
+      "crp revertant"
+    ],
+    "partial_vertical_transfer": "egg-surface transfer seen before evolved improved phenotype, unstable"
+  },
+  "negative_cases": [
+    "many lines not improved",
+    "stochastic line extinctions and stock restarts",
+    "reconstructed mutants differ in bacterial titre",
+    "native symbiont retains CCR"
+  ],
+  "counterhypotheses": [
+    "pre-existing host gut compatibility",
+    "CCR energy cost in nutrient-limited gut is plausible but not proven",
+    "adult emergence need not measure lifetime reproductive fitness"
+  ],
+  "independent_reproduction_demonstrated": false,
+  "source_data_downloaded": false,
+  "scientific_experiment_reproduced": false,
+  "canonical_catalog_changed": false,
+  "EERC_versions_preserved": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_path": "docs/artificial-life/117-pass25-koga-2022-mutualism-vs-lineage-autonomy.md"
+}

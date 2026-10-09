@@ -1,0 +1,95 @@
+{
+  "pass_number": 29,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "bfbd53c7b9ad92e03f15f3d31a133337b19ad8de",
+  "review_path": "docs/artificial-life/122-pass29-transmission-fitness-and-partner-supply-primary-review.md",
+  "sources": [
+    {
+      "doi": "10.1128/AEM.71.12.7987-7994.2005",
+      "authors": "Russell & Moran",
+      "year": 2005,
+      "evidence_grade": "E2 main text",
+      "access": "publisher full Methods Results Discussion tables",
+      "rights": "publisher rights not independently established; no redistribution",
+      "founder_intervention": "hemolymph injection",
+      "units": "multiple recipient founders; offspring and generations nested; fitness in clone 5A",
+      "positive": "Arsenophonus transmission observed through F2/F3, individual lines maintained >20 generations",
+      "negative": "2/5 Arsenophonus F2-F3 lineages incomplete; transferred Regiella from M. euphorbiae nearly failed after F1; Arsenophonus mean relative growth rate 9-13% lower",
+      "limits": [
+        "artificially introduced preexisting symbionts",
+        "no observed origin of transmission machinery",
+        "not complete founder lifetime fitness",
+        "PCR not direct function assay",
+        "inoculum titer alternative"
+      ]
+    },
+    {
+      "doi": "10.1002/evl3.223",
+      "authors": "Hoang, Gerardo & Morran",
+      "year": 2021,
+      "evidence_grade": "E2 main text",
+      "access": "publisher full Methods Results Discussion figures",
+      "rights": "CC BY 4.0 main article, supplementary rights not independently assessed",
+      "founder_intervention": "repeated external bacterial feeding; host experimental evolution",
+      "units": "five populations per four treatment combinations; technical plates nested",
+      "positive": "contextual evolved host fecundity benefit under heat stress on B. subtilis",
+      "negative": "no extra bacterial-history benefit when assayed on E. coli; no treatment-history fitness difference without heat shock",
+      "limits": [
+        "external partner resupply",
+        "bacterium did not evolve",
+        "not demonstrated daughter partner inheritance",
+        "food versus protective-partner ambiguity",
+        "single pooled host ancestor"
+      ]
+    },
+    {
+      "doi": "10.1038/ismej.2013.24",
+      "authors": "Guan et al.",
+      "year": 2013,
+      "evidence_grade": "E1 publisher abstract only",
+      "access": "publisher subscription preview; full Methods/Results not accessible",
+      "rights": "publisher permissions and supplements not checked",
+      "founder_intervention": "previously engineered nodulation; investigator serial coculture",
+      "units": "three reported derived lineages",
+      "positive": "authors report intracellular infection capacity acquired",
+      "negative": "does not establish unassisted joint lineage reproduction",
+      "limits": [
+        "abstract only",
+        "not independent of 2010 precursor program",
+        "no E2 promotion",
+        "no primary data reanalysis"
+      ]
+    }
+  ],
+  "study_independence": "three distinct biological systems; not replications of same experimental treatment",
+  "falsifiable_hypotheses": [
+    {
+      "id": "P29-H1",
+      "status": "untested",
+      "question": "maternal transmission versus host fitness"
+    },
+    {
+      "id": "P29-H2",
+      "status": "untested",
+      "question": "resupply versus autonomous partner inheritance"
+    },
+    {
+      "id": "P29-H3",
+      "status": "untested",
+      "question": "occupancy versus evolved reproductive interface"
+    }
+  ],
+  "scientific_experiments_performed": 0,
+  "independent_reproductions": 0,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "canonical_catalog_changed": false
+}

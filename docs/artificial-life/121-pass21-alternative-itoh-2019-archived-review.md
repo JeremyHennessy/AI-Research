@@ -18,6 +18,6 @@ Paired mixed-infection comparisons found native stingbug-associated bacteria did
 
 ## Independence and evolutionary origin
 
-These studies share the *Riptortus–Burkholderia* research program and overlapping investigators with [Ohbayashi 2015](109-pass21-ohbayashi-2015-filtering-full-review.md). They supply different controlled contrasts but **not independent origins of evolved selectivity**. The article expressly leaves open whether native symbiont competitive advantages evolved through selection inside the insect or in external environments and were later co-opted. Its cross-species comparison does not reconstruct that causal history.
+These studies share the *Riptortus–Burkholderia* research program and overlapping investigators with [Ohbayashi 2015](109-pass21-ohbayashi-2015-sorting-full-review.md). They supply different controlled contrasts but **not independent origins of evolved selectivity**. The article expressly leaves open whether native symbiont competitive advantages evolved through selection inside the insect or in external environments and were later co-opted. Its cross-species comparison does not reconstruct that causal history.
 
 [Canonical Pass 21 handoff](113-pass21-research-handoff.md) · [Pass 23 reconciliation and caveats](115-pass23-itoh-reconciliation-and-lineage-gate.md). The competing branch's alternative evidence ledger remains in that branch and was not merged into the authoritative catalog.

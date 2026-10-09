@@ -1,5 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
+**Research Passes 1–28:** [Complete publication index](docs/artificial-life/PASS-1-28-PUBLICATION-INDEX.md) — links to each main-branch stage, with explicit draft/E1/E2 and alternative-branch caveats. Research publication is not independent scientific reproduction.
+
 **Research foundation date:** 2026-10-08  
 **Current stage:** Twenty-first ALife research pass (2026-10-08) — **269** curated source records across **30** tracks, **123** artificial-life source notes, **15** canonical untested hypotheses, **11** future-only experiment designs and **10** independent operational criteria. Across AI-Research: **51** full-paper/theory reviews (E2), **240** evidence-qualified claims, **48** ALife method audits and **12** detailed failure cases. A separately versioned, **unverified EERC hypothesis** is additional research, **not** a completed experiment. **No new model, organism or simulator has been created, trained, deployed or independently reproduced here.**
 

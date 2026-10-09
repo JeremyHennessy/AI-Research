@@ -1,8 +1,10 @@
 # Artificial Life, Emergent Intelligence, and Digital Organisms
 
+**All 28 numbered research stages are published on main:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. Historical counts below are snapshots, not current totals.
+
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 
-## Latest completed research — Pass 21 (2026-10-08)
+## Historical completed research — Pass 21 (2026-10-08)
 
 **269** papers across **30** tracks; **123** ALife notes; **51** E2 complete-primary readings; **48** method receipts; **240** claims. Two E2 main readings and one E1 partial source; no scientific reproduction.
 

@@ -1,0 +1,85 @@
+{
+  "pass_number": 30,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "d6e68cffaf79067329220e86891bb44d59bac9fc",
+  "review_path": "docs/artificial-life/123-pass30-cooperation-productivity-vs-reproductive-closure.md",
+  "sources": [
+    {
+      "doi": "10.1111/j.1558-5646.2010.00959.x",
+      "authors": "Harcombe",
+      "year": 2010,
+      "evidence_grade": "E2 main text",
+      "access": "publisher full Methods Results Discussion",
+      "rights": "free access; redistribution license not independently established",
+      "independence": "two high-excretion origins in ten chemically preselected replicates; competitions are not new origins",
+      "positive": "methionine excretion evolved and structured cooperation spread",
+      "negative": "zero high-excretion origins in ten wild-type-start replicates; cooperation lost without reciprocity or spatial structure",
+      "interventions": [
+        "ethionine-resistant precursor selection",
+        "serial plate transfers",
+        "engineered auxotrophy",
+        "structured media"
+      ],
+      "unassisted_joint_lineage": false
+    },
+    {
+      "doi": "10.1073/pnas.0908456107",
+      "authors": "Hillesland & Stahl",
+      "year": 2010,
+      "evidence_grade": "E2 main text",
+      "access": "PMC full main text Methods Results Discussion; author manuscript",
+      "rights": "manuscript accessible; independent reuse rights not assessed",
+      "independence": "24 independently propagated cocultures from four ancestral pairings; 20 measured for growth",
+      "positive": "19/20 assayed faster growth; up to 80% faster and 30% higher biomass yield",
+      "negative": "two extinctions; two additional not ready for assay; serial transfer necessary",
+      "interventions": [
+        "sulfate-free prepared coculture medium",
+        "weekly manual 1% transfers",
+        "mixing before static transfers"
+      ],
+      "unassisted_joint_lineage": false
+    },
+    {
+      "doi": "10.1073/pnas.1407986111",
+      "authors": "Hillesland et al.",
+      "year": 2014,
+      "evidence_grade": "E1+ partial primary results",
+      "access": "primary abstract and results excerpts; complete methods/supplements not reaudited",
+      "rights": "full redistribution rights not independently established",
+      "independence": "follow-up same research program; U10 suspected cross contamination with U9, excluded from independent count",
+      "positive": "sulfate respiration loss in 13/21 independent evolved cocultures",
+      "negative": "loss of solo metabolic independence does not establish joint reproductive closure",
+      "unassisted_joint_lineage": false
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "P30-H1",
+      "status": "untested",
+      "topic": "output versus inherited coupling"
+    },
+    {
+      "id": "P30-H2",
+      "status": "untested",
+      "topic": "external spatial structure versus cooperation persistence"
+    },
+    {
+      "id": "P30-H3",
+      "status": "untested",
+      "topic": "specialization versus collective reproductive autonomy"
+    }
+  ],
+  "scientific_experiments_performed": 0,
+  "independent_reproductions": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

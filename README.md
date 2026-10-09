@@ -1,5 +1,7 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
+**Unified scientific roadmap:** [Passes 1–28 synthesis](docs/artificial-life/UNIFIED-RESEARCH-SYNTHESIS.md) — one evidence-calibrated causal map, competing explanations, failure gates and highest-information next question. [Full publication index](docs/artificial-life/PASS-1-28-PUBLICATION-INDEX.md) retains the 28 original stage links. No scientific experiment independently reproduced.
+
 **Research Passes 1–28:** [Complete publication index](docs/artificial-life/PASS-1-28-PUBLICATION-INDEX.md) — links to each main-branch stage, with explicit draft/E1/E2 and alternative-branch caveats. Research publication is not independent scientific reproduction.
 
 **Research foundation date:** 2026-10-08  

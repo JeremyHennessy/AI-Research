@@ -1,6 +1,6 @@
 # Link-audit errata — 2026-10-09
 
-**Research-only navigation errata; no scientific claims revised.** Audited against main commit `fef0a523688918448e7cafb39b969c2f01681d9e` and its tree `1682f849a1a893b0adfd85718bd5d1a91f7d6aa4`. This independent file records correct *relative targets* without rewriting the append-only historical research log or the source bibliography. Earlier scheduled custodian runs reported 18 broken references; **17 are independently reidentified and resolved below**, while the eighteenth historical Pass 21 reference was not localized in this bounded recheck. Do not represent all 18 as repaired. External URLs, Markdown anchors and all repository files were not freshly exhaustively validated.
+**Research-only navigation errata; no scientific claims revised.** Audited against main commit `fef0a523688918448e7cafb39b969c2f01681d9e` and its tree `1682f849a1a893b0adfd85718bd5d1a91f7d6aa4`. This independent file records correct *relative targets* without rewriting the append-only historical research log or the source bibliography. Earlier scheduled custodian runs reported 18 broken references; **All 18 are now independently reidentified, with existing destination files.** Navigation fixes documented here do not silently rewrite the historical research log; the 14 old log links remain broken at their original locations. External URLs, Markdown anchors and all repository files were not freshly exhaustively validated.
 
 ## Fourteen historical research-log links
 
@@ -35,6 +35,10 @@ The three original links in `docs/artificial-life/08-source-bibliography.md` rep
 
 ## Historical provenance and limitations
 
-A previous comprehensive audit counted a further missing target for the divergent alternative Pass 21 Itoh reading. The canonical alternative remains archived as `docs/artificial-life/121-pass21-alternative-itoh-2019-archived-review.md`, with distinct source/provenance caveats and unchanged canonical E1 metadata. The source location of the additional broken link was not established during this recheck, so no replacement or conflation is proposed. Never merge the stale conflicting Pass 21 branch merely to satisfy a link.
+## Eighteenth historical link — Pass 21 archived alternative
+
+The archived alternative `121-pass21-alternative-itoh-2019-archived-review.md` contains a broken relative link `109-pass21-ohbayashi-2015-filtering-full-review.md`. The independently inspected existing file is [`109-pass21-ohbayashi-2015-sorting-full-review.md`](109-pass21-ohbayashi-2015-sorting-full-review.md), blob `de01682d07082bd57dd1dfca2089a7370aa11498`. The archived text and alternative interpretation remain unchanged; this erratum resolves the navigational target **without modifying or merging the divergent historical branch**, and **without changing the canonical E1 grade**.
+
+**Live verification:** checked against main `9db4a6b34a6ef4a5fb91308bd60d3995ba077a5b` on 2026-10-09. All 18 historical reported broken references have documented destinations. The 14 historical log links remain literally broken in the immutable log; this document supplies corrected relative paths. Three bibliography references can be corrected in place without changing scientific claims. Do not confuse a documented erratum with a physically repaired historical link.
 
 This is an **errata map, not a wholesale historical rewrite**. It does not change prior evidence, source records, paper/catalog/claim counts, any EERC v1–v7 files, or `data/research-log.md`; no organisms, experiments, simulations, agents, deployments or other repositories modified. A merged errata document corrects navigation guidance only. Confirm exact-head PR CI and separate post-merge main CI before calling this published.

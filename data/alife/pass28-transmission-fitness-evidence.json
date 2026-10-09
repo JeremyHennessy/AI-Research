@@ -1,0 +1,77 @@
+{
+  "pass_number": 28,
+  "date": "2026-10-08",
+  "scope": "research-only main primary article reviews, no experiments or independent replication",
+  "starting_main": "444f08ed9226396ab127b978cb85bd14a242b9f3",
+  "review_path": "docs/artificial-life/120-pass28-transmission-fitness-and-packaging-barriers.md",
+  "sources": [
+    {
+      "doi": "10.1038/s41467-026-71143-2",
+      "authors": "Krüsemer et al.",
+      "year": 2026,
+      "evidence_level": "E2 main text only",
+      "system": "Oryzaephilus surinamensis, introduced Sodalis praecaptivus",
+      "founder_intervention": "researcher injection",
+      "vertical_transmission": "93.75% reported",
+      "generation_endpoint": "F3; six infected individuals sampled for native symbiont absence",
+      "fitness": "reduced host survival and fewer larvae",
+      "native_symbiont": "not detected in six sampled infected F3 individuals",
+      "limits": [
+        "introduced rather than natural founder",
+        "no demonstrated beneficial replacement",
+        "nested generations",
+        "supplements/source data not reanalyzed"
+      ],
+      "rights": "CC BY 4.0 article, third-party exceptions"
+    },
+    {
+      "doi": "10.1038/s41467-026-69366-4",
+      "authors": "Pons et al.",
+      "year": 2026,
+      "evidence_level": "E2 main text only",
+      "system": "tortoise beetle Stammera capleta cross-species exchange",
+      "founder_intervention": "researcher removal and exchange of egg caplets",
+      "adult_colonization": "observed in host glands",
+      "daughter_transmission": "non-native not detected in eight tested caplets; tested daughter larvae aposymbiotic",
+      "sample_boundary": "Fig. 6G n=48 native re-infected larvae and n=30 non-native larvae; not independent founder counts",
+      "fitness": "context-dependent host developmental rescue",
+      "limits": [
+        "experimentally exchanged preexisting symbionts",
+        "packaging mechanism not isolated",
+        "no evolving new partnership",
+        "supplements/raw data not reanalyzed"
+      ],
+      "rights": "open-access article; supplemental third-party reuse not independently audited"
+    }
+  ],
+  "study_independence": "different systems and teams; not independent replications of one intervention; Pons and later Garcia-Lozano share Stammera program",
+  "hypotheses": [
+    {
+      "id": "P28-H1",
+      "status": "untested",
+      "name": "transmission and host fitness decouple"
+    },
+    {
+      "id": "P28-H2",
+      "status": "untested",
+      "name": "reproductive packaging is an independent bottleneck"
+    },
+    {
+      "id": "P28-H3",
+      "status": "untested",
+      "name": "incumbent displacement may precede beneficial function"
+    }
+  ],
+  "independent_reproduction_demonstrated": false,
+  "scientific_experiment_reproduced": false,
+  "canonical_catalog_changed": false,
+  "EERC_versions_preserved": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

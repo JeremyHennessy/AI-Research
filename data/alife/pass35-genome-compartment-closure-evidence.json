@@ -1,0 +1,109 @@
+{
+  "pass_number": 35,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "9ed45ff5105dd8bd615c295dd04cbc8532ac62c8",
+  "review_path": "docs/artificial-life/128-pass35-genome-compartment-reproduction-closure.md",
+  "scientific_question": "Does genetic-template adaptation in supplied liposomes plus abiotic polymer-vesicle production amount to one unassisted genome-and-compartment lineage with inherited function?",
+  "sources": [
+    {
+      "doi": "10.1038/s41467-024-53226-0",
+      "authors": "Abil, Restrepo Sierra, Stan et al.",
+      "year": 2024,
+      "publication": "Nature Communications 15:9091",
+      "kind": "experimental DNA replication/adaptation in synthetic liposomes",
+      "audit_grade": "E2-depth original main Results/Methods/Figures/Discussion; not E3 independent replication",
+      "rights": "Main article CC BY 4.0 with third-party exceptions; supplementary/raw data not independently audited",
+      "primary_url": "https://www.nature.com/articles/s41467-024-53226-0",
+      "founders": "Three intermittent campaign histories, one semi-continuous campaign, one bulk control; rounds and assay wells not independent founders",
+      "positive": [
+        "DNA encoding Phi29 polymerase and terminal protein sustained molecular replication in supplied PURE/liposomes",
+        "Int-WT(1) at least fivefold in-liposome amplification gain over 12 rounds",
+        "Reconstructed S79G and A80T have assay-dependent replication benefit",
+        "Semi-continuous full-length template persisted at least five cycles"
+      ],
+      "negative": [
+        "Int-WT(2) had no corresponding replication improvement",
+        "Int-Mut NGS suggests contamination and F62Y reversion",
+        "No-liposome bulk control lost full-length template by round six",
+        "Purified mutant polymerase did not improve bulk enzyme replication"
+      ],
+      "interventions": [
+        "PCR extraction and replenished liposomes in intermittent regime",
+        "Premanufactured lipid feeding vesicles and forced freeze-thaw every semi-continuous round",
+        "PURE translation proteins and external chemical substrates"
+      ],
+      "confounds": [
+        "Different 10x/100x bulk versus liposome dilution (authors report supplementary controls, not reanalyzed)",
+        "About half of DNA released on freeze-thaw; external DNA amplification possible",
+        "PCR-driven mutations in intermittent experiments"
+      ],
+      "autonomous_genome_compartment_closure": false
+    },
+    {
+      "doi": "10.1073/pnas.2412514122",
+      "authors": "Katla, Lin & Pérez-Mercader",
+      "year": 2025,
+      "publication": "PNAS 122(22):e2412514122",
+      "kind": "physical reproduction of polymer vesicles without genetically coded evolution",
+      "audit_grade": "E2-depth publisher main Results/Discussion/Methods summary; not supplements or data reanalysis",
+      "rights": "Main PNAS article CC BY 4.0; supplementary/third-party rights not audited",
+      "primary_url": "https://www.pnas.org/doi/10.1073/pnas.2412514122",
+      "founders": "Three population time-series experiments on distinct dates with common chemical stocks; not independently evolved genotypes",
+      "positive": [
+        "0.22-micrometer retentate enriched for preexisting vesicles grew under 12h light, filtrate had no visible new vesicles",
+        "Reported parent-associated generation of later polymer vesicles under illuminated batch chemistry",
+        "94% of newly seen vesicles positive for inherited ZnTPP catalyst"
+      ],
+      "negative": [
+        "No new vesicles detected in the filtrate under corresponding illumination",
+        "Finite monomer supply changes growth dynamics",
+        "No experiment demonstrating a selectable, stable encoded genotype across pedigreed generations"
+      ],
+      "interventions": [
+        "Author-selected initial polymer precursors, photocatalyst and reaction architecture",
+        "Externally controlled green illumination and temperature",
+        "Filtration separation to distinguish population sources"
+      ],
+      "confounds": [
+        "Filtrate also deprived of ZnTPP catalyst, making negative filtrate result not purely ancestry specific",
+        "No individually tracked parent-child multi-generation failure denominators in main text",
+        "Main text lacks source-data-level independent audit of proposed membrane ejection and variation"
+      ],
+      "autonomous_genome_compartment_closure": false
+    }
+  ],
+  "independence": "Separate author groups and distinct chemical systems, not direct independent replications of coupled genomic-and-compartment autonomous reproduction.",
+  "conclusion": "Complementary functional components shown, but a single self-maintaining, independently reproducing genome-plus-compartment lineage with inherited adaptive benefit is not established by these original studies.",
+  "future_only_hypotheses": [
+    {
+      "id": "P35-H1",
+      "status": "untested",
+      "target": "Lineage-resolved genotype-compartment transfer without membrane rebuilding or DNA rescue"
+    },
+    {
+      "id": "P35-H2",
+      "status": "untested",
+      "target": "Catalyst, polymer structural identity and causal inherited daughter-lineage fitness"
+    },
+    {
+      "id": "P35-H3",
+      "status": "untested",
+      "target": "Coupled self-maintaining template plus physical daughter vesicle without externally timed transfer"
+    }
+  ],
+  "scientific_experiments_performed": 0,
+  "simulations_executed": 0,
+  "independent_replications": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "prior_research_log_append_only": true
+}

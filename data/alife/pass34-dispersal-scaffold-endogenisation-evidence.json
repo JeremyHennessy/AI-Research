@@ -1,0 +1,132 @@
+{
+  "pass_number": 34,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "b7f4acac8851b8225f80075e1319e6904a8a47aa",
+  "review_path": "docs/artificial-life/127-pass34-dispersal-life-cycle-versus-ecological-endogenisation.md",
+  "scientific_question": "Do measured dispersal fitness and parameter-reversal hysteresis imply an endogenously regulated, unassisted daughter collective life cycle after removal of investigator transfer and patch scaffolding?",
+  "sources": [
+    {
+      "doi": "10.1016/j.cub.2023.03.031",
+      "authors": "Barrere, Nanda & Murray",
+      "year": 2023,
+      "publication": "Current Biology 33:1809-1817.e3",
+      "kind": "experimental_fitness_manipulation_not_new_evolutionary_origin",
+      "audit_grade": "E2-depth publicly indexed main text Results figures STAR Methods; publisher original summary",
+      "full_pdf_access": "direct PMC opened to bot-verification; indexed manuscript text, not a direct independently rendered PDF",
+      "rights": "Elsevier copyright; no re-use of publisher figures, text or data",
+      "natural_sample_units": "22 diverse wild Saccharomyces cerevisiae isolates, laboratory S288c comparator; not new experimentally evolved lineages",
+      "experiment_units": "three engineered W303 reproductive states; three assay replicates; two full alternating-selection cycles; not independently evolved new autonomous life cycles",
+      "engineered_controls": [
+        "ACE2 deletion generates fixed clusters",
+        "ACE2 promoter under external beta-estradiol control for switching",
+        "wild-type fixed single cells"
+      ],
+      "positive": [
+        "wild haploid yeast tend to cluster more than heterozygous diploids",
+        "low sucrose can favor local public-good sharing in clustered yeast",
+        "fewer-than-one-cell-per-droplet emulsion favors dispersal as single cells",
+        "externally timed switching competes better under alternating prepared regimes"
+      ],
+      "negative": [
+        "glucose/fructose control does not show sucrose cluster-size advantage",
+        "low-dilution control fails to show clustering fitness difference",
+        "bulk glucose control does not show droplet size advantage",
+        "fixed states lose fitness in their nonfavoring environment"
+      ],
+      "operator_interventions": [
+        "external β-estradiol dosing and timing",
+        "manually made/broken emulsions and patch distribution",
+        "repeated growth-medium transfers with 1:100 and 1:10,000 bottlenecks",
+        "fluorescent event-based relative fitness inference, not complete individual lineage tracking"
+      ],
+      "limits": [
+        "regulated switching engineered, not evolved in current experiment",
+        "resource patch creation external",
+        "no unattended founder-to-daughter whole collective colonization",
+        "assay cycles not independent evolutionary origins"
+      ],
+      "autonomous_lineage_closure_demonstrated": false
+    },
+    {
+      "doi": "10.1016/j.cub.2024.02.048",
+      "authors": "Barrere, Nanda & Murray",
+      "year": 2024,
+      "publication": "Current Biology 34:1160",
+      "kind": "corrigendum_not_independent_science",
+      "audit_grade": "E1 direct original corrigendum notice",
+      "rights": "No figure re-use",
+      "correction": "Original Fig 3D treatment labels reversed: triangles 20 to 0 nM β-estradiol; circles 0 to 20 nM",
+      "independent_replication": false
+    },
+    {
+      "doi": "10.1038/s41467-024-50625-1",
+      "authors": "Doulcier, Takacs, Hammerschmidt & Bourrat",
+      "year": 2024,
+      "publication": "Nature Communications 15:6566",
+      "kind": "mathematical_model_with_author_simulations_not_biological_experiment",
+      "audit_grade": "E2-depth direct complete publisher main Results Methods Discussion",
+      "rights": "CC BY 4.0 main article with third-party exception; Zenodo code CC BY; neither copied nor run",
+      "originality_note": "previously catalogued at E1; no prior catalog evidence grade changed by this separate review",
+      "modeled_environment": "fixed network of resource patches; one-particle propagules move into empty adjacent patches; automatic full patch resource renewal after exhaustion",
+      "positive": [
+        "density-dependent dispersal regulation can be selected in small patches and remain stable after restoring high-resource patch parameters",
+        "conditional Goldilocks-zone model permits migration back into resource-rich zones",
+        "viability in simplified fully connected case requires expected lifetime propagules greater than one"
+      ],
+      "negative": [
+        "intrinsic density-independent p(theta)=theta tracks resource parameter and returns to earlier optimum; no endogenisation",
+        "if scaffold duration too short, evolved coordination reverts",
+        "stochastic mutation timing makes intermediate success nondeterministic",
+        "hysteresis tends to disappear for larger collectives when perfect sensing assumptions relaxed"
+      ],
+      "author_installed_assumptions": [
+        "particle duplication or dispersal rules already exist",
+        "programmed empty-patch colonization and instant resource renewal",
+        "no migration into occupied patches; no within-patch death before exhaustion",
+        "perfect instantaneous density sensing under key model"
+      ],
+      "relevant_numbers": [
+        "R=100 reverted and R=20 scaffolded in density-dependent analysis",
+        "theta~=0.41 ancestor-like vs theta=1 coordinated optimum; valley near theta~=0.66",
+        "980 patches=98 classes x10 in spatial gradient"
+      ],
+      "unresolved_provenance": "Body describes spatial gradient R=100 to 2; Figure 5 caption R=50 to 0; not independently reconciled with underlying model output",
+      "author_overlap": "Doulcier is also an author of 2025 bacterial collective experiment reviewed in Pass 32, therefore no independent experimental confirmation",
+      "all_scaffolding_withdrawn": false,
+      "autonomous_lineage_closure_demonstrated": false
+    }
+  ],
+  "independence": "Barrere yeast fitness experiment and Doulcier mathematical model are different labs/mechanisms, but not comparable independent experimental replications. Correction is same study; Doulcier overlaps Pass 32 literature.",
+  "future_only_hypotheses": [
+    {
+      "id": "P34-H1",
+      "status": "untested",
+      "target": "operator-timed life-cycle switching vs evolved endogenous patch establishment"
+    },
+    {
+      "id": "P34-H2",
+      "status": "untested",
+      "target": "parameter reversal versus removing all authored patch/renewal scaffolds"
+    },
+    {
+      "id": "P34-H3",
+      "status": "untested",
+      "target": "droplet dispersal competitive success versus lifetime joint daughter lineage fitness"
+    }
+  ],
+  "scientific_experiments_performed": 0,
+  "simulations_executed": 0,
+  "independent_replications": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "prior_research_log_append_only": true
+}

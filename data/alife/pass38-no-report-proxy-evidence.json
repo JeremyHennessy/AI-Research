@@ -1,0 +1,109 @@
+{
+  "pass_number": 38,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "c092807be4bfa040bac0e0ff3a37bc831c5799ec",
+  "review_path": "docs/artificial-life/131-pass38-no-report-and-dream-proxy-validity.md",
+  "question": "Can no-report visual awareness classifiers and EEG complexity scores reliably distinguish subjective experience independently of overt report, arousal and within-state physiology?",
+  "sources": [
+    {
+      "doi": "10.1038/s41467-022-35117-4",
+      "year": 2022,
+      "publication_date": "2022-11-29",
+      "authors": "Kronemer, Aksen, Ding et al.",
+      "primary_type": "Threshold visual report/no-report EEG and fMRI, with pupillometry/eye tracking and clinical thalamic subset",
+      "grade": "E2 original main Methods/Results/Discussion; supplementary classifier code and raw data not independently rerun",
+      "original_url": "https://www.nature.com/articles/s41467-022-35117-4",
+      "rights": "Original CC BY 4.0 with credited third-party exclusions",
+      "units": {
+        "healthy_recruited": 144,
+        "clinical_depth_patients": 7,
+        "no_report_eeG_dataset_n": 65,
+        "no_report_fMRI_dataset_n": 65,
+        "figure_eye_proxy_example_n": 68
+      },
+      "positive": [
+        "No-report classified perceived-versus-not-perceived threshold faces associated with VAN",
+        "Distributed report-independent fMRI network after selected ocular-confound contrasts"
+      ],
+      "negative": [
+        "P2/N2 and P3/late potential contrasts stronger for overt report",
+        "No-report perceptual labels generated using physiologic eye/pupil proxies, not each trial's direct subjective report"
+      ],
+      "confounds": [
+        "Physiological visibility classifier may encode attention/arousal",
+        "Covert postperceptual decisions not removed",
+        "Modality datasets and clinical subset not independent replication units"
+      ],
+      "independence": "Shares Michael Pitts with Cohen 2024 and Pitts/Blumenfeld with Cogitate 2025, while evaluating a distinct protocol; do not pool as independent new consciousness origin or direct N2 replication.",
+      "independent_replication_of_pass37": false
+    },
+    {
+      "doi": "10.1038/s41598-025-12695-z",
+      "year": 2025,
+      "publication_date": "2025-09-24",
+      "authors": "Bajwa, Nilsen, Skukies et al.",
+      "primary_type": "Repeated-awakening propofol human EEG/TMS study",
+      "grade": "E2 original complete main Methods/Results/Discussion; raw data, supplementary code and original analyses not rerun",
+      "original_url": "https://www.nature.com/articles/s41598-025-12695-z",
+      "rights": "Original CC BY 4.0 with credited third-party exceptions",
+      "units": {
+        "participants": 20,
+        "attempted_sedated_awakenings": 52,
+        "experiential_reports": 24,
+        "no_experience_reports": 5,
+        "no_information_reports": 23,
+        "resting_EEG_awake_recordings": 40,
+        "resting_EEG_sedation_recordings": 52
+      },
+      "positive": [
+        "PCIst and single-channel LZc showed expected aggregate waking-versus-deep-sedation reduction"
+      ],
+      "negative": [
+        "Within sedation, experience report status not significant predictor of PCIst, F=0.536 p=0.590",
+        "Within sedation, experience report status not significant predictor of LZc, F=0.727 p=0.489"
+      ],
+      "confounds": [
+        "Five negative episodes and 23 uninformative outcomes limit statistical power",
+        "Within-person repeated episodes are nested, not independent participants",
+        "Amnesia, arousal, awakening intervention and propofol dose complicate inference",
+        "Technical TMS/EEG exclusions and reduced sample sizes"
+      ],
+      "independence": "Distinct Oslo/Kongsberg physiological protocol and investigator group from Kronemer; prior sleep/dream studies within the Bajwa network share investigators, not new independent replications.",
+      "independent_replication_of_pass37": false
+    }
+  ],
+  "comparative_interpretation": "The findings target different behavioral and experiential constructs. Kronemer supports an informative no-overt-report visual classifier but labels derive from physiological proxies; Bajwa found aggregate state-related complexity but not clear differentiation of within-propofol dream reports. This is neither direct replication nor a proof that artificial systems lack experience.",
+  "future_only_hypotheses": [
+    {
+      "id": "P38-H1",
+      "status": "untested",
+      "target": "Neural no-report labels after controlling sensory strength, covert task and ocular/arousal proxy confounds"
+    },
+    {
+      "id": "P38-H2",
+      "status": "untested",
+      "target": "Independent balanced within-state propofol awakening cohorts testing PCIst/LZc dream-report discrimination"
+    },
+    {
+      "id": "P38-H3",
+      "status": "untested",
+      "target": "Blind transfer of report-independent ERP classifiers across tasks and author networks without recalibration"
+    }
+  ],
+  "scientific_experiments_performed": 0,
+  "models_created_or_executed": 0,
+  "simulations_executed": 0,
+  "independent_replications_performed": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "prior_research_log_append_only": true
+}

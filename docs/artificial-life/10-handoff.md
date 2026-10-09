@@ -1,6 +1,10 @@
 # Artificial Life Research Initiative — handoff for the next pass
 **Initiated:** 2026-10-08. Explicit authorization **research only**, confined to JeremyHennessy/AI-Research. Do not modify Ora, AgentTest or other repositories. No organism creation/deployment.
 
+## Latest publication reconciliation — Passes 1–28 (2026-10-09)
+
+All 28 numbered stages have at least one documented main-branch artifact, indexed in [Passes 1–28](PASS-1-28-PUBLICATION-INDEX.md). Pass 25 was restored through PR #10 without merging stale PR #5; Passes 27–28 were merged through PRs #8–9. Pass 8 is a limited reconnaissance and Pass 22 a research-only draft note, not completed E2 studies or experiments. The alternative Pass 21 Itoh reading is preserved as an [unverified archived candidate](121-pass21-alternative-itoh-2019-archived-review.md) with canonical E1 metadata unchanged. The Pass 26 checkpoint below is **historical**, not the current merge state. Exact CI and post-merge main workflow must be checked for this navigation update. No experiments, simulations, EERC changes or other repositories modified.
+
 ## Latest custodian checkpoint — Pass 26 (2026-10-08)
 
 **Baseline when started:** `main` at `2e37f8852f9a315d90cbdba77f8cefde7d1bf0fb`, with successful offline CI. **Concurrent work:** [Pass 25 PR #5](https://github.com/JeremyHennessy/AI-Research/pull/5), exact branch head `f03bc1dfbbe4fff034d97ce60ffad440d0b13de8`, passed CI but remained **open**; do **not** describe it as merged, cherry-pick it blindly, or overwrite its three distinct documents. Pass 26 starts from main and does not change Pass 25 files.

@@ -1,0 +1,91 @@
+{
+  "pass_number": 32,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "starting_main": "e14bc9981b5b6baa6598a9abb7549eec3e9373c7",
+  "review_path": "docs/artificial-life/125-pass32-trigger-withdrawal-vs-life-cycle-autonomy.md",
+  "central_discriminant": "Removal of a phenotype inducer is not equivalent to withdrawal of manual transfers, sorting, scheduling, selective replacement, and controlled habitat.",
+  "sources": [
+    {
+      "doi": "10.1038/s41467-023-39320-9",
+      "authors": "Chavhan, Dey & Lind",
+      "year": 2023,
+      "organism": "Escherichia coli",
+      "evidence_grade": "E2 main text Methods Results Discussion",
+      "rights": "CC BY 4.0 main article; third-party exceptions, supplements not audited",
+      "parent_ancestry": "one clonal MG1655 ancestor",
+      "evolutionary_replications": "five shaken and five resting independently propagated selection lines",
+      "interventions": [
+        "50 days of manual cluster picking/washing/transfer",
+        "progressive reduction of salt from 6% to 3%",
+        "prepared assay at habitual salinity"
+      ],
+      "evidence_positive": "4/5 shaken and 4/5 resting endpoint isolates formed macroscopic clusters in habitual-salinity assay without prior inducer",
+      "negative_evidence": "S3 and R4 did not achieve habitual-salinity clustering; Serratia marcescens tested as species comparator showed no inducible clustering",
+      "limitations": [
+        "genetic assimilation of clustering is not proof of collective self-reproduction",
+        "both clonal retention and cellular aggregation contribute to clustering",
+        "no unassisted serial daughter-collective establishment measured",
+        "raw genome and supplementary data not independently reanalyzed"
+      ],
+      "model_or_experiment_by_custodian": false
+    },
+    {
+      "doi": "10.1098/rspb.2024.1195",
+      "authors": "Doulcier, Remigi, Rexin & Rainey",
+      "year": 2025,
+      "organism": "Pseudomonas fluorescens SBW25",
+      "evidence_grade": "E2 full 12-page main text plus figure/methods review",
+      "rights": "CC BY 4.0 main article; supplementary media and colgen code not copied",
+      "parent_ancestry": "one previously selected line 17, compared with an isogenic mutS revertant; dependent on earlier same-program Hammerschmidt study",
+      "evolutionary_replications": "four treatments (two genotypes x two microcosm sizes); 48 microcosm cultures per treatment, 6 blocks x 8, for 10 artificially managed cycles",
+      "interventions": [
+        "manual transfer of smooth morph to fresh vials",
+        "manual choice of WS founder for next cycle",
+        "replacement of extinct lineages from surviving competitor cultures",
+        "investigator controlled culture phase durations and niche"
+      ],
+      "evidence_positive": "switch-positive genotypes more reliably completed engineered soma/germ sequence; mutL-linked switching evolved in challenged switch-off group",
+      "negative_evidence": "first-cycle large vs standard mat failures 40/96 versus 3/96; standard lcs+ net fitness trend decreased; endpoint large lcs- lineages descend from just one ancestor",
+      "limitations": [
+        "large versus standard counts are events not independent origins",
+        "rescue/replacement is imposed by researchers, not autonomous natural recolonization",
+        "mutation restoration is functional switching not de novo origin of independent multicellular organism",
+        "fitness measured under engineered life-cycle scaffold",
+        "no published custodian reproduction of sequencing or Bayesian colgen analysis"
+      ],
+      "model_or_experiment_by_custodian": false
+    }
+  ],
+  "study_independence": "Distinct taxa, laboratories and experimental designs; not replications of the same unassisted closure test. The 2025 study depends on a previous founder from its own research program.",
+  "future_only_hypotheses": [
+    {
+      "id": "P32-H1",
+      "status": "untested",
+      "focus": "inducer withdrawal vs unassisted daughter collective establishment"
+    },
+    {
+      "id": "P32-H2",
+      "status": "untested",
+      "focus": "endogenous switching vs investigator-controlled transfer and replacement"
+    },
+    {
+      "id": "P32-H3",
+      "status": "untested",
+      "focus": "ecological context and survival benefit reversals"
+    }
+  ],
+  "scientific_experiments_performed": 0,
+  "simulations_executed": 0,
+  "independent_reproductions": 0,
+  "canonical_catalog_changed": false,
+  "EERC_versions_unchanged": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

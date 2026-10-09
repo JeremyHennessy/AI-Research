@@ -1,0 +1,91 @@
+{
+  "pass": 27,
+  "date": "2026-10-08",
+  "scope": "research-only; no experiment, organism, simulation or reproduction",
+  "reviewed_main": "50bfa5b0b5fd1e20e10eabe036d0bb88ac8f1baa",
+  "question": "Do historical symbiont acquisitions establish independently reproducing new joint lineages?",
+  "finding": "Historical phylogenomic inference is not a directly followed founder-to-unassisted-descendant assay",
+  "sources": [
+    {
+      "doi": "10.1038/s41467-024-48784-2",
+      "authors": "Boyd et al.",
+      "year": 2024,
+      "grade": "E2_main_text_only",
+      "rights": "CC BY 4.0 main article, third-party exceptions",
+      "units": {
+        "louse_samples_columbicola": 61,
+        "other_louse_samples": 7,
+        "symbiont_inventories": 36,
+        "comparative_lineages": 34,
+        "universally_intact_genes": 298,
+        "variable_genes": 887,
+        "assembly_crosschecks": 3
+      },
+      "limitations": [
+        "34 compared lineages are not 34 directly observed origins",
+        "gene content is not measured vitamin transfer or host fitness",
+        "raw data, figures and supplements not independently analyzed"
+      ]
+    },
+    {
+      "doi": "10.1098/rsos.251220",
+      "authors": "Soto-Patiño et al.",
+      "year": 2025,
+      "grade": "E1_partial",
+      "rights": "not verified in this pass",
+      "units": {
+        "louse_genomes": 1020,
+        "genera": 140,
+        "qualifying_sodalis_detections": 228,
+        "genera_with_sodalis": 57,
+        "excluded_16s_candidates": 14
+      },
+      "limitations": [
+        "full original HTML challenged",
+        "228 detections are not 228 independent origins",
+        "accession overlap with Boyd unverified"
+      ]
+    },
+    {
+      "doi": "10.1645/25-63",
+      "authors": "Topchyan et al.",
+      "year": 2026,
+      "grade": "E1_abstract_only",
+      "rights": "not verified in this pass",
+      "limitations": [
+        "metabolic convergence predicted from genome",
+        "overlapping research community",
+        "unassisted new-lineage reproduction not shown in inspected abstract"
+      ]
+    }
+  ],
+  "study_independence": {
+    "shared_authors": true,
+    "sample_overlap_unknown": true,
+    "do_not_pool_counts_as_independent_origins": true
+  },
+  "hypotheses_untested": [
+    "P27-H1",
+    "P27-H2",
+    "P27-H3"
+  ],
+  "unresolved": [
+    "full 2025 and 2026 Methods",
+    "sample accession overlap",
+    "failed founder denominators",
+    "direct vitamin transfer and host fitness",
+    "multigenerational unassisted reproduction after intervention withdrawal"
+  ],
+  "scientific_experiment_reproduced": false,
+  "canonical_catalog_modified": false,
+  "EERC_versions_preserved": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "review_path": "docs/artificial-life/119-pass27-natural-symbiont-lineage-contingency.md"
+}

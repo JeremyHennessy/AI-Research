@@ -1,0 +1,62 @@
+{
+  "pass": 39,
+  "date": "2026-10-09",
+  "status": "research_only_no_experiments",
+  "base_main": "ce044ee372356a7dfd21b7b1edbf1898565ab2f5",
+  "question": "Does causal anterior/prefrontal intervention selectively affect confidence-based perceptual metacognition, and is that sufficient to infer phenomenal necessity?",
+  "review_path": "docs/artificial-life/132-pass39-prefrontal-causality-versus-metacognitive-report.md",
+  "sources": [
+    {
+      "doi": "10.1093/brain/awu221",
+      "year": 2014,
+      "authors": "Fleming, Ryu, Golfinos and Blackmon",
+      "grade": "E2 original main Methods/Results/Discussion, no raw or supplementary reanalysis",
+      "study_type": "Chronic lesion matched-domain observational comparison",
+      "independent_cohort": true,
+      "units": {"anterior_prefrontal_lesion_n": 7, "temporal_lesion_n": 11, "healthy_n": 19},
+      "positive": "Selective impairment of perceptual confidence-versus-accuracy metacognition; memory metacognition comparatively preserved",
+      "negative_limits": "Anterior-PFC perceptual meta-d'/d' 95% CI 0.28-0.64 versus memory 0.78-1.29; small heterogeneous clinical groups; not phenomenal necessity",
+      "counterhypotheses": "Chronic network effects, selection, compensation, surgery causes, domain-specific metacognitive report only",
+      "rights": "Author 2014/Oxford University Press; exact reuse grant not verified, critical paraphrase only",
+      "primary_url": "https://academic.oup.com/brain/article/137/10/2811/2847667"
+    },
+    {
+      "doi": "10.1080/17588921003632529",
+      "year": 2010,
+      "authors": "Rounis, Maniscalco, Rothwell, Passingham and Lau",
+      "grade": "E1 original abstract plus later independent E2 source commentary; original full main not available in this run",
+      "study_type": "Sham-controlled bilateral DLPFC cTBS metacognitive visual report",
+      "independent_cohort": true,
+      "units": {"original_n_from_bor_2017": 20, "original_n_boundary_SDTrate_by_bor_method": 13},
+      "positive": "Original authors report lower confidence/visibility metacognitive sensitivity with objective discrimination held stable",
+      "negative_limits": "2017 independent comparison found 13/20 original participants had at least one unstable signal-detection block; no original raw rerun performed",
+      "counterhypotheses": "Boundary data instability, sham controls, contrast staircase and label wording, physiological target uncertainty",
+      "rights": "Taylor & Francis; no open redistribution license established",
+      "primary_url": "https://www.tandfonline.com/doi/abs/10.1080/17588921003632529"
+    },
+    {
+      "doi": "10.1371/journal.pone.0171793",
+      "year": 2017,
+      "authors": "Bor, Schwartzman, Barrett and Seth",
+      "grade": "E2 entire accessible original PLOS main Methods/Results/Discussion, no raw reproduction",
+      "study_type": "Independent attempted partial replication and extension of Rounis cTBS",
+      "independent_cohort": true,
+      "units": {"exp1_recruited": 90, "exp1_about_evaluable": 53, "exp1_unstable_SDTrate": 27, "exp2_recruited": 27, "exp2_evaluable": 17},
+      "positive": "Active vertex controls, explicit robust signal-detection exclusions and cross-measure assessment",
+      "negative_limits": "No TMS x site effect in experiment1 meta-d'-d' F(4,48)=0.06 p>0.1; experiment2 3 decreases/4 increases among 7 putative responders, no replicable selective impairment; effect estimate +0.07 rather than -0.35",
+      "counterhypotheses": "Altered report label, 5cm heuristic coil target not verified physiological suppression, small final groups, contingent rather than fully crossed repeat sessions",
+      "rights": "CC BY 4.0 original PLOS main article; no data/figures/code copied",
+      "primary_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171793"
+    }
+  ],
+  "hypotheses_future_only": ["P39-H1", "P39-H2", "P39-H3"],
+  "scientific_experiments_performed": 0,
+  "models_created_or_executed": 0,
+  "simulations_executed": 0,
+  "organisms_affected": 0,
+  "prior_catalog_changed": false,
+  "prior_source_claim_ids_changed": false,
+  "EERC_v1_to_v7_changed": false,
+  "previous_log_edited": false,
+  "source_data_or_software_reproduced": false
+}

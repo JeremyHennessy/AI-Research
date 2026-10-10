@@ -1,0 +1,207 @@
+{
+  "pass": 47,
+  "date": "2026-10-10",
+  "scope": "Research-only source-critical comparison of whole-genome transplantation compatibility barriers in Mollicutes and partial chromosome swapping in separately engineered Escherichia coli; original evidence/negative outcomes; no experiments",
+  "status": "RESEARCH_ONLY_PRIMARY_E2_E1_E2_NOT_E3_FUTURE_ONLY_HYPOTHESES_UNTESTED",
+  "baseline_main_at_preparation": "23a6d0188be6b86c134aaecca880cfb8c70dc8c5",
+  "review_path": "docs/artificial-life/140-pass47-genome-compatibility-vs-chromosome-swapping.md",
+  "new_original_papers_reviewed": 3,
+  "new_full_original_E2": 2,
+  "new_original_E1_abstract": 1,
+  "distinct_major_programs": 2,
+  "independent_replications_of_2026_genome_disabled_cell_revival": 0,
+  "verified_de_novo_abiotic_cell_constructors": 0,
+  "sources": [
+    {
+      "source_id": "P47-S1",
+      "doi": "10.1093/nar/gkw688",
+      "citation": "Labroussaa F, Lebaudy A, Baby V et al. Impact of donor–recipient phylogenetic distance on bacterial genome transplantation. Nucleic Acids Research 44:8501–8511 (2016).",
+      "publication_date": "2016-08-03",
+      "original_url": "https://academic.oup.com/nar/article/44/17/8501/2468051",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/27488189/",
+      "evidence_grade": "E2 complete original publisher main Materials/Methods, Results, Discussion including Table 1, figures and rights; no supplementary raw sequencing or independent E3 reproduction",
+      "rights": "CC BY-NC 4.0; independent critical paraphrase only; no original figures, DNA sequences or extensive tables reproduced",
+      "program": "INRA/University of Bordeaux + University of Sherbrooke, one JCVI coauthor (Vashee)",
+      "same_recipient_for_all_donor_genomes": "living engineered Mycoplasma capricolum ΔRE",
+      "study_units": "Three independent whole-genome transplantation experiments per species, four within-experiment transplantation events averaged; genotype check ten clones/species PCR and two PFGE+WGS; donor species are not independent founder cell origins",
+      "positive_observations": [
+        "Six of seven tested Spiroplasma-group donor backgrounds yielded some directly prepared chromosome transfers into living M. capricolum including self-species control; five other donors succeeded",
+        "Mesoplasma florum is the most divergent successfully transplanted donor, from a separate genus, 92.47% shared identity across 79 core proteins in this original comparison",
+        "Donor-type colony phenotypes, PCR, chromosome PFGE and whole-genome sequences confirmed sampled full donor-genome transitions",
+        "All tested origin-of-replication plasmids including Spiroplasma citri origin replicated within recipient despite whole-chromosome transfer failure"
+      ],
+      "key_numbers": {
+        "donors_tested": 7,
+        "donors_successful_from_bacteria_including_self": 6,
+        "donors_failed_from_bacteria": 1,
+        "source_table1_units": "transplants/µg input genome DNA, mean ± SEM; source-reported for optimized donor concentrations",
+        "from_bacteria": {
+          "Mcap": {
+            "mean": 238,
+            "sem": 39.3
+          },
+          "Mleachii": {
+            "mean": 196,
+            "sem": 89.4
+          },
+          "Mmycoides_capri": {
+            "mean": 74.4,
+            "sem": 9.66
+          },
+          "Mputrefaciens": {
+            "mean": 18.8,
+            "sem": 1.27
+          },
+          "Mmycoides_mycoides": {
+            "mean": 3.43,
+            "sem": 2.86
+          },
+          "Mflorum": {
+            "mean": 3.02,
+            "sem": 5.23
+          },
+          "Scitri": {
+            "mean": 0,
+            "sem": null
+          }
+        },
+        "from_yeast_zero_donors": [
+          "Mmycoides_mycoides",
+          "Scitri"
+        ],
+        "core_proteome_Mflorum_vs_Mcap_pct": 92.47,
+        "donor_source_volume_effect": "~2 µg DNA often maximized source-specific transfer, higher amounts lowered yields, mechanism unresolved"
+      },
+      "negative_results": [
+        "Spiroplasma citri yielded no successful whole-genome transplants from bacteria or yeast; origin-bearing plasmid nonetheless replicated",
+        "Closely related Mycoplasma mycoides subsp mycoides transferred poorly from bacteria (~3.43±2.86/µg) and zero from yeast",
+        "Another donor Spiroplasma floricola was reported failure but no displayed direct dataset or denominator (data not shown)",
+        "Mesoplasma florum transferred poorly from bacteria 3.02±5.23 per µg with wide uncertainty, but successfully from yeast; source preparation matters",
+        "Phylogenetic distance confounded by larger genome and slower growth of Spiroplasma citri and by species-specific traits; no single direct causal mechanism proven"
+      ],
+      "external_assistance": [
+        "Living restriction-deficient recipient",
+        "Donor bacterial cells and yeast intermediate for manipulation",
+        "Researchers constructed selective markers and performed PEG-mediated DNA introduction",
+        "Laboratory nutrients, culture/antibiotic selection, PCR and sequencing"
+      ],
+      "mechanistic_limit": "Origin recognition insufficient for whole genome startup; cross genus Mollicutes not other class or abiotic boot",
+      "independent_replication_of_seidel2026": false,
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P47-S2",
+      "doi": "10.1021/acssynbio.7b00279",
+      "citation": "Baby V, Labroussaa F, Brodeur J et al. Cloning and Transplantation of the Mesoplasma florum Genome. ACS Synthetic Biology 7:209–217 (2018).",
+      "published_online": "2017-10-03",
+      "issue_date": "2018-01-19",
+      "original_url": "https://pubs.acs.org/doi/10.1021/acssynbio.7b00279",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/28893065/",
+      "evidence_grade": "E1 original publisher/PubMed abstract and bibliographic metadata; full copyrighted publisher article available for purchase, final Methods/Results/supplement unavailable and not audited",
+      "rights": "Copyright © 2017 American Chemical Society. No verified open reuse license for full work; only short independent summary and bibliographic linking",
+      "program": "University of Sherbrooke + University of Bordeaux/INRA, shares several authors with P47-S1",
+      "positive_observations": [
+        "Cloned Mesoplasma florum bacterial genome in living yeast",
+        "Transplanted Mesoplasma florum genome into living Mycoplasma capricolum",
+        "Whole-genome sequencing reportedly revealed some new variants in all sampled Mesoplasma transplants; fewer mutations in same-species M. capricolum->M. capricolum transplants"
+      ],
+      "negative_results": [
+        "Three researcher-performed successive transplantation rounds showed no reported difference in transplant efficiency",
+        "Specific genome mutation counts, phylogenetic sample denominators and functional effects unverified at abstract-only E1 depth"
+      ],
+      "experimental_units": "Clone and sequence sample counts not established from original abstract; three successive investigator-run transfer rounds are not autonomous generations",
+      "external_assistance": [
+        "Living yeast and recipient bacteria",
+        "Donor genome editing and researcher transplantation/selection",
+        "Prior shared Bordeaux/Sherbrooke project; not independent laboratory replication of 2016"
+      ],
+      "mechanistic_limit": "Transferred DNA variants can be neutral or damaging and do not automatically imply novel selectable ecological benefit",
+      "independent_replication_of_seidel2026": false,
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P47-S3",
+      "doi": "10.1093/nar/gkab298",
+      "citation": "Yoneji T, Fujita H, Mukai T, Su’etsugu M. Grand scale genome manipulation via chromosome swapping in Escherichia coli programmed by three one megabase chromosomes. Nucleic Acids Research 49:8407–8418 (2021).",
+      "publication_date": "2021-04-28",
+      "original_url": "https://academic.oup.com/nar/article/49/15/8407/6255700",
+      "pmc": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8421210/",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/33907814/",
+      "evidence_grade": "E2 accessible complete original publisher main Materials/Methods, Results, Discussion, figures and rights; no E3 raw PFGE/source protocol recreation",
+      "rights": "CC BY 4.0 OUP 2021 main; no original figures/tables or data redistributed",
+      "program": "Rikkyo University (Japan), distinct from Mollicutes transplant teams",
+      "positive_observations": [
+        "Viable engineered 3-Mb genome-reduced E. coli split into three approximately 1-Mb chromosomes with distinct origin and segregation elements",
+        "Two variants preserved three-chromosome pattern >100 generations of laboratory culture without antibiotic selection",
+        "Purified ~0.84-Mb and ~1.02-Mb circular chromosomes could be electroporated into living commercial competent E. coli in some conditions",
+        "Conjugation permitted replacement of portions of the multipartite chromosome set among viable engineered E. coli"
+      ],
+      "negative_results": [
+        "RGF138 grew about 2 times slower, RGF140 about 1.5 times slower, than viable DGF-298W parent",
+        "RGF140 frequently showed filamentous morphology and live/dead microscopy 53% versus RGF138 78%, parent 80%",
+        "Purified native-origin ~1.12-Mb ChrOri gave no electroporation colonies, despite swap by conjugation",
+        "ChrTer 6 intact among 110 antibiotic-resistant screened colonies, requiring PFGE/PCR to distinguish intact chromosome from resistance",
+        "Only two positive ChrLR recipient colonies from four commercial electroporation vials in a reported result",
+        "Own competent DGF-298-derived strain preparation was unsuccessful for 1-Mb chromosome transfer, unlike commercial cells"
+      ],
+      "source_numbers": {
+        "genome_reduced_parent_size_Mb": 2.98,
+        "tripartite_chromosome_count": 3,
+        "laboratory_generations_without_antibiotic": ">100",
+        "RGF138_growth_slowdown_factor_approx": 2,
+        "RGF140_growth_slowdown_factor_approx": 1.5,
+        "live_dead_stain_percent_parent": 80,
+        "live_dead_stain_percent_RGF138": 78,
+        "live_dead_stain_percent_RGF140": 53,
+        "chrTer_intact_positive_colonies": 6,
+        "chrTer_positive_marker_screened_colonies": 110,
+        "chrLR_successful_colonies_in_reported_setup": 2,
+        "chrLR_commercial_vials": 4,
+        "chrOri_electroporation_success": 0
+      },
+      "experimental_units": "Two engineered bacterial strain configurations from same reduced viable E coli starting chassis; >100 cultures generations not first-founder E3; cell microscopy viability percentages not count independent founder origins",
+      "external_assistance": [
+        "Existing viable E. coli reduced-genome founder and lab culture",
+        "Researcher genetic splitting, plasmid selection, chromosome extraction, electroporation, conjugation and selection",
+        "Distinct replication/segregation origin modules from E coli F plasmid and Vibrio",
+        "Competent cells and externally prepared lab conditions"
+      ],
+      "conflicts_of_interest": "Masayuki Su'etsugu disclosed co-founder, shareholder and chief scientific officer role at OriCiro Genomics, Inc. related to chromosome replication technology",
+      "mechanistic_limit": "Chromosome-part swap within viable cells is not complete whole-genome transplantation into dead cells, or de novo abiotic cellular reconstruction",
+      "independent_replication_of_seidel2026": false,
+      "raw_data_reprocessed": false
+    }
+  ],
+  "reviewed_study_independence": "P47-S1 and S2 share Bordeaux/Sherbrooke investigators and recipient chassis, and S1 includes a JCVI collaborator. P47-S3 is independent Rikkyo program but different chromosome swap endpoint. 3 primary papers are not 3 independent complete cell origin replications.",
+  "new_2026_founder_resolved_independent_replication_verified_in_bounded_search": false,
+  "negative_evidence_scope": "Bounded source and citation search did not find a separate independent author group directly repeating the 2026 inactivated-recipient Seidel assay with single-founder exclusions; absence from these sources does not prove absence from all literature.",
+  "cross_study_distinction": [
+    "Full donor genome takeover of viable recipient vs partial chromosome swap within live engineered E coli",
+    "Whole chromosome boot versus small oriC plasmid replication",
+    "Live recipient vs genetically disabled recipient vs entirely inert nonliving origin",
+    "Genotype marker positive colony vs genome-wide donor identity vs observed functional self-maintaining descendants",
+    "Laboratory maintenance without antibiotic selection vs unattended ecological reproductive founding"
+  ],
+  "future_only_hypotheses": [
+    "P47-H1",
+    "P47-H2",
+    "P47-H3",
+    "P47-H4",
+    "P47-H5",
+    "P47-H6",
+    "P47-H7",
+    "P47-H8"
+  ],
+  "all_hypotheses_unexecuted": true,
+  "canonical_catalog_source_claim_unchanged": true,
+  "prior_passes_unchanged": true,
+  "historical_link_errata_unchanged": true,
+  "previous_log_bytes_unchanged": true,
+  "prior_EERC_v1_to_v7_unchanged": true,
+  "models_simulations_experiments_organisms_created": false,
+  "other_repositories_modified": false,
+  "costs_incurred": false,
+  "new_tasks_or_schedules_created": false,
+  "scheduled_write_permission_verified": false,
+  "release_gate": "Reviewed exact-head PR workflow syntax/catalog/unittest success; no conflicting main/head movement before expected-head merge; independently successful resulting main push workflow"
+}

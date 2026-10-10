@@ -1,0 +1,148 @@
+{
+  "pass": 45,
+  "date": "2026-10-10",
+  "scope": "Comparative critical review of synthetic genome takeover, minimal-cell division rescue and inherited minimal-cell adaptation versus de novo abiotic cell bootstrapping; research only",
+  "status": "RESEARCH_ONLY_PRIMARY_E2_E1_E2_NOT_E3_FUTURE_ONLY_HYPOTHESES_UNTESTED",
+  "baseline_main_at_preparation": "48e94b5895d8dc8fdba522dc25712f0407293d88",
+  "review_path": "docs/artificial-life/138-pass45-minimal-cell-lineage-vs-de-novo-construction.md",
+  "original_study_count": 3,
+  "full_main_original_E2": 2,
+  "original_abstract_or_summary_E1": 1,
+  "publisher_corrections_checked": 1,
+  "independent_E3_reproductions": 0,
+  "de_novo_abiotic_cell_founder_lineages_verified_in_reviewed_studies": 0,
+  "existing_living_cell_descendant_replication": "yes (2010, 2021, 2023), but distinct from de novo construction",
+  "studies": [
+    {
+      "source_id": "P45-S1",
+      "doi": "10.1126/science.1190719",
+      "citation": "Gibson DG et al. Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome. Science 329:52-56 (2010).",
+      "publication_date": "2010-05-20",
+      "original_url": "https://www.science.org/doi/10.1126/science.1190719",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/20488990/",
+      "grade": "E2 accessible original main Methods/Results/Discussion narrative; no supplemental/raw evidence reanalysis",
+      "rights": "AAAS 2010 copyrighted original; no verified blanket CC licence; paraphrase only",
+      "research_program": "J Craig Venter Institute, overlaps P45-S2 and P45-S3 collaborators",
+      "positive": [
+        "Approximately 1.08 Mbp synthetic M. mycoides genomic DNA assembled using synthetic fragments and yeast intermediates",
+        "Transplanted into living M. capricolum recipient, recipient genome replaced; donor-type self-replicating descendants with synthetic watermarks",
+        "Author-reported colony outgrowth beyond 30 generations implies dilution of founding cytoplasm >10^9-fold"
+      ],
+      "negative": [
+        "Initial unmethylated genome transplantation failed against recipient DNA restriction until compatible protection/bypass conditions",
+        "Single-base deletion in essential dnaA delayed successful functional synthetic genome",
+        "Synthetic genome mostly encoded known viable natural bacterial functions rather than novel engineered de novo life"
+      ],
+      "external_support": [
+        "Initially living recipient cytoplasm with membranes, active enzymes and translation machinery",
+        "Externally engineered, assembled and transplanted chromosome",
+        "Researcher quality control, restriction-system handling and nutrients"
+      ],
+      "experimental_unit": "One successful constructed genome/recipient system with laboratory colony multiplication; total independent successful donor/recipient bootstraps not verified",
+      "limitation": "Genome-directed living descendants are not proof of the initial assembly of cellular life from nonliving materials",
+      "independent_replication": false,
+      "raw_data_reprocessed": false,
+      "conflicts_of_interest": "Science original disclosed JCVI/Synthetic Genomics Inc. ownership, executive roles and related patent applications"
+    },
+    {
+      "source_id": "P45-S2",
+      "doi": "10.1016/j.cell.2021.03.008",
+      "citation": "Pelletier JF et al. Genetic requirements for cell division in a genomically minimal cell. Cell 184:2430-2440.e16 (2021).",
+      "publication_date": "2021-04-29",
+      "original_url": "https://www.sciencedirect.com/science/article/pii/S0092867421002932",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/33784496/",
+      "submitted_version_record": "https://dspace.mit.edu/entities/publication/33e96f80-22b2-4315-b3f5-eafbe7d2f88e",
+      "grade": "E1 original published abstract and institutional submitted-version abstract, not published complete Methods/Results",
+      "rights": "Published Cell article under Elsevier user license; MIT-submitted original manuscript lists CC BY-NC-ND 4.0 for that manifestation only; no figure/content redistribution",
+      "research_program": "JCVI with MIT and NIST, overlaps 2010 and 2023 collaborators",
+      "positive": [
+        "Irregular propagation morphology observed in JCVI-syn3.0 using microfluidic culture",
+        "Adding 19 genes yielded syn3A near-normal morphology",
+        "Seven jointly required for parental-like morphological restoration, including ftsZ, sepF, one hydrolase and four membrane-related unknown-function genes"
+      ],
+      "negative": [
+        "Genomically viable syn3.0 nevertheless displayed irregular cell morphology",
+        "Intermediate or individually failed combinations, denominators and quantitative effects were not verified from complete original full text in this pass"
+      ],
+      "external_support": [
+        "Researcher-designed gene additions and strain engineering",
+        "Microfluidic medium perfusion and laboratory growth conditions",
+        "Existing living minimal-cell lineage and functioning natural Mycoplasma cellular machinery"
+      ],
+      "experimental_unit": "Exact line counts and observation denominators not verified from abstract-only access",
+      "limitation": "Joint normal-morphology rescue cannot be promoted to necessity of every gene for any viable replication or de novo bottom-up origin",
+      "independent_replication": false,
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P45-S3",
+      "doi": "10.1038/s41586-023-06288-x",
+      "citation": "Moger-Reischer RZ et al. Evolution of a minimal cell. Nature 620:122-127 (2023).",
+      "publication_date": "2023-07-05",
+      "original_url": "https://www.nature.com/articles/s41586-023-06288-x",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37407813/",
+      "grade": "E2 full accessible original publisher main methods/results/figure descriptions/discussion; no raw data/code/supplement replication",
+      "rights": "CC BY 4.0 original publisher, third-party exclusions; paraphrase only",
+      "research_program": "Indiana University/Lennon/Lynch collaboration with JCVI Glass/Wise/Sun; same ancestor program as 2010/2021",
+      "strain_background": "JCVI-syn3B 493 genes versus syn1.0 901 genes; syn3B restored 19 genes, has extra rRNA operon, efflux deletion and manipulation site; not syn3.0",
+      "positive": [
+        "Four independently propagated populations per strain were serially maintained ~1997 estimated generations across 300 days",
+        "Competition mean evolved minimal fitness 0.998 vs ancestor nonminimal 1.00, t-test P=0.957 (non-significant difference not proven equality)",
+        "Relative-fitness adaptation estimated 39% faster for minimal than nonminimal cell (P=0.032)",
+        "Mutation rates ~3 x 10^-8 per nucleotide per generation, not elevated due to minimization"
+      ],
+      "negative": [
+        "Genome minimization caused 57% initial maximum-growth reduction and 53% initial competition fitness reduction",
+        "Minimal-cell size remained essentially unchanged despite large non-minimal diameter increase (t-test P=0.181)",
+        "No membrane-transport gene mutation enrichment difference P=0.934, biosynthesis enrichment only marginal P=0.090"
+      ],
+      "external_support": [
+        "Daily operator-managed 1% fresh SP4 liquid serial transfers at 37 C in dark static cultures",
+        "Preexisting living founder cells, physiological rich medium and 300 days maintenance",
+        "Researcher-handled competitions, cytometry, microscopy and genetic sequencing"
+      ],
+      "experimental_unit": "n=4 independently evolved lineages per strain; n=87 and 57 mutation accumulation lines; single ancestor clone per strain, n=4 ancestral technical fitness measurements",
+      "limitation": "Demonstrates inherited adaptive fitness in living cells; does not demonstrate abiotic cell bootstrapping, self-managed new ecological establishment or universal environment fitness",
+      "independent_replication": false,
+      "raw_data_reprocessed": false,
+      "correction": {
+        "doi": "10.1038/s41586-023-06454-1",
+        "date": "2023-07-26",
+        "note": "Corrected one author affiliation and duplicated Extended Data Table 2 which had repeated Table 3; current online versions updated",
+        "url": "https://www.nature.com/articles/s41586-023-06454-1"
+      },
+      "conflicts_of_interest": "Authors declare no competing interests"
+    }
+  ],
+  "causal_distinctions": [
+    "Synthetic genome bootstrapped by viable living recipient versus abiotic cytoplasm/cell assembly",
+    "Real descendant self-reproduction versus operator-controlled genome engineering at the initial founder",
+    "Division morphology restoration versus de novo functional origin",
+    "Adaptation of extant lineage in rich lab medium versus new heritable ecological function, unattended dispersal or colonization"
+  ],
+  "future_only_hypotheses": [
+    "P45-H1",
+    "P45-H2",
+    "P45-H3",
+    "P45-H4",
+    "P45-H5",
+    "P45-H6",
+    "P45-H7"
+  ],
+  "hypotheses_executed": false,
+  "review_limitations": [
+    "Cell 2021 grade remains E1 due to lack of accessible full peer-reviewed Methods and Results",
+    "2010 and 2023 primary main texts reviewed but raw sources and supplementary methods not reanalyzed",
+    "Three different experiments with overlapping institutional/author founder lineages do not form independent E3 replications of abiotic cellular origin",
+    "2023 publisher correction noted but corrected raw table values not independently checked"
+  ],
+  "canonical_source_claim_catalog_unchanged": true,
+  "prior_passes_unchanged": true,
+  "prior_EERC_v1_to_v7_unchanged": true,
+  "prior_log_prefix_unchanged": true,
+  "models_simulations_experiments_organisms_created": false,
+  "other_repositories_modified": false,
+  "new_tasks_or_schedules_created": false,
+  "scheduled_write_permission_verified": false,
+  "release_gate": "Exact reviewed PR head CI green plus unchanged main prior to expected-head merge and successful separate post-merge main push workflow; interactive write does not establish scheduled-write grant"
+}

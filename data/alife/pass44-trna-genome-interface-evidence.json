@@ -1,0 +1,134 @@
+{
+  "pass": 44,
+  "date": "2026-10-10",
+  "scope": "Critical literature comparison of self-produced 21 functional tRNAs and self-encoded DNA replication against simultaneous ribosome/template renewal; research-only",
+  "status": "RESEARCH_ONLY_PRIMARY_E2_E2_E2_NOT_E3_FUTURE_ONLY_HYPOTHESES_UNTESTED",
+  "baseline_main_at_preparation": "ae65fd3125f0816aaa53f1b93d0bf74a8e3285d1",
+  "review_path": "docs/artificial-life/137-pass44-trna-genome-coupling-vs-constructor-autonomy.md",
+  "source_count": 3,
+  "distinct_major_research_programs": 2,
+  "complete_self_renewing_constructor_lineages_verified": 0,
+  "independent_E3_reproductions": 0,
+  "matched_joint_module_integration_experiment_reports": 0,
+  "sources": [
+    {
+      "source_id": "P44-S1",
+      "doi": "10.1038/s41467-025-61671-8",
+      "citation": "Li F, Baranwal AK, Maerkl SJ. Continuous in situ synthesis of a complete set of tRNAs sustains steady-state translation in a recombinant cell-free system. Nature Communications 16:6212 (2025).",
+      "publication_date": "2025-07-05",
+      "original_url": "https://www.nature.com/articles/s41467-025-61671-8",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12228740/",
+      "evidence_grade": "E2 original main methods/results/controls/discussion/rights; no supplemental raw-trace reproduction",
+      "rights": "CC BY 4.0 publisher original; third-party assets separate; paraphrase only",
+      "program": "EPFL/Maerkl (overlaps Pass 42 PURE work)",
+      "positive_outcomes": [
+        "21 functional tRNAs from linear DNA or nicked plasmid",
+        "Sustained up-to-20-hour steady-state sfGFP expression in microfluidic chemostat",
+        "At 0.4 nM reporter template, 100/150 nM tRNA linear-template input yielded about 10.5/17 micrograms per mL steady-state sfGFP; max nicked plasmid 13.6 micrograms per mL at 2.86 nM"
+      ],
+      "negative_results": [
+        "4 nM reporter DNA initially active but sfGFP synthesis decayed to zero in continuous trials",
+        "2x NTP supply destroyed activity; 1.25x slight rescue with no steady-state",
+        "0.71 nM nicked plasmid did not sustain stable reporter synthesis",
+        "Un-nicked plasmid tRNA lower activity, precursor RNA contamination, competing transcription demands"
+      ],
+      "external_support": [
+        "20% reactor volume operator-replaced every 20 min",
+        "Fresh protein/ribosome mix plus DNA/energy mix (3:2 feed ratio)",
+        "Externally supplied functional native ribosomes, translation factors and DNA templates",
+        "Prepared plasmid nicking/processing tools, reporter and microfluidic hardware"
+      ],
+      "replicate_unit": "n=2 reactors/rings in key Fig4 chemostat readouts; not distinct offspring founders",
+      "distinct_limit": "Sustained replenished partial tRNA production does not show internal ribosome replacement or copied tRNA gene inheritance",
+      "independent_reproduction": false,
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P44-S2",
+      "doi": "10.1038/s41467-025-62588-y",
+      "citation": "Miyachi R, Masuda K, Shimizu Y, Ichihashi N. Simultaneous in vitro expression of minimal 21 transfer RNAs by tRNA array method. Nature Communications 16:7418 (2025).",
+      "publication_date": "2025-08-26",
+      "original_url": "https://www.nature.com/articles/s41467-025-62588-y",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12381190/",
+      "evidence_grade": "E2 original main Methods/Results/Discussion and licensing; raw sequencing/proteomic/supporting data not reanalyzed",
+      "rights": "CC BY-NC-ND 4.0; no reproduction/adaptation of third-party figures or article material",
+      "program": "University of Tokyo/Ichihashi and RIKEN/Shimizu (shares lineage with P44-S3 and Pass42)",
+      "positive_outcomes": [
+        "Functional expression of all 21 tRNAs from one polycistronic DNA in tfPURE using tRNA arrays, RNase P, HDVR and T4 PNK",
+        "Translation of luciferase, sfGFP, GUS and codon reassignment validated by peptide identity",
+        "Approximately 3.7 micrograms/mL protein in array condition versus around 56 native tRNA in specified comparison"
+      ],
+      "negative_results": [
+        "Prepared ribosome and EF-Tu had residual endogenous tRNAs, needed repurification",
+        "One tRNA Pro 5-prime variant lacked activity; Asn and fMet had processing/background issues",
+        "Single 21-tRNA long operon much worse than staged short arrays on one DNA",
+        "Luciferase array translated product about 46% specific activity of native tRNA reference",
+        "Reporter-specific lower sfGFP/GUS active yield and unequal array positional output"
+      ],
+      "external_support": [
+        "Already-functional repurified native ribosomes and aminoacylation/translation machinery",
+        "Externally prepared T7 RNAP, RNase P, T4 PNK, DNA template and substrates",
+        "No demonstrated DNA-template self-copying linked to translation and daughter inheritance"
+      ],
+      "replicate_unit": "Main reporter assays roughly n=3 independent biochemical reactions, not inherited cell genealogies",
+      "distinct_limit": "Functional minimal tRNA expression is not full translational machine self-renewal; unmodified tRNA affects fidelity/activity",
+      "independent_reproduction": false,
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P44-S3",
+      "doi": "10.1021/acssynbio.1c00430",
+      "citation": "Okauchi H, Ichihashi N. Continuous Cell-Free Replication and Evolution of Artificial Genomic DNA in a Compartmentalized Gene Expression System. ACS Synthetic Biology 10:3507-3517 (2021).",
+      "publication_date": "2021-11-16",
+      "issue_date": "2021-12-17",
+      "original_url": "https://pubs.acs.org/doi/10.1021/acssynbio.1c00430",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/34781676/",
+      "evidence_grade": "E2 ACS original main Methods/Results/controls/limitations; underlying sequencing/raw supporting files not independently analyzed",
+      "rights": "CC BY-NC-ND 4.0 ACS original; critical paraphrase and bibliographic identifiers only",
+      "program": "University of Tokyo/Ichihashi (shared senior scientist/source lineage with P44-S2)",
+      "positive_outcomes": [
+        "Circular genome encoding phi29 polymerase and Cre recombinase self-assisted DNA replication within prepared cell-free expression droplets",
+        "60 serial dilution transfers in each of two independently operated series from shared starting repertoire",
+        "Evolved round-30 DNA variant clone comparisons showed improved molecular replication fitness",
+        "Later transfer rounds maintained circular-DNA signal without further PCR rescue after earlier manual interventions"
+      ],
+      "negative_results": [
+        "Detection-floor PCR amplification and re-circularization rescue at rounds 9 and 18 (Exp1) and 15 (Exp2)",
+        "Failed full-length DNA amplification at round 60, possible shorter/parasitic templates unresolved",
+        "Alternative linear repetitive DNA 44 rounds with PCR rescues at 6,15,21,27 declined, little adaptive substitution signal",
+        "Two experiments share initial genome repertoire; PCR may itself contribute genetic mutations"
+      ],
+      "external_support": [
+        "Fresh complete cell-free protein expression machinery and nutrients introduced each transfer",
+        "Mechanical emulsification to fuse/divide droplets, 5x programmed dilution",
+        "PCR/ligation circularization rescue at selected rounds, externally prepared DNA/gene products",
+        "No tRNA or ribosome biogenesis module tied to DNA self-copying"
+      ],
+      "replicate_unit": "Two independently run serial-dilution experiments using a common founding molecular genome; 60 rounds not 60 living lineage founder replicates",
+      "distinct_limit": "Demonstrated molecular gene-linked evolution, not autonomous whole translation apparatus/cell-lineage self-reproduction",
+      "independent_reproduction": false,
+      "raw_data_reprocessed": false
+    }
+  ],
+  "cross_program_independence": "EPFL Maerkl and Tokyo Ichihashi/RIKEN are two partly independent major programs. Tokyo 2025 and 2021 share Norikazu Ichihashi; Tokyo 2025 also overlaps 2025 aaRS study via Shimizu/Masuda. Different experiments/endpoints are not replications of complete closure.",
+  "future_only_hypotheses": [
+    "P44-H1",
+    "P44-H2",
+    "P44-H3",
+    "P44-H4",
+    "P44-H5",
+    "P44-H6",
+    "P44-H7"
+  ],
+  "all_hypotheses_unexecuted": true,
+  "unverified_combined_claim": "No single examined original study demonstrated newly made replacement ribosomes plus continuously generated 21 tRNAs plus copied full templates plus unassisted daughters after withholding researcher-specific essential machinery and PCR rescue.",
+  "prior_passes_unchanged": true,
+  "canonical_source_claim_catalog_unchanged": true,
+  "prior_EERC_v1_to_v7_unchanged": true,
+  "prior_log_prefix_unchanged": true,
+  "models_simulations_experiments_organisms_created": false,
+  "other_repositories_modified": false,
+  "new_tasks_or_schedules_created": false,
+  "scheduled_write_permission_verified": false,
+  "release_gate": "Requires successful exact PR head CI and independently successful post-merge main push workflow; interactive writes do not prove scheduled-run GitHub write authority."
+}

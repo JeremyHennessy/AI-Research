@@ -1,0 +1,173 @@
+{
+  "pass": 49,
+  "date": "2026-10-10",
+  "scope": "Critical original-primary research review of evolution of newly accessible aerobic citrate utilization, genotype-dependent fitness, narrow observed reversion with selection withdrawal, and imperfect niche maintenance; research only",
+  "status": "RESEARCH_ONLY_E2_E2_E2_PARTIAL_INDEXED_NOT_E3_UNTESTED_FUTURE_HYPOTHESES",
+  "baseline_main_at_preparation": "4a1569c3e59e94bd8e29b0bda506814e24de1aa5",
+  "review_path": "docs/artificial-life/142-pass49-citrate-innovation-and-fragile-heredity.md",
+  "new_primary_sources": 3,
+  "full_main_original_E2": 2,
+  "original_indexed_partial_E2": 1,
+  "independent_major_research_programs": 2,
+  "new_biochemical_protein_family_demonstrated": false,
+  "new_whole_cell_ecological_metabolic_function_observed": true,
+  "complete_independent_selection_withdrawal_descendant_survival_cohort_demonstrated": false,
+  "unassisted_first_cell_construction_demonstrated": false,
+  "sources": [
+    {
+      "source_id": "P49-S1",
+      "doi": "10.1128/JB.00831-15",
+      "citation": "Van Hofwegen DJ, Hovde CJ, Minnich SA. Rapid Evolution of Citrate Utilization by Escherichia coli by Direct Selection Requires citT and dctA. Journal of Bacteriology 198:1022-1034 (2016).",
+      "original_full": "https://journals.asm.org/doi/full/10.1128/jb.00831-15",
+      "original_pmc": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4800869/",
+      "date": "2016-03-17",
+      "rights": "© 2016 American Society for Microbiology, All Rights Reserved, original paper accessible but no verified general CC redistribution license; only independent critical paraphrase and link",
+      "grade": "E2 publisher original complete main Results, Methods, Discussion and negative controls; supplements and original sequencing not independently reproduced",
+      "program": "University of Idaho group, genuinely distinct research laboratory from LTEE, but studies same metabolic capability in altered selection schedule",
+      "reported_phenotypic_mutant_isolates": 46,
+      "number_of_reported_representative_sequenced_genomes": 4,
+      "reported_earliest_Cit_positive_generations_approx": 12,
+      "reported_refinement_within_generations_approx": 100,
+      "condition_specific_nine_week_flask_outcomes": {
+        "K12_success": 15,
+        "K12_flasks": 16,
+        "B_success": 4,
+        "B_flasks": 12,
+        "REL606_success": 6,
+        "REL606_flasks": 12
+      },
+      "positive": [
+        "Selection imposed with citrate sole or dominant resource produced rapidly appearing citrate-using E coli colonies in several strain backgrounds; phenotypic mutant isolates are not independent gene-origin lineages",
+        "Co-opted and amplified CitT preexisting anaerobic transporter expression with promoter rearrangement; DctA-associated refinement",
+        "Citrate growth confirmed using independent phenotype readouts and culture-metabolite assays",
+        "Same kind of new whole-cell aerobic metabolic ability obtained in independent lab with markedly different direct-selection interval"
+      ],
+      "negative": [
+        "citT deletion did not yield Cit-positive isolates in tested selection conditions",
+        "dctA deletion negative in short comparisons but one isolate SO191 recovered after 134 days; do not claim universal absolute requirement",
+        "Low-citrate selection yielded only 4/12 and 6/12 positive flasks for some E coli B backgrounds, not universal rapid origin",
+        "Initial weak variants could show extensive lag and altered cell morphology; morphologies were reversible in rich medium",
+        "No registered stable maintenance after complete removal of directed citrate selection or operator culture passages, and 46 isolates not whole-genome sequenced"
+      ],
+      "unit": "Independent culture-origin mutants conditional on experimental flasks; DNA sequence analyses of four representatives; no independent abiotic origins",
+      "independent_original_function_evolution": true,
+      "raw_data_reanalysis": false,
+      "independent_E3": false
+    },
+    {
+      "source_id": "P49-S2",
+      "doi": "10.1371/journal.pgen.1007348",
+      "citation": "Leon D, D'Alton S, Quandt EM, Barrick JE. Innovation in an E. coli evolution experiment is contingent on maintaining adaptive potential until competition subsides. PLOS Genetics 14:e1007348 (2018).",
+      "original_full": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007348",
+      "date": "2018-04-12",
+      "rights": "CC BY 4.0 original journal article; no copied figures, gene sequence, supplementary contents or long excerpts",
+      "grade": "E2 publisher original full Methods/Results/Discussion, figure text, reported statistical units, disclosure and rights; no separate source/raw-sequence reanalysis",
+      "program": "University of Texas at Austin/Barrick, affiliated with Lenski LTEE original archive program; linked ancestry to 2020 and Pass9 citrate",
+      "positive": [
+        "Single engineered activated-CitT cassette compared with null matched construct in time-series archival genotypes from one evolving LTEE population",
+        "Report modest about 2.2% advantage for authentic weak Cit+ duplication in early sampled background",
+        "Some background-specific functional modules produced significant competitive benefit, showing novel capability can be individually advantageous",
+        "Physically generated an original early Cit-positive clone's Cit-negative revertant after citrate-free passage and spontaneous collapse of duplicated regulatory module"
+      ],
+      "negative": [
+        "Some reconstructed backgrounds yielded marked costs: 11 report-negative backgrounds, five with >20% relative competitive penalty",
+        "The same functional module is not uniformly adaptive; strongly negative background strains increased growth lag even if culture could reach higher final density",
+        "23 additional background clones from one ancestral population are not independently evolved Cit+ origin events",
+        "Reported classifications: four benefited, nine nonsignificant, eleven harmed, which add to 24; authors reference 23 additional backgrounds; exact exclusive membership remains unverified; cannot silently normalize category counts",
+        "Reversion during citrate-free passage is a single identified comparison, not a selection-withdrawal cohort survival frequency"
+      ],
+      "reported_background_additional_n": 23,
+      "reported_positive_categories_count": 4,
+      "reported_nonsignificant_categories_count": 9,
+      "reported_harmful_categories_count": 11,
+      "reported_strongly_harmful_over_20pct_count": 5,
+      "unreconciled_category_arithmetic": "4+9+11=24 vs 23 additional tested; could include separate control/overlap/different one-vs-two-tail tests, but explanation unverified without individual-level original data reconstruction",
+      "authentic_early_Cit_positive_relative_competitive_advantage_percent": 2.2,
+      "observed_single_isolate_Cit_negative_reversion_after_citrate_absent_passing": true,
+      "independent_reversion_frequency_estimated": false,
+      "unit": "23 additional archived, related genetic backgrounds, matched comparisons, one naturally evolved Cit+ original and revertant; marker/control technical fitness replicates not evolutionary founders",
+      "raw_data_reanalysis": false,
+      "independent_E3": false,
+      "conflicts": "Authors declared no competing interests"
+    },
+    {
+      "source_id": "P49-S3",
+      "doi": "10.7554/eLife.55414",
+      "citation": "Blount ZD, Maddamsetti R, Grant NA et al. Genomic and phenotypic evolution of Escherichia coli in a novel citrate-only resource environment. eLife 9:e55414 (2020).",
+      "original_final": "https://elifesciences.org/articles/55414v2",
+      "original_methods_figures": "https://elifesciences.org/articles/55414/figures",
+      "original_pubmed": "https://pubmed.ncbi.nlm.nih.gov/32469311/",
+      "date_final": "2020-06-23",
+      "rights": "CC BY 4.0 original eLife article, third-party work separate; critical paraphrase only",
+      "grade": "E2-partial original indexed Methods/Results/figure text plus author/reviewer exchanges; direct full continuous publisher opening client-challenged; no full supplements/raw sequencing independent reanalysis",
+      "program": "Lenski/Barrick collaborator group, dependent on original Ara-3 LTEE Cit+ ancestors, NOT independent new Cit+ origin",
+      "founders": "Three Cit+ clones from generation 33,000 of a single Ara-3 LTEE lineage plus three isogenic arabinose-marker revertant descendants (all Cit-positive at start)",
+      "evolved_populations_total": 24,
+      "cit_only_DM0_evolved_populations": 12,
+      "glucose_and_citrate_DM25_evolved_populations": 12,
+      "lab_evolution_generations_approx": 2500,
+      "positive": [
+        "Population-level citrate-only growth curves generally evolved reduced lag time and higher growth rates under managed passage",
+        "Structural variation including insertion sequences and gene amplification among evolved descendants, suggesting within-niche adaptation",
+        "Screened 24 lines for sequence changes after maintained laboratory evolution, a follow-up study of an inherited functional innovation"
+      ],
+      "negative": [
+        "Some evolved clones/populations appeared to decline in competition fitness despite sustained laboratory propagation, growth assays not equivalent to death-rate assays",
+        "Five examined microscope clone backgrounds, not all 24 evolved populations, supplied substantial clone-specific stationary-phase death-stain observations and admitted replication limits",
+        "A Cit-negative clone ZDBp874 lacking CitT genomic amplification recovered from one DM0-evolved population; second clone ZDBp875 from same population was Cit-positive",
+        "Phenotypic screens of hundreds of other clones from DM0-2 found no additional Cit-negative variant; single loss is consistent with transient reversion or rare coexisting lineage, not population loss",
+        "Continued manual culture and relevant citrate availability: no multi-founder selection-withdrawal persistence test"
+      ],
+      "sampled_clone_dead_staining_by_condition_percent": {
+        "ancestor_REL606_DM25": 10.7,
+        "early_Cit_positive_CZB151_DM25": 29.6,
+        "late_Cit_positive_REL11364_DM25": 39.9,
+        "DM0_evolved_ZDBp871_in_DM0": 53,
+        "DM25_evolved_ZDBp910_in_DM0": 51.6
+      },
+      "staining_scope": "five clone identities with nested imaging fields/cells and limited culture replicates; no 24-population-level death rates; potential phase/timing confounds and peer-review limitations noted",
+      "cit_negative_clone": "ZDBp874",
+      "same_population_cit_positive_clone": "ZDBp875",
+      "mutant_loss_lineage_full_population_documented": false,
+      "raw_data_reanalysis": false,
+      "independent_E3": false
+    }
+  ],
+  "independence": {
+    "independent_new_origin_programs": "Idaho Van Hofwegen (2016) independent direct-selection study vs Lenski original evolution program; 2018 and 2020 compare/re-use descendants of one 1988 LTEE origin with overlapping researchers",
+    "three_independent_origin_replications": false,
+    "difference_in_selection_environment": "2016 explicitly lengthy direct citrate selection vs ancestral LTEE daily glucose-advantaged transfer; 2020 trials begin with already Cit-positive ancestors",
+    "routinely_existing_living_cells": true,
+    "manual_culture_transfer_maintained": true
+  },
+  "selection_withdrawal_gates": {
+    "citrate_removed_one_2018_reversion": true,
+    "selection_stopped_but_full_multi_founder_retention_distribution": false,
+    "operator_managed_culture_transitions_removed": false,
+    "positive_new_ecological_function_observed": true,
+    "uniform_context_independent_benefit": false,
+    "complete_constructor_reproductive_closure": false
+  },
+  "hypotheses": [
+    "P49-H1",
+    "P49-H2",
+    "P49-H3",
+    "P49-H4",
+    "P49-H5",
+    "P49-H6",
+    "P49-H7",
+    "P49-H8"
+  ],
+  "all_hypotheses_future_only": true,
+  "old_log_prefix_preserved": true,
+  "prior_passes_unchanged": true,
+  "canonical_source_claim_catalog_unchanged": true,
+  "prior_eerc_v1_to_v7_unchanged": true,
+  "errata_preserved": true,
+  "new_experiments_organisms_simulations_models_created": false,
+  "other_repos_modified": false,
+  "new_schedules_created": false,
+  "costs_incurred": false,
+  "scheduled_write_permission_verified": false,
+  "release_gate": "Require successful offline CI at exact PR head, unchanged main and reviewed PR head immediately prior to expected-head merge; independent post-merge main push CI success required for verified publication."
+}

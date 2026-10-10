@@ -1,0 +1,120 @@
+{
+  "pass": 43,
+  "date": "2026-10-10",
+  "scope": "Research-only original-source comparison of nascent ribosome assembly versus continuous self-replacement and cis-encoded translation",
+  "status": "RESEARCH_ONLY_PRIMARY_E2_E2_E1_FUTURE_HYPOTHESES_UNTESTED",
+  "base_main_at_start": "341a24a80c41f7d936718acb171a00ccbec1924d",
+  "review_path": "docs/artificial-life/136-pass43-ribosome-biogenesis-vs-replacement.md",
+  "source_count": 3,
+  "research_programs": 3,
+  "source_derived_whole_constructor_lineage_reproductions": 0,
+  "independent_E3_replications": 0,
+  "sources": [
+    {
+      "source_id": "P43-S1",
+      "doi": "10.1038/msb.2013.31",
+      "title": "In vitro integration of ribosomal RNA synthesis, ribosome assembly, and translation",
+      "authors": "Jewett MC, Fritz BR, Timmerman LE, Church GM",
+      "journal": "Molecular Systems Biology 9:678",
+      "publication_date": "2013-06-25",
+      "publisher_url": "https://link.springer.com/article/10.1038/msb.2013.31",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3964315/",
+      "program": "Northwestern/Harvard integrated synthesis assembly translation",
+      "study_independence": "Distinct experimental program; prior mechanistic predecessor, not independent reproduction of later whole-ribosome biogenesis",
+      "grade": "E2 accessible original main Methods/Results/Discussion inspected; supplement and raw observations not independently reprocessed",
+      "rights": "PMC original identifies CC BY-NC-SA 3.0; source text paraphrased, no figure or data copying",
+      "positive": "New rRNA cotranscribed/assembled with purified native ribosomal proteins in S150 extract; assembled 50S from new 23S RNA supports firefly luciferase output; mutant rRNA confers functional antibiotic resistance",
+      "quantitative": "Integrated 50S iSAT 0.63 ± 0.10 nmol/l Fluc at four hours versus approximately 3.2 nmol/l from matched mature-rRNA assembly reference (about 20%); Fig 2 at least four independent reactions",
+      "negative_and_controls": "No 23S gene control had no detectable Fluc; isolated pretranscribed/purified 23S RNA led to roughly 200-fold less output; some later optimization failed to improve coupled result; contamination rRNA investigated",
+      "external_dependencies": [
+        "Native ribosomal proteins purified from native ribosomal subunits",
+        "Existing natural complementary ribosomal subunits in important assay arms",
+        "E. coli S150 derived extract containing nonregenerated auxiliary machinery",
+        "Prepared DNA templates and substrates"
+      ],
+      "not_demonstrated": [
+        "De novo synthesis of all ribosomal proteins in same reaction",
+        "Full machinery renewal without active native subunits",
+        "Ribosome daughter lineages or endogenous template propagation"
+      ],
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P43-S2",
+      "doi": "10.1038/s41467-025-55853-7",
+      "title": "Autonomous ribosome biogenesis in vitro",
+      "authors": "Kosaka Y, Miyawaki Y, Mori M et al.",
+      "journal": "Nature Communications 16:514",
+      "publication_date": "2025-01-08",
+      "publisher_url": "https://www.nature.com/articles/s41467-025-55853-7",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11711502/",
+      "program": "Kyoto/Japan collaborative ribosome-biogenesis",
+      "study_independence": "Different team and experiment from 2013 iSAT, but builds on that mechanism; not an E3 independent replication of complete self-reproduction",
+      "grade": "E2 original main Methods/Results/Discussion/statistics/rights inspected; source data and supplementary image series not independently reanalyzed",
+      "rights": "Publisher original CC BY-NC-ND 4.0; no adaptation/distribution of figures or supplemental source",
+      "positive": "Expressed three rRNAs and 54 ribosomal proteins in a prepared S150 extract with 80 nM native ribosome seed; nascent SSU and LSU identified via orthogonality, antibiotic selection, isotope and mutant-protein controls; purified mixed new subunits functioned",
+      "quantitative": "Authors' reporter-calibrated equivalent yields 9.8 nM small and 3 nM large from 80 nM initial native; roughly 12% and 3.8%; authors state at least 26-fold productivity improvement needed for one-for-one renewal; selected assays n=3 biological replicates",
+      "negative_and_controls": "Initial SSU conditions showed no detectable function; greater DNA concentration hindered yield rather than helping; first droplet assay native background signal required additional selectivity; salts nonphysiological reduced success; no artificial aptamer-rRNA control lost double-antibiotic signal",
+      "external_dependencies": [
+        "80 nM natural ribosomal starting seed in key paired-subunit studies",
+        "Pre-made E. coli S150 soluble extract with accessory ribosome biogenesis factors",
+        "Investigator-prepared 3-rRNA/54-protein DNA constructs",
+        "Optimized ionic conditions and operator-run separate functional assay"
+      ],
+      "not_demonstrated": [
+        "One-for-one whole active ribosome replacement",
+        "Repeated ribosome generations without initial native seed",
+        "tRNA accessory-protein and full template self-renewal",
+        "Dividing synthetic cells with heritable constructor"
+      ],
+      "raw_data_reprocessed": false
+    },
+    {
+      "source_id": "P43-S3",
+      "doi": "10.1038/s41586-026-10962-1",
+      "title": "Rewiring the ribosome to translate proteins encoded in its own RNA",
+      "authors": "Alizadeh K, Klepacki D, Vázquez-Laslop N, Mankin AS",
+      "journal": "Nature (online 2026-09-02)",
+      "publication_date": "2026-09-02",
+      "publisher_url": "https://www.nature.com/articles/s41586-026-10962-1",
+      "verification_record": "https://pubmed.ncbi.nlm.nih.gov/42686901/",
+      "program": "University of Illinois Chicago Mankin ribosome cis-translation",
+      "study_independence": "Distinct biological construct and lab, not replication of de novo ribosome assembly",
+      "grade": "E1 original publisher abstract, figure descriptions and metadata; complete main Methods/results gated during this review",
+      "rights": "Article full redistribution license not established; PCT/US2025/047444 patent interest disclosed by named authors; original paraphrase only",
+      "positive": "Reports Ribo-M and Ribo-TM ribosomes translating polypeptide coding sequence on chimeric ribosomal RNA, with mutation/antibiotic controls supporting in-cis function",
+      "quantitative": "No credible numerical efficacy or biological-replicate statement from reviewed accessible source; omit estimates",
+      "negative_and_controls": "Abstract reports in-cis translation abolished by small-subunit impairing mutations/antibiotics; specific replicate counts, selective failures and exclusions not independently audited",
+      "external_dependencies": [
+        "Engineered chimeric messenger-rRNA and preexisting 30S/50S/tethered ribosome configuration",
+        "Externally supplied cellular or cell-free biosynthesis system",
+        "No shown regenerated ribosome/protein/transmitted genome inventory"
+      ],
+      "not_demonstrated": [
+        "De novo reproduction of encoded ribosome",
+        "Self-synthesis of complete ribosomal replacement machinery",
+        "Heritable autonomous descendants"
+      ],
+      "raw_data_reprocessed": false,
+      "full_original_main_accessible": false
+    }
+  ],
+  "hypotheses_future_only": [
+    "P43-H1",
+    "P43-H2",
+    "P43-H3",
+    "P43-H4",
+    "P43-H5",
+    "P43-H6"
+  ],
+  "unexecuted_hypotheses": true,
+  "complete_source_rights_and_provenance": "Source DOI/date/version/access tiers recorded; rights differ and publisher HTML for 2026 full article not independently accessible.",
+  "distinct_from_pass42": "Pass 42 studied non-ribosomal translation factors, co-expression and a subset of aaRS; Pass 43 studies directly new functional ribosomal subunits and cis-encoding, with turnover/lineage limits.",
+  "prior_EERC_v1_v7_changed": false,
+  "prior_catalog_and_claim_ids_changed": false,
+  "prior_log_history_rewritten": false,
+  "no_experiments_simulations_models_organisms_or_costs": true,
+  "other_repositories_modified": false,
+  "scheduled_write_permission_verified": false,
+  "publication_status": "BRANCH_DRAFT_UNTIL_EXACT_PR_HEAD_AND_NEW_MAIN_PUSH_CI_VERIFIED"
+}

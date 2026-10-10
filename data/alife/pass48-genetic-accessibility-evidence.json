@@ -1,0 +1,225 @@
+{
+  "pass": 48,
+  "date": "2026-10-10",
+  "scope": "Research-only three-program comparison: broad allele accessibility vs within-individual viable assembly, researcher-assisted recoding rescue, new adaptive function, and independent lineage reproductive closure.",
+  "status": "RESEARCH_ONLY_THREE_PRIMARY_E2_DEPTH_ORIGINALS_NOT_E3_FUTURE_ONLY_HYPOTHESES_UNTESTED",
+  "baseline_main_at_preparation": "6ae34300020b27a55cbc704dc255bfea4e77a090",
+  "review_path": "docs/artificial-life/141-pass48-genetic-accessibility-vs-functional-continuity.md",
+  "new_original_paper_reviews": 3,
+  "new_original_E2_depth": 3,
+  "new_E3_independent_reproductions": 0,
+  "independent_major_programs": 3,
+  "verified_independent_non_Mollicutes_total_genome_revival_with_genome_inactivated_recipient": 0,
+  "new_abiotic_cell_founders": 0,
+  "fully_autonomous_beneficial_new_function_lineages": 0,
+  "search_gap": "Bounded original-primary search found no verified independent non-Mollicutes total-genome transplantation into a genome-inactivated cell with first-founder negative-survivor exclusion; not exhaustive absence proof.",
+  "studies": [
+    {
+      "source_id": "P48-S1",
+      "doi": "10.1073/pnas.2105458119",
+      "citation": "Khetrapal V, Ow Yong LA, Lim SJM, Chen SL. Development of mass allelic exchange, a technique to enable sexual genetics in Escherichia coli. PNAS 119:e2105458119 (2022).",
+      "published_online": "2022-11-02",
+      "issue_date": "2022-11-08",
+      "original_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9659338/",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/36322728/",
+      "evidence_grade": "E2 original open main Results/Discussion/Methods and figure descriptions, indexed article accessible with intermittent PMC browser challenge; no supplementary/raw data E3 reanalysis",
+      "rights": "CC BY 4.0 published primary, independent critical paraphrase only; no source experimental sequences, harmful procedures or figures reproduced",
+      "program": "Singapore National University / Genome Institute of Singapore",
+      "measured_unit": "353 selected laboratory-derived E. coli hybrid clones in analyzed collection (not independent abiotic founder lineages); 267 clones with single main recombination block",
+      "positive_results": [
+        "Across a screened arrayed hybrid library donor-origin alleles cover 96% of recipient E. coli chromosome positions in at least one clone (union, not one whole genome replaced)",
+        "Sequenced donor-genome tracts approximately 16 to 1780 kilobases across clones with 298 kb median",
+        "Donor-derived already existing host-cell interaction phenotype causally linked to a transferred locus within otherwise living E. coli"
+      ],
+      "numerical_receipts": {
+        "clones_screened": 353,
+        "single_block_hybrids": 267,
+        "single_block_fraction_percent": 75.6,
+        "library_union_genome_positions_represented_percent": 96,
+        "single_clone_96_percent_replacement_demonstrated": false,
+        "tract_range_kb": [
+          16,
+          1780
+        ],
+        "tract_median_kb": 298
+      },
+      "negatives_limits": [
+        "Study does not provide joint 96% whole-genome replacement in a single cloned bacterium",
+        "Designed recombination and researcher selection relied on living source and recipient cells; laboratory inheritance not abiotic origin",
+        "Transferred phenotype existed in biological donor rather than emerging as a wholly new evolved ecological capability",
+        "Methodological generalization to other bacterial genera not demonstrated",
+        "Clones are selected outcomes and do not quantify all original failed genotype combinations or prospective ecological descendant fitness"
+      ],
+      "founder_scaffold": [
+        "Already living donor and recipient E. coli",
+        "Operator engineered genetic exchange and selective readout"
+      ],
+      "program_independence": "Distinct from 2023 Cologne Bacillus and 2026 Harvard recoding labs; different endpoint, not same-result replication",
+      "conflict": "No competing interests declared",
+      "raw_supplements_reprocessed": false,
+      "independent_E3": false
+    },
+    {
+      "source_id": "P48-S2",
+      "doi": "10.1093/nar/gkad1074",
+      "citation": "Förster M, Rathmann I, Yüksel M, Power JJ, Maier B. Genome-wide transformation reveals extensive exchange across closely related Bacillus species. Nucleic Acids Research 51:12352–12366 (2023).",
+      "published_online": "2023-11-16",
+      "issue_date": "2023-12-11",
+      "original_url": "https://academic.oup.com/nar/article/51/22/12352/7424431",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10711437/",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37971327/",
+      "evidence_grade": "E2 original publisher-indexed Methods, Results/figures, Discussion, license; some full-page open requests fail, but original main sections accessible; no independent raw-data reanalysis",
+      "rights": "OUP NAR original CC BY-NC 4.0 (different from prior preprint license); critical paraphrase only",
+      "program": "University of Cologne / Berenike Maier research group",
+      "founder_scaffold": [
+        "Living B. subtilis recipients engineered for inducible competence",
+        "Operator-supplied donor DNA, 20 laboratory-managed uptake cycles",
+        "Viable colony selection between cycles; sequencing after cycles 10 and 20"
+      ],
+      "experimental_units": {
+        "donor_backgrounds": 4,
+        "donors": [
+          "B. spizizenii",
+          "B. vallismortis",
+          "B. atrophaeus",
+          "Geobacillus thermoglucosidasius"
+        ],
+        "final_independent_sequenced_lineages_by_donor": {
+          "spizizenii": 8,
+          "vallismortis": 8,
+          "atrophaeus": 7,
+          "Geobacillus": 8
+        },
+        "no_donor_control_final_sequences": 7,
+        "operator_cycles": 20,
+        "pooled_hybrids_for_core_gene_accessibility": 42,
+        "assay_ascertainment": "Nonviable or very slow non-colony-forming hybrids excluded from assessed populations; not all initial donors/founders"
+      },
+      "positive_results": [
+        "Across pooled studied hybrid strains at least 96% of recipient Bacillus core genes accessible to replacement by alleles from B. spizizenii",
+        "137 core genes remained without observed replacements among pooled tested samples, not proven inaccessible",
+        "For matched laboratory genome-uptake regime, core-genome replacement rates decrease with donor-recipient sequence divergence"
+      ],
+      "numerical_receipts": {
+        "pooled_core_genes_replaced_in_at_least_one_hybrid_percent": 96,
+        "pooled_core_genes_without_observed_replacement": 137,
+        "per_lineage_96_percent_replaced": false,
+        "percent_core_genome_replaced_per_hour_mean_and_SE": {
+          "spizizenii": [
+            0.21,
+            0.02
+          ],
+          "vallismortis": [
+            0.1,
+            0.005
+          ],
+          "atrophaeus": [
+            0.003,
+            0.001
+          ]
+        },
+        "cross_genus_Geobacillus_orthologous_replacement_detected": 0,
+        "no_donor_controls_with_orthologous_replacement": 0
+      },
+      "negatives_limits": [
+        "Cross-genus Geobacillus transfer not detected in window, not a universal impossibility proof",
+        "For B. atrophaeus original describes very few replacement events in five of eight assayed strains, with clustering in regions of higher similarity (do not rephrase as exactly five positive or negative lineages)",
+        "Mean competition fitness not significantly changed among surviving assayed colonies, but tails broaden and individual beneficial/deleterious variants exist",
+        "Excluded nonviable and slow overnight-colony failures mean minimal selection is not the absence of viability selection",
+        "96% union of accessible core positions across 42 pooled strains is not 96% replacement in any one descendant, and no origin from nonliving inputs",
+        "A known same-team earlier transformation study added selection and yielded different rates; do not count as external E3 replication"
+      ],
+      "conflict": "No conflicts of interest declared by original",
+      "deposited_original_data": "NCBI SRA PRJNA987405; Zenodo 10.5281/zenodo.8273150; not downloaded or executed",
+      "raw_supplements_reprocessed": false,
+      "independent_E3": false
+    },
+    {
+      "source_id": "P48-S3",
+      "doi": "10.1038/s41467-026-74300-9",
+      "citation": "Nyerges A, Chiappino-Pepe A, Budnik B et al. Probing the limits of genetic recoding using multi-omics-guided evolution. Nature Communications 17:5311 (2026).",
+      "publication_date": "2026-06-22",
+      "original_url": "https://www.nature.com/articles/s41467-026-74300-9",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13287592/",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42331836/",
+      "evidence_grade": "E2 full original peer-reviewed published Results/Methods/Discussion/figures/licensing; no supplements/raw omics/code independent repetition",
+      "rights": "Original Nature Communications CC BY-NC-ND 4.0; do not adapt paper/figures; only original critical paraphrase",
+      "program": "Harvard Medical School / Church and Nyerges collaborations; GenScript and other research partners; separate original endpoint from 2022/2023 groups",
+      "founder_scaffold": [
+        "Living engineered E. coli lineages from viable cellular ancestors",
+        "Human-directed DNA synthesis, genome-segment editing, transcription/proteomics interpretation and directed lab-selection rounds",
+        "Operator growth, engineering and transfer; no initial abiotic-cell bootstrap"
+      ],
+      "positive_results": [
+        "Fully designed synthetic sequence produced as many DNA segments; six partially recoded viable strains constructed, largest 45.8% target synthetic genome in a single E. coli",
+        "Full design targets 57 codons, but complete 57-codon living Ec_Syn57 genome not assembled in one viable strain in this paper",
+        "Multi-omics-guided lab-debugging identified ways to recover growth phenotype in impaired partial target region",
+        "Reported recovery from 110.6 ± 5.83 min to 64.8 ± 3.09 min doubling in one impaired-strain versus selected-variant comparison"
+      ],
+      "numerical_receipts": {
+        "partially_recoded_strains": 6,
+        "max_target_synthetic_genome_fraction_in_one_strain_percent": 45.8,
+        "completely_assembled_57_codon_Ec_Syn57_strains_in_paper": 0,
+        "designed_DNA_base_changes": 162521,
+        "recoded_codon_instances_full_design_or_combined_program": 62029,
+        "cumulative_integration_rounds": 89,
+        "cumulative_genome_editing_cycles": 113,
+        "cumulative_adaptive_laboratory_evolution_days": 680,
+        "estimated_variants_explored_not_independent_ancestors": "~6.1e12 author estimate",
+        "minimal_medium_growth_lost_above_partial_genome_percent_in_tested_series": 2.2,
+        "impaired_precursor_doubling_mean_min": 110.6,
+        "impaired_precursor_doubling_sd_min": 5.83,
+        "debugged_selected_variant_doubling_mean_min": 64.8,
+        "debugged_selected_variant_doubling_sd_min": 3.09,
+        "impaired_precursor_max_OD_mean": 0.31,
+        "debugged_variant_max_OD_mean": 1.01,
+        "remaining_steps_to_full_target_reported_by_authors": 5
+      },
+      "negatives_limits": [
+        "Some synonymous recodings were lethal or impaired growth, despite nominal amino-acid equivalence",
+        "Genome synthesis errors, transposition and escape through unreplaced parental DNA demanded investigator interventions",
+        "Partially recoded strains >2.2% synthetic target sequence lost tested minimal-medium growth under reported conditions",
+        "Remaining full-genome steps unfinished; other paper's Syn57 genome belongs to separate study and cannot be attributed here",
+        "Restored phenotype localized to selected engineered segment/strain and lab conditions, not a newly evolved autonomous cellular repair strategy",
+        "Estimated variant search volume, partial strain count and parent comparison not independent E3 organism origins"
+      ],
+      "program_independence": "One large collaboration with disclosed overlapping interests but distinct lab program; not proof of three independent de novo cell bootstraps",
+      "disclosures": "Nyerges directed-evolution patent; Harvard provisional Ec_Syn57 patent including Nyerges/Church; named commercial GenScript employees; Church founder equity interests",
+      "raw_supplements_reprocessed": false,
+      "independent_E3": false
+    }
+  ],
+  "cross_study_conclusions": [
+    "2022 arrayed allele coverage / 2023 pooled lineages / 2026 partial synthetic genome fraction are incompatible denominators and cannot be summed",
+    "Existing donor trait transference is not novel beneficial capability originating after selection",
+    "Viable laboratory genetic variants and genuine heritable sequence are established, but full abiotic cellular boot, internal constructor genesis, and unattended independent lineage ecology are unverified",
+    "All three programs independently studied distinct genetic-variation questions; none replicated another's full causal endpoint"
+  ],
+  "future_only_hypotheses": [
+    "P48-H1",
+    "P48-H2",
+    "P48-H3",
+    "P48-H4",
+    "P48-H5",
+    "P48-H6",
+    "P48-H7",
+    "P48-H8"
+  ],
+  "hypotheses_executed": false,
+  "review_limitations": [
+    "Not a systematic exhaustive negative evidence search",
+    "Original full-main methods read but no raw datasets or supplemental reprocessing",
+    "Three independent lab programs, not E3 replication of the same experimental result",
+    "No laboratory or computational scientific experiments conducted"
+  ],
+  "previous_passes_unchanged": true,
+  "prior_log_prefix_unchanged": true,
+  "canonical_source_claim_catalog_unchanged": true,
+  "prior_EERC_v1_to_v7_unchanged": true,
+  "old_errata_unchanged": true,
+  "no_models_simulations_experiments_organisms_created": true,
+  "other_repositories_modified": false,
+  "new_tasks_or_schedules_created": false,
+  "scheduled_write_permission_verified": false,
+  "release_gate": "Exact reviewed PR-head syntax/catalog/unittest CI; main and PR head unchanged at expected-head merge; separately verify post-merge main push CI. Interactive write does not prove scheduled custodian write authority."
+}

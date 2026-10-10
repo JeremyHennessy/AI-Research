@@ -1,0 +1,107 @@
+{
+  "pass": 50,
+  "date": "2026-10-10",
+  "scope": "primary_research_only_no_organism_model_simulation_or_implementation",
+  "review_path": "docs/artificial-life/143-pass50-kinematic-biobots-vs-reproductive-closure.md",
+  "baseline_main_at_preparation": "e3eb5e3d8609d7ddab8bd1c10e036dc4fc4198a1",
+  "status": "RESEARCH_REVIEW_NOT_EMPIRICAL_REPRODUCTION",
+  "new_E3_independent_reproductions": 0,
+  "source_independence_caveat": "Kriegman and Gumuskaya share Tufts/Levin researcher connections but test different experimental endpoints; USC comparator is independent and preprint-only.",
+  "sources": [
+    {
+      "id": "P50-S1",
+      "doi": "10.1073/pnas.2112672118",
+      "year": 2021,
+      "level": "E2_original_main",
+      "license": "CC BY-NC-ND 4.0",
+      "program": "Tufts/UVM/Harvard",
+      "observations": [
+        "Four of five wild-type trials one filial round; one trial two rounds",
+        "Three sculpted trials mean 3 ± 0.8 rounds, maximum four; daughters revert toward spheres",
+        "Externally supplied living cells; electronic-circuit utility simulated only"
+      ],
+      "limits": [
+        "no repeated de novo cell construction",
+        "supply/reproduction finite"
+      ]
+    },
+    {
+      "id": "P50-S2",
+      "doi": "10.1002/advs.202303575",
+      "year": 2024,
+      "first_online": "2023-11-30",
+      "level": "E2_original_main",
+      "license": "Open source article; inspect actual reused item rights",
+      "program": "Tufts-linked, not independent Xenobot replication",
+      "observations": [
+        "1,127 motile of 2,281 assessed constructs",
+        "Five stable bridges of ten neural scratch attempts"
+      ],
+      "limits": [
+        "in vitro morphology not neuronal electrophysiological restoration",
+        "no daughter lineage transmission"
+      ]
+    },
+    {
+      "id": "P50-S3",
+      "doi": "10.1101/2025.07.09.663178",
+      "year": 2025,
+      "level": "E1_preprint_comparator",
+      "license": "unverified redistribution rights",
+      "program": "Independent USC",
+      "observations": [
+        "Some stem-cell motile constructs, greater frequency after supplied protocol/organizer changes"
+      ],
+      "limits": [
+        "not peer-reviewed E2",
+        "no independent reproductive closure"
+      ]
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "P50-H1",
+      "status": "future_only_untested",
+      "question": "Inherited sculpted morphology"
+    },
+    {
+      "id": "P50-H2",
+      "status": "future_only_untested",
+      "question": "New living-cell feedstock withdrawal"
+    },
+    {
+      "id": "P50-H3",
+      "status": "future_only_untested",
+      "question": "Neural functional repair"
+    },
+    {
+      "id": "P50-H4",
+      "status": "future_only_untested",
+      "question": "Daughter transmission of repair function"
+    },
+    {
+      "id": "P50-H5",
+      "status": "future_only_untested",
+      "question": "Full energy and handling cost"
+    },
+    {
+      "id": "P50-H6",
+      "status": "future_only_untested",
+      "question": "Independent origin"
+    },
+    {
+      "id": "P50-H7",
+      "status": "future_only_untested",
+      "question": "Failure-inclusive denominators"
+    },
+    {
+      "id": "P50-H8",
+      "status": "future_only_untested",
+      "question": "Whole apparatus role and constructor renewal"
+    }
+  ],
+  "unassisted_full_reproductive_closure_proven": false,
+  "scheduled_write_permission_verified": false,
+  "previous_passes_unchanged": true,
+  "older_EERC_v1_to_v7_unchanged": true
+}

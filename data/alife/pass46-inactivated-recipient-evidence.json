@@ -1,0 +1,133 @@
+{
+  "pass": 46,
+  "date": "2026-10-10",
+  "scope": "Research-only original-source critical review of 2026 selection-free whole-genome transplant into genomically inactivated but metabolically functioning bacterial chassis versus abiotic construction; no experiments",
+  "status": "RESEARCH_ONLY_NEW_E2_DEPTH_INDEXED_PRIMARY_PREPRINT_NOT_PEER_REVIEWED_NOT_E3_FUTURE_ONLY_UNTESTED",
+  "baseline_main_at_preparation": "77f4c9e44bea4d928caa702aebe725e81097b445",
+  "review_path": "docs/artificial-life/139-pass46-revival-of-genomically-inactivated-cells.md",
+  "new_primary_original_count": 1,
+  "new_preprint_count": 1,
+  "independent_external_replications_of_founding_claim": 0,
+  "already_audited_context_count": 2,
+  "source": {
+    "source_id": "P46-S1",
+    "citation": "Seidel ZP et al. Selection-free whole genome transplantation revives dead microbes. bioRxiv version 1, 14 March 2026.",
+    "doi": "10.64898/2026.03.13.711674",
+    "preprint_version": "v1",
+    "publication_date": "2026-03-14",
+    "preprint_url": "https://www.biorxiv.org/content/10.64898/2026.03.13.711674v1",
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13060880/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41959439/",
+    "evidence_grade": "E2-depth indexed original main Results/selected Methods/figure legends/Discussion, caveated: direct full-text open 403 or browser challenge; complete contiguous final main text, supplements, raw figure observations and E3 replication not inspected",
+    "journal_peer_reviewed": false,
+    "institutional_metadata_discrepancy": "NIST catalog cites Nature; as of this review verified original with DOI 10.64898/2026.03.13.711674 is a bioRxiv version 1 preprint. Do not infer peer-reviewed Nature article without original journal DOI.",
+    "rights": "bioRxiv source version reports CC BY 4.0, original critical paraphrase only; figures/raw files and supplementary archives not reused",
+    "program": "JCVI and NIST; overlaps older JCVI Gibson 2010 transplantation research program",
+    "founding_chassis": "M. capricolum recipient with native genome replication inactivated by DNA crosslinking but preassembled functional transcription/translation and membranes retained; restriction system engineered for donor compatibility",
+    "donor_genome": "Prepared M. mycoides complete genome from living bacterial/yeast intermediates",
+    "positive_outcomes": [
+      "Donor-genome genotype bacterial colonies emerged after recipient native genomic DNA disabling",
+      "Growth on plates without antibiotic marker selection plus blue/white genotype and PCR controls",
+      "Transplantation persisted under conditions where replicating plasmid transformation was undetected",
+      "Two different genome DNA crosslinking routes supported some transplantation: MMC and psoralen photoactivation"
+    ],
+    "negative_outcomes": [
+      "Conventional WGT was confounded by homologous recombination of resistance markers in previous non-Mycoides/intraspecies attempts, misleadingly scoring partial donor DNA transfer as whole-genome replacement",
+      "Original recipient survival after genome-inactivating treatment not completely zero: approximately 7200 viable out of initially ~10 billion",
+      "Total transplant colonies decreased rather than increased after damage: 68 plus/minus 59 to 25 plus/minus 19 in reported comparison",
+      "No transplants in strongest MMC treatment regime in tested series",
+      "Psoralen had narrow successful condition range, increased photoactivation lowered WGT yield",
+      "Whole-genome transplantation across distant bacterial taxa or into nonliving assembled cytoplasm not demonstrated"
+    ],
+    "quantitative_original_results": {
+      "recipient_viable_counts_untreated_approx": 10000000000,
+      "recipient_viable_counts_treated_approx": 7200,
+      "absolute_transplants_untreated_mean": 68,
+      "absolute_transplants_untreated_sd": 59,
+      "absolute_transplants_untreated_n": 7,
+      "absolute_transplants_treated_mean": 25,
+      "absolute_transplants_treated_sd": 19,
+      "absolute_transplants_treated_n": 6,
+      "transplants_per_viable_recipient_untreated": "~1 / 1.5e8",
+      "transplants_per_viable_recipient_treated": "~1 / 288",
+      "reported_relative_per_viable_recipient_gain": "approximately 500,000-fold",
+      "absolute_transplant_gain": false,
+      "recipient_viability_drop": "~10^6-fold in treatment-series comparison",
+      "transplant_number_drop": "~10-fold in treatment-series comparison; separate from N=7 vs N=6 comparison",
+      "tested_blue_white_colonies_for_multiplex_PCR": {
+        "blue": 3,
+        "white": 3
+      },
+      "selected_bacterial_vs_yeast_genome_preparation_comparisons": {
+        "source_replicates_per_arm": 3,
+        "negative": "much lower yeast-sourced yields, sometimes only one donor colony in treated arm"
+      }
+    },
+    "control_evidence": [
+      "Conventional replicative plasmid transformation suppressed even as WGT survived under matched genomic-inactivation exposure",
+      "Blue donor and white residual recipient genotype exemplars validated with multiplex PCR and differentiated antibiotic growth",
+      "Untreated recipient lawn on antibiotic-free plates masked donor transplants",
+      "Alternative crosslinker supports a plausible genomic lesion mechanism but did not independently recreate a new cell origin"
+    ],
+    "alternative_explanations": [
+      "Rare remaining viable recipients enriched for WGT competence may contribute some colonies; no complete single-cell ancestry inventory",
+      "Different genome versus plasmid transformation properties may complicate exact inference about per-cell nonviability",
+      "Already active old transcription/translation/membrane apparatus, deliberately retained, supplies the bootstrap; genuinely abiotic materials not tested",
+      "Highly non-general Mycoides-clade compatibility and engineered recipient restriction-system change"
+    ],
+    "independent_E3_reproduction": false,
+    "new_abiotic_cell_constructor_from_nongenomic_raw_inputs": false,
+    "new_genome_deficient_recipient_rescue_support": true,
+    "individual_founder_origin_of_all_transplants_proven": false,
+    "complete_new_membrane_translation_apparatus_from_inert_inputs_proven": false,
+    "raw_data_reprocessed": false,
+    "source_material_redistributed": false
+  },
+  "context_only": [
+    {
+      "doi": "10.1126/science.1190719",
+      "role": "Previously E2 main primary in Pass45: genome transplantation into living native cytoplasm; overlapping JCVI team, not independent 2026 replication",
+      "new_review": false
+    },
+    {
+      "doi": "10.64898/2026.07.01.735724",
+      "role": "Already reviewed Gaut et al 2026 E2-partial preprint in Pass40: mechanically cycled liposomes five times and separate engineered cell division; preassembled PURE replenished and no spontaneous adaptive mutation observed",
+      "new_review": false
+    },
+    {
+      "doi": "10.1038/s41467-026-69531-9",
+      "role": "Existing Pass40 E1 context only: Restrepo Sierra et al 2026 integrated six protein program and phospholipid synthesis; not upgraded here or counted as independent genome rescue replication",
+      "new_review": false
+    }
+  ],
+  "independence_conclusion": "2026 Seidel is one JCVI/NIST program with ancestry overlap to 2010 Gibson, not E3; Gaut and Restrepo Sierra investigate different endpoints; no pooled evidence of fully autonomous abiotic reproductive founding",
+  "semantic_boundaries": {
+    "genomic_death": "Loss of recipient cell's ability to form colonies with inactivated own genomic replication",
+    "residual_activity": "Intact active resident transcription and translation, metabolism, and membranes are intentionally preserved",
+    "selection_free": "Free from ANTIBIOTIC resistance selection in plating, not unassisted founding or absence of differential survival",
+    "efficiency_denominator": "Treated viable-recipient counts in denominator dramatically decline; absolute number of successful transplant colonies decreases",
+    "derived_reproduction": "Cell division following reprogramming is genuine but not proof of initial constructor from nonliving ingredients"
+  },
+  "future_only_hypotheses": [
+    "P46-H1",
+    "P46-H2",
+    "P46-H3",
+    "P46-H4",
+    "P46-H5",
+    "P46-H6",
+    "P46-H7",
+    "P46-H8"
+  ],
+  "all_hypotheses_unexecuted": true,
+  "next_primary_question": "Find independent founder-resolved original experiments ruling out residual viable recipients or measuring chromosomal and machinery provenance outside a single JCVI chassis; absent adequate primary evidence, record source gap rather than counterfeit replication",
+  "old_log_prefix_unchanged": true,
+  "prior_passes_unchanged": true,
+  "canonical_source_claim_catalog_unchanged": true,
+  "prior_EERC_v1_to_v7_unchanged": true,
+  "models_simulations_experiments_organisms_created": false,
+  "other_repositories_modified": false,
+  "costs_incurred": false,
+  "new_tasks_or_schedules_created": false,
+  "scheduled_write_permission_verified": false,
+  "publication_gate": "Successful CI on exact reviewed PR head, no main or head drift before expected-head merge, independently verified successful resulting main push run"
+}

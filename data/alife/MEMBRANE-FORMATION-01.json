@@ -1,0 +1,87 @@
+{
+  "record_id": "MEMBRANE-FORMATION-01",
+  "prepared_date": "2026-10-10",
+  "scope": "peer_reviewed_original_main_critical_literature_only",
+  "numbered_pass": null,
+  "source": {
+    "doi": "10.1038/s41467-026-73667-z",
+    "title": "Breaking the membrane heredity paradox through de novo protocell formation",
+    "authors": [
+      "Satyam Khanal",
+      "Alessandro Fracassi",
+      "Alexander Harjung",
+      "Michael D. Burkart",
+      "Neal K. Devaraj"
+    ],
+    "journal": "Nature Communications",
+    "publication_date": "2026-05-28",
+    "grade": "E2-partial_original_main_no_independent_replication",
+    "rights": "CC BY 4.0 subject to exclusions"
+  },
+  "findings": [
+    {
+      "id": "MF-01",
+      "measure": "palmitoyl-CoA synthesis",
+      "value": "42% at 4 hours with supplied ACS/ACC/FAS"
+    },
+    {
+      "id": "MF-02",
+      "measure": "in situ lipid formation",
+      "value": "43% at 12 hours, different condition from 80% at 8 hours with prepared palmitoyl-CoA"
+    },
+    {
+      "id": "MF-03",
+      "measure": "externally fed isotope-traced lipid",
+      "value": "67 mol% melittin pore vs 17 mol% no-melittin"
+    },
+    {
+      "id": "MF-04",
+      "measure": "membrane integrity loss",
+      "value": "25 mol% melittin destructive condition"
+    }
+  ],
+  "external_support": [
+    "supplied soluble enzymes",
+    "ATP and activated cofactors",
+    "externally renewed labelled acetate/cysteine and substrates",
+    "preformed melittin pores",
+    "operator handling, separation and lab apparatus"
+  ],
+  "unknown_costs": [
+    "reaction feed and energy budget",
+    "enzyme renewal",
+    "pore renewal and failure",
+    "waste and material provenance",
+    "simpler fully paid controls"
+  ],
+  "beneficial_reproductive_closure_proven": false,
+  "all_apparatus_roles_renewed": false,
+  "independent_E3_replication": false,
+  "hypotheses": [
+    {
+      "id": "MF-H1",
+      "status": "future_only_untested"
+    },
+    {
+      "id": "MF-H2",
+      "status": "future_only_untested"
+    },
+    {
+      "id": "MF-H3",
+      "status": "future_only_untested"
+    },
+    {
+      "id": "MF-H4",
+      "status": "future_only_untested"
+    },
+    {
+      "id": "MF-H5",
+      "status": "future_only_untested"
+    },
+    {
+      "id": "MF-H6",
+      "status": "future_only_untested"
+    }
+  ],
+  "scientific_implementation_authorized": false
+}

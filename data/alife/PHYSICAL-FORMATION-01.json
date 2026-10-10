@@ -1,0 +1,52 @@
+{
+  "record_id": "PHYSICAL-FORMATION-01",
+  "prepared_date": "2026-10-10",
+  "scope": "original_primary_literature_critique_only",
+  "numbered_pass": null,
+  "source": {
+    "doi": "10.1038/s41567-025-02935-4",
+    "title": "Membraneless protocell confined by a heat flow",
+    "journal": "Nature Physics",
+    "published": "2025-06-26",
+    "grade": "E2-partial_original_main",
+    "rights": "CC BY 4.0 except third-party items"
+  },
+  "observed_positive": [
+    "Maintained heat gradient physically confines/concentrates supplied biochemical components",
+    "In-vitro protein expression achievable using supplied biological machinery"
+  ],
+  "boundaries": [
+    "Heat gradient maintained externally",
+    "Six-month retention projection arises from model, not directly observed six-month protein-production continuity",
+    "No complete constructor renewal or finite feed/exergy/waste/repair ledger",
+    "No independent descendants after specialized intervention withdrawal"
+  ],
+  "hypotheses": [
+    {
+      "id": "PF-H1",
+      "status": "prospective_untested"
+    },
+    {
+      "id": "PF-H2",
+      "status": "prospective_untested"
+    },
+    {
+      "id": "PF-H3",
+      "status": "prospective_untested"
+    },
+    {
+      "id": "PF-H4",
+      "status": "prospective_untested"
+    },
+    {
+      "id": "PF-H5",
+      "status": "prospective_untested"
+    },
+    {
+      "id": "PF-H6",
+      "status": "prospective_untested"
+    }
+  ],
+  "ora_stage3_admission": "not_supported",
+  "scientific_implementation_authorized": false
+}

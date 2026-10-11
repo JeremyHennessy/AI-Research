@@ -1,5 +1,14 @@
 # Artificial Life Research Initiative — handoff for the next pass
 
+## Current research action plan — October 11, 2026
+
+**[Active science-first research plan](RESEARCH-PLAN-2026-10-11.md)** is the one current AI-Research *research-only prioritization document*. It consolidates published Passes 1–50 and targeted post-Pass reviews into specific constructor/energy/comparator admission gates and a three-block evidence queue. The immediate next substantive deliverable is the **P1 all-essential-role constructor dependency matrix**, not another broad motor survey or a rerun of retired Ora mechanisms. This pointer changes research scheduling priorities only; it does **not** rewrite historical scientific evidence, approve an experiment or authorize edits to Ora.
+
+**Historical continuity and guards:** All existing handoff sections below remain preserved verbatim as dated evidence; their older priority statements are no longer the controlling next-action plan. Recheck live main, open PRs, original source rights, the separate Ora handoff and verified GitHub Actions before work. EERC v1–v7, canonical Pass 21 E1, append-only research log, known link errata and the scheduled-context GitHub mutation denial remain unchanged. Keep the single hourly custodian and do not create a duplicate.
+
+---
+
+
 ## Latest verified science/publication checkpoint — October 11, 2026 (recheck GitHub every run)
 
 **AI-Research research publication:** [PR #39](https://github.com/JeremyHennessy/AI-Research/pull/39) merged at `72456f0318051be2c628ac492187ebe4c9df9df7` after exact reviewed PR head `d4706fd0f29efa13ee2bd486dd010dd886225c7c` passed pull-request Actions [38111118131](https://github.com/JeremyHennessy/AI-Research/actions/runs/38111118131). The independent main-push offline workflow [38111147162](https://github.com/JeremyHennessy/AI-Research/actions/runs/38111147162) completed **successfully** on that merge SHA. It adds one [Toyabe 2011 F₁-ATPase E1 source screen](MOTOR-WORK-BOUNDARY-01.md), [machine-readable evidence](../../data/alife/MOTOR-WORK-BOUNDARY-01.json) and one chronological **append-only** research-log entry. The isolated prepared motor's near-chemical-free-energy *stall-step* work is not sustained positive output power at zero mean stall rate; externally provided enzyme/hardware/chemical reservoirs do not demonstrate autonomous apparatus renewal. This is **E1 only**, not a full-methods E2 upgrade, an E3 replication, or an Ora result. No new numbered Pass or independent source count for alternate DOI/PMID/PMCID representations.

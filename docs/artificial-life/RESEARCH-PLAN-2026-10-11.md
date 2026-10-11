@@ -59,7 +59,7 @@ Use **SOURCE COMPONENT VERIFIED**, **EVIDENCE GAP**, **IMPLEMENTATION NOT SPECIF
 
 ## 4. Only three next decision-focused research blocks
 
-### P1 — All-role constructor closure (next substantive block)
+### P1 — All-role constructor closure (targeted evidence matrix completed; publication-gated)
 
 **High-information question:** Do any *single* original, independently assessed laboratory or physical system's methods demonstrate simultaneous functioning replacement of all indispensable roles after removal of finished initial machines, rather than disconnected positives from different experimental installations?
 
@@ -109,4 +109,4 @@ Report: **live main SHA / actual PR and CI / source published versus prepared / 
 
 When a genuinely complete primary source or mechanism appears, transfer a factual *research summary* to the separate Ora development owner only: physically demonstrated input/transition/load/return, role formation and renewal proof, finite feed/waste cost provenance, independently profitable simple comparator, source rights/evidence grade, specific new requirement and **what would falsify it**. Ora alone controls whether to develop or run a separate model.
 
-**Immediate next research output: P1 all-role renewal dependency matrix.** No more isolated motor surveys or repetitive already-answered Passes merely to show motion.
+**P1 desk deliverable:** [all-role constructor dependency and renewal matrix](CONSTRUCTOR-CLOSURE-P1-20261011.md) identifies the first observed open replacement loop in the audited source cohort, without adding a numbered Pass, original source or scientific experiment. Its publication requires exact-head PR CI and independently successful resulting main push; until then it is a prepared candidate, not a published outcome. **Next substantive research-only priority after verified publication: P2**, one distinct source-to-retained-work pathway with physically paid return, all-role formation/renewal and a truly profitable same-feed simpler control. Do not start a new source review merely to raise counts.

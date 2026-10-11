@@ -1,0 +1,63 @@
+{
+  "id": "MOTOR-WORK-BOUNDARY-01",
+  "date_utc": "2026-10-11",
+  "review_path": "docs/artificial-life/MOTOR-WORK-BOUNDARY-01.md",
+  "status": "RESEARCH_ONLY_E1_SOURCE_SCREEN_NOT_E2_NOT_E3",
+  "source_count": 1,
+  "new_numbered_pass": false,
+  "primary_source": {
+    "source_id": "MWB-S1",
+    "doi": "10.1073/pnas.1106787108",
+    "pmid": "21997211",
+    "pmcid": "PMC3207686",
+    "citation": "Toyabe S, Watanabe-Nakayama T, Okamoto T, Kudo S, Muneyuki E. Thermodynamic efficiency and mechanochemical coupling of F1-ATPase. PNAS 108(44):17951-17956 (2011).",
+    "links": [
+      "https://doi.org/10.1073/pnas.1106787108",
+      "https://pubmed.ncbi.nlm.nih.gov/21997211/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3207686/"
+    ],
+    "depth": "E1 bibliographic original abstract and indexed original figure/results text; complete methods, supplement and raw figures not independently audited",
+    "rights": "Permission to redistribute publisher text/figures not independently established; original critical paraphrase and URLs only",
+    "observed": "Reversible 120 degree rotations of isolated F1 ATPase with external electrorotation torque and imposed ATP/ADP/phosphate chemical potentials",
+    "reported_example": {
+      "stall_torque_pN_nm_per_radian": 31.2,
+      "maximum_stall_step_work_pN_nm": 65.3,
+      "chemical_free_energy_pN_nm": 65.2,
+      "steady_mean_rotational_power_at_stall": 0
+    },
+    "scope_caution": "Near chemical-free-energy work per stalled transition does not establish positive sustained load power or complete manufacturing and lifetime net output; low-nucleotide conditions can depart from tight coupling",
+    "independent_replication_verified": false,
+    "entire_original_methods_reviewed": false
+  },
+  "unknown_provenance_and_costs": [
+    "F1 protein synthesis and constructor",
+    "full Fo/F1 apparatus and mounting",
+    "electrorotation machine and controller",
+    "fuel preparation and regeneration",
+    "feedstock and chemical waste",
+    "separation and reverse-path coupling",
+    "retained physical load and storage",
+    "repair and whole-apparatus replacement",
+    "profitable same-feed stationary converter"
+  ],
+  "unknown_costs_are_not_zero": true,
+  "ora_interpretation": "Ora COHERENT-CONTACT-01 retired through PR113 for no complete source/load/all-role renewal; isolated association kernel exported zero useful work, not a full-candidate negative experiment.",
+  "independent_ora_implementation": false,
+  "decision": "Retain isolated motor as a measurable work-vs-torque reference only; do not reinstate retired Ora mechanism, assume no-cost repair, or infer a self-renewing constructor from motor efficiency.",
+  "future_only_hypotheses": [
+    {
+      "id": "MWB-H1",
+      "hypothesis": "A molecular motor with high component-level efficiency may deliver nonpositive lifetime net surplus after fully paid formation, renewal and retained-load hardware costs.",
+      "refutation": "A complete independently audited raw-start failure-inclusive lifetime ledger shows positive surplus over an attainable simpler same-feed converter.",
+      "tested": false
+    },
+    {
+      "id": "MWB-H2",
+      "hypothesis": "High step work at stall cannot itself produce positive steady mean rotational power at zero average angular velocity.",
+      "refutation": "A physically consistent, externally measured rate-dependent power curve demonstrating positive mean rotational power at precisely zero mean angular velocity under steady stall conditions.",
+      "tested": false
+    }
+  ],
+  "prior_history_preserved": true,
+  "scheduled_github_write_permission_verified": false
+}

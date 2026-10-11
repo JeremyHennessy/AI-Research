@@ -1,0 +1,43 @@
+# MOTOR-WORK-BOUNDARY-01 — F1-ATPase work measurement versus whole-system closure
+
+**Research-only E1 source-critical screen, originally prepared locally on 2026-10-11 UTC.** This is not an independent experiment, model, simulation, implementation plan, or result from Ora. No GitHub repository was changed by preparing this file.
+
+## Historical source-screening anchors (not the present published state)
+
+- AI-Research `main`: `4570b77e91e241fef187885bbc4fe0d34d871c3c`. PR #38 post-merge `main` push workflow `38109269388` passed; PR #38 exact-head PR workflow `38109251580` passed. PR #37 exact-head PR workflow `38109050097` and corresponding `main` push `38109083834` passed. Zero open AI-Research PRs at check.
+- Ora2.0 `main` after PR #114: `e478932d1dbee6516036b20dd786071b3c9866b8`. PR #113 **retired COHERENT-CONTACT-01** as the primary proposed implementation; it could not supply an executable complete source-to-retained-work and all-role renewal law. Its verified isolated reversible-association kernel delivered **zero** exported work, which is not evidence that a fully specified mechanical candidate failed experimentally. PR #114 added code-reachability guard/evaluator checks and was an engineering correction, not a new life demonstration. No replacement primary mechanism was selected at that checkpoint.
+- Preserve historical approved Passes 1–50, EERC v1–v7, source-claim IDs, append-only `data/research-log.md` and documented 14 broken historical log links. The scheduled GitHub write authorization problem remains unresolved; no GitHub mutation had occurred at the time of original source screening.
+
+## Primary paper and depth
+
+**Toyabe S., Watanabe-Nakayama T., Okamoto T., Kudo S., Muneyuki E. (2011).** *Thermodynamic efficiency and mechanochemical coupling of F1-ATPase*. **PNAS 108(44):17951–17956**, first published October 13, 2011. DOI: https://doi.org/10.1073/pnas.1106787108 ; PubMed: https://pubmed.ncbi.nlm.nih.gov/21997211/ ; PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC3207686/ . **One paper** (not separate source counts for DOI, PMID, PMCID). E1, not E2: the bibliographic record, author abstract and indexed figure descriptions were inspected, but full methods/supplements/raw measurements were **not** fully reviewed, independently calculated, or reproduced. Full-text access was interrupted by a site browser challenge; do not infer a complete methods audit. License/right to republish text/figures not established; this note uses only original paraphrase and source links.
+
+### What the original study actually measures
+
+The authors isolated F1-ATPase from its normal complete cellular energy-transduction machinery, immobilized the enzyme, attached microscopic probe particles to the rotor and applied a *controlled external electrorotation torque*. They varied ATP, ADP and inorganic phosphate to set the relevant chemical potential and tracked reversible rotation in 120-degree chemical/mechanical increments. Reported load-rate and stall-work relationships were consistent with tight mechanochemical coupling and work per 120-degree step approaching the **chemical free-energy change for ATP hydrolysis**. The source's nearly 100% figure is a **component-level thermodynamic conversion claim**, not 100% efficiency of an organism, a complete engineered converter, or a freely operating apparatus. In the stall condition the **mean rotation rate is zero** by definition, so high work per stalled step should not be mistaken for sustained positive output *power* at that point. Source-indexed figures describe distributions and measurements at five individual molecules in some analyses; do not extrapolate those counts to all experimental conditions. Source PMID 21997211 and original figure captions verify these descriptions.
+
+### Essential missing information for a whole-system closure claim
+
+The experimental configuration already includes a biologically manufactured motor, external field generator, glass immobilization, probe beads and chemical reservoirs. The source does **not** demonstrate synthesizing F1-ATPase, coupling its shaft to a renewable useful-load reservoir from raw materials, constructing/renewing the electrorotation apparatus, paying formation/repair costs, or self-maintaining reproduction after specialist intervention withdrawal. No accessible whole-device startup, upkeep, spatial transport, waste treatment, load-storage, breakdown/repair, or constructor-replacement bill is measured by the cited abstract/figures. Those costs remain **UNKNOWN**, not zero. This does not contradict the paper's narrower motor experiments; it limits admissibility to Ora's all-role closure gate.
+
+## Concrete decision changed by this source and concurrent Ora evidence
+
+1. **Mechanistic measurement:** retain Toyabe (2011) as an **E1 example of how to measure** reversible torque-dependent, fuel-coupled rotational work and identify the chemical free-energy budget. The source offers a useful measurement design concept: actual torque *versus rotational rate* and source-chemical-potential variation, not inferred ceilings. It is not a calibrated transition law for Ora's candidate.
+2. **Implementation:** do **not** revive retired COHERENT-CONTACT-01 from this source. Its biological motor is supplied and externally interrogated; the decisive spatial escape, useful-load transfer, all-role raw formation, and constructor-renewal paths remain unspecified. PR #113's retirement stands; literature cannot retroactively turn an incomplete Ora model into a negative experimental converter or a success.
+3. **Comparator:** if a future, distinct, fully specified model proposes a mechanochemical engine, require an actually implementable, **profitable simpler stationary converter using the same finite feed** and charge both systems for all roles, work reservoirs, duty cycles, repairs, chemical fuel and waste. Toyabe alone supplies neither hardware bill nor stationary-control profit.
+4. **Stop/proceed:** absence of a new executable, physical raw-to-retained-work and all-role renewal law remains a **STOP gate before science execution**. Prioritize a distinctive mechanism-selection proof, not another literature search for a high stall efficiency number. No replacement mechanism had been selected at that historical Ora checkpoint; recheck Ora before any subsequent scientific decision.
+
+## Falsifiable future-only hypotheses (not authorized for execution)
+
+- A supplied molecular motor may exhibit large component-level chemical-to-mechanical work efficiency, while a fully accounted raw-start implementation that repeatedly rebuilds the motor and support machinery may have **nonpositive** net retained surplus. Refutation requires a complete finite-feed ledger and independent acceptance under role losses, not isolated motor rotation.
+- A future actually implementable rate-dependent motor law may export positive load work at some finite rotation rates but zero sustained motor output power at mechanical stall. This cannot be evaluated as an Ora finding without a complete, explicit load/coupling/source law.
+
+## Research-only boundary and next best action
+
+Do not create a motor, apparatus, simulator, biology protocol or persistent world here. Research next only when a concrete *different* proposed mechanism and its named missing physical/cost terms have been identified, or when an original primary paper offers an actually complete evidence-backed constructor/renewal path that changes a candidate-selection decision. Reuse this screening; avoid reviewing the same Toyabe claim again for activity. No numbered Pass is reserved. Publication must be verified through exact-head PR CI and independent post-merge main-push CI; scheduled GitHub write authorization remains unresolved.
+
+## Published research cross-references
+
+[Structured E1 evidence](../../data/alife/MOTOR-WORK-BOUNDARY-01.json) · [Prior contact-work research](CONTACT-WORK-PROVENANCE-01.md) · [Pass 42 prior constructor literature](135-pass42-self-regenerating-constructors-vs-closure.md) · [Research handoff](10-handoff.md). These are separate evidence types and must not be counted as independent replications of a completed machine.
+
+**Author-reported example, not a complete energy bill:** Figure 6's illustrative stall torque is 31.2 pN·nm/rad and associated 120° step work is 65.3 pN·nm, compared with chemical free energy 65.2 pN·nm for that condition. At zero mean rotation rate, the corresponding steady mean external rotational power is zero even though reversible microscopic steps continue. Original methods/supplements/raw data remain incompletely audited, hence E1, not E2.

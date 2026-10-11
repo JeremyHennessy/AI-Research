@@ -1,0 +1,61 @@
+{
+  "id": "ENERGY-CONVERSION-01",
+  "date": "2026-10-11",
+  "scope": "research_only_source_critical_literature_review",
+  "baseline_main": "df02fa7b326ef031c392e29049eb30ad184a5aa9",
+  "evidence_level": "E2-partial-original-main",
+  "source": {
+    "doi": "10.1016/j.xcrp.2025.102461",
+    "title": "Chemiosmotic ATP synthesis by minimal protocells",
+    "journal": "Cell Reports Physical Science",
+    "year": 2025,
+    "volume": "6",
+    "issue": "3",
+    "article": "102461",
+    "authors": [
+      "Fanchen Yu",
+      "Jinbo Fei",
+      "Yi Jia",
+      "Tonghui Wang",
+      "William F. Martin",
+      "Junbai Li"
+    ],
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922820/",
+    "index_url": "https://pubmed.ncbi.nlm.nih.gov/40123866/",
+    "rights": "CC BY 4.0 for article, no figures copied",
+    "supplement_full_reviewed": false,
+    "raw_data_independently_reanalyzed": false,
+    "independently_replicated": false
+  },
+  "reported_observations": {
+    "c18_gradient_after_3hr_ph_units_approx": 0.35,
+    "c18_1_single_chain_gradient_dissipation_minutes_approx": 1,
+    "dc16_vs_c18_initial_atp_rate_ratio_approx": 4.4,
+    "dc16_vs_c18_three_hour_ph_gradient_ratio_approx": 3.8,
+    "external_acid_base_bath": true,
+    "preexisting_purified_atp_synthase": true
+  },
+  "apparatus_provenance": {
+    "membranes_lab_constructed": true,
+    "atp_synthase_external": true,
+    "raw_constructor_formation_proven": false,
+    "constructor_renewal_proven": false,
+    "energy_exergy_complete": false,
+    "material_waste_complete": false,
+    "startup_upkeep_repair_load_costs_complete": false,
+    "viable_profitable_simple_comparator_complete": false,
+    "intervention_withdrawal_proven": false,
+    "independent_lineage_proven": false
+  },
+  "decision": "retain_as_partial_energy_conversion_evidence_reject_whole_system_admission",
+  "prospective_untested_hypotheses": [
+    "EC-H1",
+    "EC-H2",
+    "EC-H3",
+    "EC-H4",
+    "EC-H5",
+    "EC-H6"
+  ],
+  "repository_mutation": false,
+  "original_package_was_unpublished": true
+}

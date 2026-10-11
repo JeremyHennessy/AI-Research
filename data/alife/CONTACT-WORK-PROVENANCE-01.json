@@ -1,0 +1,99 @@
+{
+  "id": "CONTACT-WORK-PROVENANCE-01",
+  "date_utc": "2026-10-11",
+  "scope": "research_only_original_primary_critique_and_abstract_level_context",
+  "status": "E2_PARTIAL_E1_AND_E1_CONTEXT_NOT_E3",
+  "preparation_main_sha": "df02fa7b326ef031c392e29049eb30ad184a5aa9",
+  "review_path": "docs/artificial-life/CONTACT-WORK-PROVENANCE-01.md",
+  "source_count_unique_original_critically_reviewed": 2,
+  "primary_main_full": 0,
+  "primary_main_partial": 1,
+  "primary_abstract": 1,
+  "context_E1_source_count": 2,
+  "independent_replication_verified": false,
+  "main_sources": [
+    {
+      "source_id": "CW-S1",
+      "citation": "Korosec CS et al. Motility of an autonomous protein-based artificial motor that operates via a burnt-bridge principle. Nature Communications 15, 1511 (2024).",
+      "doi": "10.1038/s41467-024-45570-y",
+      "evidence": "E2-partial original peer-reviewed main text; raw data and supplements not independently audited",
+      "rights": "Original open-access article; independent paraphrase, third-party item terms not independently audited",
+      "observed": "Protease-bead motion on consumed pre-patterned peptide substrate, up to 80 nm/s directional speeds; 59 motile / 55 immotile devices under authors rule",
+      "missing": [
+        "paid return and track renewal",
+        "useful-load work",
+        "de novo enzyme/motor and track production",
+        "whole apparatus finite material/energy ledger",
+        "withdrawal and independently maintained descendants"
+      ]
+    },
+    {
+      "source_id": "CW-S2",
+      "citation": "Liu HK et al. Chiral catalysis-driven rotary molecular motors. Nature Chemistry 18, 1178–1185 (2026).",
+      "doi": "10.1038/s41557-025-02050-0",
+      "evidence": "E1 original publisher abstract and metadata only; journal main text/supplements not reviewed",
+      "rights": "Publisher abstract paraphrase only; no article-text redistribution licence established",
+      "observed": "Author-reported 8:1 and up-to-30:1 directional biases with fuelled manufactured molecular motors; not useful load or net work",
+      "missing": [
+        "complete transition-rate chemical-potential balance",
+        "net work against load and comparator",
+        "synthesis and renewal costs",
+        "independent replication and intervention withdrawal"
+      ]
+    }
+  ],
+  "context_sources_E1_not_independent_replication": [
+    {
+      "doi": "10.1038/nature04061",
+      "citation": "Collin et al. 2005 optical-tweezer RNA work-distribution study",
+      "role": "externally imposed work protocols and measurement apparatus; E1 abstract only"
+    },
+    {
+      "doi": "10.1529/biophysj.106.094052",
+      "citation": "Wen et al. 2007 experimental optics/apparatus effect on RNA unfolding rate",
+      "role": "instrument/handle/trap stiffness affect inferred rates; E1 abstract only"
+    }
+  ],
+  "decision": "Reject one-use burnt-bridge tracks as complete reversible contact-and-return solution; do not implement directional biases as a free-return apparatus; require specific physically accessible paid work/load cycle and independent stationary same-feed positive-surplus comparator.",
+  "unknown_costs_not_zero": [
+    "track synthesis and renewal",
+    "motor/protease fabrication",
+    "spent track waste",
+    "fuel chemical potential and products",
+    "heat and dissipation",
+    "binding/separation and return",
+    "retained load and apparatus wear",
+    "constructor formation and repair",
+    "stationary converter materials and work"
+  ],
+  "future_only_hypotheses": [
+    {
+      "id": "CW-H1",
+      "statement": "After accounting for track consumption and regeneration, forward biased motion may not yield positive retained load work.",
+      "executed": false
+    },
+    {
+      "id": "CW-H2",
+      "statement": "Reverse transition plus track restoration requires finite input and cannot be represented as free reset.",
+      "executed": false
+    },
+    {
+      "id": "CW-H3",
+      "statement": "Full cycle material provenance will reveal an external manufacturer for at least one essential constituent.",
+      "executed": false
+    },
+    {
+      "id": "CW-H4",
+      "statement": "A physically accessible same-feed stationary converter may dominate lifetime net work once all costs are included.",
+      "executed": false
+    },
+    {
+      "id": "CW-H5",
+      "statement": "Apparatus-independent rates will not match instrument-specific optical pulling transition rates without corrections.",
+      "executed": false
+    }
+  ],
+  "ora_evidence_status": "READ_ONLY_CONTEXT_NOT_IMPLEMENTED_NOT_ACCEPTED_STAGE3",
+  "no_experiments_or_simulations": true,
+  "scheduled_github_write_permission_verified": false
+}

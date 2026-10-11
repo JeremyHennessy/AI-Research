@@ -1,0 +1,131 @@
+{
+  "candidate_id": "EXTERNAL-ACTUATION-01",
+  "pass_number": null,
+  "date_utc": "2026-10-11",
+  "status": "RESEARCH_ONLY_ORIGINAL_SOURCE_CRITICAL_REVIEW",
+  "review_path": "docs/artificial-life/EXTERNAL-ACTUATION-01.md",
+  "baseline_sha_at_preparation": "df02fa7b326ef031c392e29049eb30ad184a5aa9",
+  "review_scope": "one previously unreviewed original peer-reviewed main article, source-critical not independent experimental replication",
+  "source": {
+    "citation": "Zhai G, Dimitriou P, Sengel J, Wallace MI. Orchestrating Self-Replication in Artificial Cells with Digital Microfluidics. Small. 2025;21(50):e09316.",
+    "doi": "10.1002/smll.202509316",
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/smll.202509316",
+    "institutional_version": "https://kclpure.kcl.ac.uk/ws/files/356866973/Small_-_2025_-_Zhai_-_Orchestrating_Self_Replication_in_Artificial_Cells_with_Digital_Microfluidics.pdf",
+    "data": "https://doi.org/10.18742/30384391",
+    "published_online": "2025-11-18",
+    "evidence_grade": "E2 full original journal main text; supplement and deposited raw data not independently audited; not E3",
+    "rights": "article CC Attribution per published author PDF; repository cover sheet conditions and third-party material separate; only independently written critical paraphrase and external references"
+  },
+  "observed": {
+    "externally_actuated_droplet_cycles": 20,
+    "device_electrodes": 112,
+    "main_replication_replicates": 3,
+    "division_auxiliary_replicates": 5,
+    "technical_cv_percent_range": [
+      3.72,
+      4.65
+    ],
+    "sustained_dna_signal_in_serial_chips": true,
+    "operator_controlled_equal_daughter_fission": true,
+    "fresh_active_enzyme_reagent_each_cycle": true,
+    "externally_programmed_mg_edta_and_temperature_switches": true,
+    "no_template_negative_control": true,
+    "low_temp_inhibition": true
+  },
+  "absences": {
+    "independent_unscreened_lineage_founder_cohorts": true,
+    "new_beneficial_phenotype_with_heritable_fitness": true,
+    "daughter_constructs_replacement_RPA_machinery": true,
+    "daughter_repairs_electronic_chip_and_controller": true,
+    "manual_specialist_intervention_withdrawal_test": true,
+    "all_component_provenance_complete": true,
+    "finite_whole_system_energy_and_mass_balance": true,
+    "attainable_profitable_simpler_control": true,
+    "independent_outside_lab_replication": true
+  },
+  "cost_categories_unknown": [
+    "electrical actuation",
+    "resistive heating",
+    "chip/electrode/controller amortization",
+    "fresh active enzymes and RPA kit",
+    "primers/dNTPs/ATP and salts",
+    "buffer and oil medium",
+    "chemical waste including EDTA/outputs",
+    "hardware wear and repair",
+    "analytical probes and measurement",
+    "failed reactions and discarded droplets"
+  ],
+  "comparators_not_new_sources": [
+    {
+      "doi": "10.1038/s41467-025-56172-7",
+      "already_reviewed": "Pass36"
+    },
+    {
+      "doi": "10.1038/s41467-024-53226-0",
+      "already_reviewed": "Pass35"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "EA-H1",
+      "name": "Division provenance",
+      "future_only": true,
+      "proposed_counterfactual": "No programmed fission",
+      "falsifier": "Repeat physical daughter production without chip fission and with finite matched feed and energy"
+    },
+    {
+      "id": "EA-H2",
+      "name": "Constructor dependence",
+      "future_only": true,
+      "proposed_counterfactual": "No fresh active enzyme addition",
+      "falsifier": "Sustained newly made active constructor across generations from precursors"
+    },
+    {
+      "id": "EA-H3",
+      "name": "Net cost/performance",
+      "future_only": true,
+      "proposed_counterfactual": "Full positive costs including power and waste",
+      "falsifier": "Greater cost-adjusted useful descendant benefit than attainable simple comparator"
+    },
+    {
+      "id": "EA-H4",
+      "name": "Functional heredity",
+      "future_only": true,
+      "proposed_counterfactual": "Distinguish reporter signal from trait function",
+      "falsifier": "Distinct beneficial genotypes with demonstrated inherited functions and randomised lineage controls"
+    },
+    {
+      "id": "EA-H5",
+      "name": "Independent founder count",
+      "future_only": true,
+      "proposed_counterfactual": "One propagated lineage with machine iterations",
+      "falsifier": "Multiple unscreened founders and failure-inclusive independent daughter pedigrees"
+    },
+    {
+      "id": "EA-H6",
+      "name": "Adaptive learning",
+      "future_only": true,
+      "proposed_counterfactual": "Externally programmed stimuli and response",
+      "falsifier": "New challenge learning with paid sensing/history beating reactive/memory-disabled/shuffled controls"
+    },
+    {
+      "id": "EA-H7",
+      "name": "Repair of every role",
+      "future_only": true,
+      "proposed_counterfactual": "Multi-component failures and replacements",
+      "falsifier": "Observed accessible repair of essential division, energy, processing, and constructor roles with net surplus"
+    },
+    {
+      "id": "EA-H8",
+      "name": "Novel beneficial function",
+      "future_only": true,
+      "proposed_counterfactual": "Programmed inheritance of chosen initial template",
+      "falsifier": "New useful phenotype survives operator-selection withdrawal and benefits descendants"
+    }
+  ],
+  "decision": "Use as positive technical benchmark for DNA heredity under operator-driven fission; reject as evidence for autonomous reproductive or constructor closure",
+  "independent_experimental_replication_by_this_project": false,
+  "scientific_implementation_authorized": false,
+  "scheduled_github_writes_verified": false,
+  "github_publication_verified_at_original_preparation": false
+}

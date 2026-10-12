@@ -1,5 +1,18 @@
 # AI-Research — Current science-first research plan (October 11, 2026)
 
+## Superseding prospective digital-organism decision — October 11–12, 2026
+
+**The currently approved primary research direction is artificial DIGITAL organisms, not physical construction of the host machinery.** Retain the physical-constructor analysis in this document as historical source-critical science; its physical source-to-work and fully renewing mechanical constructor gates are *not universal admission prerequisites* for digital reproduction, evolution or within-life learning.
+
+Research-only next priority: independently inspect the existing Ora bounded VM's execution, finite energy/resource, inheritance and memory semantics and the *already recorded* receipts; do not implement or run Ora. The disclosed non-learning fixed explorer and supplied reproductive ancestor are legitimate infrastructure, **not emergent discoveries**. No hand-inserted successful learner, post-hoc winner selection, altered prices or retuned frozen experiment. Historical negative results (including Experience12 and History35/39/44), the seven-stage labels, Passes 1–50, canonical EERC v1–v7, and archival evidence remain immutable.
+
+**Decision threshold:** Reproduction requires actual paid offspring and lineage evidence; adaptive evolution requires useful inherited change, differential success and independent controls. Learning is separately admissible without spontaneous exploration/reproduction: an individual's own earlier experience must causally improve a later useful action over matched fixed-reactive, memory-disabled, and own-history-disrupted *actual-channel* controls on unseen contexts. Analyze complete formation/instruction/sensing/action/memory costs and failure-inclusive independent denominators.
+
+**Current distinct research question:** With fixed, fully paid digital laws, can a subject encounter truthful feedback, store information across an intervening resource action, and use it to make a measurably better later decision than a nonlearning supplied reference? Use existing recorded evidence for a first diagnosis; no new world execution or candidate generation is requested. Keep developmental implementation/registration under Ora's separate owner. Ora PR #214 (historical revalidation anchor) registered a read-only transmission and personal-information diagnosis; recheck current main/CI before deriving conclusions. If no comparable informative opportunity exists, identify the exact missing observation or unaffordable instruction path rather than assert a successful learner.
+
+---
+
+
 **Scope:** This is the **single current research-only execution priority plan** for JeremyHennessy/AI-Research. It supersedes *next-step priorities* in older Pass handoffs and the [Pass 1–28 synthesis](UNIFIED-RESEARCH-SYNTHESIS.md), not their scientific claims, archival decisions, rights, source identifiers, negative results, or EERC v1–v7. It does **not** authorize running experiments, simulations, organisms, models, training, persistent pilots or changes to Ora. The [authoritative research handoff](10-handoff.md) links here. At every later run the actual GitHub state overrides this dated snapshot.
 
 **Starting verified checkpoint:** AI-Research main 23fb071df38fcb23aeb21e4db1892e80b86731c5; main push workflow 38111253456 succeeded; no open PRs. Ora2.0 main e478932d1dbee6516036b20dd786071b3c9866b8, main workflow 38110429911 succeeded; no open PRs. Both are **historical read-only anchors after preparation**.

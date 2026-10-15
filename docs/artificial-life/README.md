@@ -1,5 +1,7 @@
 # Artificial Life, Emergent Intelligence, and Digital Organisms
 
+**Current Ora decision:** [Intelligence evidence and next experiment — October 15](ORA-INTELLIGENCE-CURRENT-20261015.md). This research-only reconciliation governs current guidance; historical pass counts and scientific records below remain unchanged.
+
 **All 28 numbered research stages are published on main:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. Historical counts below are snapshots, not current totals.
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.

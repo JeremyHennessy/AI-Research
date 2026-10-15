@@ -1,5 +1,9 @@
 # AI-Research — Current science-first research plan (October 11, 2026)
 
+## Current intelligence-first checkpoint — October 15, 2026
+
+[Current verified evidence and decision](ORA-INTELLIGENCE-CURRENT-20261015.md) supersedes older next-action guidance below. Learning81 supports scoped within-life choice learning under supplied machinery; Inheritance83 and Revision84 retain their failed full criteria. Fallback87v2 separates mechanistic choice benefit from actual energy value after a pre-run acceptance infeasibility and fee-prose mismatch were independently detected. Its fresh primary cohort remains unopened at this checkpoint; the immediate dependency is the complete309-role controller, scoped qualification, exact new-source CI and separate registration. Research reuses closed evidence and supplies no competing writer, new organism or persistent activation. Catalog counts, physical-law evidence, historical receipts and earlier unverified hypotheses remain immutable. All older current/next labels below are dated history where this checkpoint supersedes them.
+
 ## Superseding prospective digital-organism decision — October 11–12, 2026
 
 **The currently approved primary research direction is artificial DIGITAL organisms, not physical construction of the host machinery.** Retain the physical-constructor analysis in this document as historical source-critical science; its physical source-to-work and fully renewing mechanical constructor gates are *not universal admission prerequisites* for digital reproduction, evolution or within-life learning.

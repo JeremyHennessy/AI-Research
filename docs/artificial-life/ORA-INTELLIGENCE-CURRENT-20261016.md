@@ -34,13 +34,13 @@ The new bounded source-free retained-history reader inspected all400 originals, 
 
 Context90 asks a distinct question: can personally earned evidence select, revise and reuse an older model when familiar conditions return, rather than repeatedly overwrite and relearn? Temporal89 never returned to an earlier context.
 
-At this checkpoint, a source-only contract is frozen and implementation is underway. No Context90 scientific task/cohort, completed source qualification, passing CI, execution registration or scientific outcome is claimed here.
+Context90 source-only checks have now completed:147456 exhaustive abstract cases across all6 neutral descriptors, with two original/restored native exports and exact archive restoration. These are abstract source/dataflow/cost checks with zero Worlds or targets, not ordinary-world survival, task affordability or scientific context recognition. No scientific task/cohort, exact source CI for an experiment, execution registration or learning outcome is claimed here.
 
 The proposed source uses two initially blank model routes and its own feedback to choose when to update and switch. The routes can overlap in physical memory, and an error alone does not identify a changed context. Source implementation, cost feasibility and actual retention must therefore be checked before a scientific cohort. Switching machinery is supplied; recognizing a returning context remains unproven.
 
 Immediate decision sequence:
 
-1. Finish only the new source/dataflow/address-collision and whole-path cost checks. Reuse sealed VM and prior evidence; no unchanged broad suite or old history rerun.
+1. Reuse the now-completed source/dataflow/address-collision and abstract cost checks. Do not rerun them unchanged or repeat old history/broad-suite checks. The derived conditional60-loop constructor bounds are1101/1103/1107 for the three capacities; these abstract bounds do not certify resource timing or survival.
 2. Establish that the source can actually retain older information and has affordable, informative reuse opportunities against efficient reactive and overwrite-only alternatives. A passing source test alone does not establish this. Preserve infeasibility if overlap or timing defeats the question.
 3. If feasible, freeze one distinct returning-versus-novel-context task, actual-channel controls, unseen confirmation, complete denominators and finite budgets before targets. No public predictable return clock, host context identifier, warm-state insertion, outcome-selected cues/entry/capacity or hidden free confidence.
 4. Require exact source CI and separate bounded execution registration before a World. Report qualification, admission, launch and scientific results separately.

@@ -1,5 +1,9 @@
 # AI-Research — Current science-first research plan (October 11, 2026)
 
+## Current intelligence-first checkpoint — October 16, 2026
+
+[Current evidence and Context90 decision](ORA-INTELLIGENCE-CURRENT-20261016.md) supersedes the older next-action checkpoints below. Fallback87v2, Strategy88 and Temporal89 are closed with failed full acceptance; useful partial learning observations remain scoped. Temporal89's complete-roster diagnosis is finished and must not be repeated. Next: Context90 source/dataflow/collision and actual cost feasibility, followed only if justified by a prospective returning-versus-novel-context experiment, exact CI and separate bounded registration. No fresh Context90 science or persistent activation is claimed. Functional learning, cost-covering value and inherited selection remain separate questions.
+
 ## Current intelligence-first checkpoint — October 15, 2026
 
 [Current verified evidence and decision](ORA-INTELLIGENCE-CURRENT-20261015.md) supersedes older next-action guidance below. Learning81 supports scoped within-life choice learning under supplied machinery; Inheritance83 and Revision84 retain their failed full criteria. Fallback87v2 separates mechanistic choice benefit from actual energy value after a pre-run acceptance infeasibility and fee-prose mismatch were independently detected. Its fresh primary cohort remains unopened at this checkpoint; the immediate dependency is the complete309-role controller, scoped qualification, exact new-source CI and separate registration. Research reuses closed evidence and supplies no competing writer, new organism or persistent activation. Catalog counts, physical-law evidence, historical receipts and earlier unverified hypotheses remain immutable. All older current/next labels below are dated history where this checkpoint supersedes them.

@@ -1,6 +1,6 @@
 # Artificial Life, Emergent Intelligence, and Digital Organisms
 
-**Current Ora decision:** [Closed results and Context90 next decision — October 16](ORA-INTELLIGENCE-CURRENT-20261016.md). Temporal89 diagnosis is complete; Context90 source implementation is underway, with no scientific run admitted at this checkpoint. Historical records remain unchanged.
+**Current Ora decision:** [Closed results and Context90 next decision — October 16](ORA-INTELLIGENCE-CURRENT-20261016.md). Temporal89 diagnosis is complete; Context90 abstract source checks are complete; ordinary-world task feasibility remains open and no scientific run is admitted at this checkpoint. Historical records remain unchanged.
 
 **All 28 numbered research stages are published on main:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. Historical counts below are snapshots, not current totals.
 

@@ -1,5 +1,9 @@
 # AI-Research — Current science-first research plan (October 11, 2026)
 
+## Current intelligence-first checkpoint — October19, 2026
+
+[Context90 closed evidence and next steps](ORA-INTELLIGENCE-CURRENT-20261019.md) supersedes older next-action guidance below. The crossed experiment completed684 original histories plus684 blank replays: q8 passes its registered history-specific functional retrieval criteria; q2/q4 and all N/O/E advantage flags fail. Preserve all deaths and supplied-machinery boundaries. Reuse closed evidence; next derive one distinct affordable learner/cost question and advance pilot toolchain/recovery qualification separately. Four focused daily work sessions replace frequent model polling; no new experiment or live activation is authorized by this research note.
+
 ## Current intelligence-first checkpoint — October 16, 2026
 
 [Current evidence and Context90 decision](ORA-INTELLIGENCE-CURRENT-20261016.md) supersedes the older next-action checkpoints below. Fallback87v2, Strategy88 and Temporal89 are closed with failed full acceptance; useful partial learning observations remain scoped. Temporal89's complete-roster diagnosis is finished and must not be repeated. Next: Context90 source/dataflow/collision and actual cost feasibility, followed only if justified by a prospective returning-versus-novel-context experiment, exact CI and separate bounded registration. No fresh Context90 science or persistent activation is claimed. Functional learning, cost-covering value and inherited selection remain separate questions.

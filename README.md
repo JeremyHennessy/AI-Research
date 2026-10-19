@@ -1,6 +1,6 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
-**Current Ora intelligence decision — October 16:** [Closed learning results, completed Temporal89 diagnosis and Context90 feasibility priority](docs/artificial-life/ORA-INTELLIGENCE-CURRENT-20261016.md). Better decisions, actual cost value, evolution and persistence are separate claims; historical literature counts remain snapshots.
+**Current Ora intelligence decision — October19:** [Closed Context90 retrieval evidence, real cost limits and next steps](docs/artificial-life/ORA-INTELLIGENCE-CURRENT-20261019.md). q8 passed its bounded functional criteria; smaller memories and all paid advantage flags failed. Historical literature counts remain snapshots.
 
 **Unified scientific roadmap:** [Passes 1–28 synthesis](docs/artificial-life/UNIFIED-RESEARCH-SYNTHESIS.md) — one evidence-calibrated causal map, competing explanations, failure gates and highest-information next question. [Full publication index](docs/artificial-life/PASS-1-28-PUBLICATION-INDEX.md) retains the 28 original stage links. No scientific experiment independently reproduced.
 

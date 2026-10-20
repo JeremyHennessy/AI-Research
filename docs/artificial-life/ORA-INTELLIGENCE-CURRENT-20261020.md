@@ -20,7 +20,11 @@ The earlier toolchain prerequisite is resolved. A narrow local guardian build an
 
 A later focused lifecycle diagnostic retained the expected refusal exit and complete empty output, but its Job accounting recorded two lifetime process associations rather than one. No processes remained active at the observation. The additional association's identity remains unresolved. Available evidence was archived and exactly restored, and the original operator lock was released.
 
-A new pre-create/pre-resume observation then showed zero lifetime associations before creation and exactly one live guardian while suspended. After resume the lifetime count rose to two, with none active at the final observation. This locates the unobserved association after resume without identifying it. The bounded diagnostic collected its evidence, and all available archive members matched restored bytes, while guardian conformance remained false. The next diagnostic requires event-based observation and actual handle identity; repeating the same snapshots would not answer that question. Positive guardian custody and deadline checks, exact-source CI, and a separately registered finite crash-and-recovery qualification remain necessary before a supervised pilot. A live world has not been accepted.
+A new pre-create/pre-resume observation showed zero lifetime associations before creation and exactly one live guardian while suspended. After resume the lifetime count rose to two. A separately reviewed event diagnostic then captured the additional current member as Windows Console Host, using its actual process handle, image, birth and Job membership.
+
+A minimal console-detachment change passed a fresh focused launcher check with the original count requirement: one lifetime process, none active at closure, expected refusal exit and complete empty output. All 37 available archive members matched raw and restored bytes, and the original operator lock was released. This clears that root-launcher blocker; prior failures remain unchanged.
+
+The native child launcher still uses the earlier console flag and needs its own source/build qualification. Positive guardian custody and deadline checks, exact-source CI, and a separately registered finite crash-and-recovery qualification remain necessary before a supervised pilot. A live world has not been accepted.
 
 ## Work flow
 

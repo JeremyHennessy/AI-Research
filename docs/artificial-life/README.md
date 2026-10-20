@@ -1,6 +1,6 @@
 # Artificial Life, Emergent Intelligence, and Digital Organisms
 
-**Current Ora decision:** [Context90 closed results and next decision — October19](ORA-INTELLIGENCE-CURRENT-20261019.md). Personally learned history-specific retrieval passed at q8; all paid advantages failed. Pilot source repairs remain unqualified. Historical records remain unchanged.
+**Current Ora decision:** [Intelligence and recovery checkpoint — October20](ORA-INTELLIGENCE-CURRENT-20261020.md). Context90's scoped retrieval result and paid failures remain closed. Paid inspection has an independently confirmed cheaper-reference cost blocker; the extra-process root-launcher blocker is fixed and narrowly verified, while full recovery qualification remains pending. Historical records remain unchanged.
 
 **All 28 numbered research stages are published on main:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. Historical counts below are snapshots, not current totals.
 

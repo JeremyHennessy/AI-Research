@@ -52,7 +52,7 @@
   "canonical_catalog_changes": false,
   "independent_literature_reproduction": false,
   "launch_authority": false,
-  "next_action": "Separately assess a bounded capability-based proposal with ordinary founders, independently arisen genotypes, functional causal acceptance, credible variation/opportunity/resource bounds and independent admission; no new target search or execution authorized",
+  "next_action": "Consider source qualification of a nonlethal paid causal-information assay and honest resource/opportunity case; capabilityproposal remainsNOT_READY, no newpopulation or closedPressure71 rerun authorized",
   "paired_source_review": {
     "scope": "Reader/source inspection and independent two-population event aggregate spot check only; not scientific replay",
     "branch": "review/eka0-feasibility-20261023",
@@ -291,5 +291,43 @@
     "exact_genome_is_evolutionary_acceptance": false,
     "exact_target_absence_alone_is_global_rejection": false,
     "next_decision": "Separately assess a bounded capability-based proposal with ordinary founders, independently arisen genotypes, functional causal acceptance, credible variation/opportunity/resource bounds and independent admission; no new target search or execution authorized"
+  },
+  "capability_proposal": {
+    "ora_branch": "review/eka1-capability-preparation-20261023",
+    "proposal_sha256": "bcd09dbd2fd8acc90e1ba35a724df22eb2155c958a58f22f3f5ccb73c121b5ca",
+    "core_sha256": "4efda04f39e71e47f686f2c99df206ffd8e6170d5badc95209320f000c6cd4d6",
+    "gate_report_sha256": "fb3fe95df1d9213817fc9ca13af7847ea2af228a5a50de8443f20647b82c9cd2",
+    "independent_review_sha256": "082ab3a054ef32500de8c7e7066a905744414af1fd9637b050fb15bb1c62daa0",
+    "status": "NOT_READY_NOT_REGISTERED",
+    "ordinary_founder": true,
+    "exact_target_genome": null,
+    "authored_genotype_insertion": false,
+    "origin_sampling": "FIRST_MUTATED_PAID_BIRTH_PER_WORLD_NO_REPLACEMENT",
+    "descendant_sampling": "FIRST_ACTUAL_LITERAL_FAITHFUL_BLANK_CHILD_NO_REPLACEMENT",
+    "literal_faithful_limitation": "Can miss functionalinheritance with furthermutations and differsbydose; missingchildren retainedasWorldfailures",
+    "diagnostic_roles_schematic": 14,
+    "positive_learning_benchmark_mandatory_superiority": false,
+    "source_baseline": "PASS_EXACT_WINDOWS_BYTES_AND_ORDINARY_FOUNDER_ONLY",
+    "resource_affordability": "UNKNOWN",
+    "causal_information_assay": "BLOCKED_UNIMPLEMENTED",
+    "mutation_useful_origin_opportunity": "UNKNOWN",
+    "sampling_and_reserved_authority": "BLOCKED_UNASSIGNED",
+    "native_custody": "BLOCKED_UNQUALIFIED",
+    "scientific_admission": "BLOCKED_NOT_ADMITTED",
+    "execution_decision": "NO_GO",
+    "worlds_authorized": 0,
+    "global_novelty_claim": false,
+    "targeted_metadata_conservation_tests_reported": 14,
+    "loose_ceilings": {
+      "renewal_offers": 1024,
+      "accessible_energy": 21772,
+      "births_at_full4096_horizon": 392,
+      "mature_bodies": 11,
+      "copy_words": 12288,
+      "schematic_discovery_plus_diagnostics_starts": 15,
+      "schematic_dispatches_if_same_horizon": 61440
+    },
+    "ceilings_are_feasibility_or_power": false,
+    "historical_route_no_go_preserved": true
   }
 }

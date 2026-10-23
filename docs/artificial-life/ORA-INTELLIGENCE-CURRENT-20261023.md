@@ -1,5 +1,7 @@
 # Ora runtime and learning checkpoint — October 23, 2026
 
+**Earlier October23 observation preserved:** [Later dated update](ORA-RUNTIME-LEARNING-UPDATE-20261023.md) supersedes this note’s pending-work guidance. Retention subsequently passed, both pilots failed in software, and the assistant moved to the qualified window-close repair. The historical observation and original results below are unchanged.
+
 This checkpoint updates the operational guidance in the [October 20 handoff](ORA-INTELLIGENCE-CURRENT-20261020.md). It preserves the [closed Context90 findings](ORA-INTELLIGENCE-CURRENT-20261019.md), historical failures, laws, costs, samples and scientific acceptance decisions. It summarizes retained owner evidence; publication here is not independent reproduction or a new scientific admission.
 
 ## Current position

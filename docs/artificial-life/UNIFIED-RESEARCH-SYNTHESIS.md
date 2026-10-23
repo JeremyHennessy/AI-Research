@@ -1,5 +1,7 @@
 # Unified scientific synthesis — Research Passes 1–28
 
+**Navigation update2026-10-23:** [Existing Passes29–50 notes](PASS-29-50-PUBLICATION-INDEX.md) are available. This remains the dated1–28 synthesis; navigation does not claim a newly completed1–50 scientific synthesis or upgraded evidence. [Latest Ora engineering/learning evidence](ORA-RUNTIME-LEARNING-UPDATE-20261023.md) is separate.
+
 **Status: research-only integration, 2026-10-09.** This is the **single forward-looking synthesis and question-priority document**, not a replacement for the [28-stage publication index](PASS-1-28-PUBLICATION-INDEX.md), original source reviews, [append-only research log](../../data/research-log.md), canonical source/claim registries or immutable [EERC v1–v7](../../data/alife/combined-path-eerc-v7.json). No new EERC version is proposed, no source is upgraded by synthesis, and no original experiment has been performed here.
 
 ## 1. The question and the result so far

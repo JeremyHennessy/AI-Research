@@ -52,7 +52,7 @@
   "canonical_catalog_changes": false,
   "independent_literature_reproduction": false,
   "launch_authority": false,
-  "next_action": "Consider source qualification of a nonlethal paid causal-information assay and honest resource/opportunity case; capabilityproposal remainsNOT_READY, no newpopulation or closedPressure71 rerun authorized",
+  "next_action": "Prospective history/content contrast with representation/phasecoverage, matchedprobe/equalhandling and specificnegativecontrols; separate pricedsource/custody/admission; no extensionof rejectedfixedcellcandidate merely by morecells/delay/populations",
   "paired_source_review": {
     "scope": "Reader/source inspection and independent two-population event aggregate spot check only; not scientific replay",
     "branch": "review/eka0-feasibility-20261023",
@@ -329,5 +329,36 @@
     },
     "ceilings_are_feasibility_or_power": false,
     "historical_route_no_go_preserved": true
+  },
+  "causal_source_and_envelope": {
+    "source_audit_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/321",
+    "source_independent_review_sha256": "b84bd5709e5035a44ceb7ed15f977ef4033aa0b69755a5b9230ac0535a6dd78a",
+    "source_audit_scope": "Exactsourcefacts only; bothrestoremethods require originalreplayandfullhistoryhash; ASTcontainercontexts not fullalias/dataflow proof",
+    "source_tests_reported": 6,
+    "envelope_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/322",
+    "envelope_independent_review_sha256": "a7e6f5710120aacab6bae0db1eecaf76a953a791c81f0299b1603fdb5f649089",
+    "alias_defect_corrected": true,
+    "original_six_test_validation_preserved": true,
+    "final_envelope_tests_reported": 7,
+    "synthetic_address_value_cases": 128,
+    "envelope_scope": "OfflineJSONstructuraldelta only; no history, restoration, pricing, nonlethality, learning or executionauthority"
+  },
+  "delayed_cell_method_decision": {
+    "ora_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/323",
+    "ora_commit": "192162c628c72793ce4d5ba358e1f28c4b745190",
+    "contract_sha256": "ce39fcd8a885fc052306ef9516b7f0d33753b56c60da2e309d1cc3113c330374",
+    "document_sha256": "65287d75c194013d22df042d25e6876f9b032b0ba61cff8a4e85142c31c40114",
+    "independent_review_sha256": "9bfd020233f43e84abf95e5a586d0c2232f23a6db722f52e0db9195a8a94e6e6",
+    "bounded_deliverable": "COMPLETE_SOURCE_QUALIFICATION_NO_GO",
+    "method": "fixedm0_XOR1_after_two_own_dispatch_delay",
+    "counterexample": "Configuredconstantm0controlsREAD_IFZERO_HALT withoutfeedbackread; firstcheckpoint5dispatches\u22657energy, lesionHALTin3more. Sourceargumentonly, noWorld/viabilityclaim",
+    "channel_miss": "feedback/registers retainfreshobservation; m0lesion mayremoveno relevantinformation",
+    "universal_nonlethality_is_required_for_all_causal_studies": false,
+    "nuance": "Genuineinformationloss maycausebadchoicesanddeath; rejectunqualifiedfixedmethodattribution, not allsurvival-affectinglesions",
+    "whole_substrate": "UNKNOWN",
+    "population_execution": "NOT_ADMITTED",
+    "new_vm_steps": 0,
+    "new_seed_queries": 0,
+    "next_requirement": "Prospective history/content contrast with representation/phasecoverage, matchedprobe/equalhandling and specificnegativecontrols; separate pricedsource/custody/admission; no extensionof rejectedfixedcellcandidate merely by morecells/delay/populations"
   }
 }

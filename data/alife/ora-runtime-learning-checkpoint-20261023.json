@@ -1,0 +1,103 @@
+{
+  "schema": "ORA-RESEARCH-CHECKPOINT-v1",
+  "checkpoint_date": "2026-10-23",
+  "timezone": "America/Halifax",
+  "classification": "Owner-evidence research reconciliation,not independent reproduction",
+  "runtime": {
+    "source_commit": "d71044163f1d6f1ad66e46f1afbaa1bb699f9826",
+    "windows_ci": 39941261502,
+    "windows_tests": 90,
+    "raw_source_hashes_matched": 68,
+    "observed_running": true,
+    "completed_epochs_at_observation": 4,
+    "new_lifetime_failures": 0,
+    "baseline_memories": 171,
+    "operator_notes_applied": 3,
+    "memories": 174,
+    "two_snapshots_retain_notes": true,
+    "key_preserved": true,
+    "prior_exhausted_lifetime_preserved": true
+  },
+  "maintenance_policy_retention": {
+    "verified": true,
+    "acceptance_passed": true,
+    "native_correct": 5,
+    "memory_disabled_correct": 1,
+    "irrelevant_memory_correct": 1,
+    "questions_per_arm": 5,
+    "general_learning_claim": false
+  },
+  "new_note_transfer": {
+    "status": "pending-actual-later-window",
+    "training_baseline_correct": 0,
+    "document_assisted_correct": 3,
+    "questions_per_condition": 3,
+    "total_call_cap": 12,
+    "remaining_call_cap": 6,
+    "gates_changed_by_migration": false
+  },
+  "project_work_pilot": {
+    "source_commit": "f569f8541cb6b12b0d2d38354f205fd603bb949c",
+    "windows_ci": 39943314094,
+    "windows_tests": 113,
+    "dependency_hashes_matched": 70,
+    "pilot_module_hash_matched": true,
+    "status": "prepared-not-run",
+    "model_calls": 0,
+    "total_call_cap": 36,
+    "wall_seconds": 6600,
+    "training_per_arm": 4,
+    "reserved_per_arm": 8,
+    "arms": [
+      "experience",
+      "no-history",
+      "disrupted-history"
+    ],
+    "scientific_world_execution": false
+  },
+  "scientific_boundaries": {
+    "context90_conclusions_unchanged": true,
+    "budgeted_transfer_primary_admitted": false,
+    "budgeted_transfer_primary_executed": false,
+    "persistent_world_running": false,
+    "weight_learning_demonstrated": false,
+    "evolution_demonstrated_by_this_work": false
+  },
+  "evidence": [
+    {
+      "artifact": "ora-controller-two-hour-soak-v3-20261020.json",
+      "sha256": "ad54534b9eefa95feaa0eb13530b6d37a607c7d4912d67105df73402f5a355aa",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    },
+    {
+      "artifact": "ora-controller-two-hour-soak-v4-20261022.json",
+      "sha256": "b7fb7d7ccfc5ac3137026ccd50cb8e8a2ac1c9b47216960ba277233c349c4222",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    },
+    {
+      "artifact": "ora-feedback-learning-loop-review-20261022.json",
+      "sha256": "3004e6bc34bbb22d9e51f54b0524440dd513ca7624c31ae20daf5cd1896ae2d8",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    },
+    {
+      "artifact": "ora-combined-preference-transfer-review-20261022.json",
+      "sha256": "9e6766bc89ffd91ed3a018411c1a497197f94639a31ffc69112fdf38fa15a0f1",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    },
+    {
+      "artifact": "ora-maintenance-retention-review-20261022.json",
+      "sha256": "d1ba2ed510bad4e6c44ae1c05d81a73538e9ee2dcc1a9589532bc0daae6c2af2",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    },
+    {
+      "artifact": "ora-empty-job-accounting-repair-review-20261023.json",
+      "sha256": "c848951f3f6c528e7d5b2aa662989a25c9737b33ef69a5dc08cceaa48c4fda28",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    },
+    {
+      "artifact": "ora-project-work-pilot-review-20261023.json",
+      "sha256": "c575f5c12a7db1f6645df12c21b98c30c2691d128c19ee1eb5a8d637783685cd",
+      "scope": "Local owner receipt summary;raw private evidence not published"
+    }
+  ]
+}

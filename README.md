@@ -1,6 +1,6 @@
 # AI Research — Toward Better Language Models and Intelligent Systems
 
-**Current Ora intelligence decision — October19:** [Closed Context90 retrieval evidence, real cost limits and next steps](docs/artificial-life/ORA-INTELLIGENCE-CURRENT-20261019.md). q8 passed its bounded functional criteria; smaller memories and all paid advantage flags failed. Historical literature counts remain snapshots.
+**Current Ora runtime and learning checkpoint — October23:** [Verified runtime, retained-memory evidence and gated project-work pilot](docs/artificial-life/ORA-INTELLIGENCE-CURRENT-20261023.md). Ora is operating as a bounded local assistant; the newly approved-note transfer and experience pilot remain pending. Context90 and all earlier scientific conclusions are preserved.
 
 **Unified scientific roadmap:** [Passes 1–28 synthesis](docs/artificial-life/UNIFIED-RESEARCH-SYNTHESIS.md) — one evidence-calibrated causal map, competing explanations, failure gates and highest-information next question. [Full publication index](docs/artificial-life/PASS-1-28-PUBLICATION-INDEX.md) retains the 28 original stage links. No scientific experiment independently reproduced.
 

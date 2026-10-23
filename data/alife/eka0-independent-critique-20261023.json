@@ -178,5 +178,62 @@
       "No new World, VM, seed query, population, model call or admission"
     ],
     "next_gate": "Bound actually reachable information opportunity and saved-cost upper benefit against same-length blind policy, including empty food, changing targets, travel and expiry"
+  },
+  "closed_environment_payoff": {
+    "ora_branch": "review/eka0-environment-payoff-20261023",
+    "plan_sha256": "91dc7b1070b2b956f14b27d14645b9b5cc9fc29ac04f73d7ddb37aba9389911e",
+    "script_sha256": "1b6e30039162d0d10eb0ba6601581ad7028681051720d0823b32b597dd425942",
+    "result_sha256": "907b143afdfcdf48cd452456e9fb4b5e99b23c4d39882b5c6daa36204a5ce8a9",
+    "independent_review_sha256": "52ac7bf19b80668ad262e2a73a5f360b566713e5db60b283da532fc454e869e5",
+    "closed_roles": 16,
+    "forages": 14772,
+    "nonempty_attempts": 14456,
+    "empty_feedback_zero": 316,
+    "repeated_site_pairs": 14012,
+    "both_nonempty_stable": 13154,
+    "both_nonempty_changed": 422,
+    "other_site_intervened_nonempty_stable": 6020,
+    "other_site_intervened_nonempty_changed": 356,
+    "renewal_offers": 15056,
+    "renewal_admitted": 8164,
+    "renewal_rejected": 6892,
+    "same27_blind_first_child_turns": [
+      45,
+      50
+    ],
+    "same27_blind_captures": [
+      5,
+      5
+    ],
+    "same27_blind_parent_energy": [
+      10,
+      5
+    ],
+    "same27_blind_heat": [
+      90,
+      95
+    ],
+    "feedback_prior_unchanged_first_child_turns": [
+      54,
+      60
+    ],
+    "feedback_prior_unchanged_captures": [
+      9,
+      9
+    ],
+    "scope": "Closed observations and conditional source algebra, no counterfactual policy scoring or scientific replay",
+    "ecological_superiority": "UNKNOWN",
+    "mutation_viability": "UNKNOWN",
+    "population_execution": "NO_GO",
+    "limits": [
+      "Observational pairs are opportunity markers, not causal information-use evidence",
+      "Equal body/copy charges do not equalize food or lifetime performance",
+      "Blind first child faster/lessfood; feedback parentreservehigher; no generalfitnesswinner",
+      "Extra fullnurseryblindcycles canaddintake, so204vs180 is notimpossibility",
+      "D+45B supplyupperbound conditional stationarysame-sitewholelineage; D=T onlyallglobaldispatchesfocal",
+      "1/180 formalrenewalsurpluscoefficient, not observedrate or infinitehorizon; source4096",
+      "No new World, VM, seed query, model call, genotype search, runtimechange or admission"
+    ],
+    "next_gate": "Genuinely equal-resource causalcontrast plus viable affordable mutationpath beforepopulationadmission"
   }
 }

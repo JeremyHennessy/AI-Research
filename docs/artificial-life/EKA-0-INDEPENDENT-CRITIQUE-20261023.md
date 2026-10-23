@@ -90,6 +90,30 @@ Independent review inspected retained masks and all ten cost rows, checked energ
 
 Record five different outcomes: **developer supplied**, **acquired during life**, **mutation-origin useful change**, **inherited improvement**, and **new capability surviving independent causal tests**. Progress on one does not imply the next. Use the project's existing seven-stage roadmap without granting a stage for this review; persistent ecology, cumulative culture and open-ended intelligence remain unproven.
 
+### Follow-up: actual closed ecology and equal-length blind comparison
+
+The [environment-payoff reader's retained result](https://github.com/JeremyHennessy/Ora2.0/blob/review/eka0-environment-payoff-20261023/data/eka0-environment-payoff-result-20261023.json) adds observations from all 16 authenticated, already-closed natural-mutating/parent-copy histories. It does not replay policies or create a population. Independent review accepts the descriptive counts and conditional accounting; **ecological superiority and mutation viability remain UNKNOWN, population NO-GO**.
+
+There were 14,772 forage dispatches: 14,456 nonempty attempts and 316 empty feedback-zero events. Among 14,012 consecutive same-actor/same-site revisit pairs, 13,576 had two nonempty attempts: 13,154 stable targets and 422 changed targets. After an intervening forage at another site, 6,020 nonempty pairs were stable and 356 changed; 84 additional such pairs involved emptiness. These show retained-history **opportunity markers**, not matched causal tests or evidence an organism used that history. Targets are analyst-only metadata. Empty food, changed targets and distinct current information remain potential confounds.
+
+Of 15,056 renewal offers, 8,164 were admitted and 6,892 rejected. Four offers per site per 64 **global** dispatches are not guaranteed intake. Initial site stocks are 32/16/16/0; half of site 0's stock is inaccessible before tick 64 but already occupies capacity. Unlocking it does not create additional food. Oldest available packets, port changes and individual scheduling matter.
+
+The blind and fixed references were padded with unreachable instructions to the same 27 words, 43-unit mature body and 27-word copying charge as the feedback candidate:
+
+| Conditional first child | Correct / wrong initial port | Captures | Parent energy | Heat |
+| --- | ---: | ---: | ---: | ---: |
+| Feedback, prior unchanged row | 54 / 60 own turns | 9 / 9 | 27 / 27 | 153 / 153 |
+| Same-length blind alternator | 45 / 50 own turns | 5 / 5 | 10 / 5 | 90 / 95 |
+| Same-length fixed ports, both declared | 36 / no affordable child | 9 / 0 | 29 / none | 151 / no birth row |
+
+Thus the fairer blind reference produces its first child sooner using less food under the stable/plentiful-food premise; feedback leaves a larger parent reserve. No general fitness winner follows. These are still human-authored policies, not mutation-origin phenotypes, and equal body/copy costs do not equalize intake or lifetime outcomes.
+
+The algebraic blind core cost of 204 against 180 intake is **not an impossibility result**: extra full-nursery cycles still forage and can add 20 intake per two cycles at 10 dispatch cost while COPY refuses. A stationary, same-site, 27-word whole-lineage supply bound has at least `D + 45B` heat for focal dispatches D and completed births B, against at most `12 + 20(initial stock + 4 floor(T/64))` accessible input. Set D=T only when all global dispatches belong to that stationary lineage, without outsiders or inbound transfers. It is not applied to these mobile mutating histories. The `1/180` renewal-surplus coefficient is an upper-bound coefficient after separating initial stock, not observed growth or an infinite-horizon qualification; this source stops at 4,096 global dispatches.
+
+Exact SHA256 custody: plan `91dc7b1070b2b956f14b27d14645b9b5cc9fc29ac04f73d7ddb37aba9389911e`; reader `1b6e30039162d0d10eb0ba6601581ad7028681051720d0823b32b597dd425942`; result `907b143afdfcdf48cd452456e9fb4b5e99b23c4d39882b5c6daa36204a5ce8a9`; independent retained-result review `52ac7bf19b80668ad262e2a73a5f360b566713e5db60b283da532fc454e869e5`. All role/dose totals, categorical denominators, retained cost-row conservation and finite supply inequalities were checked without rerunning the reader, VM or scientific referee.
+
+The next gate is a genuinely equal-resource causal contrast and a viable, affordable mutation path. Do not upgrade observational opportunity, a favourable energy identity or a larger parent reserve into useful naturally selected learning. Prior failures, certificate limits and sample-bank decisions remain intact.
+
 Directly inspected in this pass: issue #62/#313 bodies through the GitHub API; the author's complete Hinton–Nowlan text; Lenski's primary abstract and indexed author-PDF excerpts; the 2025 evolvability paper's indexed primary methods/results excerpts; Arnold's PubMed abstract and project README; DGM v3 abstract. PNAS direct full-text navigation encountered cookie/PMC challenge pages; Arnold publisher full text returned 403. These limitations prevent a new complete-methods/E2 promotion for those papers. Prior Physis/Stringmol full-reading annotations were reused, not re-certified. No external implementation, simulation, supplement reanalysis or reproduction was run. No canonical catalog evidence levels, historical source counts or rights assessments were changed.
 
 **Highest-value next action:** finish the paired Ora source audit's one cheapest information-opportunity and paid mutational-reproduction bound. If it fails, publish the narrow NO-GO instead of spending a population bank. If it passes, register the smallest EKA-1 and submit it for independent admission.

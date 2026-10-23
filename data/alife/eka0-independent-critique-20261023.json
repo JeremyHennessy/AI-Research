@@ -52,7 +52,7 @@
   "canonical_catalog_changes": false,
   "independent_literature_reproduction": false,
   "launch_authority": false,
-  "next_action": "Qualify informative exposure/probe and explicit paid sensorREAD source/custody/pricing before any diagnostic execution path; ownsignal methoddirection complete, executionNO_GO and broaderEKA1held",
+  "next_action": "Prepare exact paid sensor and derived-custody source under separately reviewed finite qualification authority; actual opportunity UNKNOWN, execution NO_GO, no population admission",
   "paired_source_review": {
     "scope": "Reader/source inspection and independent two-population event aggregate spot check only; not scientific replay",
     "branch": "review/eka0-feasibility-20261023",
@@ -393,5 +393,32 @@
     ],
     "fixed_cell_rejection_preserved": true,
     "ora_commit": "3d2bb38b69319d3f9c8714221f2a58491faf9f6d"
+  },
+  "feedback_opportunity_cost_custody": {
+    "decision": "PARTIAL_SOURCE_QUALIFICATION_EXECUTION_NO_GO",
+    "contract_sha256": "44f4392a78339ee409a4fd0e5d0474d59ff1d27bd21474c7078e702a4ff7e85d",
+    "helper_sha256": "5303d7eafd33b8f7404b4f02cfab3c5d1103e3ee000177160b3a2b1cb1eacdb7",
+    "tests_sha256": "f91401baeba114594f77b9f214450d86e3c709ed942b7ec9e8e7d927499a4603",
+    "document_sha256": "34923c8a901e9e4b8431e1f6ae73e59df37d619cac06743d750e027f05a7d392",
+    "independent_review_sha256": "c3f2c887d20e9370e5c4b1f0d28201a92a9d25a1091fe3661ccdde3166e803c3",
+    "ordinary_founder_feedback_read": false,
+    "first_founder_division_necessary_dispatch_floor": 70,
+    "actual_selected_origin_useful_opportunity": "UNKNOWN",
+    "useful_opportunity_lower_bound": 0,
+    "pre_read_to_delayed_probe_minimum_dispatches": 4,
+    "including_exposure_minimum_dispatches": 5,
+    "conditional_energy_probe_floor": 4,
+    "conditional_energy_positive_before_expiry_floor": 5,
+    "expiry_probe_observable_at_turn": 256,
+    "three_restore_prefix_dispatches": "3t",
+    "three_genesis_energy_stock": 4260,
+    "formation_heat_component_inside_stock": 129,
+    "offline_checks_reported": 6,
+    "independent_checks": "Source/test-definition/retained aggregate inspection only; no helper/test/VM execution",
+    "full_pricing_qualified": false,
+    "checkpoint_authority_qualified": false,
+    "worlds_authorized": 0,
+    "new_vm_steps": 0,
+    "next_component": "Exact paid sensor adapter and original/derived custody source; separate finite software/native registration and owner authority before execution"
   }
 }

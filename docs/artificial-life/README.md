@@ -1,10 +1,12 @@
 # Artificial Life, Emergent Intelligence, and Digital Organisms
 
-**Current Ora decision:** [Runtime and learning checkpoint — October23](ORA-INTELLIGENCE-CURRENT-20261023.md). Qualified local assistant operation and narrow policy-memory evidence are distinct from the pending new-note transfer and experience pilot. No persistent scientific World or evolution is claimed; closed Context90 findings and earlier failures remain unchanged.
+**Current Ora decision:** [October23 updated runtime/learning reconciliation](ORA-RUNTIME-LEARNING-UPDATE-20261023.md). The assistant is running, new-note transfer passed narrowly, and both pilots failed in software. Repaired two-hour renewal and persistent-world production gates remain pending. Earlier scientific findings remain unchanged.
+
+**K0 draft:** [Capsule schema, traceable example, costs and stop gates](KNOWLEDGE-CAPSULE-K0-FEASIBILITY-20261023.md). Documentation only; no service, ingestion or organism channel.
 
 **Future research design (not an active experiment):** [Knowledge library, source provenance and digital cultural learning — October 23](DIGITAL-KNOWLEDGE-AND-CULTURAL-LEARNING-ROADMAP-20261023.md). The immediate slice is a traceable capsule schema and feasibility decision only; no library or world is activated.
 
-**All 28 numbered research stages are published on main:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. Historical counts below are snapshots, not current totals.
+**Historical1–28 navigation:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. [Existing Passes29–50 notes](PASS-29-50-PUBLICATION-INDEX.md) extend this navigation without evidence-grade promotion. Historical counts below are snapshots, not current totals.
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.
 

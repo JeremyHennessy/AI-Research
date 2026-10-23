@@ -3,6 +3,8 @@
 **Date:** 2026-10-23  
 **Status:** Future-facing research and design only. No new world, library service, ingestion job, organism instruction, grant, scientific registration, stage acceptance, or persistent activation is authorized by this note.
 
+[K0 feasibility draft and traceable example](KNOWLEDGE-CAPSULE-K0-FEASIBILITY-20261023.md) are now documented. Rights for redistribution and VM instruction/energy costs remain unresolved; no K1 runtime is authorized. Consult the [latest dated update](ORA-RUNTIME-LEARNING-UPDATE-20261023.md) for completed retention and failed-pilot outcomes.
+
 ## Goal
 
 Allow future Ora digital organisms to benefit from **existing human knowledge** and, later, from discoveries made by other organisms, without expecting every fact to be rediscovered by trial and error. Knowledge access is not the same as learning, intelligence, or evolution: the important test is whether an organism acquires information, decides appropriately how to use it, and gains an independently verified benefit.
@@ -11,7 +13,7 @@ This should be developed alongside, not ahead of, the existing supervised-world 
 
 ## Evidence boundary at the October 23 checkpoint
 
-- [Current Ora runtime and learning checkpoint](ORA-INTELLIGENCE-CURRENT-20261023.md): the **local assistant**, not a digital organism, has a signed, approved memory store and bounded local-model tools. At the checkpoint it had 174 retained memory records. New-note transfer and the project-work experience pilot were pending. No model-weight learning was demonstrated.
+- [Current Ora runtime and learning checkpoint](ORA-INTELLIGENCE-CURRENT-20261023.md): the **local assistant**, not a digital organism, has a signed, approved memory store and bounded local-model tools. At the checkpoint it had 174 retained memory records. At that earlier checkpoint transfer/pilot were pending; the later update records a narrow transfer PASS and two terminal software pilot failures. No model-weight learning was demonstrated.
 - [Context90 closed results](ORA-INTELLIGENCE-CURRENT-20261019.md): the largest supplied memory setting met its scoped own-history retrieval gate but no tested setting met the full paid-value comparisons. Reusing earlier information is not proof of energetic advantage.
 - [Existing AI technical handbook](../02-technical-handbook.md): retrieval-augmented methods have recognized provenance, retrieval-error, freshness and prompt-injection limitations. The literature catalog is *research material*, not an approved organism policy.
 - Existing finite organism experiments demonstrate bounded learning, reproduction and copying through supplied mechanisms, but **not** sustained beneficial evolved cognition or a live persistent population.

@@ -23,11 +23,19 @@ The ambition is scientifically coherent. The current evidence does not establish
 The [merged strategy](ORA-ENDOGENOUS-LEARNING-EVOLUTION-DECISION-20261023.md) and existing research handoffs report:
 
 - **Longitudinal01:** two finite 8,192-dispatch histories, eight generations and 35 paid births each, with supplied ancestry and mutation disabled. Continuity is evidence; evolutionary improvement is not.
-- **Learning81:** scoped personally acquired cue knowledge under supplied machinery; the cited operating surplus of 480 lost to compact references at 664/661. Correct choices did not establish economic superiority.
+- **Learning81:** scoped personally acquired cue knowledge under supplied machinery; retained energy of 480 lost to compact references at 664/661. Correct choices did not establish economic superiority.
 - **Inheritance83:** variation and paid births occurred, but predeclared beneficial-selection criteria failed. Only two of eight q8 proposals reached mutant paid births. Counting selected survivors would conceal the main feasibility problem.
 - **Context90:** q8 met its scoped retrieval criterion, while smaller variants and all paid advantage flags failed. Retrieval of personal history did not establish a viable new hereditary strategy.
 
 These are existing closed findings, not independently re-executed here. Their original sample banks, negative results and acceptance decisions remain unchanged. Assistant retention, local-model prompt histories and PILOT74 shutdown qualification contribute no new organism-learning evidence. PILOT74 preserves experimental state; it does not establish EKA feasibility.
+
+## Paired source finding and independent check
+
+The [paired Ora feasibility audit](https://github.com/JeremyHennessy/Ora2.0/blob/review/eka0-feasibility-20261023/docs/EKA-0-FEASIBILITY-DECISION-20261023.md) reports a new descriptive census of all 16 already-closed Pressure71 natural-mutating, parent-copy populations: 364 paid births; dose-8 newborns executed feedback (8 actors) and SELFWRITE (10 actors), with 37 value-changing writes and four writers later reproducing. Its strict trace predicate found zero paid newborns with an exact, unmutated copy of a previously self-written word. That establishes opcode expression and a copying-order constraint in these histories, not useful learning or general impossibility. No producer, VM or scientific referee was rerun.
+
+I inspected the census reader and historical exported COPY, SELFWRITE and division source; independently counted births, copy words, mutations and effective SELFWRITE events in two closed dose-8 populations (`74000` and `74203`). Both aggregates match the paired receipt; the structured receipt records their raw hashes. This spot check is not an independent replay or verification of every scientific result. The documented 67-unit minimum parent expenditure for copying/division reconciles to 55 heat plus 12 offspring energy; it excludes ordinary survival/action costs. A three-capture minimum from 12 initial energy is conditional on no incoming neighbour energy transfers, which the VM allows. This qualification must accompany any reproduction-affordability bound.
+
+The paired audit also returns UNKNOWN / NO-GO for new population execution. It does not yet exhibit a viable information-use route, affordable paired personal histories or a positive retained-benefit lower bound. PILOT74 v3 subsequently completed 25 roles and its 34,816 VM-step budget but failed publication's legacy lock-body check; it did not qualify a persistent production World. The merged strategy's earlier pre-VM-failure description is a historical checkpoint, not the latest engineering result. Engineering completion would still grant no EKA stage or learning claim.
 
 ## Required source-only handoff and decisive falsifiers
 

@@ -18,11 +18,26 @@
   ],
   "closed_result_policy": "All existing acceptances, failures, sample banks and ratings unchanged; no reruns",
   "direct_primary_access": [
-    {"url": "https://www.cs.toronto.edu/~hinton/absps/evolution.htm", "scope": "complete author-hosted article; no implementation run"},
-    {"url": "https://doi.org/10.1038/nature01568", "scope": "primary abstract and indexed author-PDF excerpts; existing E1 unchanged"},
-    {"url": "https://doi.org/10.1073/pnas.2413930121", "scope": "indexed primary methods/results excerpts; direct publisher cookie and PMC challenge barriers; no full-method promotion"},
-    {"url": "https://pubmed.ncbi.nlm.nih.gov/42518295/", "scope": "primary abstract; DOI publisher 403; author project README inspected, not code qualification"},
-    {"url": "https://arxiv.org/abs/2505.22954v3", "scope": "primary abstract only; no methods reproduction"}
+    {
+      "url": "https://www.cs.toronto.edu/~hinton/absps/evolution.htm",
+      "scope": "complete author-hosted article; no implementation run"
+    },
+    {
+      "url": "https://doi.org/10.1038/nature01568",
+      "scope": "primary abstract and indexed author-PDF excerpts; existing E1 unchanged"
+    },
+    {
+      "url": "https://doi.org/10.1073/pnas.2413930121",
+      "scope": "indexed primary methods/results excerpts; direct publisher cookie and PMC challenge barriers; no full-method promotion"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518295/",
+      "scope": "primary abstract; DOI publisher 403; author project README inspected, not code qualification"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.22954v3",
+      "scope": "primary abstract only; no methods reproduction"
+    }
   ],
   "reused_reviews": [
     "docs/artificial-life/28-physis-2003-full-review.md",
@@ -37,5 +52,28 @@
   "canonical_catalog_changes": false,
   "independent_literature_reproduction": false,
   "launch_authority": false,
-  "next_action": "Complete paired Ora source audit's cheapest information-opportunity and paid mutational-reproduction bound; register EKA-1 only if feasible, never execute from this receipt"
+  "next_action": "Complete paired Ora source audit's cheapest information-opportunity and paid mutational-reproduction bound; register EKA-1 only if feasible, never execute from this receipt",
+  "paired_source_review": {
+    "scope": "Reader/source inspection and independent two-population event aggregate spot check only; not scientific replay",
+    "branch": "review/eka0-feasibility-20261023",
+    "cost_caveat": "three-capture lower bound from12 energy conditional on no incoming neighbour transfers",
+    "spots": [
+      {
+        "role": "74000-mutating-parent_copy-d8",
+        "sha256": "17b0ea56835f7c081bdbf329beccd8a5a520ce46d63d41064176ec93fbe84eb0",
+        "births": 15,
+        "effective_selfwrite_dispatches": 0,
+        "paid_copy_words": 534,
+        "mutations": 39
+      },
+      {
+        "role": "74203-mutating-parent_copy-d8",
+        "sha256": "82514280c3f6d649f52ab16702fc4fd745efa4465642d1d7bb5f4b8eb8f21cc5",
+        "births": 30,
+        "effective_selfwrite_dispatches": 1,
+        "paid_copy_words": 1059,
+        "mutations": 82
+      }
+    ]
+  }
 }

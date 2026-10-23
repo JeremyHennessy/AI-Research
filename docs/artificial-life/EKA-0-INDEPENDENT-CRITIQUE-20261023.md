@@ -58,6 +58,36 @@ Separate discovery and causal tests: retain candidate genotypes without outcome-
 
 ## Claim ladder and source limits
 
+### Follow-up: bounded source certificate, conditional result only
+
+The separately authorized [Ora source certificate](https://github.com/JeremyHennessy/Ora2.0/blob/review/eka0-feasibility-certificate-20261023/docs/EKA-0-SOURCE-CERTIFICATE-20261023.md) completed one frozen, source-only analysis. Independent review accepts **conditional expressibility and first-child arithmetic**, not a full evolutionary feasibility certificate. The authored nine-slot program implements ordinary win-stay/lose-shift; it was neither discovered by evolution nor installed in a population. No new World, VM dispatch, seed query or model call ran.
+
+The plan, program and result retain exact identities:
+
+| Retained Ora artifact | SHA256 |
+| --- | --- |
+| `data/eka0-certificate-plan-20261023.json` | `bfcd07ca5b7e8ad3bbe0864e68fcf11addd72c533ea249d66385eb548226cf8d` |
+| `tools/eka0_source_certificate.py` | `c40937437d61cdb2d8309ae9b52c2bc0fb8e68108b6c7c774c55fdf63d36b802` |
+| `data/eka0-source-certificate-20261023.json` | `c974e90ad6aaea2d3bd1708dffc44cfd5084eba1944b2e5a454c8ed700bb7608` |
+| `data/eka0-certificate-independent-review-20261023.json` | `b9548e0fbfefeb6129d17d4ab4c95e0ab0335063a324d478d2b7290a362f1c53` |
+
+The VM-source pins are actual Windows CRLF checkout bytes; those hashes are not asserted to equal Git's LF-normalized blobs. The plan, reader and receipts preserve their own bytes with `-text` attributes. A mismatched checkout must fail authentication, rather than silently normalize. These are source-custody and analysis checks, not a broad CI or native containment pass.
+
+All **1,024** subsets of the founder-to-candidate ten fixed word edits have the weak CFG property of a reachable recurrent component containing FORAGE/COPY/DIVIDE. This screen is **non-discriminating**. It neither establishes viable intermediates nor bounds natural evolutionary opportunity. The route is a targeted human-authored subcube, not an unbiased mutation search. The exact one-birth ten-edit probabilities are conditional on independent uniform hash outputs, not probabilities of any useful strategy or sequential evolution.
+
+| Authored policy | Slots | First child, initially correct / wrong | Captures | Parent energy | Parent-lifetime heat |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Feedback candidate | 9 | 54 / 60 turns | 9 / 9 | 27 / 27 | 153 / 153 |
+| Shorter same-policy reference | 8 | 47 / 52 turns | 8 / 8 | 27 / 27 | 133 / 133 |
+| Blind alternator | 6 | 35 / 40 turns | 4 / 4 | 9 / 4 | 71 / 76 |
+| Fixed ports 0 and 1, both declared | 5 | 20 / no affordable child | 5 / 0 | 29 / none | 71 / no birth row |
+
+These worksheets assume food at every attempt, a stable truthful target, no neighbours/transfers/competition, free material and population capacity, and unchanged programs. They charge initialization, every failed action and refusal, COPY extras, final division, cap overflow and expiry. The candidate balance is `12 + 9×20 = 27 + 12 + 153`. Shorter policies make children sooner with less food, but the blind policy leaves less parent energy; these are different resource-use endpoints, **not a resource-matched fitness comparison**. The matching fixed port cannot be chosen after seeing the hidden target. Shorter code is legal as an authored reference but unreachable through this founder's length-preserving substitution mechanism. Initial supplied assembly is disclosed separately; no formation-inclusive advantage follows.
+
+The feedback identity only holds on an actual nonempty, truthful attempt. Zero feedback also means absent food; packet targets and global timing can change. No reachable real encounter sequence was established. This stationary candidate does not solve an older-site-history task, transmit acquired code, or demonstrate useful selected inherited learning.
+
+Independent review inspected retained masks and all ten cost rows, checked energy/heat and prefix/birth-accounting invariants, and reviewed source/path correspondence. It did **not** rerun the enumerator, worksheet generator, VM or scientific referee. Thus the scientific decision remains **UNKNOWN; population NO-GO**. The next gate is a separately bounded source-level account of an actually reachable information opportunity whose saved costs could repay acquisition against a same-length blind policy, including empty food, changing targets, travel and expiry. Do not start another genome-authoring search or population merely to obtain a positive result. Earlier findings above remain intact; no seven-stage promotion follows.
+
 Record five different outcomes: **developer supplied**, **acquired during life**, **mutation-origin useful change**, **inherited improvement**, and **new capability surviving independent causal tests**. Progress on one does not imply the next. Use the project's existing seven-stage roadmap without granting a stage for this review; persistent ecology, cumulative culture and open-ended intelligence remain unproven.
 
 Directly inspected in this pass: issue #62/#313 bodies through the GitHub API; the author's complete Hinton–Nowlan text; Lenski's primary abstract and indexed author-PDF excerpts; the 2025 evolvability paper's indexed primary methods/results excerpts; Arnold's PubMed abstract and project README; DGM v3 abstract. PNAS direct full-text navigation encountered cookie/PMC challenge pages; Arnold publisher full text returned 403. These limitations prevent a new complete-methods/E2 promotion for those papers. Prior Physis/Stringmol full-reading annotations were reused, not re-certified. No external implementation, simulation, supplement reanalysis or reproduction was run. No canonical catalog evidence levels, historical source counts or rights assessments were changed.

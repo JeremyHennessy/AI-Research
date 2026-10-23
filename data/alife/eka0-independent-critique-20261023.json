@@ -75,5 +75,108 @@
         "mutations": 82
       }
     ]
+  },
+  "bounded_source_certificate": {
+    "ora_branch": "review/eka0-feasibility-certificate-20261023",
+    "plan_sha256": "bfcd07ca5b7e8ad3bbe0864e68fcf11addd72c533ea249d66385eb548226cf8d",
+    "script_sha256": "c40937437d61cdb2d8309ae9b52c2bc0fb8e68108b6c7c774c55fdf63d36b802",
+    "result_sha256": "c974e90ad6aaea2d3bd1708dffc44cfd5084eba1944b2e5a454c8ed700bb7608",
+    "independent_review_sha256": "b9548e0fbfefeb6129d17d4ab4c95e0ab0335063a324d478d2b7290a362f1c53",
+    "scoped_result": "CONDITIONAL_EXPRESSIBILITY_AND_FIRST_CHILD_ARITHMETIC_PASS",
+    "full_evolutionary_feasibility_certificate": false,
+    "cfg_masks": 1024,
+    "cfg_passing_masks": 1024,
+    "cfg_interpretation": "NONDISCRIMINATING_NECESSARY_CONDITION_ONLY",
+    "mutation_viability": "UNKNOWN",
+    "ecological_advantage": "UNKNOWN",
+    "population_execution": "NO_GO",
+    "source_pin_scope": "Exact Windows CRLF source bytes; not Git LF blob identity; no silent normalization",
+    "independent_review_reruns": 0,
+    "cost_rows": [
+      {
+        "policy": "candidate_feedback_9",
+        "first_birth_turns": [
+          54,
+          60
+        ],
+        "captures": [
+          9,
+          9
+        ],
+        "parent_energy": [
+          27,
+          27
+        ],
+        "parent_lifetime_heat": [
+          153,
+          153
+        ]
+      },
+      {
+        "policy": "shorter_same_policy_8",
+        "first_birth_turns": [
+          47,
+          52
+        ],
+        "captures": [
+          8,
+          8
+        ],
+        "parent_energy": [
+          27,
+          27
+        ],
+        "parent_lifetime_heat": [
+          133,
+          133
+        ]
+      },
+      {
+        "policy": "blind_alternator_6",
+        "first_birth_turns": [
+          35,
+          40
+        ],
+        "captures": [
+          4,
+          4
+        ],
+        "parent_energy": [
+          9,
+          4
+        ],
+        "parent_lifetime_heat": [
+          71,
+          76
+        ]
+      },
+      {
+        "policy": "fixed_port_5_both_ports_declared",
+        "first_birth_turns": [
+          20,
+          null
+        ],
+        "captures": [
+          5,
+          0
+        ],
+        "parent_energy": [
+          29,
+          null
+        ],
+        "parent_lifetime_heat": [
+          71,
+          null
+        ]
+      }
+    ],
+    "limits": [
+      "All programs developer-authored; no evolved discovery",
+      "Truthful nonempty stable-target premise not an observed reachable ecology",
+      "Shorter references unreachable by length-preserving founder substitution",
+      "No formation-inclusive superiority or equal-resource fitness comparison",
+      "No new World, VM, seed query, population, model call or admission"
+    ],
+    "next_gate": "Bound actually reachable information opportunity and saved-cost upper benefit against same-length blind policy, including empty food, changing targets, travel and expiry"
   }
 }

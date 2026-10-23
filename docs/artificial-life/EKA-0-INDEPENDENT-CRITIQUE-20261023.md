@@ -114,6 +114,31 @@ Exact SHA256 custody: plan `91dc7b1070b2b956f14b27d14645b9b5cc9fc29ac04f73d7ddb3
 
 The next gate is a genuinely equal-resource causal contrast and a viable, affordable mutation path. Do not upgrade observational opportunity, a favourable energy identity or a larger parent reserve into useful naturally selected learning. Prior failures, certificate limits and sample-bank decisions remain intact.
 
+### Follow-up: lifetime comparison prepared; targeted historical path absent
+
+The [lifetime preparation](https://github.com/JeremyHennessy/Ora2.0/blob/review/eka0-lifetime-path-preparation-20261023/data/eka0-lifetime-comparison-preparation-20261023.json) is explicitly **draft, unregistered and not execution-ready**. It matches exogenous stock, offer/target rules, starting energy, material, location and finite budgets. It does not force equal captured meals, stop at a meal count, select a matching fixed port afterward, or discard dead founders. Whole paired World/lineage is the future independent unit; the candidate endpoint is founder offspring that themselves produce a paid child before the fixed horizon. Late births remain visible with follow-up/censoring; absence of a descendant by that horizon is not permanent sterility.
+
+All five authored references have 27 words, including a legal nursery-progress blind control using paid opcode 11. Its existence does not establish cheaper behaviour, survival or a stronger comparator. No authored program may replace the scientific founder or become an assay founder through this preparation. A nonlethal information lesion/sham, resource/control qualification, viable path, sampling/effect/reserved-bank registration, independent scientific admission and native/owner authority remain held among all ten execution gates. Fourteen targeted literal/metadata tests were reported passing for the preparation; these are software checks, not organism execution or a scientific result.
+
+One frozen lookup examined **all 16 founders and 364 paid births** in the same closed histories. Independent review checked the retained ledger without rerunning the reader or a VM:
+
+| Fixed-target historical lookup | Count |
+| --- | ---: |
+| Newborns inside the targeted ten-edit subcube | 117, all unchanged founder mask 0 |
+| Newborns outside that subcube | 247 |
+| Exact authored target / complete strict target path | 0 / 0 |
+| One-added-intended-edit children later reproducing unchanged | 0 |
+| Newborns later producing a paid child | 208 |
+| Newborns doing so before any effective code change | 204 |
+
+The reader reconciled 13,494 paid COPY words and 612 mutated words. Thirty-seven effective SELFWRITE events occurred; four parent-code-changed birth edges had COPY-time source vectors differing from division-time code. No copied-source vector differed from its parent's birth genotype. Parent birth code, temporally assembled COPY vector and division-time code are separate provenance objects. Effective SELFWRITE excludes a strict edge even if later reversed. The exact path predicate requires contiguous faithful or one-added-fixed-edit ancestry and target reproduction before a code change.
+
+This is a **narrow negative finding**: this particular target and its nonzero intended subcube intermediates were not observed in these histories. It does not exclude other viable genotypes, paths outside this subcube or future useful variation. The 208 contextual reproductive outcomes are not 208 independently replicated fitness advantages. No genotype was inserted, chosen as a winner or scored under changed criteria.
+
+Exact SHA256 custody: preparation `b381bdcdf2cca7b07b274e49096cb4df1d502d332eeeaec3301e75e8493629f6`; reader `7ec1a958e188b26a42274f5995f15b62003c983aa99fae4287bc25ac40062a32`; helper `73ff613663221c5b158e9d3b5d1c03e794989e2ccee9c1081d4f5a9657035c81`; result `a5ddefb9a440649af0bad81e97eabe5d67943036ef0058e47631889bf4826134`; independent review `dd4d97c587cdc988b0f88acd8a2517581f06589800b156cd468bb9766bcca3bf`.
+
+**UNKNOWN / population NO-GO remains.** Complete the unqualified causal/resource and viable-path requirements prospectively; do not launch a population, insert an authored founder or expand a closed bank to seek a positive outcome. No historical result, source rating or seven-stage claim changes.
+
 Directly inspected in this pass: issue #62/#313 bodies through the GitHub API; the author's complete Hinton–Nowlan text; Lenski's primary abstract and indexed author-PDF excerpts; the 2025 evolvability paper's indexed primary methods/results excerpts; Arnold's PubMed abstract and project README; DGM v3 abstract. PNAS direct full-text navigation encountered cookie/PMC challenge pages; Arnold publisher full text returned 403. These limitations prevent a new complete-methods/E2 promotion for those papers. Prior Physis/Stringmol full-reading annotations were reused, not re-certified. No external implementation, simulation, supplement reanalysis or reproduction was run. No canonical catalog evidence levels, historical source counts or rights assessments were changed.
 
 **Highest-value next action:** specify one genuinely equal-resource causal contrast and establish an affordable viable mutation path. The closed ecology now supplies observational opportunity markers, but no matched paid advantage or viable intermediate certificate. Keep population NO-GO; only a successful independently reviewed feasibility case could support a later EKA-1 registration and separate admission.

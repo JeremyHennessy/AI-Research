@@ -235,5 +235,47 @@
       "No new World, VM, seed query, model call, genotype search, runtimechange or admission"
     ],
     "next_gate": "Genuinely equal-resource causalcontrast plus viable affordable mutationpath beforepopulationadmission"
+  },
+  "lifetime_preparation_and_closed_path": {
+    "ora_branch": "review/eka0-lifetime-path-preparation-20261023",
+    "plan_sha256": "b381bdcdf2cca7b07b274e49096cb4df1d502d332eeeaec3301e75e8493629f6",
+    "reader_sha256": "7ec1a958e188b26a42274f5995f15b62003c983aa99fae4287bc25ac40062a32",
+    "helper_sha256": "73ff613663221c5b158e9d3b5d1c03e794989e2ccee9c1081d4f5a9657035c81",
+    "result_sha256": "a5ddefb9a440649af0bad81e97eabe5d67943036ef0058e47631889bf4826134",
+    "independent_review_sha256": "dd4d97c587cdc988b0f88acd8a2517581f06589800b156cd468bb9766bcca3bf",
+    "preparation_status": "DRAFT_NOT_REGISTERED",
+    "scientific_execution_ready": false,
+    "held_scientific_gates": 10,
+    "literal_metadata_software_tests_reported": 14,
+    "closed_roles": 16,
+    "founders": 16,
+    "paid_births": 364,
+    "inside_subcube_births": 117,
+    "inside_subcube_masks": {
+      "0": 117
+    },
+    "outside_subcube_births": 247,
+    "target_births": 0,
+    "complete_strict_target_paths": 0,
+    "one_added_intended_edit_children_later_reproducing_unchanged": 0,
+    "newborns_with_later_paid_child": 208,
+    "newborns_with_later_paid_child_before_code_change": 204,
+    "paid_copy_words": 13494,
+    "mutated_copy_words": 612,
+    "effective_selfwrite_events": 37,
+    "copied_source_differs_from_parent_birth": 0,
+    "copied_source_differs_from_division_code": 4,
+    "qualification": "UNKNOWN",
+    "population_execution": "NO_GO",
+    "controls": "Same27wordreferences including paidnursery-progress blind; exactlegalreference is not qualifiedsurvival/costcontrol and not assayfounderpermission",
+    "matching": "Same exogenousresources/rules/start/budgets, not samecapturedmeals; allfounders/deaths/censoring retained",
+    "limits": [
+      "Retainedledger verification only; no reader/VM/scientificreferee rerun",
+      "Targeted10edit subcube not exhaustive genotype/pathsearch",
+      "No target here is not globalimpossibility",
+      "Contextual laterreproduction not neutrality or relativefitness",
+      "Scientificlesion/sham, viablepath, sampling/effect/reservedbank and nativeowneradmission remainheld",
+      "No authoredfounder insertion, newbank, World, modelcall, runtimechange or scientificadmission"
+    ]
   }
 }

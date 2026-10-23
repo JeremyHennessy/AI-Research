@@ -1,0 +1,41 @@
+{
+  "schema": "ORA-EKA0-INDEPENDENT-RESEARCH-v1",
+  "date": "2026-10-23",
+  "repository_base": "2fb16af7299f4d0c1da4cc60c57e6cf5017931ec",
+  "issue": "https://github.com/JeremyHennessy/AI-Research/issues/62",
+  "paired_issue": "https://github.com/JeremyHennessy/Ora2.0/issues/313",
+  "report": "docs/artificial-life/EKA-0-INDEPENDENT-CRITIQUE-20261023.md",
+  "verdict": "UNKNOWN",
+  "execution_decision": "NO_GO_PENDING_SOURCE_FEASIBILITY_AND_INDEPENDENT_ADMISSION",
+  "novelty_decision": "GENERAL_PHENOMENA_ALREADY_ESTABLISHED_NARROW_ORA_CAUSAL_RESULT_POSSIBLE_NOT_YET_DEMONSTRATED",
+  "missing_evidence": [
+    "reachable personally informative opportunity before death",
+    "legal mutation path with viable intermediate expression",
+    "source-backed number and probability of paid reproductive opportunities",
+    "cost-covering best-case benefit under unchanged physics",
+    "copied code versus private state and resource inheritance provenance",
+    "nonlethal cost-matched causal comparisons and cheap competitors"
+  ],
+  "closed_result_policy": "All existing acceptances, failures, sample banks and ratings unchanged; no reruns",
+  "direct_primary_access": [
+    {"url": "https://www.cs.toronto.edu/~hinton/absps/evolution.htm", "scope": "complete author-hosted article; no implementation run"},
+    {"url": "https://doi.org/10.1038/nature01568", "scope": "primary abstract and indexed author-PDF excerpts; existing E1 unchanged"},
+    {"url": "https://doi.org/10.1073/pnas.2413930121", "scope": "indexed primary methods/results excerpts; direct publisher cookie and PMC challenge barriers; no full-method promotion"},
+    {"url": "https://pubmed.ncbi.nlm.nih.gov/42518295/", "scope": "primary abstract; DOI publisher 403; author project README inspected, not code qualification"},
+    {"url": "https://arxiv.org/abs/2505.22954v3", "scope": "primary abstract only; no methods reproduction"}
+  ],
+  "reused_reviews": [
+    "docs/artificial-life/28-physis-2003-full-review.md",
+    "docs/artificial-life/26-stringmol-2016-full-review.md",
+    "docs/artificial-life/ORA-ENDOGENOUS-LEARNING-EVOLUTION-DECISION-20261023.md"
+  ],
+  "new_worlds": 0,
+  "scientific_population_runs": 0,
+  "external_model_calls": 0,
+  "runtime_changes": false,
+  "cross_repository_writes": false,
+  "canonical_catalog_changes": false,
+  "independent_literature_reproduction": false,
+  "launch_authority": false,
+  "next_action": "Complete paired Ora source audit's cheapest information-opportunity and paid mutational-reproduction bound; register EKA-1 only if feasible, never execute from this receipt"
+}

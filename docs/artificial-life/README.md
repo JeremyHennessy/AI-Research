@@ -2,6 +2,8 @@
 
 **Current Ora decision:** [Runtime and learning checkpoint — October23](ORA-INTELLIGENCE-CURRENT-20261023.md). Qualified local assistant operation and narrow policy-memory evidence are distinct from the pending new-note transfer and experience pilot. No persistent scientific World or evolution is claimed; closed Context90 findings and earlier failures remain unchanged.
 
+**Future research design (not an active experiment):** [Knowledge library, source provenance and digital cultural learning — October 23](DIGITAL-KNOWLEDGE-AND-CULTURAL-LEARNING-ROADMAP-20261023.md). The immediate slice is a traceable capsule schema and feasibility decision only; no library or world is activated.
+
 **All 28 numbered research stages are published on main:** [Passes 1–28 publication index](PASS-1-28-PUBLICATION-INDEX.md). Pass 8 is reconnaissance, Pass 22 remains draft-level, and the alternate Pass 21 review is archived with its verification caveat. Historical counts below are snapshots, not current totals.
 
 **New research initiative — 2026-10-08 | Research only.** No organism, agent, simulator, training run or deployment is authorized by this initiative. Do not change Ora, AgentTest, or any other repository.

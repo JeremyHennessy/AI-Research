@@ -492,5 +492,23 @@
     "new_worlds": 0,
     "vm_steps": 0,
     "new_seed_queries": 0
+  },
+  "prospective_world_opportunity": {
+    "ora_commit": "b6c50d526a03e68db5e1bd2470533f314958e0cf",
+    "contract_sha256": "b04ff1065d71697e28b9ede75d7c7d29029fea5867c75709d8a12e8f4dc6c088",
+    "document_sha256": "0b94167bbee67d7384bae78672bedeb8aa210365387620bf9c7b6677552822db",
+    "independent_method_review_sha256": "c2e7635f9b54263a4e1008cf6e3d0238dafa9f5db8e0a61e5a6e30448f2e317c",
+    "decision": "FUTURE_METHOD_DEFINED_ONLY_EXECUTION_NO_GO",
+    "sampling": "WholeassignedWorld earliest global naturallyborn READ with latestownFORAGE nonempty renewablepacket before2048; only pretreatment selection, no laterreplacement",
+    "old_firstmutant_primary_readers": "0of16 unchanged",
+    "experimental_unit_vs_independence": "Original assignedWorld experimentalunit; sharedseed doses/references/arms correlated blocks, not extra independentN",
+    "noeligible": "0 interventioncontrast, never0 actualbirths/energy/survival",
+    "conditional_information": "target=p XOR(1-f), sameWorld/site renewablephase equality; observeralgebra not policy, ownport retention/actual opportunityUNKNOWN",
+    "timing": "READtick=preWorldtick+1",
+    "validation_reported": "17authorlocal checks:12metadata+5AST; independently static-reviewed, no scientific execution",
+    "qualification": "Paid source authenticity, derivedcustody/continuation, fullnativecosts, statisticalregistration/admission unqualified",
+    "net_fitness": "UNKNOWN",
+    "worlds": 0,
+    "new_population": "NO_GO"
   }
 }

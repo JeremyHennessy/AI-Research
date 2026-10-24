@@ -212,3 +212,23 @@ Final SHA256 pins: contract `44f4392a78339ee409a4fd0e5d0474d59ff1d27bd21474c7078
 **PASS applies only to that offline structural component.** A caller-supplied canonical input hash and externally supplied receipt hash do not prove original history, receipt contents, paid source transition or common pre-READ checkpoint. Node/serialized-byte limits reject inputs but do not qualify peak allocation or native CPU/RAM. Actual source integration/event finalization, original checkpoint schema/replay/ancestry authentication, derived lawful custody and native resource/owner registration remain missing. All charge/history/identity/authority/execution flags stay false. No full adapter/checkpoint path, causal signal-use result or scientific admission is established; execution remains NO-GO. This bounded increment ends here without a new experimental run.
 
 Exact SHA256: adapter `9d0e43ae79fb53b190cb947141bf70983aa09c266a92456458b9a56f265724ef`; tests `534d641d679b80d6d359a0b1fbd9dc2376b9ebd9b077b41dd5a684b090bccd90`; manifest `d354a8ab84eb20293346b8bdc132441486b8b4bc629f03bd53fe5b347d0034ef`; document `f0f97bafae65143ad086d520c2f7acda71b30777f20bdcf2ca6450c85abdf002`; independent review `3b8e555e8e0a8a117bf9530ce3311063681c2ccda88f0cfa5f475ef7269f0447`. Earlier negative findings and whole-substrate UNKNOWN are preserved.
+
+
+### Consolidated October24 feasibility certificate
+
+The complete retained16-role cohort contains364 paid births and60336 events: eight newborn READ actors and104 READs (99 earned nonempty observations,4 empty-forage zeros,1 initial zero). All73 delayed earned probes changed site; none satisfies the certified same-site renewable condition. None of the16 prospectively selected first-mutated individuals ever READ. Later reader occurrence therefore cannot qualify that primary rule's opportunity. Resolve population/individual/descendant estimands prospectively; never replace missing origins with historical winners or select favorable genomes.
+
+A narrow hereditary chain is real in closed role74202-mutating-parent_copy-d8: founder0→2→10→15→21, paid birth ticks151/915/2215/3238. Parent15 and child21 have identical27-word birth genomes;21 had zero COPY mutations and blank memory/registers/feedback/inbox, then READ at3310 and3456. **Feedback-reading machinery was faithfully inherited and re-expressed.** This is neither inherited acquired answers nor proven advantageous learning. Paid ancestry does not establish neutral/advantageous intermediates or causal selection.
+
+| Required verdict | Decision |
+| --- | --- |
+| Ordinary mutation produces expressed feedback readers | YES, narrow primitive expression |
+| Personally acquired information changes behavior | UNKNOWN |
+| Net fitness benefit after all costs | UNKNOWN |
+| Advantageous capability inherited | UNKNOWN; primitive READ inheritance separately YES |
+| Sufficient viable evolutionary pathway | UNKNOWN |
+| New scientific population now | NO-GO |
+
+The old paid self-written-word predicate remains0; this new READ-inheritance observation does not overturn it or any extinct/failed result. Untreated histories supply no true/sham/XOR reproductive counterfactual. The current owner-local paid READ source `539d189d01c3353d6b53d43b8f37f2d0c013ce38` is unpushed AST-only preparation, not an experiment. Authentic common-prefix validation, paid causal branches, lawful derived continuation, native/resource controls, full costs, specificity and causal fitness evidence remain missing. No new substrate is justified or implemented; impossibility throughout the current VM remains unproved.
+
+Reproducible review used existing JSON ledgers only, without history replay, source imports, new seeds or test reruns. Independent review SHA256 `885208ea7c879a7601db07278938571f559e917f5f88566376c937ba471fcb4c`; paid ledger `a5ddefb9a440649af0bad81e97eabe5d67943036ef0058e47631889bf4826134`; historical Pressure71 source `cf22e109878bae6ac6b22e0563c8593f1c93e8ac03296a9ed9cd0cd43e1400de`. Local finding references: `drafts/ora-eka0-chain-proof-20261024/FINDINGS.md:17` primary denominator, `:42` delayed-probe limits, `:56` faithful chain, `:72` absent causal proof; exact result/finding/verification hashes are retained in companion metadata. This updates the existing certificate, preserving every earlier negative conclusion.

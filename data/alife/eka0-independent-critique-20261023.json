@@ -1,0 +1,449 @@
+{
+  "schema": "ORA-EKA0-INDEPENDENT-RESEARCH-v1",
+  "date": "2026-10-23",
+  "repository_base": "2fb16af7299f4d0c1da4cc60c57e6cf5017931ec",
+  "issue": "https://github.com/JeremyHennessy/AI-Research/issues/62",
+  "paired_issue": "https://github.com/JeremyHennessy/Ora2.0/issues/313",
+  "report": "docs/artificial-life/EKA-0-INDEPENDENT-CRITIQUE-20261023.md",
+  "verdict": "UNKNOWN",
+  "execution_decision": "NO_GO_PENDING_SOURCE_FEASIBILITY_AND_INDEPENDENT_ADMISSION",
+  "novelty_decision": "GENERAL_PHENOMENA_ALREADY_ESTABLISHED_NARROW_ORA_CAUSAL_RESULT_POSSIBLE_NOT_YET_DEMONSTRATED",
+  "missing_evidence": [
+    "reachable personally informative opportunity before death",
+    "legal mutation path with viable intermediate expression",
+    "source-backed number and probability of paid reproductive opportunities",
+    "cost-covering best-case benefit under unchanged physics",
+    "copied code versus private state and resource inheritance provenance",
+    "nonlethal cost-matched causal comparisons and cheap competitors"
+  ],
+  "closed_result_policy": "All existing acceptances, failures, sample banks and ratings unchanged; no reruns",
+  "direct_primary_access": [
+    {
+      "url": "https://www.cs.toronto.edu/~hinton/absps/evolution.htm",
+      "scope": "complete author-hosted article; no implementation run"
+    },
+    {
+      "url": "https://doi.org/10.1038/nature01568",
+      "scope": "primary abstract and indexed author-PDF excerpts; existing E1 unchanged"
+    },
+    {
+      "url": "https://doi.org/10.1073/pnas.2413930121",
+      "scope": "indexed primary methods/results excerpts; direct publisher cookie and PMC challenge barriers; no full-method promotion"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518295/",
+      "scope": "primary abstract; DOI publisher 403; author project README inspected, not code qualification"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.22954v3",
+      "scope": "primary abstract only; no methods reproduction"
+    }
+  ],
+  "reused_reviews": [
+    "docs/artificial-life/28-physis-2003-full-review.md",
+    "docs/artificial-life/26-stringmol-2016-full-review.md",
+    "docs/artificial-life/ORA-ENDOGENOUS-LEARNING-EVOLUTION-DECISION-20261023.md"
+  ],
+  "new_worlds": 0,
+  "scientific_population_runs": 0,
+  "external_model_calls": 0,
+  "runtime_changes": false,
+  "cross_repository_writes": false,
+  "canonical_catalog_changes": false,
+  "independent_literature_reproduction": false,
+  "launch_authority": false,
+  "next_action": "Implement and qualify real paid source integration plus original/derived checkpoint custody before separately registered finite software/native execution; offline component alone grants none",
+  "paired_source_review": {
+    "scope": "Reader/source inspection and independent two-population event aggregate spot check only; not scientific replay",
+    "branch": "review/eka0-feasibility-20261023",
+    "cost_caveat": "three-capture lower bound from12 energy conditional on no incoming neighbour transfers",
+    "spots": [
+      {
+        "role": "74000-mutating-parent_copy-d8",
+        "sha256": "17b0ea56835f7c081bdbf329beccd8a5a520ce46d63d41064176ec93fbe84eb0",
+        "births": 15,
+        "effective_selfwrite_dispatches": 0,
+        "paid_copy_words": 534,
+        "mutations": 39
+      },
+      {
+        "role": "74203-mutating-parent_copy-d8",
+        "sha256": "82514280c3f6d649f52ab16702fc4fd745efa4465642d1d7bb5f4b8eb8f21cc5",
+        "births": 30,
+        "effective_selfwrite_dispatches": 1,
+        "paid_copy_words": 1059,
+        "mutations": 82
+      }
+    ]
+  },
+  "bounded_source_certificate": {
+    "ora_branch": "review/eka0-feasibility-certificate-20261023",
+    "plan_sha256": "bfcd07ca5b7e8ad3bbe0864e68fcf11addd72c533ea249d66385eb548226cf8d",
+    "script_sha256": "c40937437d61cdb2d8309ae9b52c2bc0fb8e68108b6c7c774c55fdf63d36b802",
+    "result_sha256": "c974e90ad6aaea2d3bd1708dffc44cfd5084eba1944b2e5a454c8ed700bb7608",
+    "independent_review_sha256": "b9548e0fbfefeb6129d17d4ab4c95e0ab0335063a324d478d2b7290a362f1c53",
+    "scoped_result": "CONDITIONAL_EXPRESSIBILITY_AND_FIRST_CHILD_ARITHMETIC_PASS",
+    "full_evolutionary_feasibility_certificate": false,
+    "cfg_masks": 1024,
+    "cfg_passing_masks": 1024,
+    "cfg_interpretation": "NONDISCRIMINATING_NECESSARY_CONDITION_ONLY",
+    "mutation_viability": "UNKNOWN",
+    "ecological_advantage": "UNKNOWN",
+    "population_execution": "NO_GO",
+    "source_pin_scope": "Exact Windows CRLF source bytes; not Git LF blob identity; no silent normalization",
+    "independent_review_reruns": 0,
+    "cost_rows": [
+      {
+        "policy": "candidate_feedback_9",
+        "first_birth_turns": [
+          54,
+          60
+        ],
+        "captures": [
+          9,
+          9
+        ],
+        "parent_energy": [
+          27,
+          27
+        ],
+        "parent_lifetime_heat": [
+          153,
+          153
+        ]
+      },
+      {
+        "policy": "shorter_same_policy_8",
+        "first_birth_turns": [
+          47,
+          52
+        ],
+        "captures": [
+          8,
+          8
+        ],
+        "parent_energy": [
+          27,
+          27
+        ],
+        "parent_lifetime_heat": [
+          133,
+          133
+        ]
+      },
+      {
+        "policy": "blind_alternator_6",
+        "first_birth_turns": [
+          35,
+          40
+        ],
+        "captures": [
+          4,
+          4
+        ],
+        "parent_energy": [
+          9,
+          4
+        ],
+        "parent_lifetime_heat": [
+          71,
+          76
+        ]
+      },
+      {
+        "policy": "fixed_port_5_both_ports_declared",
+        "first_birth_turns": [
+          20,
+          null
+        ],
+        "captures": [
+          5,
+          0
+        ],
+        "parent_energy": [
+          29,
+          null
+        ],
+        "parent_lifetime_heat": [
+          71,
+          null
+        ]
+      }
+    ],
+    "limits": [
+      "All programs developer-authored; no evolved discovery",
+      "Truthful nonempty stable-target premise not an observed reachable ecology",
+      "Shorter references unreachable by length-preserving founder substitution",
+      "No formation-inclusive superiority or equal-resource fitness comparison",
+      "No new World, VM, seed query, population, model call or admission"
+    ],
+    "next_gate": "Bound actually reachable information opportunity and saved-cost upper benefit against same-length blind policy, including empty food, changing targets, travel and expiry"
+  },
+  "closed_environment_payoff": {
+    "ora_branch": "review/eka0-environment-payoff-20261023",
+    "plan_sha256": "91dc7b1070b2b956f14b27d14645b9b5cc9fc29ac04f73d7ddb37aba9389911e",
+    "script_sha256": "1b6e30039162d0d10eb0ba6601581ad7028681051720d0823b32b597dd425942",
+    "result_sha256": "907b143afdfcdf48cd452456e9fb4b5e99b23c4d39882b5c6daa36204a5ce8a9",
+    "independent_review_sha256": "52ac7bf19b80668ad262e2a73a5f360b566713e5db60b283da532fc454e869e5",
+    "closed_roles": 16,
+    "forages": 14772,
+    "nonempty_attempts": 14456,
+    "empty_feedback_zero": 316,
+    "repeated_site_pairs": 14012,
+    "both_nonempty_stable": 13154,
+    "both_nonempty_changed": 422,
+    "other_site_intervened_nonempty_stable": 6020,
+    "other_site_intervened_nonempty_changed": 356,
+    "renewal_offers": 15056,
+    "renewal_admitted": 8164,
+    "renewal_rejected": 6892,
+    "same27_blind_first_child_turns": [
+      45,
+      50
+    ],
+    "same27_blind_captures": [
+      5,
+      5
+    ],
+    "same27_blind_parent_energy": [
+      10,
+      5
+    ],
+    "same27_blind_heat": [
+      90,
+      95
+    ],
+    "feedback_prior_unchanged_first_child_turns": [
+      54,
+      60
+    ],
+    "feedback_prior_unchanged_captures": [
+      9,
+      9
+    ],
+    "scope": "Closed observations and conditional source algebra, no counterfactual policy scoring or scientific replay",
+    "ecological_superiority": "UNKNOWN",
+    "mutation_viability": "UNKNOWN",
+    "population_execution": "NO_GO",
+    "limits": [
+      "Observational pairs are opportunity markers, not causal information-use evidence",
+      "Equal body/copy charges do not equalize food or lifetime performance",
+      "Blind first child faster/lessfood; feedback parentreservehigher; no generalfitnesswinner",
+      "Extra fullnurseryblindcycles canaddintake, so204vs180 is notimpossibility",
+      "D+45B supplyupperbound conditional stationarysame-sitewholelineage; D=T onlyallglobaldispatchesfocal",
+      "1/180 formalrenewalsurpluscoefficient, not observedrate or infinitehorizon; source4096",
+      "No new World, VM, seed query, model call, genotype search, runtimechange or admission"
+    ],
+    "next_gate": "Genuinely equal-resource causalcontrast plus viable affordable mutationpath beforepopulationadmission"
+  },
+  "lifetime_preparation_and_closed_path": {
+    "ora_branch": "review/eka0-lifetime-path-preparation-20261023",
+    "plan_sha256": "b381bdcdf2cca7b07b274e49096cb4df1d502d332eeeaec3301e75e8493629f6",
+    "reader_sha256": "7ec1a958e188b26a42274f5995f15b62003c983aa99fae4287bc25ac40062a32",
+    "helper_sha256": "73ff613663221c5b158e9d3b5d1c03e794989e2ccee9c1081d4f5a9657035c81",
+    "result_sha256": "a5ddefb9a440649af0bad81e97eabe5d67943036ef0058e47631889bf4826134",
+    "independent_review_sha256": "dd4d97c587cdc988b0f88acd8a2517581f06589800b156cd468bb9766bcca3bf",
+    "preparation_status": "DRAFT_NOT_REGISTERED",
+    "scientific_execution_ready": false,
+    "held_scientific_gates": 10,
+    "literal_metadata_software_tests_reported": 14,
+    "closed_roles": 16,
+    "founders": 16,
+    "paid_births": 364,
+    "inside_subcube_births": 117,
+    "inside_subcube_masks": {
+      "0": 117
+    },
+    "outside_subcube_births": 247,
+    "target_births": 0,
+    "complete_strict_target_paths": 0,
+    "one_added_intended_edit_children_later_reproducing_unchanged": 0,
+    "newborns_with_later_paid_child": 208,
+    "newborns_with_later_paid_child_before_code_change": 204,
+    "paid_copy_words": 13494,
+    "mutated_copy_words": 612,
+    "effective_selfwrite_events": 37,
+    "copied_source_differs_from_parent_birth": 0,
+    "copied_source_differs_from_division_code": 4,
+    "qualification": "UNKNOWN",
+    "population_execution": "NO_GO",
+    "controls": "Same27wordreferences including paidnursery-progress blind; exactlegalreference is not qualifiedsurvival/costcontrol and not assayfounderpermission",
+    "matching": "Same exogenousresources/rules/start/budgets, not samecapturedmeals; allfounders/deaths/censoring retained",
+    "limits": [
+      "Retainedledger verification only; no reader/VM/scientificreferee rerun",
+      "Targeted10edit subcube not exhaustive genotype/pathsearch",
+      "No target here is not globalimpossibility",
+      "Contextual laterreproduction not neutrality or relativefitness",
+      "Scientificlesion/sham, viablepath, sampling/effect/reservedbank and nativeowneradmission remainheld",
+      "No authoredfounder insertion, newbank, World, modelcall, runtimechange or scientificadmission"
+    ]
+  },
+  "final_route_decision": {
+    "receipt_sha256": "21be4453b2031e957b681b375f9a5d8d78d1e49e3617ade5c70001b0bdfd4671",
+    "preparation": "COMPLETE",
+    "authored_ten_edit_route": "NO_GO_NOW_AS_EKA1_EXECUTION_BASIS",
+    "whole_substrate": "UNKNOWN",
+    "grounds": [
+      "No intended nonzero intermediate or target in this fixed ledger",
+      "No qualified viable sequential route",
+      "No demonstrated paid advantage over strong blind controls"
+    ],
+    "exact_genome_is_evolutionary_acceptance": false,
+    "exact_target_absence_alone_is_global_rejection": false,
+    "next_decision": "Separately assess a bounded capability-based proposal with ordinary founders, independently arisen genotypes, functional causal acceptance, credible variation/opportunity/resource bounds and independent admission; no new target search or execution authorized"
+  },
+  "capability_proposal": {
+    "ora_branch": "review/eka1-capability-preparation-20261023",
+    "proposal_sha256": "bcd09dbd2fd8acc90e1ba35a724df22eb2155c958a58f22f3f5ccb73c121b5ca",
+    "core_sha256": "4efda04f39e71e47f686f2c99df206ffd8e6170d5badc95209320f000c6cd4d6",
+    "gate_report_sha256": "fb3fe95df1d9213817fc9ca13af7847ea2af228a5a50de8443f20647b82c9cd2",
+    "independent_review_sha256": "082ab3a054ef32500de8c7e7066a905744414af1fd9637b050fb15bb1c62daa0",
+    "status": "NOT_READY_NOT_REGISTERED",
+    "ordinary_founder": true,
+    "exact_target_genome": null,
+    "authored_genotype_insertion": false,
+    "origin_sampling": "FIRST_MUTATED_PAID_BIRTH_PER_WORLD_NO_REPLACEMENT",
+    "descendant_sampling": "FIRST_ACTUAL_LITERAL_FAITHFUL_BLANK_CHILD_NO_REPLACEMENT",
+    "literal_faithful_limitation": "Can miss functionalinheritance with furthermutations and differsbydose; missingchildren retainedasWorldfailures",
+    "diagnostic_roles_schematic": 14,
+    "positive_learning_benchmark_mandatory_superiority": false,
+    "source_baseline": "PASS_EXACT_WINDOWS_BYTES_AND_ORDINARY_FOUNDER_ONLY",
+    "resource_affordability": "UNKNOWN",
+    "causal_information_assay": "BLOCKED_UNIMPLEMENTED",
+    "mutation_useful_origin_opportunity": "UNKNOWN",
+    "sampling_and_reserved_authority": "BLOCKED_UNASSIGNED",
+    "native_custody": "BLOCKED_UNQUALIFIED",
+    "scientific_admission": "BLOCKED_NOT_ADMITTED",
+    "execution_decision": "NO_GO",
+    "worlds_authorized": 0,
+    "global_novelty_claim": false,
+    "targeted_metadata_conservation_tests_reported": 14,
+    "loose_ceilings": {
+      "renewal_offers": 1024,
+      "accessible_energy": 21772,
+      "births_at_full4096_horizon": 392,
+      "mature_bodies": 11,
+      "copy_words": 12288,
+      "schematic_discovery_plus_diagnostics_starts": 15,
+      "schematic_dispatches_if_same_horizon": 61440
+    },
+    "ceilings_are_feasibility_or_power": false,
+    "historical_route_no_go_preserved": true
+  },
+  "causal_source_and_envelope": {
+    "source_audit_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/321",
+    "source_independent_review_sha256": "b84bd5709e5035a44ceb7ed15f977ef4033aa0b69755a5b9230ac0535a6dd78a",
+    "source_audit_scope": "Exactsourcefacts only; bothrestoremethods require originalreplayandfullhistoryhash; ASTcontainercontexts not fullalias/dataflow proof",
+    "source_tests_reported": 6,
+    "envelope_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/322",
+    "envelope_independent_review_sha256": "a7e6f5710120aacab6bae0db1eecaf76a953a791c81f0299b1603fdb5f649089",
+    "alias_defect_corrected": true,
+    "original_six_test_validation_preserved": true,
+    "final_envelope_tests_reported": 7,
+    "synthetic_address_value_cases": 128,
+    "envelope_scope": "OfflineJSONstructuraldelta only; no history, restoration, pricing, nonlethality, learning or executionauthority"
+  },
+  "delayed_cell_method_decision": {
+    "ora_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/323",
+    "ora_commit": "192162c628c72793ce4d5ba358e1f28c4b745190",
+    "contract_sha256": "ce39fcd8a885fc052306ef9516b7f0d33753b56c60da2e309d1cc3113c330374",
+    "document_sha256": "65287d75c194013d22df042d25e6876f9b032b0ba61cff8a4e85142c31c40114",
+    "independent_review_sha256": "9bfd020233f43e84abf95e5a586d0c2232f23a6db722f52e0db9195a8a94e6e6",
+    "bounded_deliverable": "COMPLETE_SOURCE_QUALIFICATION_NO_GO",
+    "method": "fixedm0_XOR1_after_two_own_dispatch_delay",
+    "counterexample": "Configuredconstantm0controlsREAD_IFZERO_HALT withoutfeedbackread; firstcheckpoint5dispatches\u22657energy, lesionHALTin3more. Sourceargumentonly, noWorld/viabilityclaim",
+    "channel_miss": "feedback/registers retainfreshobservation; m0lesion mayremoveno relevantinformation",
+    "universal_nonlethality_is_required_for_all_causal_studies": false,
+    "nuance": "Genuineinformationloss maycausebadchoicesanddeath; rejectunqualifiedfixedmethodattribution, not allsurvival-affectinglesions",
+    "whole_substrate": "UNKNOWN",
+    "population_execution": "NOT_ADMITTED",
+    "new_vm_steps": 0,
+    "new_seed_queries": 0,
+    "next_requirement": "Prospective history/content contrast with representation/phasecoverage, matchedprobe/equalhandling and specificnegativecontrols; separate pricedsource/custody/admission; no extensionof rejectedfixedcellcandidate merely by morecells/delay/populations"
+  },
+  "own_signal_contrast_direction": {
+    "ora_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/323",
+    "proposal_sha256": "09f636650c60cdd8749f424ee79902da4bac119bbb574a27d1ba0721b9cb095b",
+    "document_sha256": "2f4c5a7e43fa6bb7d6d32661841bca4c687a7d50e707b282e38e49b82b6e4363",
+    "independent_review_sha256": "cb43a9d2b6e0fcffe7bfa6eea26759ba1875d04ad5b665056c95e12bc2b07d20",
+    "direction": "CREDIBLE_NARROW_METHOD_DIRECTION_NOT_REGISTERED",
+    "claim_ceiling": "Delayed own-signal use, not generalmemory, evolvedlearning, inheritance orfitness",
+    "exposure": "First selectedorigin nonemptyFORAGE; anyinterveningFORAGE beforefirstREAD invalidates itsprovenance, noreplacement",
+    "intervention": "CommonpreREADcheckpoint, actorfeedback f versus fXOR1 to ordinarydestination only, paidREAD; explicitnewlaw notimplemented",
+    "posttreatment_outcomes": "Early/reread/death/expiry/noprobe retained, not survivorfilter; routingandcorrectness separate",
+    "infrastructure_failure": "INCOMPLETE, not biologicalzero; no acceptanceorsilentretry",
+    "conditional_information_identity": "Same renewedpacketclass>=64, commonseed/site, bothglobalticks<2048 impliesequaltarget symbolically; no hashquery oractorpresencehint",
+    "identity_is_affordable_real_opportunity": false,
+    "delayed_reflex": "Positive for delayedsignaluse, insufficientfor strongerlearning/evolution",
+    "execution_decision": "NO_GO",
+    "whole_substrate": "UNKNOWN",
+    "worlds_authorized": 0,
+    "new_vm_steps": 0,
+    "new_seed_queries": 0,
+    "generator_runs": 0,
+    "held": [
+      "informative_exposure_probe_opportunity",
+      "sensor_read_adapter",
+      "original_derived_custody",
+      "handling_fork_prices",
+      "positive_negative_specificity",
+      "sampling_effect_reservedassignments",
+      "native_owner_containment",
+      "scientific_admission"
+    ],
+    "fixed_cell_rejection_preserved": true,
+    "ora_commit": "3d2bb38b69319d3f9c8714221f2a58491faf9f6d"
+  },
+  "feedback_opportunity_cost_custody": {
+    "decision": "PARTIAL_SOURCE_QUALIFICATION_EXECUTION_NO_GO",
+    "contract_sha256": "44f4392a78339ee409a4fd0e5d0474d59ff1d27bd21474c7078e702a4ff7e85d",
+    "helper_sha256": "5303d7eafd33b8f7404b4f02cfab3c5d1103e3ee000177160b3a2b1cb1eacdb7",
+    "tests_sha256": "f91401baeba114594f77b9f214450d86e3c709ed942b7ec9e8e7d927499a4603",
+    "document_sha256": "34923c8a901e9e4b8431e1f6ae73e59df37d619cac06743d750e027f05a7d392",
+    "independent_review_sha256": "c3f2c887d20e9370e5c4b1f0d28201a92a9d25a1091fe3661ccdde3166e803c3",
+    "ordinary_founder_feedback_read": false,
+    "first_founder_division_necessary_dispatch_floor": 70,
+    "actual_selected_origin_useful_opportunity": "UNKNOWN",
+    "useful_opportunity_lower_bound": 0,
+    "pre_read_to_delayed_probe_minimum_dispatches": 4,
+    "including_exposure_minimum_dispatches": 5,
+    "conditional_energy_probe_floor": 4,
+    "conditional_energy_positive_before_expiry_floor": 5,
+    "expiry_probe_observable_at_turn": 256,
+    "three_restore_prefix_dispatches": "3t",
+    "three_genesis_energy_stock": 4260,
+    "formation_heat_component_inside_stock": 129,
+    "offline_checks_reported": 6,
+    "independent_checks": "Source/test-definition/retained aggregate inspection only; no helper/test/VM execution",
+    "full_pricing_qualified": false,
+    "checkpoint_authority_qualified": false,
+    "worlds_authorized": 0,
+    "new_vm_steps": 0,
+    "next_component": "Exact paid sensor adapter and original/derived custody source; separate finite software/native registration and owner authority before execution"
+  },
+  "offline_feedback_adapter": {
+    "ora_commit": "757863925badee9e41cb215ff29e5829e0c2d640",
+    "ora_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/323",
+    "decision": "PASS_OFFLINE_STRUCTURAL_COMPONENT_ONLY",
+    "helper_sha256": "9d0e43ae79fb53b190cb947141bf70983aa09c266a92456458b9a56f265724ef",
+    "tests_sha256": "534d641d679b80d6d359a0b1fbd9dc2376b9ebd9b077b41dd5a684b090bccd90",
+    "manifest_sha256": "d354a8ab84eb20293346b8bdc132441486b8b4bc629f03bd53fe5b347d0034ef",
+    "document_sha256": "f0f97bafae65143ad086d520c2f7acda71b30777f20bdcf2ca6450c85abdf002",
+    "independent_review_sha256": "3b8e555e8e0a8a117bf9530ce3311063681c2ccda88f0cfa5f475ef7269f0447",
+    "tests_reported": 9,
+    "synthetic_role_combinations": 1728,
+    "input_scope": "Supplied truthful postREAD JSON; no original preREAD or paid transition authentication",
+    "implementation": "Canonical alias-separated destination-only true/sham/XOR delta and exact wholeframe/receipt verifier",
+    "branch_identity": "Distinct proposed labels only; native/global execution identity unverified",
+    "limits": "Node/serializedbyte rejection not peak allocation or native resource qualification",
+    "missing": [
+      "Actual paid source integration and event finalization",
+      "Original full checkpoint schema/history/ancestry authentication",
+      "Derived lawful checkpoint custody/loader",
+      "Native resource/source/owner qualification and scientific admission"
+    ],
+    "execution_decision": "NO_GO",
+    "world_steps": 0,
+    "new_seed_queries": 0
+  }
+}

@@ -635,5 +635,30 @@
     "contract_sha256": "5219a3910653c9222a49d855e9fafe9b385c1ff211441fd6c62e46ce36efecc7",
     "postflight_sha256": "4b683c448813df49df29c263def951da1cb0280ce5612c3ab6d43daf7b45dc14",
     "publication_review_sha256": "02bacbf4e4e795ef3cc6a5234e291663e2ab937d7a6f1cc83b5328883422eb09"
+  },
+  "noisy_credit_20261026": {
+    "verdict": "CLOSED_NEGATIVE",
+    "source_commit": "773eb98feb1ac06278ff7270810256f5efbf1709",
+    "source_sha256": "bbb2a21d43ea164de86e96799f7e70e409cfc8257b9cb3fb274f01a0617710f1",
+    "result_sha256": "14a97ec4f4cce33daf82d92967fb9d7459641134f185680a6819f39e2794c600",
+    "selected_candidate": "counter3-drop1",
+    "heldout_survivors": 0,
+    "heldout_worlds": 32,
+    "reference": "constant3",
+    "reference_survivors": 32,
+    "reference_mean_terminal_energy": 443.40625,
+    "paired_endpoint_wins": 0,
+    "all_endpoint_ablation_gaps": 0,
+    "lifetime_evaluations": 12896,
+    "traced_lives": 128,
+    "births": 0,
+    "mutations": 0,
+    "native_feasibility": "UNKNOWN",
+    "native_population": "NO_GO",
+    "strategy": "C",
+    "research_note": "docs/artificial-life/ORA-NOISY-CREDIT-NEGATIVE-20261026.md",
+    "ci": "NOT_ESTABLISHED",
+    "scope": "Authored learner and abstract prices; no useful net advantage, evolution or inherited fitness demonstrated",
+    "published_ora_head": "140c40c42f0540cf7914d89ea4ca592afe470cfe"
   }
 }

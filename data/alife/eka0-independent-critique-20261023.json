@@ -571,5 +571,33 @@
     "published_source_commit": "6c9ce9a1c9837c10b44ec862fd786d3000842a52",
     "publication_scope": "Only11prototype/datafiles on actualmain3a3c7e8; executed4sourcefiles raw/Gitbyteidentical, no oldEKAdependencychain",
     "public_result_artifacts": "data/experience-affordance-20261026 completecensus.gz/rawhashmanifest and RESULT.md"
+  },
+  "encoding_accessibility_projection_v1": {
+    "source_commit": "7e037d5009354552b3625116f03c70a23e88ba10",
+    "source_sha256": "3fb32e465a5505ee74ee99b696253e3ec1f7129a08d215db72823301ab62b86b",
+    "result_sha256": "1dbc99b06a38ba7aaa32ec6e5d68edbc9839def582aea42ad17de7a8495ab3ee",
+    "native_sha256": "8cdeedd08600a5d639067caa6f10b2bc24927fd5368063be2244ae8ef667a6ef",
+    "independent_research_review_sha256": "cf878da313f25aeb69d378f58f309301ef5cea96b9290392ea82e7bc2bfbabd0",
+    "event6": "64genotypes,192edges,24reachable;best368dev/800reusedval;2beatfixed,0beatstrongsamequote",
+    "moore8": "256genotypes,1024edges,48reachable;best336dev/736reusedval;no validationfixedadvantage/nostrongadvantage",
+    "event6_path": "0\u21921\u21925\u219237;dev8/8/266/368;reusedval\u2212160/\u2212160/494/800",
+    "moore8_path": "0\u21921\u21925\u219269\u2192197;reusedval\u2212224/\u2212224/\u2212352/\u2212352/736",
+    "mechanism": "Removedunusedfeedbackoutputs plusauthoredblankhold; shorterformationquote andtopology change, notnewbehavior/evolvedarchitecture",
+    "copy_fixtures": "8334total2778complete5556incomplete,22/26/34requiredenergy6/8/12bits;conservedenergy/material,blankstate;notactualbirth or earnedfunding",
+    "native_observation": "0.422wall0.3125userCPU74629120committedclosedJob receipt;notnativeOraWorld",
+    "interpretation": "Usefulrepresentation/costaffordance, lifecycleviabilityunproved;negativefounderflow remains",
+    "publication_state": "Published existingdraftOraPR325 head7ef8d215af439c7d8b659d9025055194d85ecce6;unmerged CI_NOT_ESTABLISHED",
+    "formal_population_admission": "NO_GO",
+    "published_ora_head": "7ef8d215af439c7d8b659d9025055194d85ecce6",
+    "funding_upper_bound": {
+      "result_sha256": "b46785c15396f2d08e765d58f40677e49067bc5096a06aaea1e1ea8bc84c50a9",
+      "source_sha256": "436d703b9af268e2afc46b1d0fd41272181754517e50f40cc6551e066200c6a4",
+      "scope": "Event6blind0 only, startup8/fullcopy22/reward8,48declaredledgers, clairvoyantinstantcopyatanyboundary",
+      "development": "Rupper6/16=3/8;10zerocopycases,max1",
+      "reused_validation": "Rupper11/32;22zerocopycases,max2",
+      "expected_descendants": "Conditional iidfreshunchanged/no-mutation branching expectedtotalexcludingfounder <=3/5dev,11/21reusedval; NOT deterministictotal bound",
+      "omissions": "Decoder/material/copytime/parentformationoverhead omitted optimistically; allcopies payfull22, nofutureincome",
+      "limit": "No actualoffspring, no arbitraryfounder/mutant or nativeclaim; no freshheldout repricing"
+    }
   }
 }

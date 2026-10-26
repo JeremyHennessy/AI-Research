@@ -617,5 +617,23 @@
     "four_witnesses": "Allzero targets favorblindfixed0: dev000delay0E41/postcopy19, dev000delay1E38/16, reusedval0000delay2E44/22, reusedval0000delay3E40/18; notadaptation/generalization",
     "independent_postflight_sha256": "aebf769760b7a34e3a64cb04a3d4e14da40a88755cc99eb184092ed6f5b8e18c",
     "publication_review_sha256": "6b3360cd42531c28f7e86f7f32b86ce4c568ff4a82ab93d3868e5e3628c35dc4"
+  },
+  "source_lifetime_contract_clarification": {
+    "source_commit": "5e93c8079018a495f8b54638092652ec6c22695b",
+    "independent_critical_review_sha256": "e6c88ef0ac51ac5a27a2c8972be8a6660ef4e4b671ad07f7cdeaddf51cb05fea",
+    "source_binding": "Sevenrawpins/ASTspans;semanticfactsmanuallyreviewed, notautomaticASTproof",
+    "compact_closed": "Wholetransitionincludinglookup1,feedbacksenseextra1,changedwriteextra1,formation1perbit,selectedstorage0. No requiredseconddecoder ecologicaltax.",
+    "correction": "Earlier6unknownreceiptunchanged; hypotheticaldecoder/storage sensitivity is notproofthoseecologicalfeesmissing. Physicalhostcalibrationseparate, notautomaticorganismtax.",
+    "compact_undefined": "copyage/globalclock/resourcephase/expiry,ownedmaterialsource,livebank/offspringcontinuation composition",
+    "native_static": "base1 beforeFORAGEgain20 cap64;deathif0 thenownturnincrement/expiry256; COPY4per3words,9COPY+DIV31=67=55heat+12child,43material;threeFORAGEbasefees yield70minimum beforecontrolfees",
+    "first_food_distinction": "Nativefirstsuccess totaldebits\u226412 andearlierprefixes<12 withoutpriorfood/transfers; compact4+d isscoredprobeonly, notnativeFORAGEbound",
+    "scope": "Nativecost/order sourcefactsclosedstatically, notactualfood/lineage/mutationfitness/semanticexecution or admission",
+    "native_feasibility": "UNKNOWN",
+    "formal_population": "NO_GO",
+    "publication_state": "PublishedexistingdraftOraPR325 c78d562322a62adb4bc9ac708dc89c4d942d54eb;unmerged CI_NOT_ESTABLISHED",
+    "published_ora_head": "c78d562322a62adb4bc9ac708dc89c4d942d54eb",
+    "contract_sha256": "5219a3910653c9222a49d855e9fafe9b385c1ff211441fd6c62e46ce36efecc7",
+    "postflight_sha256": "4b683c448813df49df29c263def951da1cb0280ce5612c3ab6d43daf7b45dc14",
+    "publication_review_sha256": "02bacbf4e4e795ef3cc6a5234e291663e2ab937d7a6f1cc83b5328883422eb09"
   }
 }

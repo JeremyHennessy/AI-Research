@@ -510,5 +510,36 @@
     "net_fitness": "UNKNOWN",
     "worlds": 0,
     "new_population": "NO_GO"
+  },
+  "oct26_authentication_fairness_preparation": {
+    "source_candidate": "e347c4b00c4988312c674ad3897915f4f61d9394",
+    "publication_state": "Published existing draftOraPR323; no merge, deployment or execution",
+    "review_pins": {
+      "independent-fairness-review.json": "60066fa5206bf6a1f78d9f6dc0365abda76c7c8eda7f395c5163f77bd5a19beb",
+      "independent-selection-review.json": "50648107ccce46a3cb398473bf3e0b1a6aaaf63af3244f182466a07eef9d8439"
+    },
+    "selection_review": "Static reconstruction accepted only under deterministic supplied-content premise; actual original execution/selection authentication unqualified",
+    "physical_cost": "Full original history replay toterminal before selection plus parent/branch reconstruction and perREAD snapshot work; not just selectedprefix or suffix",
+    "fairness": "Equalpaidtrue/sham/xor READs isolate singlecontentchange; XOR is corruption/antiinformation, not noinformation or cheaper nosensorcontrol",
+    "decision_vs_reproduction": "Endtoend firstprobe mixes routing/availability/correctness; pairedWholeWorldbirthdiff not efficientcontrolsuperiority or inheritedfitness",
+    "authority_missing": [
+      "External prospectiveassignment+originalproducer receipt",
+      "Complete authentic commonprestate/earliestselection history",
+      "Executedcode/interpreter/module/bytecode custody",
+      "Derived lawful branches/continuation/nativeowner registration",
+      "Full source/physical resources, semantic qualification, statisticalacceptance and scientificadmission"
+    ],
+    "runtime_dated_context": "Latest provided20261026 11:54UTC report: v10 CPU repair engineering33tests/69pins; twohourrenewal not yet observed. No currentlivehealth assertion.",
+    "overall": "UNKNOWN",
+    "new_population": "NO_GO",
+    "execution_authorized": false,
+    "published_ora_head": "d25468cfd6109b2f6a6aa22cf78607696252b5a0",
+    "ora_pr": "https://github.com/JeremyHennessy/Ora2.0/pull/323",
+    "gate_documents": [
+      "docs/EKA-1-AUTHENTICATION-QUALIFICATION-GATES-20261026.md",
+      "data/eka1-authentication-qualification-gates-20261026.json"
+    ],
+    "independent_publication_review_sha256": "c35a4501cf0e62a7585b194d1281eabe2f0a55267f24eb80817126ad2e21afc2",
+    "validation": "Author8metadataAST PASS;9sourcepins match rawGit. Remote exactheadCI NOT_ESTABLISHED: skipci avoids unapproved legacyVM/calibration, not fullgreen."
   }
 }

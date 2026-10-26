@@ -599,5 +599,23 @@
       "omissions": "Decoder/material/copytime/parentformationoverhead omitted optimistically; allcopies payfull22, nofutureincome",
       "limit": "No actualoffspring, no arbitraryfounder/mutant or nativeclaim; no freshheldout repricing"
     }
+  },
+  "founder_known_cost_qualification_v1": {
+    "result_sha256": "94c5ae38c27333e485c95b76ee71cbf2929db44d22c67682287f5914753e94f1",
+    "source_sha256": "dffe8ea2c4d60e30b87a85aba0731496d80246fdc1ff490c395f1459b94c565b",
+    "independent_research_review_sha256": "6cbe9b31b1de532cf95f603aa93e0062668c17a104ce9dee5fd4902b65712cf5",
+    "development": "2of16earnedknownbillwitnesses,8alive,6completefixtures",
+    "reused_validation": "2of32earnedknownbillwitnesses,12alive,8completefixtures",
+    "all": "4of48netfundedknownbill22aboveinitial8reserve;14completefixtures;28notaliveathorizon;0fullqualified",
+    "unknown_costs": "SixNone:decoder/storage/materialacquisition/copyclock/expiry/hostmapping;neverzeroed",
+    "first_probe_headroom": "delay2uniformextra\u22642/5toyenergyperdispatch;delay3\u22641/6. Necessaryreachceilingsnotmeasuredphysicalprices; equalityfailedprobedies.",
+    "limits": "Retained48blind0ledgers only;terminalcopynoenvironmentresume/actualbirth,externalformation/material retained,alloldresultsunchanged",
+    "publication_state": "PublishedexistingdraftOraPR325 head2f3c99251e806989755b2366ec6126ecddb96545;unmerged CI_NOT_ESTABLISHED",
+    "full_paid_reproduction": "NOT_QUALIFIED",
+    "formal_population": "NO_GO",
+    "published_ora_head": "2f3c99251e806989755b2366ec6126ecddb96545",
+    "four_witnesses": "Allzero targets favorblindfixed0: dev000delay0E41/postcopy19, dev000delay1E38/16, reusedval0000delay2E44/22, reusedval0000delay3E40/18; notadaptation/generalization",
+    "independent_postflight_sha256": "aebf769760b7a34e3a64cb04a3d4e14da40a88755cc99eb184092ed6f5b8e18c",
+    "publication_review_sha256": "6b3360cd42531c28f7e86f7f32b86ce4c568ff4a82ab93d3868e5e3628c35dc4"
   }
 }

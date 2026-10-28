@@ -660,5 +660,27 @@
     "ci": "NOT_ESTABLISHED",
     "scope": "Authored learner and abstract prices; no useful net advantage, evolution or inherited fitness demonstrated",
     "published_ora_head": "140c40c42f0540cf7914d89ea4ca592afe470cfe"
+  },
+  "information_opportunity_checkpoint_20261028": {
+    "evidence_tier": "SOURCE_ONLY_REVIEW_RECONCILIATION",
+    "new_scientific_result": false,
+    "certificate": "https://github.com/JeremyHennessy/Ora2.0/blob/347a501d8e98aa81fd268a76bb7078fb838d6f68/docs/EKA-NATIVE-INFORMATION-OPPORTUNITY-CERTIFICATE-20261027.md",
+    "current_ora_checkpoint": "https://github.com/JeremyHennessy/Ora2.0/blob/be36bb32e05554ecbe48f026527395744e802c19/docs/ORA-RESEARCH-CHECKPOINT-20261028.md",
+    "observation_boundary": "Match current external observations/latestfeedback; allow designated olderprivatehistory to differ; do not require identicalcompleteinternal orWorldstate",
+    "claims": {
+      "immediate_feedback_information": "CONDITIONALLY_SOURCE_SUPPORTED",
+      "older_history_incremental_opportunity": "UNKNOWN",
+      "lawful_reachability_of_proposed_pair": "UNKNOWN",
+      "fully_paid_within_life_superiority": "UNKNOWN_NATIVE;NO_GO_CLOSED_NOISY_CREDIT_CANDIDATE",
+      "naturally_evolved_advantage": "NOT_DEMONSTRATED",
+      "inherited_fitness_benefit": "NOT_DEMONSTRATED"
+    },
+    "native_original": "NOT_CREATED_OR_NOT_AUTHENTICATED_IN_REVIEWED_ROUTE;NOT_A_FAILED_SCIENTIFIC_OBSERVATION",
+    "population_admission": "NO_GO",
+    "next_dependency": "Existing nativeowner freezes observableequivalence/matchedhistory fixture and qualifies lawfuloriginal/prestate/paidcontinuation; complete sourceproof has sourceonlyclaimceiling",
+    "closed_negatives": "Noisycredit and all historicalseedbanks unchanged; no rewards/acceptancecriteria retuned; no rerun",
+    "assistant_separation": "Assistant operatingwindows/memories are not organismlearning or scientificWorld evidence",
+    "test_scope": "JSONparse/link/diff checks only; no scientific execution or broadcalibration",
+    "publication": "Existing draft PR63; unmerged; executableCI_NOT_ESTABLISHED"
   }
 }

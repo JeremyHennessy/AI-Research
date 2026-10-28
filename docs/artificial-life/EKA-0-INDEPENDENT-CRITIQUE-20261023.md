@@ -309,3 +309,8 @@ Source-contract candidate `5e93c8079018a495f8b54638092652ec6c22695b` binds seven
 ### New noisy delayed-credit assay: closed negative
 
 The separately frozen new authored-learner assay failed: selected learner0/32 held-out survivors versus selected constant reference32/32, with no positive causal endpoint gap. See [the complete research assessment](ORA-NOISY-CREDIT-NEGATIVE-20261026.md). This is not a native World, evolutionary result or a reason to retune closed rewards. Native feasibility UNKNOWN and formal population NO-GO remain.
+
+
+### Public information-opportunity certificate (October28 handoff)
+
+The [retained source-only certificate](https://github.com/JeremyHennessy/Ora2.0/blob/347a501d8e98aa81fd268a76bb7078fb838d6f68/docs/EKA-NATIVE-INFORMATION-OPPORTUNITY-CERTIFICATE-20261027.md) is now published in existing Ora PR325. It explicitly permits older private memory to differ while matching current external observations/latest feedback; it does not demand identical complete internal or World state. Immediate feedback use is source-supported, but the older-history construction remains conditional: lawful origin, matched context, food access and affordable continuation are unproved. A complete source-law reachability proof could establish source-only opportunity; authenticated native execution remains a separate gate. This publication adds no experiment, seed query, native original, evolved capability or new positive finding. Feasibility UNKNOWN and population NO-GO remain.

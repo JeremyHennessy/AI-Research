@@ -767,13 +767,13 @@
     "scientific_verdict": "UNKNOWN",
     "population_admission": "NO_GO",
     "highest_value_next_action": "Independently review changed replay/ledger source, then connect the original producer and native process-birth route to the same exclusive budget under the enclosing deadline. Prepare complete revised source/custody/resource preflight without running old checks or any replay.",
-    "assistant_last_verified_utc": "2026-10-29T16:24:33.646577+00:00",
-    "assistant_completed_windows": 38,
-    "assistant_completed_epochs": 890,
+    "assistant_last_verified_utc": "2026-10-29T23:29:38.345844+00:00",
+    "assistant_completed_windows": 42,
+    "assistant_completed_epochs": 971,
     "failure_counters": 0,
-    "closure_seconds": 7200.9220000000205,
+    "closure_seconds": 7200.938000000082,
     "normal_rotation_exception_retained": true,
-    "read_only_rechecks": 1,
+    "read_only_rechecks": 0,
     "runtime_work_retries": 0,
     "individual_monitor_gaps": [
       9,
@@ -788,6 +788,9 @@
     ],
     "organism_improvement_demonstrated": false,
     "new_scientific_execution": false,
-    "exact_head_executable_CI": "NOT_ESTABLISHED"
+    "exact_head_executable_CI": "NOT_ESTABLISHED",
+    "historical_window38_read_only_rechecks": 1,
+    "latest_closure_verification_sha256": "50bd96f7acf6beb7e421e6d3f3313ca0cc7d3fdd0808573f30b698cdfe0dcb4f",
+    "research_heads_rechecked_unchanged": true
   }
 }

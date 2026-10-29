@@ -716,5 +716,38 @@
     "exact_head_executable_CI": "NOT_ESTABLISHED",
     "native_EKA_owner_unchanged": true,
     "PILOT74_owner_unchanged": true
+  },
+  "latest_operating_checkpoint_20261029": {
+    "scope": "User-requested reconciliation of retained operating receipts; no new scientific result",
+    "observed_utc": "2026-10-29T12:22:27.807904+00:00",
+    "observed_halifax": "2026-10-29T09:22:27.807904-03:00",
+    "runtime_evidence_status": "LAST_VERIFIED",
+    "assistant_completed_windows": 36,
+    "assistant_completed_epochs": 844,
+    "failure_counters": 0,
+    "latest_closure_seconds": 7200.9379999999655,
+    "exit_code": 0,
+    "EOF": true,
+    "no_leaks": true,
+    "normal_next_start": true,
+    "memory_provenance_records": 174,
+    "snapshots_verified": 2,
+    "individual_monitor_gaps": [
+      9,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "private_verification_sha256": "dc7e6654427d15865135489c3a8a186bba5dd916087c3f8490f2ffc338c126fc",
+    "scientific_verdict": "UNKNOWN",
+    "population_admission": "NO_GO",
+    "new_tests_or_experiments": 0,
+    "organism_capability_improvement_demonstrated": false,
+    "exact_head_executable_CI": "NOT_ESTABLISHED"
   }
 }

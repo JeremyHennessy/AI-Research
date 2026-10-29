@@ -682,5 +682,39 @@
     "assistant_separation": "Assistant operatingwindows/memories are not organismlearning or scientificWorld evidence",
     "test_scope": "JSONparse/link/diff checks only; no scientific execution or broadcalibration",
     "publication": "Existing draft PR63; unmerged; executableCI_NOT_ESTABLISHED"
+  },
+  "dated_operating_checkpoint_20261029": {
+    "scope": "User-requested dated reconciliation; no new scientific result",
+    "observed_utc": "2026-10-29T01:05:55.087566+00:00",
+    "runtime_evidence_status": "LAST_VERIFIED",
+    "assistant_completed_windows": 31,
+    "assistant_completed_epochs": 714,
+    "failure_counters": 0,
+    "latest_closure_seconds": 7201.3129999999655,
+    "exit_code": 0,
+    "EOF": true,
+    "no_leaks": true,
+    "normal_next_start": true,
+    "memory_provenance_records": 174,
+    "captured_snapshots_verified": 2,
+    "individual_monitor_gaps": [
+      9,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "private_verification_sha256": "8b0552795618f40166c50848963079abb88f7e3bd18b7e8863960b230420ec98",
+    "organism_capability_improvement_demonstrated": false,
+    "scientific_verdict": "UNKNOWN",
+    "population_admission": "NO_GO",
+    "new_tests_or_experiments": 0,
+    "exact_head_executable_CI": "NOT_ESTABLISHED",
+    "native_EKA_owner_unchanged": true,
+    "PILOT74_owner_unchanged": true
   }
 }

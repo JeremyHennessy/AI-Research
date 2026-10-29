@@ -749,5 +749,45 @@
     "new_tests_or_experiments": 0,
     "organism_capability_improvement_demonstrated": false,
     "exact_head_executable_CI": "NOT_ESTABLISHED"
+  },
+  "latest_coordinated_review_20261029": {
+    "native_public_head": "48dee3ee6dc6b8ecb1c98bc690ebb806475a7321",
+    "native_local_head": "9d2cfe4619e7be0df9d84eca42dafed3de0da5c7",
+    "native_local_parent": "b300ccf7f2d3609fcdd0e0dec4f007bb777eb602",
+    "local_source_only_unpushed": true,
+    "owner_reported_new_checks": [
+      8,
+      6
+    ],
+    "independent_checks_rerun": 0,
+    "current_source_pins_matched": 5,
+    "independent_source_review_passed": false,
+    "old_wrapper_gate_acceptance_applies": false,
+    "actual_replay_or_population": false,
+    "scientific_verdict": "UNKNOWN",
+    "population_admission": "NO_GO",
+    "highest_value_next_action": "Independently review changed replay/ledger source, then connect the original producer and native process-birth route to the same exclusive budget under the enclosing deadline. Prepare complete revised source/custody/resource preflight without running old checks or any replay.",
+    "assistant_last_verified_utc": "2026-10-29T16:24:33.646577+00:00",
+    "assistant_completed_windows": 38,
+    "assistant_completed_epochs": 890,
+    "failure_counters": 0,
+    "closure_seconds": 7200.9220000000205,
+    "normal_rotation_exception_retained": true,
+    "read_only_rechecks": 1,
+    "runtime_work_retries": 0,
+    "individual_monitor_gaps": [
+      9,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "organism_improvement_demonstrated": false,
+    "new_scientific_execution": false,
+    "exact_head_executable_CI": "NOT_ESTABLISHED"
   }
 }

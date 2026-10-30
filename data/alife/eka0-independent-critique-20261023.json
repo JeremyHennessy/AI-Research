@@ -848,43 +848,96 @@
     "exact_head_executable_CI": "NOT_ESTABLISHED"
   },
   "latest_verified_engineering_checkpoint": {
-    "observed_utc": "2026-10-30T14:24:05Z",
-    "native_public_head": "9b985dacdc0aa4baa5c775ed3c42ec24248f9304",
+    "observed_utc": "2026-10-30T16:21:55Z",
+    "native_public_head": "18439b818cd793d96b03aa1bdece0843a53aeb36",
     "native_executed_head": "909c1b00d69047a895c5618305a4b8e921e25060",
-    "source_only_handshake_repair": "43297d2b7e1a8418e2b37ec1aa2af172a2226f30",
     "PR": 323,
     "draft": true,
     "merged": false,
-    "offline_CI": {
-      "run_id": 41070392579,
-      "checks": 65,
-      "status": "PASS_OFFLINE_ONLY",
-      "hash_observations": 1863,
-      "native_steps": "SKIPPED_NOT_PASSED"
+    "accounting_contract": "EKA-CPU-METERED-ATTEMPT-v1",
+    "independent_acceptance": "PASS_EXACT_SOURCE_OFFLINE_ONLY",
+    "independent_checks": {
+      "focused": 93,
+      "additional_raw_query": 2
     },
-    "native_qualification": "FAILED",
-    "strict_CPU_ceiling": "UNKNOWN;2.0625reportedseconds against nominal1",
-    "handshake_repair_native": "UNRUN;4independent mocked checks passed",
-    "cases7_8": "UNRUN",
+    "offline_CI": {
+      "checks": 93,
+      "status": "PASS_OFFLINE_ONLY",
+      "hash_observations": 1864,
+      "native_steps": "SKIPPED_NOT_PASSED",
+      "baseline_checkout_exception": "Unchanged process_limits.py exact Git LF to raw CI/local CRLF verified",
+      "test_hash_scope": "Test raw hashes absent from artifact; exact-head checkout/logs plus independent local Git-blob review",
+      "complete_OS_SDK_custody": false,
+      "run_id": 41085296488
+    },
+    "controls_source_verified": [
+      "Final root USER plus KERNEL charged once after owned closure before last root handle close",
+      "Private nested counters reconciled as subsets, not added twice",
+      "Actual owner birth and kernel handle debit identity",
+      "Immutable assignment and physical ledger/raw hash checks",
+      "Missing or inconsistent measurements and overruns terminal; unresolved costs retained",
+      "First failure retained through final receipt/archive errors",
+      "No extra breakaway flags; C and Python restricted to requested CPU role"
+    ],
+    "strict_CPU_ceiling": "NOT_READY; existing mechanisms do not establish a finite prepaid worst-case enforcement bound",
+    "retained_CPU_result": {
+      "private_USER_seconds": 2.0625,
+      "configured_USER_seconds": 1,
+      "KERNEL_seconds": null
+    },
+    "handshake_repair_native": "UNRUN; historical PID mismatch remains FAIL, attribution UNKNOWN",
+    "assignment_request": {
+      "id": "EKA-CPU-METERED-20261030-01",
+      "sha256": "e31576c62489d8509d9e43b68526540328d1154cd9482eaf3bedf6fb8f7a541c",
+      "status": "REQUEST_ONLY_UNAUTHORIZED_NATIVE_ENTRY_HELD",
+      "operator_authorized": false,
+      "possible_nondeterministic_CPU_overshoot_requires_separate_acknowledgement": true
+    },
     "sealed_assignments": 4,
+    "sealed_files": 75,
     "consumed_reservations": 144,
-    "refunds_or_resume": false,
-    "archive_stored_bytes": 372874,
+    "recorded_disjoint_build_native_CPU_seconds": 4.453125,
+    "CPU_scope_excludes": [
+      "parent hashing",
+      "archive work",
+      "offline tests",
+      "CI"
+    ],
+    "original_setup_failures_preserved": true,
+    "limits_unchanged": true,
     "scientific_status": "NOT_READY",
     "original_only_producer_and_assignment_grant_transport": "NOT_IMPLEMENTED",
+    "next_dependency": [
+      "Separate human approval acknowledging nondeterministic CPU overshoot",
+      "Reviewed immutable grant transport; native entry currently hard-held",
+      "Frozen actual producer birth, physical ledger, deadline and build/launch attempts",
+      "Compiler/helper birth and closure custody, toolchain/dependency/header/binary identity",
+      "Separate external owner, observer, build and archive cost evidence"
+    ],
+    "independent_receipts_sha256": {
+      "exact_head_acceptance": "ad7bd57777e85b4d374593889ccd14829cd065e9ab6f48d9a7a7e3f0abe85285",
+      "CI_acceptance": "345e394f156c56b751d8c4f200608e5d6cd3fc36b822086ebc6ff30bc45349f6"
+    },
+    "CI_artifact_sha256": "fff86e1babf46c195c07734216537b110da0ff4ab00b36ec080c63f65917fcfd",
+    "native_qualification": "FAILED_HISTORICAL; NEW_INSTRUMENTATION_UNRUN",
+    "cases7_8": "UNRUN",
+    "refunds_or_resume": false,
+    "archive_stored_bytes": 372874,
     "learning_advantage_verdict": "UNKNOWN",
     "no_new_scientific_execution": true,
-    "next_dependency": "Qualify exact successful-descendant custody and conservatively paid CPU bound, then implement authenticated original-only producer/assignment transport"
+    "no_new_native_or_compile_execution": true
   },
   "latest_verified_assistant_observation": {
-    "observed_utc": "2026-10-30T14:24:05Z",
-    "completed_windows": 49,
-    "completed_epochs": 1143,
+    "observed_utc": "2026-10-30T16:21:55.129444Z",
+    "observed_Halifax": "2026-10-30T13:21:55-03:00",
+    "completed_windows": 50,
+    "completed_epochs": 1165,
+    "ongoing_window": 51,
     "failures": 0,
     "memory_records": 174,
     "full_provenance_and_key": true,
     "valid_snapshots": 2,
-    "latest_window_seconds": 7200.9529999999795,
+    "latest_window_seconds": 7201.109000000055,
     "exit0_EOF_no_leaks_and_next_start": true,
     "individually_unverified_windows": [
       9,
@@ -897,6 +950,68 @@
       19,
       20
     ],
-    "claim_ceiling": "Scoped assistant operation, not organism intelligence, indefinite reliability or historical cause proof"
+    "claim_ceiling": "Scoped assistant operation, not organism learning, indefinite reliability or historical cause proof",
+    "source": "Retained monitoring receipts; no runtime check in this documentation sync"
+  },
+  "engineering_checkpoint_history": [
+    {
+      "observed_utc": "2026-10-30T14:24:05Z",
+      "native_public_head": "9b985dacdc0aa4baa5c775ed3c42ec24248f9304",
+      "native_executed_head": "909c1b00d69047a895c5618305a4b8e921e25060",
+      "source_only_handshake_repair": "43297d2b7e1a8418e2b37ec1aa2af172a2226f30",
+      "PR": 323,
+      "draft": true,
+      "merged": false,
+      "offline_CI": {
+        "run_id": 41070392579,
+        "checks": 65,
+        "status": "PASS_OFFLINE_ONLY",
+        "hash_observations": 1863,
+        "native_steps": "SKIPPED_NOT_PASSED"
+      },
+      "native_qualification": "FAILED",
+      "strict_CPU_ceiling": "UNKNOWN;2.0625reportedseconds against nominal1",
+      "handshake_repair_native": "UNRUN;4independent mocked checks passed",
+      "cases7_8": "UNRUN",
+      "sealed_assignments": 4,
+      "consumed_reservations": 144,
+      "refunds_or_resume": false,
+      "archive_stored_bytes": 372874,
+      "scientific_status": "NOT_READY",
+      "original_only_producer_and_assignment_grant_transport": "NOT_IMPLEMENTED",
+      "learning_advantage_verdict": "UNKNOWN",
+      "no_new_scientific_execution": true,
+      "next_dependency": "Qualify exact successful-descendant custody and conservatively paid CPU bound, then implement authenticated original-only producer/assignment transport"
+    }
+  ],
+  "assistant_observation_history": [
+    {
+      "observed_utc": "2026-10-30T14:24:05Z",
+      "completed_windows": 49,
+      "completed_epochs": 1143,
+      "failures": 0,
+      "memory_records": 174,
+      "full_provenance_and_key": true,
+      "valid_snapshots": 2,
+      "latest_window_seconds": 7200.9529999999795,
+      "exit0_EOF_no_leaks_and_next_start": true,
+      "individually_unverified_windows": [
+        9,
+        10,
+        11,
+        12,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "claim_ceiling": "Scoped assistant operation, not organism intelligence, indefinite reliability or historical cause proof"
+    }
+  ],
+  "main_readbacks_20261030": {
+    "Ora2.0": "3a3c7e8521271a6eebe22b5cfdc809e19254b3a8",
+    "AI-Research": "2fb16af7299f4d0c1da4cc60c57e6cf5017931ec",
+    "scope": "Read-only main identity; review branches remain draft and unmerged"
   }
 }

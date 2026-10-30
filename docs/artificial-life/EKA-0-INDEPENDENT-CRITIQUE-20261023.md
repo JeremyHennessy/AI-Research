@@ -1,6 +1,6 @@
 # EKA-0 independent research assessment
 
-**2026-10-23 — provisional verdict: UNKNOWN for Ora feasibility; NO-GO for a new population now.** This completes the literature and falsifier leg of [issue #62](https://github.com/JeremyHennessy/AI-Research/issues/62), conditional on the separate [Ora source/cost audit, issue #313](https://github.com/JeremyHennessy/Ora2.0/issues/313). It does not authorize a World, change physics, or reverse any closed result.
+**2026-10-23 â€” provisional verdict: UNKNOWN for Ora feasibility; NO-GO for a new population now.** This completes the literature and falsifier leg of [issue #62](https://github.com/JeremyHennessy/AI-Research/issues/62), conditional on the separate [Ora source/cost audit, issue #313](https://github.com/JeremyHennessy/Ora2.0/issues/313). It does not authorize a World, change physics, or reverse any closed result.
 
 The ambition is scientifically coherent. The current evidence does not establish an affordable, mutation-accessible route from Ora's supplied ancestor to a useful new inherited information strategy. That is a missing feasibility argument, **not evidence that such a route is impossible**. GO for a population requires the source audit below; another elaborate supplied learner would answer a different question.
 
@@ -82,7 +82,7 @@ All **1,024** subsets of the founder-to-candidate ten fixed word edits have the 
 | Blind alternator | 6 | 35 / 40 turns | 4 / 4 | 9 / 4 | 71 / 76 |
 | Fixed ports 0 and 1, both declared | 5 | 20 / no affordable child | 5 / 0 | 29 / none | 71 / no birth row |
 
-These worksheets assume food at every attempt, a stable truthful target, no neighbours/transfers/competition, free material and population capacity, and unchanged programs. They charge initialization, every failed action and refusal, COPY extras, final division, cap overflow and expiry. The candidate balance is `12 + 9×20 = 27 + 12 + 153`. Shorter policies make children sooner with less food, but the blind policy leaves less parent energy; these are different resource-use endpoints, **not a resource-matched fitness comparison**. The matching fixed port cannot be chosen after seeing the hidden target. Shorter code is legal as an authored reference but unreachable through this founder's length-preserving substitution mechanism. Initial supplied assembly is disclosed separately; no formation-inclusive advantage follows.
+These worksheets assume food at every attempt, a stable truthful target, no neighbours/transfers/competition, free material and population capacity, and unchanged programs. They charge initialization, every failed action and refusal, COPY extras, final division, cap overflow and expiry. The candidate balance is `12 + 9Ã—20 = 27 + 12 + 153`. Shorter policies make children sooner with less food, but the blind policy leaves less parent energy; these are different resource-use endpoints, **not a resource-matched fitness comparison**. The matching fixed port cannot be chosen after seeing the hidden target. Shorter code is legal as an authored reference but unreachable through this founder's length-preserving substitution mechanism. Initial supplied assembly is disclosed separately; no formation-inclusive advantage follows.
 
 The feedback identity only holds on an actual nonempty, truthful attempt. Zero feedback also means absent food; packet targets and global timing can change. No reachable real encounter sequence was established. This stationary candidate does not solve an older-site-history task, transmit acquired code, or demonstrate useful selected inherited learning.
 
@@ -185,7 +185,7 @@ A hardcoded delayed reflex is **positive for delayed own-signal use but insuffic
 
 Exact SHA256 custody: proposal `09f636650c60cdd8749f424ee79902da4bac119bbb574a27d1ba0721b9cb095b`; document `2f4c5a7e43fa6bb7d6d32661841bca4c687a7d50e707b282e38e49b82b6e4363`; independent review `cb43a9d2b6e0fcffe7bfa6eea26759ba1875d04ad5b665056c95e12bc2b07d20`. Independent review used source/metadata only, without executing a generator, VM, seed query or fixture. **Direction decision complete; execution NO-GO and whole-substrate UNKNOWN remain.** Informative conditions, adapter/source, original/derived custody, handling/fork costs, specificity, sampling, native authority and scientific admission still block execution. The fixed-cell rejection and all earlier findings are unchanged.
 
-Directly inspected in this pass: issue #62/#313 bodies through the GitHub API; the author's complete Hinton–Nowlan text; Lenski's primary abstract and indexed author-PDF excerpts; the 2025 evolvability paper's indexed primary methods/results excerpts; Arnold's PubMed abstract and project README; DGM v3 abstract. PNAS direct full-text navigation encountered cookie/PMC challenge pages; Arnold publisher full text returned 403. These limitations prevent a new complete-methods/E2 promotion for those papers. Prior Physis/Stringmol full-reading annotations were reused, not re-certified. No external implementation, simulation, supplement reanalysis or reproduction was run. No canonical catalog evidence levels, historical source counts or rights assessments were changed.
+Directly inspected in this pass: issue #62/#313 bodies through the GitHub API; the author's complete Hintonâ€“Nowlan text; Lenski's primary abstract and indexed author-PDF excerpts; the 2025 evolvability paper's indexed primary methods/results excerpts; Arnold's PubMed abstract and project README; DGM v3 abstract. PNAS direct full-text navigation encountered cookie/PMC challenge pages; Arnold publisher full text returned 403. These limitations prevent a new complete-methods/E2 promotion for those papers. Prior Physis/Stringmol full-reading annotations were reused, not re-certified. No external implementation, simulation, supplement reanalysis or reproduction was run. No canonical catalog evidence levels, historical source counts or rights assessments were changed.
 
 **Final route decision:** this preparation is **COMPLETE**. The specific authored ten-edit route is **NO-GO NOW as an EKA-1 execution basis**, because the fixed ledger supplies no intended nonzero intermediate/target, no qualified viable sequential route, and no demonstrated paid advantage over strong blind controls. This combined judgment does not establish mathematical impossibility; the whole substrate remains **UNKNOWN**. Exact-target absence alone is not a reason to reject every possible useful information strategy.
 
@@ -218,7 +218,7 @@ Exact SHA256: adapter `9d0e43ae79fb53b190cb947141bf70983aa09c266a92456458b9a56f2
 
 The complete retained16-role cohort contains364 paid births and60336 events: eight newborn READ actors and104 READs (99 earned nonempty observations,4 empty-forage zeros,1 initial zero). All73 delayed earned probes changed site; none satisfies the certified same-site renewable condition. None of the16 prospectively selected first-mutated individuals ever READ. Later reader occurrence therefore cannot qualify that primary rule's opportunity. Resolve population/individual/descendant estimands prospectively; never replace missing origins with historical winners or select favorable genomes.
 
-A narrow hereditary chain is real in closed role74202-mutating-parent_copy-d8: founder0→2→10→15→21, paid birth ticks151/915/2215/3238. Parent15 and child21 have identical27-word birth genomes;21 had zero COPY mutations and blank memory/registers/feedback/inbox, then READ at3310 and3456. **Feedback-reading machinery was faithfully inherited and re-expressed.** This is neither inherited acquired answers nor proven advantageous learning. Paid ancestry does not establish neutral/advantageous intermediates or causal selection.
+A narrow hereditary chain is real in closed role74202-mutating-parent_copy-d8: founder0â†’2â†’10â†’15â†’21, paid birth ticks151/915/2215/3238. Parent15 and child21 have identical27-word birth genomes;21 had zero COPY mutations and blank memory/registers/feedback/inbox, then READ at3310 and3456. **Feedback-reading machinery was faithfully inherited and re-expressed.** This is neither inherited acquired answers nor proven advantageous learning. Paid ancestry does not establish neutral/advantageous intermediates or causal selection.
 
 | Required verdict | Decision |
 | --- | --- |
@@ -271,15 +271,15 @@ The next discriminating step is a prospectively priced ecology and actual paid r
 
 A separate one-shot projection reused the complete closed controller records without rerunning any controller or changing reward8. Event-gated6-bit tables remove unused feedback outputs and supply blank-state persistence;8-bit Moore tables remove the unused outputs but retain evolvable blank transitions. Both are authored representation priors, not evolved compression. All64/256 genotypes, mutation edges and old five-arm outcomes remain. Independent retained-JSON checking matched all mapped rows exactly.
 
-Event6's development path0→1→5→37 has nets8/8/266/368, but reused-validation nets−160/−160/494/800. Its best800 beats fixed736 and ties same-quote win-stay/lose-shift. Moore8's path0→1→5→69→197 has reused-validation nets−224/−224/−352/−352/736, with no fixed advantage. Same-phenotype6/8/12-bit quotes give800/736/608. Thus representation and supplied persistence affect prices/topology; they do not improve the retained behavior or defeat strong reactive control. Negative founder/intermediate flow means these are objective graph paths, not demonstrated viable reproductive trajectories. Known old validation remains reused evidence, never a fresh held-out experiment.
+Event6's development path0â†’1â†’5â†’37 has nets8/8/266/368, but reused-validation netsâˆ’160/âˆ’160/494/800. Its best800 beats fixed736 and ties same-quote win-stay/lose-shift. Moore8's path0â†’1â†’5â†’69â†’197 has reused-validation netsâˆ’224/âˆ’224/âˆ’352/âˆ’352/736, with no fixed advantage. Same-phenotype6/8/12-bit quotes give800/736/608. Thus representation and supplied persistence affect prices/topology; they do not improve the retained behavior or defeat strong reactive control. Negative founder/intermediate flow means these are objective graph paths, not demonstrated viable reproductive trajectories. Known old validation remains reused evidence, never a fresh held-out experiment.
 
-The8334 bit-copy software fixtures contain2778 completed and5556 incomplete cases at externally provided budgets0/fee−1/fee. Required bills22/26/34 for6/8/12 bits preserve energy/material and blank state, but no organism earned the budget or reproduced. Native fixture/projection resource receipts do not supply a lifecycle, decoder physical pricing or population admission. No old #325 result was overwritten or reward retuned.
+The8334 bit-copy software fixtures contain2778 completed and5556 incomplete cases at externally provided budgets0/feeâˆ’1/fee. Required bills22/26/34 for6/8/12 bits preserve energy/material and blank state, but no organism earned the budget or reproduced. Native fixture/projection resource receipts do not supply a lifecycle, decoder physical pricing or population admission. No old #325 result was overwritten or reward retuned.
 
 Next requires a frozen actual running-balance lifecycle with uniform prospective endowment/resource supply, charged encoding/decoder/eventgate/copy/state/division/startup, early death and finite competition; all founder failures, offspring and unused resources retained. Freeze mutation/inheritance and strong same-encoding/reactive/experience controls, finite sampling/stopping and independent source/native/custody/admission before evolutionary execution. Do not spend future projected income or call externally funded fixture children evolved organisms.
 
 Projection source `7e037d5009354552b3625116f03c70a23e88ba10`/SHA256 `3fb32e465a5505ee74ee99b696253e3ec1f7129a08d215db72823301ab62b86b`; result `1dbc99b06a38ba7aaa32ec6e5d68edbc9839def582aea42ad17de7a8495ab3ee`; native receipt `8cdeedd08600a5d639067caa6f10b2bc24927fd5368063be2244ae8ef667a6ef`; independent research review `cf878da313f25aeb69d378f58f309301ef5cea96b9290392ea82e7bc2bfbabd0`. Published existing [Ora PR325 head7ef8d21](https://github.com/JeremyHennessy/Ora2.0/commit/7ef8d215af439c7d8b659d9025055194d85ecce6) retains complete projection and fixture artifacts. Draft remains unmerged; exact-head CI NOT_ESTABLISHED. Native Ora feasibility UNKNOWN; formal population NO-GO.
 
-A final conditional cashflow upper bound further narrows the founder bottleneck. For event6 blind0 only, startup8/reward8/full copy fee22, a clairvoyant instantaneous copy scheduler pays every copy and may choose any boundary. It optimistically omits decoder, material, copy-time and parent-formation overhead and never spends future income. Across16 development ledgers the maximum-copy mean is6/16=3/8 (10zero-copy cases,max1); across32 reused-validation ledgers11/32 (22zeros,max2). Under independent uniform fresh unchanged/no-mutation descendant lives, expected total descendants excluding the founder are bounded by R/(1−R):3/5 and11/21 respectively. These are expectation bounds, not deterministic totals, actual births, mutant/founder-universal bounds or fresh held-out validation. This does not rescue lifecycle viability by endpoint surplus or externally funded fixtures.
+A final conditional cashflow upper bound further narrows the founder bottleneck. For event6 blind0 only, startup8/reward8/full copy fee22, a clairvoyant instantaneous copy scheduler pays every copy and may choose any boundary. It optimistically omits decoder, material, copy-time and parent-formation overhead and never spends future income. Across16 development ledgers the maximum-copy mean is6/16=3/8 (10zero-copy cases,max1); across32 reused-validation ledgers11/32 (22zeros,max2). Under independent uniform fresh unchanged/no-mutation descendant lives, expected total descendants excluding the founder are bounded by R/(1âˆ’R):3/5 and11/21 respectively. These are expectation bounds, not deterministic totals, actual births, mutant/founder-universal bounds or fresh held-out validation. This does not rescue lifecycle viability by endpoint surplus or externally funded fixtures.
 
 Funding source SHA256 `436d703b9af268e2afc46b1d0fd41272181754517e50f40cc6551e066200c6a4`, result `b46785c15396f2d08e765d58f40677e49067bc5096a06aaea1e1ea8bc84c50a9`; forward postflight and publication checks are owner-retained, not a new simulation by this reviewer. The next gate is founder-earned reproduction with priced decoder and causal running balances under a separately qualified finite population contract. No reward retune, larger-controller substitution or formal population admission follows.
 
@@ -290,7 +290,7 @@ A separate one-shot partial-accounting qualification consumed the same48 retaine
 
 All six missing costs remain `None`, with full-cost reproduction false in every case: decoder, physical storage maintenance, material acquisition, copy clock/resource phase, expiry during copy and host/fork energy mapping. Founder embodied formation7 is explicit external setup; child startup8 is a transfer inside fee22, never free new energy or double-charged formation. These modeled funding witnesses do not supply material acquisition, lawful native custody or offspring success.
 
-Early cashflow is tight independently of final surplus. Delay2 needs6 known energy across5 dispatches before first reward, leaving at most2 unknown-cost units: a uniform extra fee≤2/5 per dispatch. Delay3 needs7 across6, leaving1:≤1/6. These are optimistic necessary **toy-budget ceilings**, not measured decoder/physical prices or sufficient lifetime bounds. At equality an unsuccessful probe leaves zero and dies; atomic successful reward may rescue it. Unknown costs must not be invented as zero to turn the partial result into a pass.
+Early cashflow is tight independently of final surplus. Delay2 needs6 known energy across5 dispatches before first reward, leaving at most2 unknown-cost units: a uniform extra feeâ‰¤2/5 per dispatch. Delay3 needs7 across6, leaving1:â‰¤1/6. These are optimistic necessary **toy-budget ceilings**, not measured decoder/physical prices or sufficient lifetime bounds. At equality an unsuccessful probe leaves zero and dies; atomic successful reward may rescue it. Unknown costs must not be invented as zero to turn the partial result into a pass.
 
 Result SHA256 `94c5ae38c27333e485c95b76ee71cbf2929db44d22c67682287f5914753e94f1`; source `dffe8ea2c4d60e30b87a85aba0731496d80246fdc1ff490c395f1459b94c565b`; independent retained-JSON arithmetic/interpretation `6cbe9b31b1de532cf95f603aa93e0062668c17a104ce9dee5fd4902b65712cf5`. Published existing [Ora PR325 head2f3c992](https://github.com/JeremyHennessy/Ora2.0/commit/2f3c99251e806989755b2366ec6126ecddb96545), including `LIFETIME-COST-RESULT.md`, preserves this closed result. Independent postflight SHA256 `aebf769760b7a34e3a64cb04a3d4e14da40a88755cc99eb184092ed6f5b8e18c`; publication review `6b3360cd42531c28f7e86f7f32b86ce4c568ff4a82ab93d3868e5e3628c35dc4`. Draft remains unmerged; exact-head CI NOT_ESTABLISHED. Next is source-backed decoder/storage/material/clock pricing and actual within-life running-balance qualification under a separately reviewed finite contract, not reward retuning or externally funded fixture admission. Native feasibility UNKNOWN; formal population NO-GO.
 
@@ -316,15 +316,65 @@ The separately frozen new authored-learner assay failed: selected learner0/32 he
 The [retained source-only certificate](https://github.com/JeremyHennessy/Ora2.0/blob/347a501d8e98aa81fd268a76bb7078fb838d6f68/docs/EKA-NATIVE-INFORMATION-OPPORTUNITY-CERTIFICATE-20261027.md) is now published in existing Ora PR325. It explicitly permits older private memory to differ while matching current external observations/latest feedback; it does not demand identical complete internal or World state. Immediate feedback use is source-supported, but the older-history construction remains conditional: lawful origin, matched context, food access and affordable continuation are unproved. A complete source-law reachability proof could establish source-only opportunity; authenticated native execution remains a separate gate. This publication adds no experiment, seed query, native original, evolved capability or new positive finding. Feasibility UNKNOWN and population NO-GO remain.
 
 
-### User-requested cross-repository checkpoint — October28
+### User-requested cross-repository checkpoint â€” October28
 
 The [Ora checkpoint](https://github.com/JeremyHennessy/Ora2.0/blob/be36bb32e05554ecbe48f026527395744e802c19/docs/ORA-RESEARCH-CHECKPOINT-20261028.md) now consolidates the seven stages, separate engineering ownership, dated assistant status and retained failures. The companion JSON records the information-opportunity claim matrix and exact public certificate. No scientific verdict changed: older-history extra value, lawful reachability and fully paid native benefit remain UNKNOWN; new population NO-GO. A successful assistant renewal is not organism learning. This is requested documentation reconciliation, not another experiment, scientific milestone, native qualification, merge or deployment.
 
 
 ### Latest coordinated review - October30
 
-[Published EKA323 head06c5659](https://github.com/JeremyHennessy/Ora2.0/pull/323) supersedes the previously unpushed status. Owner-coordinated independent review found and repaired an unpinned ledger import (repair051b6b6),then checked complete replay/hidden-restore precharge and failure refusal. Next source-only single-owner/ledger binding preflight was implemented; a caller-repinning weakness was independently found,retained and corrected by fixing unchanged laws and reviewed dependency pins. Final33 independent offline checks passed (23+9+1),exact committed/tested bytes matched. Acceptance SHA256 `1e12c10d65b476b3358fa0443d315343c14b7115c8d55e4b965e008acd529cfd`. Original setup failure and initial review witnesses remain preserved. No tests rerun for this reconciliation.
+Published head `94e60da0de3f54fb51c140a281f2c5a7d8f8782c` on the existing
+[PR323](https://github.com/JeremyHennessy/Ora2.0/pull/323) directly follows accepted
+baseline06c5659. **41 distinct independent bounded offline checks passed:**28 owner
+integration,9 source/origin,2 affected AST hooks and2 independent parser-order
+checks. Exact committed code/test bytes matched the reviewed source; eight
+remote blobs were verified. [Review and exact source hashes](https://github.com/JeremyHennessy/Ora2.0/blob/94e60da0de3f54fb51c140a281f2c5a7d8f8782c/data/eka1-native-owner-candidate-review-20261030.json);
+review SHA256 `ff80fcc57f62fe3095020e4278cfba19fbec67cbe9b101156165db242b17be84`,
+exact-head acceptance SHA256
+`dc2107508662594ac97c1b6a6a66c6569f0a0654fcb98354c0c6230c13e395ce`.
 
-Acceptance is SOURCE-ONLY,not native enforcement or scientific admission. Preflight always NOT_READY; actual physical ledger/owner/assignment and producer/process-birth hooks,executed-code custody,native resource/archive fit and safe exact-source CI remain unqualified. Original event/common-prestate and paid continuation are uncreated/unauthenticated in this route. Scientific older-history benefit and fully paid hereditary advantage UNKNOWN,population NO-GO; closed negative experiments unchanged. Next: existing-owner integration and qualification of those actual custody/hooks before any separately authorized native execution.
+The candidate observes the current Windows owner birth and checks its fresh
+physical ledger, ancestry/link/extent/offset, fixed prospective assignment and
+fourteen request digests. Both replay entrypoints require that canonical owner
+and ledger, charge the full replay/hidden-restoration envelope and unconditionally
+hold before metadata parsing or native loading. Lifetime reset, Boolean key alias,
+delayed role deadline and parser-before-owner defects were corrected. Cooperative
+deadline checks cannot interrupt blocked syscalls. `launch_role` consumes a denied
+launch-request reservation; it creates no child. This is **partial fail-closed
+preparation**, not registered original ownership or actual native enforcement.
+The earlier accepted33 checks, original setup failure and new clock-mock setup
+failure remain retained; no baseline or closed experiment was rerun here.
 
-The separate assistant is LAST VERIFIED October30 at09:45 UTC (06:45 Halifax):47 windows,1089epochs,counters0,174 memory/provenance records/key and two snapshots intact; latest closure7201.281s/exit0/EOF/no leaks/normal next start. Historical individual-monitor gaps and earlier rotation exception remain preserved. This is not organism intelligence. Both research PRs remain draft/unmerged; no runtime/schedule/UI change,experiment,merge or deployment. [Ora's consolidated checkpoint](https://github.com/JeremyHennessy/Ora2.0/blob/research/experience-affordance-prototype-20261026/docs/ORA-RESEARCH-CHECKPOINT-20261028.md) retains exact owner/head/evidence limits.
+The existing owner subsequently reported local, unpublished repair
+`d1bb01d7d066d541edc604b63a0ba9365be7bad3` for first-failure overwriting and cleanup
+errors masking the primary cause. Its five changed source pins match the local
+handoff and five new producer offline checks are reported. **Independent review
+is pending**: this update neither accepts that repair nor pushes the owner's
+branch. Earlier accepted41-check scope does not certify this later source.
+
+Actual producer/attempted-child-birth hooks, immutable registered original
+custody, executed-code provenance, OS resource/interrupt/termination controls and
+output/archive/restore fit remain unqualified. Finite native qualification stays
+**NOT_READY**. Exact-head executable CI is NOT_ESTABLISHED; legacy calibration
+was deliberately skipped. Original event/common-prestate/paid continuation
+remain uncreated or unauthenticated in this route. Historical gate pins remain
+frozen and do not admit revised wrappers.
+
+### Separate assistant: LAST VERIFIED, not organism intelligence
+
+Retained monitor evidence at2026-10-30 12:43:56 UTC (09:43:56 Halifax) reports48
+completed windows,1124epochs and zero failure counters; no new runtime check was
+run for this repository update. Window48 closed after7201.469s with exit0,EOF,
+no leaks,old controller birth closed and normal next start. Five actual current
+owned births,owned11435,all174 memory/provenance records,key,two snapshots and
+failed-v9 all50 immutable files were verified by the monitor. Windows9-12 and
+16-20 retain individual verification gaps. The window48 normal model-rotation
+comparison exception and its single justified read-only recheck remain retained.
+This is scoped assistant operation, not indefinite reliability, a historical
+readiness diagnosis or organism learning. No runtime configuration was changed.
+
+Next: independently review the existing owner's pending first-failure repair,
+then integrate and qualify the actual native guardian/birth/resource/archive path
+before requesting separate finite qualification. The scientific result stays
+UNKNOWN and population NO-GO. Closed negative results remain unchanged. This
+requested sync adds no tests, experiment, runtime change, merge or deployment.

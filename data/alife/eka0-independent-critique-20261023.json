@@ -794,29 +794,44 @@
     "research_heads_rechecked_unchanged": true
   },
   "latest_coordinated_review_20261030": {
-    "native_public_head": "06c5659f4981f587c956d19e05d671e68789f5c5",
-    "repair_head": "051b6b6df9a1ad209e88694f2f9c8d5b9d598c62",
+    "native_public_head": "94e60da0de3f54fb51c140a281f2c5a7d8f8782c",
+    "accepted_baseline": "06c5659f4981f587c956d19e05d671e68789f5c5",
     "publication": "Existing owner branch/PR323; draft/unmerged",
-    "independent_acceptance": "ACCEPTED_EXACT_HEAD_SOURCE_ONLY",
-    "independent_final_tests": 33,
+    "independent_acceptance": "ACCEPTED_EXACT_HEAD_PARTIAL_FAIL_CLOSED_PREPARATION",
+    "independent_distinct_tests": 41,
     "test_breakdown": [
-      23,
+      28,
       9,
-      1
+      2,
+      2
     ],
-    "acceptance_sha256": "1e12c10d65b476b3358fa0443d315343c14b7115c8d55e4b965e008acd529cfd",
+    "review_url": "https://github.com/JeremyHennessy/Ora2.0/blob/94e60da0de3f54fb51c140a281f2c5a7d8f8782c/data/eka1-native-owner-candidate-review-20261030.json",
+    "review_sha256": "ff80fcc57f62fe3095020e4278cfba19fbec67cbe9b101156165db242b17be84",
+    "exact_head_acceptance_sha256": "dc2107508662594ac97c1b6a6a66c6569f0a0654fcb98354c0c6230c13e395ce",
     "original_failures_and_initial_witnesses_retained": true,
-    "actual_ledger_bound": false,
-    "process_birth_hooks_integrated": false,
+    "canonical_physical_ledger_prep_path_bound": true,
+    "registered_original_authenticated": false,
+    "actual_child_birth_hooks_integrated": false,
+    "OS_resource_archive_termination_qualified": false,
+    "deadlines": "Cooperative preparation checks; no blocked syscall interruption",
+    "unpublished_owner_repair": {
+      "head": "d1bb01d7d066d541edc604b63a0ba9365be7bad3",
+      "finding": "First cause overwritten or masked by cleanup errors; owner-reported source finding",
+      "source_pins_verified": 5,
+      "producer_checks_reported": 5,
+      "independent_review_accepted": false,
+      "published": false
+    },
     "native_execution_authorized": false,
+    "finite_qualification_ready": false,
     "scientific_verdict": "UNKNOWN",
     "population_admission": "NO_GO",
     "new_tests_run_for_reconciliation": 0,
-    "assistant_last_verified_utc": "2026-10-30T09:45:20.503792+00:00",
-    "assistant_completed_windows": 47,
-    "assistant_completed_epochs": 1089,
+    "assistant_last_verified_utc": "2026-10-30T12:43:56.487324+00:00",
+    "assistant_completed_windows": 48,
+    "assistant_completed_epochs": 1124,
     "assistant_failures": 0,
-    "assistant_latest_closure_seconds": 7201.280999999959,
+    "assistant_latest_closure_seconds": 7201.469000000041,
     "individual_monitor_gaps": [
       9,
       10,
@@ -829,7 +844,7 @@
       20
     ],
     "organism_improvement_demonstrated": false,
-    "next_blocker": "Existing-owner actual producer/attempted process births bound to registered owner/assignment/physical ledger; executed-code/native resource/archive custody and separate qualification",
+    "next_blocker": "Independent exact review of owner repair, then actual guardian/birth/resource/archive and executed-code custody integration; separate finite qualification held",
     "exact_head_executable_CI": "NOT_ESTABLISHED"
   }
 }

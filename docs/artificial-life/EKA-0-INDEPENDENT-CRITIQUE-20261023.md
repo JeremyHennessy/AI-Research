@@ -1,5 +1,50 @@
 # EKA-0 independent research assessment
 
+## Current verified checkpoint - October 30, 14:24 UTC
+
+The current EKA engineering head is
+`9b985dacdc0aa4baa5c775ed3c42ec24248f9304` on the existing
+[Ora PR #323](https://github.com/JeremyHennessy/Ora2.0/pull/323), draft and unmerged.
+The earlier first-failure repair `d1bb01d` is now published and independently
+accepted after 46 fresh checks; the earlier 41-check verdict was not reused.
+[Exact-head offline CI](https://github.com/JeremyHennessy/Ora2.0/actions/runs/41070392579)
+passed 65 focused checks and retained 1,863 interpreter/library/control-source
+hash observations. Native and historical-calibration steps were skipped, not
+passed; this is scoped offline custody, not complete OS dependency qualification.
+
+**Native qualification FAILED at executed source
+`909c1b00d69047a895c5618305a4b8e921e25060`.** Six existing case predicates were
+accepted before the tree fixture failed: the reported successful descendant PID
+did not match the captured birth identity. CPU termination was observed at
+2.0625 reported CPU seconds against a nominal one second, so a strict CPU ceiling
+remains unqualified. Cases 7-8 were not run. The corrective event handshake at
+`43297d2b7e1a8418e2b37ec1aa2af172a2226f30` passed four independent mocked
+checks and is accepted for source-only publication; its native path remains unrun.
+[Committed evidence](https://github.com/JeremyHennessy/Ora2.0/blob/6a42865ab452b84dedf652f4436edca9d82ea847/data/eka1-synthetic-native-integration-evidence-20261030.json)
+preserves all four sealed assignments, 144 consumed reservations without refunds,
+and 372,874 stored archive bytes. Recorded build/native Job CPU totals 4.453125
+seconds; this excludes parent hashing, archives, offline tests and CI CPU.
+
+**Scientific status remains NOT_READY / UNKNOWN.** The authenticated original-only
+producer and immutable assignment/owner-grant transport are not implemented.
+Successful descendant custody and a conservatively paid CPU bound must qualify
+before actual World/replay/dispatch/hidden-restoration integration can be admitted.
+No World, population, historical replay, learning measurement, VM-law change or
+v10 deployment ran for this repository synchronization. All closed results remain
+unchanged. Existing owners and PRs are retained; no merge or competing branch.
+
+The separate assistant was verified at **14:24 UTC on October 30**: 49 completed
+windows and 1,143 epochs, zero failure counters, all 174 approved records with
+provenance and key retained, and two valid snapshots. Window 49 closed after
+7,200.953 seconds with exit 0, EOF, no leaks and the old controller birth closed;
+window 50 started normally. Windows 9-12 and 16-20 remain individually unverified.
+This is dated operating evidence, not LIVE organism intelligence, indefinite
+reliability or proof of the historical readiness cause. Private receipts, memory
+contents, keys and machine identities are not published.
+
+This update changes documentation only and uses retained engineering evidence
+plus one read-only runtime check. No experiment or closed bank was rerun.
+
 **2026-10-23 â€” provisional verdict: UNKNOWN for Ora feasibility; NO-GO for a new population now.** This completes the literature and falsifier leg of [issue #62](https://github.com/JeremyHennessy/AI-Research/issues/62), conditional on the separate [Ora source/cost audit, issue #313](https://github.com/JeremyHennessy/Ora2.0/issues/313). It does not authorize a World, change physics, or reverse any closed result.
 
 The ambition is scientifically coherent. The current evidence does not establish an affordable, mutation-accessible route from Ora's supplied ancestor to a useful new inherited information strategy. That is a missing feasibility argument, **not evidence that such a route is impossible**. GO for a population requires the source audit below; another elaborate supplied learner would answer a different question.

@@ -52,7 +52,7 @@
   "canonical_catalog_changes": false,
   "independent_literature_reproduction": false,
   "launch_authority": false,
-  "next_action": "Resolve prospective population/individual/lineage estimand and useful exposure opportunity without winnerselection; qualify authentic paid branch/continuation and finite native costs before any population registration",
+  "next_action": "Qualify exact successful-descendant custody and conservatively paid CPU bound, then implement authenticated original-only producer/assignment transport",
   "paired_source_review": {
     "scope": "Reader/source inspection and independent two-population event aggregate spot check only; not scientific replay",
     "branch": "review/eka0-feasibility-20261023",
@@ -846,5 +846,57 @@
     "organism_improvement_demonstrated": false,
     "next_blocker": "Independent exact review of owner repair, then actual guardian/birth/resource/archive and executed-code custody integration; separate finite qualification held",
     "exact_head_executable_CI": "NOT_ESTABLISHED"
+  },
+  "latest_verified_engineering_checkpoint": {
+    "observed_utc": "2026-10-30T14:24:05Z",
+    "native_public_head": "9b985dacdc0aa4baa5c775ed3c42ec24248f9304",
+    "native_executed_head": "909c1b00d69047a895c5618305a4b8e921e25060",
+    "source_only_handshake_repair": "43297d2b7e1a8418e2b37ec1aa2af172a2226f30",
+    "PR": 323,
+    "draft": true,
+    "merged": false,
+    "offline_CI": {
+      "run_id": 41070392579,
+      "checks": 65,
+      "status": "PASS_OFFLINE_ONLY",
+      "hash_observations": 1863,
+      "native_steps": "SKIPPED_NOT_PASSED"
+    },
+    "native_qualification": "FAILED",
+    "strict_CPU_ceiling": "UNKNOWN;2.0625reportedseconds against nominal1",
+    "handshake_repair_native": "UNRUN;4independent mocked checks passed",
+    "cases7_8": "UNRUN",
+    "sealed_assignments": 4,
+    "consumed_reservations": 144,
+    "refunds_or_resume": false,
+    "archive_stored_bytes": 372874,
+    "scientific_status": "NOT_READY",
+    "original_only_producer_and_assignment_grant_transport": "NOT_IMPLEMENTED",
+    "learning_advantage_verdict": "UNKNOWN",
+    "no_new_scientific_execution": true,
+    "next_dependency": "Qualify exact successful-descendant custody and conservatively paid CPU bound, then implement authenticated original-only producer/assignment transport"
+  },
+  "latest_verified_assistant_observation": {
+    "observed_utc": "2026-10-30T14:24:05Z",
+    "completed_windows": 49,
+    "completed_epochs": 1143,
+    "failures": 0,
+    "memory_records": 174,
+    "full_provenance_and_key": true,
+    "valid_snapshots": 2,
+    "latest_window_seconds": 7200.9529999999795,
+    "exit0_EOF_no_leaks_and_next_start": true,
+    "individually_unverified_windows": [
+      9,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "claim_ceiling": "Scoped assistant operation, not organism intelligence, indefinite reliability or historical cause proof"
   }
 }

@@ -351,7 +351,7 @@
     "independent_review_sha256": "9bfd020233f43e84abf95e5a586d0c2232f23a6db722f52e0db9195a8a94e6e6",
     "bounded_deliverable": "COMPLETE_SOURCE_QUALIFICATION_NO_GO",
     "method": "fixedm0_XOR1_after_two_own_dispatch_delay",
-    "counterexample": "Configuredconstantm0controlsREAD_IFZERO_HALT withoutfeedbackread; firstcheckpoint5dispatches\u22657energy, lesionHALTin3more. Sourceargumentonly, noWorld/viabilityclaim",
+    "counterexample": "Configuredconstantm0controlsREAD_IFZERO_HALT withoutfeedbackread; firstcheckpoint5dispatches≥7energy, lesionHALTin3more. Sourceargumentonly, noWorld/viabilityclaim",
     "channel_miss": "feedback/registers retainfreshobservation; m0lesion mayremoveno relevantinformation",
     "universal_nonlethality_is_required_for_all_causal_studies": false,
     "nuance": "Genuineinformationloss maycausebadchoicesanddeath; rejectunqualifiedfixedmethodattribution, not allsurvival-affectinglesions",
@@ -468,7 +468,7 @@
       "delayed_same_site": 0,
       "first_mutated_primary_readers": 0
     },
-    "primitive_inheritance": "YES_NARROW: role74202d8 parent15\u2192child21, tick3238, identical27word genome/zeroCOPYmutations/blank private state; childREAD3310,3456. Not inheritedanswer or advantageouscapability.",
+    "primitive_inheritance": "YES_NARROW: role74202d8 parent15→child21, tick3238, identical27word genome/zeroCOPYmutations/blank private state; childREAD3310,3456. Not inheritedanswer or advantageouscapability.",
     "six_verdicts": {
       "ordinary_mutation_expressed_feedback_readers": "YES_NARROW",
       "personally_acquired_information_changes_behavior": "UNKNOWN",
@@ -580,8 +580,8 @@
     "independent_research_review_sha256": "cf878da313f25aeb69d378f58f309301ef5cea96b9290392ea82e7bc2bfbabd0",
     "event6": "64genotypes,192edges,24reachable;best368dev/800reusedval;2beatfixed,0beatstrongsamequote",
     "moore8": "256genotypes,1024edges,48reachable;best336dev/736reusedval;no validationfixedadvantage/nostrongadvantage",
-    "event6_path": "0\u21921\u21925\u219237;dev8/8/266/368;reusedval\u2212160/\u2212160/494/800",
-    "moore8_path": "0\u21921\u21925\u219269\u2192197;reusedval\u2212224/\u2212224/\u2212352/\u2212352/736",
+    "event6_path": "0→1→5→37;dev8/8/266/368;reusedval−160/−160/494/800",
+    "moore8_path": "0→1→5→69→197;reusedval−224/−224/−352/−352/736",
     "mechanism": "Removedunusedfeedbackoutputs plusauthoredblankhold; shorterformationquote andtopology change, notnewbehavior/evolvedarchitecture",
     "copy_fixtures": "8334total2778complete5556incomplete,22/26/34requiredenergy6/8/12bits;conservedenergy/material,blankstate;notactualbirth or earnedfunding",
     "native_observation": "0.422wall0.3125userCPU74629120committedclosedJob receipt;notnativeOraWorld",
@@ -608,7 +608,7 @@
     "reused_validation": "2of32earnedknownbillwitnesses,12alive,8completefixtures",
     "all": "4of48netfundedknownbill22aboveinitial8reserve;14completefixtures;28notaliveathorizon;0fullqualified",
     "unknown_costs": "SixNone:decoder/storage/materialacquisition/copyclock/expiry/hostmapping;neverzeroed",
-    "first_probe_headroom": "delay2uniformextra\u22642/5toyenergyperdispatch;delay3\u22641/6. Necessaryreachceilingsnotmeasuredphysicalprices; equalityfailedprobedies.",
+    "first_probe_headroom": "delay2uniformextra≤2/5toyenergyperdispatch;delay3≤1/6. Necessaryreachceilingsnotmeasuredphysicalprices; equalityfailedprobedies.",
     "limits": "Retained48blind0ledgers only;terminalcopynoenvironmentresume/actualbirth,externalformation/material retained,alloldresultsunchanged",
     "publication_state": "PublishedexistingdraftOraPR325 head2f3c99251e806989755b2366ec6126ecddb96545;unmerged CI_NOT_ESTABLISHED",
     "full_paid_reproduction": "NOT_QUALIFIED",
@@ -626,7 +626,7 @@
     "correction": "Earlier6unknownreceiptunchanged; hypotheticaldecoder/storage sensitivity is notproofthoseecologicalfeesmissing. Physicalhostcalibrationseparate, notautomaticorganismtax.",
     "compact_undefined": "copyage/globalclock/resourcephase/expiry,ownedmaterialsource,livebank/offspringcontinuation composition",
     "native_static": "base1 beforeFORAGEgain20 cap64;deathif0 thenownturnincrement/expiry256; COPY4per3words,9COPY+DIV31=67=55heat+12child,43material;threeFORAGEbasefees yield70minimum beforecontrolfees",
-    "first_food_distinction": "Nativefirstsuccess totaldebits\u226412 andearlierprefixes<12 withoutpriorfood/transfers; compact4+d isscoredprobeonly, notnativeFORAGEbound",
+    "first_food_distinction": "Nativefirstsuccess totaldebits≤12 andearlierprefixes<12 withoutpriorfood/transfers; compact4+d isscoredprobeonly, notnativeFORAGEbound",
     "scope": "Nativecost/order sourcefactsclosedstatically, notactualfood/lineage/mutationfitness/semanticexecution or admission",
     "native_feasibility": "UNKNOWN",
     "formal_population": "NO_GO",
@@ -848,54 +848,50 @@
     "exact_head_executable_CI": "NOT_ESTABLISHED"
   },
   "latest_verified_engineering_checkpoint": {
-    "observed_utc": "2026-10-30T16:21:55Z",
-    "native_public_head": "18439b818cd793d96b03aa1bdece0843a53aeb36",
-    "native_executed_head": "909c1b00d69047a895c5618305a4b8e921e25060",
+    "observed_date": "2026-10-31",
+    "native_public_head": "ca04547ff0e11e952ca5ca32f30376615dc205dd",
     "PR": 323,
     "draft": true,
     "merged": false,
-    "accounting_contract": "EKA-CPU-METERED-ATTEMPT-v1",
+    "accounting_contract": "EKA-BUILD-ONLY-METERED-RELEASE-v1",
     "independent_acceptance": "PASS_EXACT_SOURCE_OFFLINE_ONLY",
     "independent_checks": {
-      "focused": 93,
-      "additional_raw_query": 2
+      "current_build_fixture_checks": 51,
+      "prior_unchanged_custody_checks": 20
     },
     "offline_CI": {
-      "checks": 93,
+      "run_id": 41130618195,
+      "checks": 221,
       "status": "PASS_OFFLINE_ONLY",
-      "hash_observations": 1864,
       "native_steps": "SKIPPED_NOT_PASSED",
-      "baseline_checkout_exception": "Unchanged process_limits.py exact Git LF to raw CI/local CRLF verified",
-      "test_hash_scope": "Test raw hashes absent from artifact; exact-head checkout/logs plus independent local Git-blob review",
-      "complete_OS_SDK_custody": false,
-      "run_id": 41085296488
+      "interpreter_dependency_observations": 1856,
+      "raw_control_test_hashes": 23,
+      "complete_OS_SDK_custody": false
     },
+    "CI_artifact_sha256": "3bab8ec4c5253104275e6805cb0cbf989b750b077a3d52b3e5b30ef37f6e5973",
     "controls_source_verified": [
-      "Final root USER plus KERNEL charged once after owned closure before last root handle close",
-      "Private nested counters reconciled as subsets, not added twice",
-      "Actual owner birth and kernel handle debit identity",
-      "Immutable assignment and physical ledger/raw hash checks",
-      "Missing or inconsistent measurements and overruns terminal; unresolved costs retained",
-      "First failure retained through final receipt/archive errors",
-      "No extra breakaway flags; C and Python restricted to requested CPU role"
+      "Separate BUILD_ONLY owner/assignment registry retains physical ledger and lifetime identity",
+      "Durable precharge; failed or rejected attempts terminal without refunds",
+      "Measured root USER plus KERNEL CPU debited once; nested totals never added twice",
+      "Missing custody, counters, overruns and archive failures preserve failure and unresolved costs",
+      "Provisional capture is distinct from external settlement after original owner closure"
     ],
-    "strict_CPU_ceiling": "NOT_READY; existing mechanisms do not establish a finite prepaid worst-case enforcement bound",
+    "opaque_nested_build_attempts": "UNKNOWN; approved build-only unit-birth waiver, not a scientific or diagnostic exemption",
+    "original_only_producer_and_assignment_grant_transport": "PARTIAL_SOURCE_ONLY_BINDING; actual native custody and transport UNQUALIFIED",
+    "strict_CPU_ceiling": "NOT_READY; no documented finite worst-case enforcement latency",
     "retained_CPU_result": {
       "private_USER_seconds": 2.0625,
       "configured_USER_seconds": 1,
       "KERNEL_seconds": null
     },
-    "handshake_repair_native": "UNRUN; historical PID mismatch remains FAIL, attribution UNKNOWN",
-    "assignment_request": {
-      "id": "EKA-CPU-METERED-20261030-01",
-      "sha256": "e31576c62489d8509d9e43b68526540328d1154cd9482eaf3bedf6fb8f7a541c",
-      "status": "REQUEST_ONLY_UNAUTHORIZED_NATIVE_ENTRY_HELD",
-      "operator_authorized": false,
-      "possible_nondeterministic_CPU_overshoot_requires_separate_acknowledgement": true
-    },
+    "native_executed_head": "909c1b00d69047a895c5618305a4b8e921e25060",
+    "native_qualification": "FAILED_HISTORICAL; NEW_BUILD_ONLY_IMPLEMENTATION_UNRUN",
+    "handshake_repair_native": "UNRUN; historical mismatch FAIL and attribution UNKNOWN",
+    "cases7_8": "UNRUN",
     "sealed_assignments": 4,
     "sealed_files": 75,
     "consumed_reservations": 144,
+    "archive_stored_bytes": 372874,
     "recorded_disjoint_build_native_CPU_seconds": 4.453125,
     "CPU_scope_excludes": [
       "parent hashing",
@@ -903,42 +899,55 @@
       "offline tests",
       "CI"
     ],
-    "original_setup_failures_preserved": true,
     "limits_unchanged": true,
+    "original_setup_failures_preserved": true,
+    "refunds_or_resume": false,
     "scientific_status": "NOT_READY",
-    "original_only_producer_and_assignment_grant_transport": "NOT_IMPLEMENTED",
+    "single_build_preflight": "NO_GO",
     "next_dependency": [
-      "Separate human approval acknowledging nondeterministic CPU overshoot",
-      "Reviewed immutable grant transport; native entry currently hard-held",
-      "Frozen actual producer birth, physical ledger, deadline and build/launch attempts",
-      "Compiler/helper birth and closure custody, toolchain/dependency/header/binary identity",
-      "Separate external owner, observer, build and archive cost evidence"
+      "Independently qualified real OS build containment, owned birth/image and executed-source custody",
+      "Pinned compiler/linker/SDK/header/dependency and immutable binary identities",
+      "Fresh immutable single-build manifest, physical ledger and original owner binding",
+      "External owner/observer/cleanup/archive/final-writer costs and closure/restoration settlement",
+      "Separate explicit human authorization before any build; subsequent diagnostics separately authorized"
     ],
     "independent_receipts_sha256": {
-      "exact_head_acceptance": "ad7bd57777e85b4d374593889ccd14829cd065e9ab6f48d9a7a7e3f0abe85285",
-      "CI_acceptance": "345e394f156c56b751d8c4f200608e5d6cd3fc36b822086ebc6ff30bc45349f6"
+      "exact_head_acceptance": "0f0eab1a1194131e1a041dc885acb799b7c6af3222fdbc104603ff7cc297719e",
+      "CI_acceptance": "e09ea4455178f3cece741e7de68bdac4fb2aec9dcb32266b84c10a7a0dff72ac"
     },
-    "CI_artifact_sha256": "fff86e1babf46c195c07734216537b110da0ff4ab00b36ec080c63f65917fcfd",
-    "native_qualification": "FAILED_HISTORICAL; NEW_INSTRUMENTATION_UNRUN",
-    "cases7_8": "UNRUN",
-    "refunds_or_resume": false,
-    "archive_stored_bytes": 372874,
     "learning_advantage_verdict": "UNKNOWN",
+    "no_new_native_or_compile_execution": true,
     "no_new_scientific_execution": true,
-    "no_new_native_or_compile_execution": true
+    "new_tests_run_for_documentation_sync": 0
   },
   "latest_verified_assistant_observation": {
-    "observed_utc": "2026-10-30T16:21:55.129444Z",
-    "observed_Halifax": "2026-10-30T13:21:55-03:00",
-    "completed_windows": 50,
-    "completed_epochs": 1165,
-    "ongoing_window": 51,
-    "failures": 0,
+    "observed_utc": "2026-10-31T16:14:55.250933+00:00",
+    "observed_Halifax": "2026-10-31T13:14:55-03:00",
+    "completed_windows": 62,
+    "completed_epochs": 1423,
+    "ongoing_window": 63,
+    "retained_failure_counters": {
+      "controller": 1,
+      "host": 1,
+      "seen": 1
+    },
+    "new_failures": 0,
     "memory_records": 174,
     "full_provenance_and_key": true,
     "valid_snapshots": 2,
-    "latest_window_seconds": 7201.109000000055,
+    "latest_qualified_full_window": 62,
+    "latest_window_seconds": 7200.937,
     "exit0_EOF_no_leaks_and_next_start": true,
+    "reviewed_partial_window": {
+      "number": 52,
+      "seconds": 828.516,
+      "classification": "PARTIAL_REVIEWED_RECOVERY_NOT_7200_SECOND_RENEWAL"
+    },
+    "clean_but_short_window": {
+      "number": 56,
+      "native_seconds": 7199.11,
+      "qualified_7200_second_renewal": false
+    },
     "individually_unverified_windows": [
       9,
       10,
@@ -948,9 +957,12 @@
       17,
       18,
       19,
-      20
+      20,
+      51
     ],
-    "claim_ceiling": "Scoped assistant operation, not organism learning, indefinite reliability or historical cause proof",
+    "reviewed_interruption": "Service exit1073807364 during Windows power-off; exact terminating actor UNKNOWN; original lifetime/deadline preserved",
+    "old_readiness_root_cause": "UNKNOWN",
+    "claim_ceiling": "Dated scoped assistant operation, not organism learning, indefinite reliability or historical cause proof",
     "source": "Retained monitoring receipts; no runtime check in this documentation sync"
   },
   "engineering_checkpoint_history": [
@@ -982,6 +994,86 @@
       "learning_advantage_verdict": "UNKNOWN",
       "no_new_scientific_execution": true,
       "next_dependency": "Qualify exact successful-descendant custody and conservatively paid CPU bound, then implement authenticated original-only producer/assignment transport"
+    },
+    {
+      "observed_utc": "2026-10-30T16:21:55Z",
+      "native_public_head": "18439b818cd793d96b03aa1bdece0843a53aeb36",
+      "native_executed_head": "909c1b00d69047a895c5618305a4b8e921e25060",
+      "PR": 323,
+      "draft": true,
+      "merged": false,
+      "accounting_contract": "EKA-CPU-METERED-ATTEMPT-v1",
+      "independent_acceptance": "PASS_EXACT_SOURCE_OFFLINE_ONLY",
+      "independent_checks": {
+        "focused": 93,
+        "additional_raw_query": 2
+      },
+      "offline_CI": {
+        "checks": 93,
+        "status": "PASS_OFFLINE_ONLY",
+        "hash_observations": 1864,
+        "native_steps": "SKIPPED_NOT_PASSED",
+        "baseline_checkout_exception": "Unchanged process_limits.py exact Git LF to raw CI/local CRLF verified",
+        "test_hash_scope": "Test raw hashes absent from artifact; exact-head checkout/logs plus independent local Git-blob review",
+        "complete_OS_SDK_custody": false,
+        "run_id": 41085296488
+      },
+      "controls_source_verified": [
+        "Final root USER plus KERNEL charged once after owned closure before last root handle close",
+        "Private nested counters reconciled as subsets, not added twice",
+        "Actual owner birth and kernel handle debit identity",
+        "Immutable assignment and physical ledger/raw hash checks",
+        "Missing or inconsistent measurements and overruns terminal; unresolved costs retained",
+        "First failure retained through final receipt/archive errors",
+        "No extra breakaway flags; C and Python restricted to requested CPU role"
+      ],
+      "strict_CPU_ceiling": "NOT_READY; existing mechanisms do not establish a finite prepaid worst-case enforcement bound",
+      "retained_CPU_result": {
+        "private_USER_seconds": 2.0625,
+        "configured_USER_seconds": 1,
+        "KERNEL_seconds": null
+      },
+      "handshake_repair_native": "UNRUN; historical PID mismatch remains FAIL, attribution UNKNOWN",
+      "assignment_request": {
+        "id": "EKA-CPU-METERED-20261030-01",
+        "sha256": "e31576c62489d8509d9e43b68526540328d1154cd9482eaf3bedf6fb8f7a541c",
+        "status": "REQUEST_ONLY_UNAUTHORIZED_NATIVE_ENTRY_HELD",
+        "operator_authorized": false,
+        "possible_nondeterministic_CPU_overshoot_requires_separate_acknowledgement": true
+      },
+      "sealed_assignments": 4,
+      "sealed_files": 75,
+      "consumed_reservations": 144,
+      "recorded_disjoint_build_native_CPU_seconds": 4.453125,
+      "CPU_scope_excludes": [
+        "parent hashing",
+        "archive work",
+        "offline tests",
+        "CI"
+      ],
+      "original_setup_failures_preserved": true,
+      "limits_unchanged": true,
+      "scientific_status": "NOT_READY",
+      "original_only_producer_and_assignment_grant_transport": "NOT_IMPLEMENTED",
+      "next_dependency": [
+        "Separate human approval acknowledging nondeterministic CPU overshoot",
+        "Reviewed immutable grant transport; native entry currently hard-held",
+        "Frozen actual producer birth, physical ledger, deadline and build/launch attempts",
+        "Compiler/helper birth and closure custody, toolchain/dependency/header/binary identity",
+        "Separate external owner, observer, build and archive cost evidence"
+      ],
+      "independent_receipts_sha256": {
+        "exact_head_acceptance": "ad7bd57777e85b4d374593889ccd14829cd065e9ab6f48d9a7a7e3f0abe85285",
+        "CI_acceptance": "345e394f156c56b751d8c4f200608e5d6cd3fc36b822086ebc6ff30bc45349f6"
+      },
+      "CI_artifact_sha256": "fff86e1babf46c195c07734216537b110da0ff4ab00b36ec080c63f65917fcfd",
+      "native_qualification": "FAILED_HISTORICAL; NEW_INSTRUMENTATION_UNRUN",
+      "cases7_8": "UNRUN",
+      "refunds_or_resume": false,
+      "archive_stored_bytes": 372874,
+      "learning_advantage_verdict": "UNKNOWN",
+      "no_new_scientific_execution": true,
+      "no_new_native_or_compile_execution": true
     }
   ],
   "assistant_observation_history": [
@@ -1007,11 +1099,117 @@
         20
       ],
       "claim_ceiling": "Scoped assistant operation, not organism intelligence, indefinite reliability or historical cause proof"
+    },
+    {
+      "observed_utc": "2026-10-30T16:21:55.129444Z",
+      "observed_Halifax": "2026-10-30T13:21:55-03:00",
+      "completed_windows": 50,
+      "completed_epochs": 1165,
+      "ongoing_window": 51,
+      "failures": 0,
+      "memory_records": 174,
+      "full_provenance_and_key": true,
+      "valid_snapshots": 2,
+      "latest_window_seconds": 7201.109000000055,
+      "exit0_EOF_no_leaks_and_next_start": true,
+      "individually_unverified_windows": [
+        9,
+        10,
+        11,
+        12,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "claim_ceiling": "Scoped assistant operation, not organism learning, indefinite reliability or historical cause proof",
+      "source": "Retained monitoring receipts; no runtime check in this documentation sync"
     }
   ],
   "main_readbacks_20261030": {
     "Ora2.0": "3a3c7e8521271a6eebe22b5cfdc809e19254b3a8",
     "AI-Research": "2fb16af7299f4d0c1da4cc60c57e6cf5017931ec",
     "scope": "Read-only main identity; review branches remain draft and unmerged"
+  },
+  "renewed_food_source_analysis_20261031": {
+    "schema": "EKA-RENEWED-FOOD-SOURCE-ANALYSIS-SUMMARY-v1",
+    "source_commit": "4aaa501054b78bfde3b9598f63522dadb3254633",
+    "scope": "SOURCE_ALGEBRA_ONLY_NOT_EXECUTED_WORLD_OR_LEARNING",
+    "new_analysis_executed_for_publication": false,
+    "retained_analysis": [
+      {
+        "name": "conditional_fee_screen",
+        "conditional_rows": 1584,
+        "symbolic_mutation_word_support_witnesses": 31,
+        "receipt_sha256": "f4adb2a995d651bebe09d06c93af4727fc152833bd81e5e0545628f900ce8b9b",
+        "script_sha256": "48a0aa1b0235f67c8f2f6817177826bc6501d51adc22a6ccbc03f8ed9a12c989"
+      },
+      {
+        "name": "productive_revisit",
+        "symbolic_cases": 17,
+        "receipt_sha256": "c227ed59ab4fd6b68aebcd90ec0c01402293556c235f3bbe82d873374c9718dc",
+        "script_sha256": "020935b5611bdf881e9e4ed899847d6e79dd1f3681c2ad9580a2cee9e8904256",
+        "break_even_addendum_sha256": "ea19ab4d2afbdb7b9c0535abf22e853a9fe963cb6cd6547494ec7de81c3485ab"
+      },
+      {
+        "name": "productive_affordability_bounds",
+        "symbolic_cases": 6,
+        "receipt_sha256": "38a76379958a25a7d928c957dab9fef9fe0d3d6c77927abeaa3a65467bb45c2e",
+        "script_sha256": "dd89852a806fb354d1e0a55e0d9a7509f5832460999b959022403f85abeb306c"
+      }
+    ],
+    "hypothesis": "A personally observed renewed-target bit already retained in a register may rescue a naturally necessary productive return at energy1, if it predicts the still-current target and correct FORAGE rewards before death; a wrong blind probe dies.",
+    "not_established": [
+      "Matched lawful funded history",
+      "Predictive information beyond current feedback in actual unseen histories",
+      "Fully paid advantage over free-to-stay fixed/reactive and equally cheap finite-state memory comparators",
+      "Evolved or inherited useful capability"
+    ],
+    "fee_bound": {
+      "expression": "delta <= N - C*W - A - R - D",
+      "meaning": "N later packets; W wrong cached first probes; C additional repair dispatches per wrong probe in the two screened motifs (1 or 2, not a universal lower bound); A incremental acquisition; R total retrieval; D differential travel/control. A surviving register has no per-step retention fee. At most one saved dispatch per later packet versus warm two-register literal blind pair, under equal-reward/common-control assumptions.",
+      "perfect_register_A1_R0_D0_W0_min_later_meals_for_positive_headroom": 2,
+      "READ_STORE_A2_and_LOAD_each_R_equals_N": "Cannot beat this reference by dispatch savings alone",
+      "unrewarded_overwrite_and_return_min_extra_dispatches": 3,
+      "first_new_batch_remaining_meals_at_most": 3,
+      "READ_STORE_and_batched_LOAD_cost": 3,
+      "READ_STORE_batched_LOAD_first_batch_positive_fee_headroom": false
+    },
+    "energy_cap": "F(E)=min(E+19,64), E>=1; compare F(E)-F(E-A) only when E-A>=1. Cap waste can erase an earlier energy deficit, never refund energy, heat or ticks. Equal two-dispatch high-energy comparison at E63 gives cache(food+idle)=63 and blind pair=63 or64: no guaranteed endpoint gain.",
+    "paid_productive_route_necessary_bounds": {
+      "COPY_cost": 4,
+      "COPY_pre_energy5": "Leaves1; cannot MOVE",
+      "COPY_pre_energy6": "Leaves2; one MOVE reaches1 by energy alone",
+      "formation_cost": 31,
+      "formation_pre_energy32": "Leaves1; cannot MOVE",
+      "formation_pre_energy33": "Leaves2; one MOVE reaches1 by energy alone",
+      "27_word_nursery_COPY_operations": 9,
+      "COPY_formation_adjacent_return_cost": 68,
+      "starting_cap": 64,
+      "minimum_net_replenishment_before_rescue": 5,
+      "daughter_material_units": 43,
+      "optimistic_own_dispatches": 12,
+      "latest_observation_own_age_for_rescue_before_expiry256": 243,
+      "caveat": "Necessary optimistic bounds only: excludes acquisition/control/failed probes/cap waste, requires every intermediate prefix to survive. Own age differs from global ticks after birth."
+    },
+    "controls_required": [
+      "Matched current feedback, energy, resources, timing and handling",
+      "Fixed/reactive competitors free to stay or avoid trip",
+      "Equally cheap finite-state memory comparator",
+      "Erasure plus sham handling",
+      "Nonpredictive target control",
+      "Unseen conditions"
+    ],
+    "mutation_inheritance": "Symbolic word support is not a demonstrated viable program or selection probability. Newborn registers/memory are blank; inherited code capability does not transmit the personal answer.",
+    "verdict": "UNKNOWN; conditional opportunity and necessary bounds, not demonstrated affordability or learning",
+    "next_scientific_step": "Find a lawful, prefix-funded productive revisit and matched histories from source analysis; only then request a separately authorized finite test with controls. No supplied winning genome or changed laws."
+  },
+  "repository_progress_sync_20261031": {
+    "new_executable_tests": 0,
+    "no_native_or_scientific_execution": true,
+    "prior_art_PR65_untouched": true,
+    "existing_owner_branches_only": true,
+    "documentation_heads_not_executable_CI_acceptance": true
   }
 }

@@ -1,0 +1,55 @@
+# Ora 2.0: evolutionary substrate evidence and the Avida archival decision
+
+**Date:** 13 November 2026  
+**Status:** cross-project scientific synthesis and provenance-aware decision log; **not** a new experimental result, original field discovery, or authority to execute Worlds.
+
+**Sources of Ora facts:** [Ora scientific status](https://github.com/JeremyHennessy/Ora2.0/blob/docs/ora-research-summary-20261113/research/2026-11-13-status/RESEARCH-STATUS.md), [source/receipt register](https://github.com/JeremyHennessy/Ora2.0/blob/docs/ora-research-summary-20261113/research/2026-11-13-status/SOURCE-REGISTER.md), and [standing strategy/independent-local-report citations](https://github.com/JeremyHennessy/Ora2.0/issues/328). Most detailed Nov 12–13 checks are **owner-reported, locally reviewed Codex results** whose private Windows source and raw archives were **not** replicated by this GitHub documentation update. Only the distinct [research-only Candidate B architecture commit](https://github.com/JeremyHennessy/Ora2.0/commit/82256ca2d06cdfb19e6b4471893f497e4819f4dc) was found remotely published.
+
+## Scientific question we should actually answer
+
+**Can ordinary inherited variation produce a new *useful computational function*, preserve and recombine it through viable descendants, and eventually transfer that ability to unfamiliar conditions under clearly disclosed resources and selection?**
+
+This is distinct from (1) a Turing-complete or expressive genotype language, (2) a hand-written program performing a function, (3) an independently verifiable copy/reaction engine, (4) an attractor restoring a target, (5) population uptime, and (6) post-hoc selection of a successful genotype. None separately establishes adaptive evolutionary innovation.
+
+## Evidence-led review of the 12–13 November campaign
+
+| Research instrument | Most defensible positive finding | Strongest disconfirming finding / unknown | Present decision |
+| --- | --- | --- | --- |
+| AL02/AL03 old paid reproductive VM | Executed copying, heritable genetic variation and resource-specific reproductive effects. Reported AL03 site interactions 18/0/12/0 in its frozen same-background study. | Some B users sterile; all finite Worlds extinct; mutant/revertant transplants and deterministic cohorts are not naturally evolved computation. | Preserve immutable positive/negative baselines. |
+| Candidate B bounded virtual programs | Input/state/branch/logic expressions and fully paid reproduction are expressible; authored memory gets 64/64 delayed probes; integrated NOT under engineered merit yields paid offspring. | Cheap copier/guesser strongly outperform long memory program in solo fixtures; neither task-discovering evolution nor functional accumulation demonstrated. Exact OEB-01 cumulative-lineage endpoint unqualified. | Preserve kernel and close original delayed-parity task. OEB-01 bespoke implementation **paused for comparative science/economics**, not a proof the substrate fails. |
+| Candidate B partner/repair variants | Useful counterfactual cost and genetic-ownership clarification. | Copying B by A transmits B; optimistic external speed margin vanishes before overhead. Eight-word offspring repair cannot cover inspection costs under measured rules; longer viable genomes untested. | Close those *specific* mechanisms; no general cooperation/repair impossibility. |
+| Candidate C compositional chemistry | Correct and bounded reduction/accounting, independent DATA; semantically real XOR→XNOR intervention, deterministic production of expressions. | Constant/projection factories explain target regeneration; marginal functional summaries alias different mixtures; disjoint factories mimic a cooperative dependency; no bounded organizational successor demonstrated. | Preserve qualified reducer. Pause four-reactor serial-transfer and collective-heredity hypothesis until a distinguishable functional organization exists. |
+| OEB-01 graded NOT/NAND/AND benchmark | Authored full-policy NOT control produced 89 paid children under merit vs 46 without, with fully recorded work; compact copier 78. Integrated IO/merit/DATA engineering independently reviewed; no task-solution genome was admitted as science. | These are solo authored diagnostic descendants, not natural discovery or equal-work competition. Eight bounded profiling starts, two incomplete maximum cases; full evidence/ancestry machinery not qualified. | **Decision C:** avoid disproportionate private calibration engineering; study established Avida methods/archives read-only first. |
+
+**Methodological correction:** The earlier principle “never reward a computational task” conflated *calibration* with *endogenous intelligence*. An explicitly authored task reward can legitimately test a substrate's ability to evolve composed functions, provided the reward, all copy and execution costs, cheap controls, negative outcomes and dependence on the task are disclosed. It does **not** prove spontaneous goals, consciousness or open-ended evolution. The opposite extreme—continually designing bespoke rewards around a desired function—can make a calibrated instrument scientifically uninformative. Both failures appeared in the Ora decision sequence.
+
+**Engineering economics correction:** A computer offering a mathematically correct behavior does not imply that its lineage can afford to express and inherit it. Candidate B's 31-charge compact copier versus 43–59 charges for authored logic controls and its large assay-evidence overhead should be considered before a population run. OEB's eight-start profiling was a rational hard stop, not scientific evidence that function cannot evolve.
+
+**Organizational-heredity correction:** Identical marginal response vectors do not imply identical computational composition. An intact set may depend on A and B for two independently produced targets without any A↔B functional dependency. Transfer of expression carriers, retention of a mixture and externally imposed successor vessels are separate phenomena; none automatically proves an organism-like inherited organization. These analytic counterexamples justify the Candidate C pause.
+
+## Primary literature and comparison instruments
+
+1. **Lenski, Ofria, Pennock & Adami (2003), *The Evolutionary Origin of Complex Features*.** [Nature DOI: 10.1038/nature01568](https://doi.org/10.1038/nature01568). Historical published evolutionary-computation results, with explicitly defined task merits and reconstruction of some lines of descent. This is **prior research**, not Ora's new result or a license to infer missing individual birth receipts.
+2. **Ofria & Wilke (2004), *Avida: A software platform for research in computational evolutionary biology*.** [DOI: 10.1162/106454604773563612](https://doi.org/10.1162/106454604773563612) and [source](https://github.com/devosoft/avida). Native genotype-classification/analysis options must be distinguished from the archival evidence retained in any particular historical experiment.
+3. **Bryson & Ofria (2013), comparative virtual CPU study.** [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3871699/). Different virtual CPU architectures produce task-dependent evolution outcomes; increasing instruction expressiveness does not guarantee reachable improvements.
+4. **Fontana & Buss (1994), AlChemy.** [Original text](https://sites.santafe.edu/~walter/Papers/tape.pdf). Functional organizations in a reaction chemistry are plausible, but their reproduction and heritable identity require separately validated operational criteria.
+5. **Return to AlChemy (2024).** [arXiv:2408.12137](https://arxiv.org/abs/2408.12137). Generator choice, identity sinks and persistence bias provide strong rivals to an interpretation of open-ended organization.
+6. **ALife Data Standards Avida converters.** [Repository and explanation](https://github.com/alife-data-standards/converters-avida). The downloadable example .spop files contain lineage/genotype records for *examples*. They are **not authenticated original 2003 Lenski runs**.
+
+**Source caveat:** Reading these articles/code repositories is source verification, not an independent experimental replication or re-review of every original paper. Primary historical files and version/configuration provenance must be separately assessed.
+
+## Next bounded research objective: Avida archive-first assurance comparison
+
+A single **read-only** study, no Avida executable or evolving population.
+
+1. Authenticate historical material for the specific 2003 experiment: ancestor sequence/configuration, archived genotype or lineage records, task performance, original 50-run cohort metadata and the reported 23 pivotal genotypes in the featured lineage **only where actually available**. Do not equate the 23 genotype succession entries with 23 independent experiments.
+2. Inspect precisely what genotype classifications, task evaluations and phylogeny conversion tools record. For each historical dataset, distinguish **observed genotype relationship**, **reconstructed inference** and **missing individual birth event**.
+3. Compare the strongest verifiable original Avida evidence to Ora's scientific claim standard, labeling unavailable paid parent-child-grandchild receipts **UNKNOWN**. A missing historical record is not a negative scientific result.
+4. Ask whether the best next *original* Ora experiment concerns (a) evolved functional composition in our own VM, (b) history-dependent behavior in genuinely changing environments, or (c) an alternate organization/heredity substrate. Do **not** use Avida's historical success as proof Candidate B already works.
+5. Stop after one source-backed assessment and independent critical review. Future Avida execution, science seeds, installation or Ora runtime modification requires separate explicit authority.
+
+## Decision boundary
+
+**Current research-priority verdict:** OEB-01 is paused as a bespoke calibration, not refuted. Candidate B remains a qualified partial engineering instrument, Candidate C a different qualified chemistry instrument, and AL02/AL03 historical finite reproductive science. None has yet demonstrated spontaneous evolved useful computation in the new substrates.
+
+Maintain the original AL02/AL03 and candidate kernel evidence and negative histories unchanged. Preserve scientific STOP, separate local Codex director PARKED, owner consent limits and the distinction between GitHub source commits and inaccessible local Windows commits. **This article grants no new scientific, production or schedule authority.**

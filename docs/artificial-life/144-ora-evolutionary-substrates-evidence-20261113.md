@@ -38,7 +38,7 @@ This is distinct from (1) a Turing-complete or expressive genotype language, (2)
 
 **Source caveat:** Reading these articles/code repositories is source verification, not an independent experimental replication or re-review of every original paper. Primary historical files and version/configuration provenance must be separately assessed.
 
-## Next bounded research objective: Avida archive-first assurance comparison
+## Completed bounded research objective: Avida archive-first assurance comparison
 
 A single **read-only** study, no Avida executable or evolving population.
 
@@ -48,8 +48,20 @@ A single **read-only** study, no Avida executable or evolving population.
 4. Ask whether the best next *original* Ora experiment concerns (a) evolved functional composition in our own VM, (b) history-dependent behavior in genuinely changing environments, or (c) an alternate organization/heredity substrate. Do **not** use Avida's historical success as proof Candidate B already works.
 5. Stop after one source-backed assessment and independent critical review. Future Avida execution, science seeds, installation or Ora runtime modification requires separate explicit authority.
 
+## November 13 archival review: independently reviewed Decision B — partial evidence
+
+[Ora's linked archival report summary](https://github.com/JeremyHennessy/Ora2.0/issues/328#issuecomment-6856912720) records recovery of the original **50-instruction ancestor** and an authentic **345-genotype** 2003 Avida case-study lineage with genotypes, task flags and relative fitness. The local reviewer reportedly crosschecked **112 overlapping rows** against [Caltech's original supplement](https://authors.library.caltech.edu/records/8gckk-p8p83) and recovered **nine of 23 pivotal genotype/intervention arrays** from the [historical author's index](https://web.archive.org/web/20200127205125id_/http://myxo.css.msu.edu/papers/nature2003/pivotal_arrays/index.html). The [archived author case lineage](https://web.archive.org/web/20030703043914id_/http://myxo.css.msu.edu:80/papers/nature2003/case-study/lineage.html) is distinct from the modern ALife `.spop` example.
+
+**Not recovered / UNKNOWN:** fourteen pivotal arrays, exact 2003 Avida build and complete configuration, population-wide individual birth/death histories and all individual paid birth receipts. Published Avida software's current genotype/analysis capabilities cannot restore events that were never archived. Fifty populations, selected pivotal cases and 345 sequential genotypes are not exchangeable independent sample units. The linked local source commit `9104677d21022f81863c712a67b59c262b6616a6` and raw D: receipts were not independently read in this documentation update.
+
+**Meaning:** The archival recovery strengthens historical prior-art comparison; it does **not** advance Candidate B from authored function expression to naturally evolved cumulative computation. Stop further broad archive recovery unless a precise missing historical record would materially affect a new test.
+
+## Next research hypothesis: adapted behavior under changing environments (design only)
+
+The next high-information question is whether inherited computational control that retains relevant history can outperform the cheapest fixed, reactive and stochastic strategies **under temporal changes and held-out conditions**, including full instruction, memory, reproduction, evidence and task costs. Before any execution, compare this hypothesis with existing Avida plasticity and changing-environment research to establish what is actually new, and avoid reusing the closed Ora delayed-parity reward design. Require one prospective falsifier, clear independent experimental units, no seeded winner, no retrospective environment tuning, and a measured feasible verifier/cost model. No new science, Avida binary, stochastic population, native Job, seed, consent or STOP change is approved by this research synthesis.
+
 ## Decision boundary
 
-**Current research-priority verdict:** OEB-01 is paused as a bespoke calibration, not refuted. Candidate B remains a qualified partial engineering instrument, Candidate C a different qualified chemistry instrument, and AL02/AL03 historical finite reproductive science. None has yet demonstrated spontaneous evolved useful computation in the new substrates.
+**Current research-priority verdict (November 13 update):** OEB-01 is paused, not refuted; historical Avida archive review has completed with partial authentic lineage evidence and missing individual-birth records. The next proposed research topic is **adaptive computation under changing environments**, subject to independent novelty/economics review, not scientific authorization. Candidate B/C remain qualified but limited instruments; neither demonstrates evolved intelligence or cumulative functional innovation in Ora.
 
 Maintain the original AL02/AL03 and candidate kernel evidence and negative histories unchanged. Preserve scientific STOP, separate local Codex director PARKED, owner consent limits and the distinction between GitHub source commits and inaccessible local Windows commits. **This article grants no new scientific, production or schedule authority.**

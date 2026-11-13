@@ -6,6 +6,8 @@
 
 ## Independent conclusion
 
+**EKA-0 follow-up:** the [independent literature and falsifier audit](EKA-0-INDEPENDENT-CRITIQUE-20261023.md) returns **UNKNOWN for current Ora feasibility**, with **NO-GO for population execution pending source-backed opportunity, mutational accessibility and paid reproductive bounds**. General evolved learning is established prior art; a narrow new causal Ora result remains possible. This refines the prospective direction below without authorizing an experiment or changing historical findings. [Structured receipt](../../data/alife/eka0-independent-critique-20261023.json).
+
 Ora should prioritize **endogenously evolved, useful information processing** in a bounded digital ecology, not the largest or most impressive provided learning algorithm. Maintain the existing supervised world-continuation engineering track, but treat uptime and observer graphics as infrastructure rather than evidence of self-evolving intelligence.
 
 The initial research question is whether legal organism code variation plus ordinary feedback, memory access, code writing, paid copying and genuine ecological resource pressure can produce **a new lineage-relevant information strategy** that was absent from the supplied ancestor.

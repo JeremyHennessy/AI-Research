@@ -1,0 +1,6 @@
+contract_id	performer	fiscal_year	obligation_usd	source_id	verification
+FA865005C7253	University of Michigan	2006	749031	HC046	indexed_table_only_scan_unavailable
+FA865005C7254	Carnegie Mellon University	2006	506931	HC046	indexed_table_only_scan_unavailable
+FA865005C7255	The MIT Media Lab	2006	219529	HC046	indexed_table_only_scan_unavailable
+FA865005C7256	Emory University Office of Grants and Contracts	2006	164524	HC046	indexed_table_only_scan_unavailable
+FA865005C7257	Klein Asso Inc	2006	376595	HC046	indexed_table_only_scan_unavailable

@@ -1,0 +1,18 @@
+contract_id	performer	contracting_agent	fiscal_year	program	obligation_usd	source_id	verification
+FA865004C6439	CHI Systems, Inc.	AFRL Human Effectiveness Directorate	2005	BICA	33000	HC010	indexed_table_only_scan_unavailable
+FA865005C7253	University of Michigan	AFRL Human Effectiveness Directorate	2005	BICA	427465	HC010	indexed_table_only_scan_unavailable
+FA865005C7254	Carnegie Mellon University	AFRL Human Effectiveness Directorate	2005	BICA	276560	HC010	indexed_table_only_scan_unavailable
+FA865005C7255	The MIT Media Lab	AFRL Human Effectiveness Directorate	2005	BICA	121580	HC010	indexed_table_only_scan_unavailable
+FA865005C7256	Emory University	AFRL Human Effectiveness Directorate	2005	BICA	93612	HC010	indexed_table_only_scan_unavailable
+FA865005C7257	Klein Asso Inc	AFRL Human Effectiveness Directorate	2005	BICA	207720	HC010	indexed_table_only_scan_unavailable
+FA87500520270	Harvard University	AFRL Information Directorate	2005	BICA	114332	HC010	indexed_table_only_scan_unavailable
+FA87500520272	University of Maryland	AFRL Information Directorate	2005	BICA	174213	HC010	indexed_table_only_scan_unavailable
+FA87500520273	Rutgers University	AFRL Information Directorate	2005	BICA	66243	HC010	indexed_table_only_scan_unavailable
+FA87500520274	Massachusetts Institute of Technology	AFRL Information Directorate	2005	BICA	397164	HC010	indexed_table_only_scan_unavailable
+FA87500520278	George Mason University	AFRL Information Directorate	2005	BICA	133213	HC010	indexed_table_only_scan_unavailable
+FA87500620004	Numenta, Inc.	AFRL Information Directorate	2005	BICA	47000	HC010	indexed_table_only_scan_unavailable
+N000140510880	University of Colorado	Office of Naval Research	2005	BICA	131540	HC010	indexed_table_only_scan_unavailable
+N000140510881	University of Pittsburgh	Office of Naval Research	2005	BICA	422318	HC010	indexed_table_only_scan_unavailable
+N0001405C0510	HRL Laboratories, Inc.	Office of Naval Research	2005	BICA	428068	HC010	indexed_table_only_scan_unavailable
+N0017402D0002	CACI Dynamic Systems Inc.	Naval Surface Warfare Center - Indian Head Division	2005	BICA	335000	HC010	indexed_table_only_scan_unavailable
+W15P7T05CF600	Mitre Corporation	U.S. Army Communications Electronic Command-MITRE	2005	BICA	153846	HC010	indexed_table_only_scan_unavailable

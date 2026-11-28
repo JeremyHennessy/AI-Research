@@ -1,0 +1,41 @@
+# Historical cognition research — Pass 6: operational autonomy, resource limits and adaptive control
+
+Date: 2026-11-24. Research only. Input commit: `881353429c7852dc68cc21ba0fa92d39bb770595`. Profile commit: `f45d0b2aa2d998378dadb0a6d11a295b28ee7779`. Review submission: [draft PR #70](https://github.com/JeremyHennessy/AI-Research/pull/70).
+
+## Coverage and evidence custody
+
+Read PR metadata, Pass 2 and Pass 5 reports, original architecture queue and all 21 prior profile identifiers. PR open, draft, unmerged, base `18f37bebca2f650aff8ab844ddb1ab9c8896158b`. The pinned-base comparison at entry showed 14 additive files and zero deletions. This batch dispositions ARCH-001, 002, 003, 005, 006, skipping previously profiled ARCH-004. [Five structured profiles](../../data/historical-cognition/2026-11-24-pass6-architecture-profiles.jsonl) contain 12 source identifiers. Exact case-insensitive substring screening of those identifiers (or corresponding report-number tokens) across the 269 canonical records, 47 historical source records and 21 earlier profiles found no matches. This is a restricted duplicate screen, not exhaustive alias reconciliation. Two PDF image requests timed out and two DOI access routes failed; alternative primary or institutional text/metadata retained. Zero completely blocked profiles. All five E1; no E2 full-method audits or E3 reproductions.
+
+Cumulative initial architecture coverage: **26/84**, including 21/21 P0 and 5/63 P1. Remaining: 58 unprofiled. Bibliography row-specific dispositions remain 0/2,983; archive-year coverage unchanged. One additional explicit government award/document link at text-verification level, plus a named programme/output link without an award number. No raw copyrighted material redistributed.
+
+## 1. Long operation is not necessarily self-maintenance: 3T
+
+[Bonasso et al. (1997)](https://doi.org/10.1080/095281397147103) describes a three-tier architecture applied to multiple robotic platforms. [Bonasso, Kortenkamp and Thronesbery (2003)](https://doi.org/10.1609/aimag.v24i1.1685) report using 3T software to operate NASA's experimental Integrated Water-Recovery System around the clock over 16 months. This is a useful historical example of long-running non-LLM autonomous control. The publisher abstract explicitly mentions both successes and failures; full logs, operator involvement, interruption counts and operational criteria were not reviewed. Do not report 16 months as independently verified continuous uptime or flight deployment. The underlying objective and controller were engineered. No persistent acquisition of new general skills or self-produced maintenance machinery is established by the consulted abstracts.
+
+Ora relevance: distinguish execution duration, ongoing externally supported service, and autonomous maintenance of the system's own enabling conditions. Longevity is meaningful only under an explicitly stated system boundary and accounting of external support. The comparator does not establish any new Ora capability.
+
+## 2. Resource constraints and competing explanations: CAPS
+
+[Just and Carpenter (1992)](https://pubmed.ncbi.nlm.nih.gov/1546114/) instantiate a working-memory capacity theory in a production model; [Just and Varma (2007)](https://pubmed.ncbi.nlm.nih.gov/17993204/) extend the account through interacting, resource-constrained computational centers in 4CAPS. Resource allocation changes with task demands. The independent [Waters and Caplan critique (1996)](https://pubmed.ncbi.nlm.nih.gov/8888653/) challenges the original empirical support and proposes a different division of cognitive resources. Both sides are preserved; full methods and competing fits remain open. The critique is not a failed replication or proof that the whole CAPS family is incorrect. Resource accounting, context-dependent allocation and experience-dependent acquisition are different phenomena. A modeled activation budget must not be equated with metabolism.
+
+## 3. RCS: experience-dependent state with acknowledged limits
+
+The [2002 NIST author abstract](https://www.nist.gov/publications/4drcs-reference-model-architecture-intelligent-unmanned-ground-vehicles) explicitly says that only lower architecture levels had then been fully implemented. [NISTIR 6910](https://www.nist.gov/publications/4drcs-version-20-reference-model-architecture-unmanned-vehicle-systems) is a reference design, not a performance certificate.
+
+The [LAGR author manuscript](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=824552), publisher DOI [10.1002/rob.20162](https://doi.org/10.1002/rob.20162), reports learned terrain estimates, retained maps and previously experienced routes. Introduction and discussion/conclusion excerpts reviewed; printed pages 1 and 32 visually verified. The paper reports an external government team administering regular evaluations. It also identifies imperfect alignment of stored and new maps, and distinguishes prospective adjustments to sensor-fusion weights from implemented capabilities. Objectives, representational structures and learning mechanisms are designed. Do not treat the author's account of external testing as independent reproduction or proof of general cognition. NIST identifies the DARPA LAGR programme, but exact award identifier and separately issued evaluation record have not been established.
+
+Ora relevance: observation of competent behavior does not identify whether the cause was retained experience, a supplied model, a fixed mechanism or continued interaction. Require those alternatives to be distinguished in interpretation. No experiment design or runtime change authorized here.
+
+## 4. ADAPT: separately tested components versus integration
+
+The [2004 AAAI symposium record](https://scholarsarchive.byu.edu/facpub/6840/) says three theories had been implemented and tested individually, but integration was still underway. The [2006 author report](https://csis.pace.edu/robotlab/pubs/SPIE06cogarch.pdf), DOI 10.1117/12.686163, describes Robot Schemas implemented in Soar, with mobile-robot integration and tests continuing. Abstract and introduction reviewed; image retrieval timed out. A framework for learning schemas is not a measured generalization result. ADAPT shares a research lineage with previously profiled Soar; these references are not independent evidence of a shared claim. For Ora, keep proposed integration, implemented components and measured integrated behavior separate.
+
+## 5. AIS/Guardian: contextual adaptation without established learning
+
+The [1995 architecture abstract preserved by the journal volume editors](https://pages.gseis.ucla.edu/faculty/agre/aij-abstracts.html) describes explicit plans that choose among existing situation-dependent capabilities. The [1994 AAAI Guardian video description](https://www.aiinternational.org/Papers/AAAI/1994/AAAI94-296.pdf) describes a laboratory prototype for ICU monitoring, using simulated and recorded data, including a simulated patient demonstration. It illustrates context-sensitive selection of reasoning modes. No clinical deployment, diagnostic efficacy, or autonomous durable knowledge acquisition is established by this record.
+
+The latter document explicitly acknowledges ARPA/NASA grant **NAG2-581** under ARPA order **8607**. Institutional research group: Stanford Knowledge Systems Laboratory with medical researchers at Stanford and the Department of Veterans Affairs. This is a named funder-to-document relationship extracted from the text; the PDF screenshot timed out, and official award recipient, obligations, dates and acceptance were not independently verified. Do not combine this with previously authenticated BICA award links or count an additional FY archive as complete.
+
+## Next frontier
+
+Continue the remaining P1 queue at ARCH-007 APEX, 008 ARCADIA, 009 ARDIS, 010 ARS/SiMA and 012 ASMO, or select a bounded bibliography/archival batch to advance the other open workstreams. All 2,983 bibliography rows remain pending individual disposition. Independent full-method audits and closure remain pending. Nothing here changes approved baselines, STOP/PARKED, grants, candidate qualification or local runtime. No candidate code imported or executed; local experimental state not inspected. No merge or external outreach.

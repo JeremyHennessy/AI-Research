@@ -1,0 +1,286 @@
+{
+  "date": "2026-11-24",
+  "upstream_repository": "https://github.com/ykotseruba/cog_arch_data",
+  "upstream_commit": "88b5605b96cbd61e3e5409dadd92503b9eb7784c",
+  "upstream_survey_doi": "10.1007/s10462-018-9646-y",
+  "rights": "No explicit separate dataset license visible in inspected root listing. Only original aggregate analysis and content identifiers stored; no raw spreadsheet or complete bibliography redistributed.",
+  "scope": "Read-only XML extraction; verified ZIP member CRC32 and declared length, not a cryptographic authentication or scientific review. Nonempty row counts include headers and ancillary content. Repeat attributes respected; empty formatted rows excluded.",
+  "workbooks": [
+    {
+      "path": "cog_arch_abilities.ods",
+      "blob_sha": "e3d7819cdc110ceb85cf6c94aeb4d1dddb086a1e",
+      "zip_bytes": 36536,
+      "content_xml_bytes": 36115,
+      "content_xml_crc32": "4ac157e3",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 85,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_action_selection.ods",
+      "blob_sha": "fba349e61e6fab4f110de1c9f950bf5cd352ae4d",
+      "zip_bytes": 18798,
+      "content_xml_bytes": 132245,
+      "content_xml_crc32": "4b63fac2",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 296,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_applications.ods",
+      "blob_sha": "89a5ea6b9073951559c9e7a22fafb22df372b175",
+      "zip_bytes": 58928,
+      "content_xml_bytes": 585033,
+      "content_xml_crc32": "7918989d",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 965,
+          "empty_rows_excluded": 96
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_attention_tsotsos.ods",
+      "blob_sha": "f82f139a8ae5d211fd4ee3c403ccc31a7f6c5fcf",
+      "zip_bytes": 29070,
+      "content_xml_bytes": 647759,
+      "content_xml_crc32": "d8f4dfb4",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 1038,
+          "empty_rows_excluded": 81
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_bibliography.ods",
+      "blob_sha": "788c4af1ede4817e4ce4573c05670dcf3c94c9a6",
+      "zip_bytes": 218163,
+      "content_xml_bytes": 1746832,
+      "content_xml_crc32": "03e3a211",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 2984,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_learning.ods",
+      "blob_sha": "f052006aa391736c5f66500000092f20ce8a75ce",
+      "zip_bytes": 21540,
+      "content_xml_bytes": 36569,
+      "content_xml_crc32": "9c09db9b",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 77,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_memory.ods",
+      "blob_sha": "120a03da6d05683140a4dac5e51fbf751d99c9e4",
+      "zip_bytes": 23392,
+      "content_xml_bytes": 72857,
+      "content_xml_crc32": "f5efa625",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 149,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_metacognition.ods",
+      "blob_sha": "7b64a51c8fc23c0f26e30146c5c08f5a9746b94d",
+      "zip_bytes": 14551,
+      "content_xml_bytes": 36717,
+      "content_xml_crc32": "cbda824e",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 85,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_perception.ods",
+      "blob_sha": "e3301aacd8cb904376771fb6b5e56313458e8c7a",
+      "zip_bytes": 23651,
+      "content_xml_bytes": 180943,
+      "content_xml_crc32": "2b6ac887",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 334,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_source_code.ods",
+      "blob_sha": "77c2876feaf2f3946cc3ee70dc4c8bea9cf4a7f9",
+      "zip_bytes": 22001,
+      "content_xml_bytes": 42171,
+      "content_xml_crc32": "2091a229",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 87,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_timeline.ods",
+      "blob_sha": "f3308ce1c4573260126fd2c65c40cf14057748d6",
+      "zip_bytes": 25170,
+      "content_xml_bytes": 56809,
+      "content_xml_crc32": "b9cbc415",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 85,
+          "empty_rows_excluded": 0
+        }
+      ]
+    },
+    {
+      "path": "cog_arch_vision.ods",
+      "blob_sha": "3d9171859760dcefc55cf0947963e3cd60c56d0c",
+      "zip_bytes": 19851,
+      "content_xml_bytes": 49160,
+      "content_xml_crc32": "1d13c06e",
+      "crc_verified": true,
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "nonempty_rows": 86,
+          "empty_rows_excluded": 1
+        }
+      ]
+    }
+  ],
+  "bibliography": {
+    "nonempty_rows_including_header": 2984,
+    "complete_architecture_key_reference_rows": 2983,
+    "incomplete_nonheader_rows": 0,
+    "unique_architecture_labels": 88,
+    "distinct_reference_keys": 2954,
+    "distinct_architecture_key_pairs": 2983,
+    "distinct_reference_text_exact": 2938,
+    "rows_with_doi_text": 0,
+    "comparison": {
+      "catalog_path": "data/papers.jsonl",
+      "catalog_commit": "18f37bebca2f650aff8ab844ddb1ab9c8896158b",
+      "catalog_blob": "bb95c48754aacd0d527e21d478fca0d639d63281",
+      "catalog_records_parsed": 269,
+      "catalog_unique_extracted_dois": 104,
+      "catalog_normalized_titles": 269,
+      "doi_match_rows": 0,
+      "quoted_title_exact_match_rows": 0,
+      "either_match_rows": 0,
+      "unmatched_rows": 2983,
+      "limitations": "Extracted DOI strings and exact normalized quoted-title matches only; unmatched rows are unresolved, not proven novel publications. Reference keys, duplicated citations and architecture labels are not independent publications."
+    }
+  },
+  "timeline": {
+    "valid_rows": 84,
+    "distinct_labels": 84,
+    "type_counts": {
+      "symbolic": 32,
+      "hybrid": 40,
+      "emergent": 12
+    },
+    "limitations": "Historical survey classifications and time ranges; 'present' refers to upstream survey time, not current year."
+  },
+  "top_reference_counts": [
+    {
+      "architecture": "ACT-R",
+      "reference_rows": 543
+    },
+    {
+      "architecture": "Soar",
+      "reference_rows": 129
+    },
+    {
+      "architecture": "ART",
+      "reference_rows": 127
+    },
+    {
+      "architecture": "RCS",
+      "reference_rows": 96
+    },
+    {
+      "architecture": "Disciple",
+      "reference_rows": 83
+    },
+    {
+      "architecture": "LIDA",
+      "reference_rows": 83
+    },
+    {
+      "architecture": "surveys",
+      "reference_rows": 80
+    },
+    {
+      "architecture": "PRODIGY",
+      "reference_rows": 70
+    },
+    {
+      "architecture": "other",
+      "reference_rows": 67
+    },
+    {
+      "architecture": "HTM",
+      "reference_rows": 63
+    },
+    {
+      "architecture": "DeepMind",
+      "reference_rows": 62
+    },
+    {
+      "architecture": "Pogamut",
+      "reference_rows": 61
+    },
+    {
+      "architecture": "NARS",
+      "reference_rows": 60
+    },
+    {
+      "architecture": "CLARION",
+      "reference_rows": 54
+    },
+    {
+      "architecture": "AIS",
+      "reference_rows": 52
+    }
+  ],
+  "scientific_evidence_promotion": false
+}
